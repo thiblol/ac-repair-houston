@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Meyerland, Houston",
+  "title": "AC Repair Meyerland, Houston | AC Repair Houston",
+  "description": "Houses from the 1920s to the 1950s in a designated historic district, where exterior equipment changes need review and the ground floods.",
+  "intro": "Meyerland has rules that most Houston neighborhoods do not. Because the area is a designated historic district, the visible parts of the exterior, including where mechanical equipment goes and how it is screened, go through a review before the work starts. The houses themselves are from the 1920s through the 1950s, and much of the ground near Brays Bayou floods, which is why so many of them sit on raised foundations with the mechanical equipment below the living floor.",
+  "localAngle": "These are masonry houses from the 1920s, 30s and 50s, and the canopy over the streets is one of the densest in the city, with mature oaks and elms dropping leaf litter onto everything below. Where the ground is low, the house was built up on piers or a raised foundation with a crawlspace underneath, so the air handler, duct trunk and condensate line live in a damp space under the floor. The bayou floods on heavy rain, and that flood puts water in this space. Historic review adds a second constraint: the unit may not go wherever is convenient.",
+  "commonCalls": [
+    "Crawlspace air handlers that have been standing in water after the bayou backs up",
+    "Condensate lines that drain into a yard where the grade does not fall away from the house",
+    "Outdoor units that need to be screened or relocated to meet historic district rules",
+    "Systems that were repaired year after year and now need a refrigerant that is no longer made",
+    "Raised foundations where the duct run was left hanging below the joists and now sags"
+  ],
+  "landmarks": [
+    "Brays Bayou",
+    "Bellaire Boulevard",
+    "Meyerland Historic District",
+    "Almeda Street",
+    "Holley Street",
+    "Jackson Street",
+    "Willow Street"
+  ],
+  "faqs": [
+    {
+      "q": "Do I need approval to put a new outdoor unit on my property?",
+      "a": "In a designated historic district, visible changes to the exterior of a property generally go through a review before they are made, and a new condenser, a new pad or a screening wall can all fall under it. The district does not review the cooling equipment itself. What it reviews is what you can see from the street. Getting that started early is worth doing because it can add weeks, and the company that covers your area can plan the location around it rather than after."
+    },
+    {
+      "q": "The bayou flooded. Is my air conditioning equipment damaged?",
+      "a": "It depends how deep the water got in the crawlspace and how long it stayed. A unit that sat in an inch or two for a day will have damp insulation and corrosion starting at the base of the cabinet. A unit that was under water for days can have a seized motor, a flooded disconnect and damaged wiring. The first move is to get the system off so it does not run with water near the electrical, then dry the space out properly. Running a wet system can turn a water problem into a burned motor."
+    },
+    {
+      "q": "Why does my house have a crawlspace at all?",
+      "a": "Because of the ground. In the low sections near the bayou, the water table sits close enough to the surface that a full height foundation would have been standing in wet soil much of the year. The builders raised the house on piers and left the space under it open and ventilated. That is a sensible answer to the flood problem, and it is also the reason the ductwork and the condensate drain sit where they sit, in the dampest, least visible part of the house."
+    },
+    {
+      "q": "My house is old but the air conditioning is newer. Why does it still struggle?",
+      "a": "A newer condenser on an old house does not fix the house. If the duct system was built for a different layout, if the returns are undersized, or if the system was sized for a smaller version of the house, it will run long and still leave rooms warm. This is common where a 1950s house was extended and the system was replaced but the distribution was not. Checking the duct layout against the actual square footage tells you whether the problem is the machine or the path the air takes."
+    }
+  ]
+}

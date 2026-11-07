@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Briar Forest, Houston",
+  "title": "AC Repair Briar Forest, Houston | AC Repair Houston",
+  "description": "Slab houses from the 60s and 70s on wide lots, where the ducts are buried in concrete and the condenser sits at the end of the driveway.",
+  "intro": "Briar Forest went up fast during the postwar expansion, and the houses went up on slabs. That single construction choice shapes most of the cooling work here, because with no attic and no crawlspace the ducts were run inside the slab and the air handler usually ended up in the garage, where it shares a room with the car. Long driveways and deep lots then pushed the outdoor unit a long way from the house, sometimes almost to the sidewalk.",
+  "localAngle": "These are ranch and split level houses from the 1960s through the 1980s, poured on slab, with the supply duct buried under the floor and the air handler set in a garage or a utility closet off it. Older sections have mature oaks and pines overhead, newer sections have infill built close to the lot line. What changes over fifty years is the load, not the equipment. The system in the garage was sized for a house with less glass and less insulation, and the original outdoor unit at the end of a long drive is still the one running.",
+  "commonCalls": [
+    "Air handlers in garages running in ninety degree heat before they can cool anything",
+    "Duct runs buried in the slab that leak into the floor when a line fails underground",
+    "Condensers parked at the far end of a long driveway with a line set stretched to reach",
+    "Original equipment sized for a smaller house that now carries a larger load",
+    "Newer builds next door that block the airflow the old unit used to get"
+  ],
+  "landmarks": [
+    "Briar Forest Drive",
+    "Gessner Drive",
+    "Charming Lane",
+    "Beltway 8",
+    "Wilcrest Boulevard",
+    "Briar Forest Country Club",
+    "Larchmont Street"
+  ],
+  "faqs": [
+    {
+      "q": "My air handler is in the garage. Is that a problem?",
+      "a": "It is workable but not ideal. A garage in Houston is not a conditioned space, and in the afternoon the air coming off the coil is already warm before it enters the duct. It also means the equipment lives in the same room as the car, where dust and humidity are both present. A solution is to move the air handler into the conditioned part of the house, which means new duct work and possibly cutting into the slab. A less invasive option is to add a transfer duct or improve the garage ventilation. Which one makes sense depends on how the slab was laid out."
+    },
+    {
+      "q": "My ductwork is under the concrete. If it leaks, is that a disaster?",
+      "a": "Not usually a disaster, but it is more involved than a duct leak in an attic. Buried supply and return runs leak into a space under the slab, where you cannot see the water and where the concrete holds the moisture in place. A wet area under a slab can grow a mold problem, and the repair means finding the run, opening the floor and splicing new duct or flexible duct back in. Knowing where the runs were laid out when the house was built makes that job far shorter, and a good installer photographs it during any work in the garage."
+    },
+    {
+      "q": "Is my original 1970s system worth repairing?",
+      "a": "Ask what has been replaced on it and whether the parts are still available. A unit with a new compressor, a new contactor and a clean coil can be worth keeping. A unit where the compressor, the coil and the air handler all date from the original build is a different conversation, especially if it runs a refrigerant that is no longer produced. Either way, get the refrigerant type off the nameplate and find out whether the outdoor unit and the air handler are the same age. That single fact drives most of the decision."
+    },
+    {
+      "q": "My new neighbour built close to the lot line. Does that affect my unit?",
+      "a": "It can. A unit that used to sit in open air on a wide lot now has a wall on one side and less sky above it, and the air it needs to pull in is blocked. Units need clearance on the coil side and around the fan discharge, and when a structure crowds that space the system runs hotter and harder for the same result. If the unit is still short of clearance, options include trimming vegetation, shifting the unit on the pad, or adding a coil fence so it can still pull in air without short circuiting."
+    }
+  ]
+}

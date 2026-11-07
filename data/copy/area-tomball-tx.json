@@ -1,6 +1,6 @@
 {
   "intro": "Tomball is a former rail town with newer subdivisions spreading out around it, and the housing runs from the 1960s through houses built in the 2010s. The tree cover is the point here: heavy pine and oak over most of the town, which keeps the yards cooler and the condenser coils filthy.",
-  "localAngle": "The canopy does two opposite things. It shades the house, which cuts the cooling load, and it carpets the outdoor unit with needles and leaf litter that pack the fins. A unit that is boxed in by pine shade also stays damp, and damp is enough to corrode a base pan over decades. There is a second effect that catches people in the newer subdivisions. The trees were planted when the land was empty, the system was sized for a bare lot, and now the lot is shaded, which is a good thing, except the system was still sized for a hot one. Old and new sit on the same streets.",
+  "localAngle": "The canopy does two opposite things. It shades the house, which cuts the cooling load, and it carpets the outdoor unit with needles and leaf litter that pack the fins. A unit boxed in by pine shade also stays damp, and damp is enough to corrode a base pan over decades. There is a second effect that catches people in the newer subdivisions. The trees were planted when the land was empty, the system was sized for a bare lot, and now the lot is shaded, which is a good thing, except the system was sized for a hot one. Old and new share these streets.",
   "commonCalls": [
     "Condenser coils packed with pine needles and oak litter in shaded yards",
     "Systems in newer subdivisions that were sized for a bare lot and now struggle anyway",
@@ -46,7 +46,7 @@
   "services": {
     "emergency-ac-repair": {
       "intro": "Emergency work in Tomball is usually an older system failing in the first real heat of the season, or a unit that quits when it is already loaded up. The tree cover is the difference between a unit running hard and a unit running fine.",
-      "localNote": "The outdoor units in this area sit in permanent shade, and shade means the coil is damp and the fins are full. A compressor working against a fouled coil runs hotter and trips sooner, usually in the first afternoon the demand shows up. On the older streets near the depot the equipment goes back to the 1960s and 70s, so the parts on the truck matter. Give the age of the unit and the year it went in when you call.",
+      "localNote": "The outdoor units in this area sit in permanent shade, and shade means the coil is damp and the fins are full. A compressor working against a fouled coil runs hotter and trips sooner, usually in the first afternoon the demand shows up. On the older streets near the depot the equipment goes back to the 1960s and 70s, so the parts on the truck matter. Give the age of the unit and the year it went in.",
       "faqs": [
         {
           "q": "Why does my Tomball AC fail when the heat arrives rather than in July?",
@@ -76,7 +76,7 @@
     },
     "ac-not-cooling": {
       "intro": "Warm air from the vents and a house that will not come down is the standard complaint here. It is usually airflow rather than a dead compressor, and the outdoor unit is where the answer is.",
-      "localNote": "A shaded condenser packed with needles is moving a fraction of the air it should. Add a grade that has settled so the unit sits in a puddle, or a fence that was built too close, and the coil runs warm with the refrigerant inside it. The indoor side has its own local story. In the older houses near the town centre the duct runs are original and the return sits in a central hallway, so the bedroom at the end of the house runs last.",
+      "localNote": "A shaded condenser packed with needles is moving a fraction of the air it should. Add a settled grade so the unit sits in a puddle, or a fence built too close, and the coil runs warm with the refrigerant inside it. The indoor side has its own story here. In the older houses near the town centre the duct runs are original and the return sits in a central hallway, so the far bedroom runs last.",
       "faqs": [
         {
           "q": "The unit runs and the air is warm. Where do I start?",

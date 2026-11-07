@@ -1,6 +1,7 @@
 {
   "intro": "Baytown has some of the oldest housing in the Houston metro, with homes from the 1940s and 1950s mixed in with 1960s and 70s builds, and heavy industry sitting along the edges of it. A lot of that equipment was installed once, decades ago, and left alone.",
-  "localAngle": "Two things shape the work here. The first is age. On a lot with a house from 1948 next door to one from 1975, there is a fair chance one yard has a split system that came with the house and the other has a unit somebody put in in the 1990s. The second is the air. Baytown sits in the salt belt and near the refining and shipping side of the county, so outdoor units take salt and industrial particulate together, and the metal around the coil ages faster than the calendar suggests. Where the housing is genuinely old, some of it never had central air at all. Those houses are getting cooling for the first time, which is a different job than a repair.",  "commonCalls": [
+  "localAngle": "Two things shape the work here. The first is age. On a lot with a house from 1948 next door to one from 1975, one yard has a split system that came with the house and the other has a unit from the 1990s. The second is the air. Baytown sits in the salt belt and near the refining and shipping side of the county, so outdoor units take salt and industrial particulate together, and the metal around the coil ages faster than the calendar suggests. Where the housing is old, some of it never had central air at all, and those houses are getting cooling for the first time.",
+  "commonCalls": [
     "1940s and 50s houses getting central cooling for the first time",
     "Outdoor units with rusted cabinets and base pans on lots near the industrial side",
     "Old split systems that have run every summer since the 1960s without a single service visit",
@@ -45,7 +46,7 @@
   "services": {
     "emergency-ac-repair": {
       "intro": "The emergency calls here are not unusual: an old compressor giving up in the first hot week, or a unit that trips when it is already working hardest. What is unusual is how old some of that equipment is when it fails.",
-      "localNote": "Baytown has a lot of outdoor units that came with the house and have been sitting on the same slab for forty years. The corroded cabinet, the tired capacitor and the aged contactor are all candidates for the same visit, and the salt near the industrial side puts the electrical compartment in play too. The company we connect you with will want the age of the unit and whether the electrical service has ever been touched, because that changes what can be done on the spot.",
+      "localNote": "Baytown has a lot of outdoor units that came with the house and have been sitting on the same slab for forty years. The corroded cabinet, the tired capacitor and the aged contactor are all candidates for the same visit, and the salt near the industrial side puts the electrical compartment in play too. The company we connect you with will want the age of the unit and whether the electrical service has ever been touched.",
       "faqs": [
         {
           "q": "What should I have ready when I report an emergency in Baytown?",
@@ -105,7 +106,7 @@
     },
     "ac-installation": {
       "intro": "Adding cooling to one of the older Baytown homes is a bigger project than a swap, and a good number of these houses have never had central air. The question is whether to run ducts or to put in ductless heads, and the answer depends on the attic and the walls.",
-      "localNote": "A 1950s ranch with an open attic can take a compact split system or a conventional one, but the load calculation has to account for single-pane windows, a west-facing wall and no attic insulation. A house with a vaulted ceiling or a second floor added in the 1980s is a different calculation again. The large lots here make siting easy, so the outdoor unit can go where the air moves and the water drains instead of being crammed against the house.",
+      "localNote": "A 1950s ranch with an open attic can take a compact split system or a conventional one, but the load calculation has to account for single-pane windows, a west-facing wall and no attic insulation. A house with a vaulted ceiling or a second floor added in the 1980s is a different calculation again. The large lots here make siting easy, so the outdoor unit can go where the air moves and the water drains rather than against the house.",
       "faqs": [
         {
           "q": "How do I get central air into a 1940s house that never had it?",

@@ -42,7 +42,7 @@
   "services": {
     "emergency-ac-repair": {
       "intro": "Emergency work here splits between single-family breakdowns and apartment buildings where a shared unit has stopped. The apartment calls are the ones that move fastest, because the same fault is affecting every unit on that stack.",
-      "localNote": "In the complexes the emergency is often a rooftop unit that has locked out on a high pressure or freeze fault, and the reset has to happen at the roof unit rather than at a thermostat. In the older houses the outdoor unit sits on a pad at the side of the house and the trouble is an aged compressor or a failing capacitor. The company we pass the request to will ask whether the equipment is yours or the building's, since that changes who authorizes the work.",
+      "localNote": "In the complexes the emergency is often a rooftop unit locked out on a high pressure or freeze fault, and the reset happens at the roof unit, not at a thermostat. In the older houses the outdoor unit sits on a side pad and the trouble is an aged compressor or a failing capacitor. The company we pass the request to asks whether the equipment is yours or the building's, since that decides who authorizes the work.",
       "faqs": [
         {
           "q": "My whole floor of apartments lost cooling at once. What is likely happening?",
@@ -102,7 +102,7 @@
     },
     "ac-installation": {
       "intro": "Installing cooling here looks different depending on whether the address is a house or a complex. A 1960s ranch may need its ductwork rebuilt to handle the load, while an apartment building needs a rooftop unit sized for a stack of units and a plan for keeping part of the building cooling during the changeout.",
-      "localNote": "For the older houses an install usually means new supply and return runs, because what is in the attic was sized for a smaller version of the same house. For the complexes the job involves working out where the unit sits on the roof, how the existing risers and branch ducts connect to it, and how to stage the swap so tenants are not without cooling in August. Where a building has a ground level unit, drainage under the pad decides the layout.",
+      "localNote": "For the older houses an install usually means new supply and return runs, because what is in the attic was sized for a smaller house. For the complexes the job involves working out where the unit sits on the roof, how the existing risers connect to it, and how to stage the swap so tenants are not without cooling in August. Where a building has a ground level unit, drainage under the pad decides the layout.",
       "faqs": [
         {
           "q": "Do I need new ductwork when I install AC in a 1960s Jersey Village house?",

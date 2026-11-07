@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Midtown, Houston",
+  "title": "AC Repair Midtown, Houston | AC Repair Houston",
+  "description": "Condo towers beside 1920s houses near Main and Lamar, where getting duct from the air handler to the room is the hard part.",
+  "intro": "Midtown stacks two kinds of cooling work on top of each other. On one side there are condo towers and apartment buildings sharing plant on a roof, and on the other there are some of the earliest twentieth century houses in Houston, sitting a short drive from Lamar and Main with brick walls and rooms that were framed for coal heat. In those older shells the ducts cannot go where a modern system wants them to go, and that routing is where most of the work gets decided.",
+  "localAngle": "The houses along Main and Lamar date to the 1900s through the 1920s, built tight to the street with heavy masonry and almost no attic worth running duct through. Cooling added to one of these is a routing puzzle: the air handler lands in a basement or a closet, and the supply has to find a path through a wall that already holds wiring and plumbing. Taller buildings sit beside them with fan coil units in ceiling cavities and rooftop machinery above. Add apartment conversions where a balcony became a room and the capacity plan changes fast.",
+  "commonCalls": [
+    "Duct runs in converted 1920s houses that no longer reach the rooms they were built for",
+    "Fan coil units in condo ceilings that drip onto the floor below when the pan overflows",
+    "Rooftop equipment serving a tower where only some floors are cooling",
+    "Systems that never were big enough for a house that has been added to twice",
+    "Condensers and line sets that a building has no convenient pad for"
+  ],
+  "landmarks": [
+    "Rice University",
+    "Rice Village",
+    "The Grand 1904 Opera House",
+    "Lamar Boulevard",
+    "Main Street",
+    "Moody Park",
+    "Weslayan Street"
+  ],
+  "faqs": [
+    {
+      "q": "My house is from the 1920s. How does anyone add central air to it?",
+      "a": "By routing around what is already there. In these masonry shells the realistic options are a compact unit in the basement or a rear closet with a line set that runs through an existing chase, or a ductless head per room where there is no path for duct at all. Opening a wall to run new duct is possible but it is a bigger job than the equipment itself. The technician who takes the job should walk the house and show you the route before quoting a system."
+    },
+    {
+      "q": "My condo is fine until a hot week. What changes on a hot week?",
+      "a": "The building plant gets loaded and so does the outdoor equipment feeding the fan coil in your ceiling. If the building's chillers are already at their limit, your unit is working against a supply air that is warmer than it should be. Separately, a fan coil in a ceiling cavity works harder in humid weather, and a restricted return in that cavity makes it run long without conditioning the room properly. The fix depends on whether the shortfall is at the plant or at your unit."
+    },
+    {
+      "q": "Do I need permission before work on the exterior of my building?",
+      "a": "If you live in a condominium or in a building with a homeowners association, the exterior usually needs approval before a new condenser location, a fence screen or a pad change goes in. A conversion of a historic house can also involve landmark review if the building is designated. That process runs on the building side rather than the HVAC side, so it is worth starting before the equipment is ordered rather than after."
+    },
+    {
+      "q": "The room over my garage is the hottest in the house. What is going on?",
+      "a": "A room built over a garage usually sits outside the conditioned envelope, with the sun on the roof and no duct run reaching it. In a converted or reworked house it may be getting cool air from a distant register and recirculating it. Two options work here: ductless heads on that zone, or running the existing duct circuit out to it with the returns repositioned so the system actually pulls air from that room. Either way the diagnosis starts with checking what the return side is doing."
+    }
+  ]
+}

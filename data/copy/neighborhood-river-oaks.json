@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in River Oaks, Houston",
+  "title": "AC Repair River Oaks, Houston | AC Repair Houston",
+  "description": "Large 1920s to 1950s houses on deep wooded lots, where the cooling load is bigger than anywhere else and the equipment sits a long way off.",
+  "intro": "These are big houses on big lots, and both facts drive the work. A River Oaks home built between the 1920s and the 1950s can easily be two or three times the square footage of a cottage three streets over, spread over more than one level with additions at the back, and the equipment for it is scattered accordingly. What you often find is not one system but two or three, added as the house grew, each one doing a piece of a much larger cooling problem.",
+  "localAngle": "Lots here run deep, so the condenser frequently sits far behind or beside the house, well past the reach of the shaded live oaks that cover the roof. That distance is not cosmetic. A long line set means a long liquid and vapor run, and a unit working in full afternoon sun has to pull heat across a longer path. Meanwhile the house itself grew over the decades with rear additions, sunrooms and a second level, and each addition brought its own thermostat. The result is several systems of different ages serving one building.",
+  "commonCalls": [
+    "Systems that are original to the house and sized for a much smaller floor plan",
+    "Condensers set far from the building where the line set is long and the unit sits in open sun",
+    "Rooms added at the back running on a separate system that never talks to the main one",
+    "Second floors staying warm because the original duct design only ever served one level",
+    "Unbalanced output where one zone runs constantly while another zone barely starts"
+  ],
+  "landmarks": [
+    "River Oaks Boulevard",
+    "Westheimer Road",
+    "Shepherd Street",
+    "Wroxton Road",
+    "Lilah Lane",
+    "River Oaks Elementary School",
+    "Memorial Parkway"
+  ],
+  "faqs": [
+    {
+      "q": "My house is 6000 square feet. Why is the system failing every summer?",
+      "a": "Size is only part of it. A house that large usually did not get its air conditioning all at once. A central unit went in when the house was built or in the decade after, then a rear addition got a wall split, then the upstairs got its own. Each addition changed the load, and the original machine was never reselected. The HVAC company we connect you with can run a load calculation on the whole envelope and map which zones the existing equipment actually reaches before anyone decides whether to replace or add."
+    },
+    {
+      "q": "Is it a problem that my condenser is far from the house?",
+      "a": "It is worth checking. Long line sets mean more refrigerant in the lines, more pressure drop and slower response at the coil, and if the unit is sitting where it takes a full afternoon of sun, it starts every cycle already working against a hot environment. There is also a practical cost: every service call on that unit is a longer trip with tools. Whether it is worth relocating depends on how the pad is set up and how much of the site the property allows."
+    },
+    {
+      "q": "Should the back of the house be on the same system as the front?",
+      "a": "Sometimes, and it depends on what was added and when. If an addition came in with its own outdoor unit, that unit is usually undersized for what it serves now and there is no way for it to share the load with the front of the house. If the addition is on the original duct network and the original system has capacity to spare, combining them is often the simpler fix. Either way the first step is a room by room look at where the air is coming from and going back to."
+    },
+    {
+      "q": "The trees are huge. Do they protect the house from the heat?",
+      "a": "They shade the roof, which helps, but they also cut the airflow around the equipment and drop a steady layer of debris onto it. A yard with heavy oak and pecan cover also means more moisture held in the soil and a lot of leaf litter on any coil that sits under it. The tree cover is one of the reasons these houses stay comfortable, so removing it is not the answer. Keeping the equipment clear of what falls on it is."
+    }
+  ]
+}

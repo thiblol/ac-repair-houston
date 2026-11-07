@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in the Energy Corridor, Houston",
+  "title": "AC Repair Energy Corridor, Houston | AC Repair Houston",
+  "description": "Former oilfield ground turned research campus, where the cooling work sits on flat roofs, in chillers and in building plant rather than in a side yard.",
+  "intro": "The cooling work along this corridor has almost nothing to do with a backyard condenser. The land was oilfield and industrial property before it became research campuses and office park, so the buildings are wide and low with flat roofs, and the heat is handled by packaged rooftop units, chillers and chilled water loops that serve a whole structure at once. On top of that there are newer mid-rise apartments built where the tank farms used to be, and those residents do have individual equipment, just mounted on a podium roof six storeys above the parking deck.",
+  "localAngle": "The corridor sits on old oilfield land with soft, poorly drained soil, and the water table is close enough that mechanical yards have flooded before. Buildings here are single storey research and lab facilities with broad membrane roofs, so the plant that cools them is a row of rooftop units rather than one house unit. Canopy is thin on the newer campuses, and the older oak lined streets shade a few blocks and nothing else. Podium rooftop condensers above parking garages get the full sun all afternoon.",
+  "commonCalls": [
+    "Rooftop packaged units that will not restart after a storm or a failed contactor",
+    "Chillers and cooling towers that cannot hold setpoint once the outside humidity climbs",
+    "Supply air too cold in some zones and too warm in others because the zone dampers are not balancing",
+    "Condensers on a parking podium roof where the unit runs hot with no shade around it",
+    "Fan coil units in mid-rise apartments that drip into the ceiling below when the pan float switch fails"
+  ],
+  "landmarks": [
+    "Energy Corridor Plaza",
+    "Shell Exploration and Production campus",
+    "ExxonMobil Houston campus",
+    "Discovery Green",
+    "Cullen Creek",
+    "University of Houston",
+    "Gulf Freeway"
+  ],
+  "faqs": [
+    {
+      "q": "Who owns the cooling on a campus building I work in?",
+      "a": "Usually the building owner or the facilities team, not the person who called. On a research campus or office park the chillers, the rooftop units and the loop that feeds them are maintained by whoever holds the maintenance contract, and a tenant calling a residential HVAC company about a whole building cooling problem usually gets routed back to building management. If you are the owner or the manager, the company that covers this area can handle plant work, and the technician who takes the job will want the maintenance history before arriving."
+    },
+    {
+      "q": "What is different about cooling a lab building?",
+      "a": "Humidity control. A lab or a clean room space has a tighter moisture target than an office, and many of these facilities run a separate dehumidification loop and monitor the space with sensors. When a space gets humid, the first suspicion is a cooling coil that is not draining properly or an outdoor coil that has scaled up, not a refrigerant problem. Small differences in air flow and moisture content matter much more here than they do in a house."
+    },
+    {
+      "q": "My apartment is on the fourth floor. Where is my condenser?",
+      "a": "On a mid-rise built over a parking podium, the equipment usually sits on the podium roof above the garage rather than in a side yard. That means it is reached by stairs or an elevator and a stairwell door, and the technician needs to carry tools and parts up. It also means the unit sees full afternoon sun on a roof surface that radiates heat back up at it. Repairs on these take longer to reach and are worth scheduling rather than calling on a hot afternoon and expecting a same day visit."
+    },
+    {
+      "q": "The ground here floods. Does that affect the cooling equipment?",
+      "a": "It can, and it has. The soil on old oilfield property is loose and holds water, and mechanical equipment set at grade level can sit in standing water after a heavy storm. Water around an outdoor unit corrodes the base pan, the fan motor and the electrical connections, and it pushes the unit off level if the pad floats. Raising equipment onto a curb or a pedestal is the fix, and it has to be planned before the unit goes back on the pad."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "intro": "Dickinson is growing fast on the bay side of Galveston County, and the housing map shows it. New subdivisions from the 2000s and 2010s sit within a few blocks of 1980s houses, and every outdoor unit on every one of those lots breathes the same Gulf air.",
-  "localAngle": "Salt is the defining condition on this side of the county, and it does not care whether the house is new. It settles on condenser fins and turns them dull, it works into the fasteners and the base pan, and it holds moisture against metal that is already hot. Where Dickinson has a wrinkle is the mix. A 1980s house next to a 2015 build means the technician may be handling a fifteen-year-old unit and a brand new one carrying the same corrosion on the outdoor coil. Flooding is the other one. The bay side of Galveston County floods, and a submerged outdoor unit is finished whatever the model year is.",
+  "localAngle": "Salt is the defining condition on this side of the county, and it does not care whether the house is new. It settles on condenser fins and turns them dull, it works into the fasteners and the base pan, and it holds moisture against metal that is already hot. Where Dickinson has a wrinkle is the mix. A 1980s house next to a 2015 build means the technician may be handling a fifteen-year-old unit and a brand new one carrying the same corrosion on the outdoor coil. Flooding is the other one. The bay side of Galveston County floods, and a submerged outdoor unit is finished whatever its age.",
   "commonCalls": [
     "Units on new subdivision lots with salt crust on the condenser within a few summers",
     "1980s houses where the system is sound but the outdoor unit has rusted through at the base",
@@ -61,7 +61,8 @@
     },
     "same-day-ac-repair": {
       "intro": "Not every Dickinson call is an outage. A lot of them are units that are running but coasting, where the salt has built up enough on the condenser that the system never quite catches up on a hot afternoon.",
-      "localNote": "A salt film on the fins acts like insulation, so the unit holds heat against the refrigerant and runs longer for the same result. The house takes longer to come down to setpoint and the fan inside never stops. That is a coil service and a rinse, and it is bookable rather than an emergency. Newer units in the subdivisions show the same symptom for a different reason, a shrub that grew around the unit after it was commissioned.",      "faqs": [
+      "localNote": "A salt film on the fins acts like insulation, so the unit holds heat against the refrigerant and runs longer for the same result. The house takes longer to come down to setpoint and the fan inside never stops. That is a coil service and a rinse, and it is bookable rather than an emergency. Newer units in the subdivisions show the same symptom for a different reason, a shrub that grew around the unit after it was commissioned.",
+      "faqs": [
         {
           "q": "Is my condenser just dirty or is it salt damaged?",
           "a": "A rinse of fresh water and a coil cleaning will show you. If the fins are dull and coated but wipe clean, it is dirt and salt film, and cleaning restores the airflow. If the metal underneath is pitted or the cabinet is flaking, the damage is corrosion and cleaning will only buy time."
@@ -90,7 +91,7 @@
     },
     "ac-repair": {
       "intro": "Repair work in Dickinson runs into the reality that a coastal unit's parts are often fine while the metal around them is not. A compressor that is available, a capacitor that is available, and a base pan that is rusted through are three different problems with three different answers.",
-      "localNote": "Ask for the model and the age of the condenser separately from the age of the system. On a street with a 2012 unit beside a 1986 one, the parts lists have nothing in common, and the salt does not treat them the same way. If the repair is on the older unit, the technician should check the line set and the coil for corrosion at the same time, because a new compressor in a corroded cabinet is a short life.",
+      "localNote": "Ask for the model and the age of the condenser separately from the age of the system. On a street with a 2012 unit beside a 1986 one, the parts lists share nothing, and the salt does not treat them the same way. If the repair is on the older unit, the technician should check the line set and the coil for corrosion at the same time, because a new compressor in a corroded cabinet is a short life.",
       "faqs": [
         {
           "q": "Is it worth repairing an outdoor unit that has rusted through at the base?",
@@ -120,7 +121,7 @@
     },
     "ac-replacement": {
       "intro": "When an outdoor unit on this side of the county has been through many coastal summers, replacement starts to make sense well before the compressor itself fails. The coil is dull, the base is corroded, and the lines have been sitting in salt air for a long time.",
-      "localNote": "In the older part of Dickinson that means a changeout on a 1980s system, often with R-22 inside and parts that are getting hard to find. In the newer subdivisions it means a unit that is still under warranty but sitting on a salt-heavy site, where corrosion will shorten the life of a condenser faster than the clock suggests. Either way, replacing the coil and the lines with the condenser is the only way to avoid being back in a few summers.",
+      "localNote": "In the older part of Dickinson that means a changeout on a 1980s system, often with R-22 inside and parts that are getting hard to find. In the newer subdivisions it means a unit still under warranty but sitting on a salt-heavy site, where corrosion will shorten the life of a condenser faster than the clock suggests. Either way, replacing the coil and the lines with the condenser is the only way to avoid being back in a few summers.",
       "faqs": [
         {
           "q": "Should I replace a Dickinson AC unit before the compressor actually fails?",

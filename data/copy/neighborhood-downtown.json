@@ -1,0 +1,42 @@
+{
+  "h1": "AC Repair in Downtown, Houston",
+  "title": "AC Repair Downtown, Houston | AC Repair Houston",
+  "description": "Towers, terraces and converted warehouses where the cooling plant sits on a roof, and getting a technician to it is part of the job.",
+  "intro": "Downtown cooling work starts with getting to the equipment. Most of the air conditioning in this part of Houston is on a roof, a terrace or a podium deck, and the route there involves a stairwell, a freight elevator, a locked roof hatch and sometimes a lift. Older downtown buildings still carry systems from the 1960s, while converted warehouse space got its cooling added later inside spaces that were never designed to hold it.",
+  "localAngle": "Downtown is built on high ground above the bayou, but it is built up, not out. Towers of twenty and thirty floors share plant that sits on the roof and on mechanical decks between them, and the pipes that carry chilled water run vertically through the core. Lower down, the flat-roofed warehouses along the old rail and industrial strips have single story floor plates with very high ceilings, where ductwork had to be threaded through structure that predates air conditioning. Plant rooms are tight, access routes are shared, and terrace condensers on podium decks get no shade at all.",
+  "commonCalls": [
+    "Rooftop units on buildings where the fault is found three floors above the suite reporting it",
+    "Chilled water valves and pumps on building plant that a residential contractor will not touch",
+    "Duct runs retrofitted through the exposed structure of a converted warehouse or office floor",
+    "Condensers on a podium deck running hard with sun reflecting off the surrounding concrete",
+    "Systems from the 1960s in older buildings where the parts are no longer made and the refrigerant is discontinued"
+  ],
+  "landmarks": [
+    "Main Street",
+    "Texas Avenue",
+    "Milam Street",
+    "Market Square",
+    "Buffalo Bayou",
+    "George R. Brown Convention Center",
+    "Toyota Center",
+    "Heritage Plaza"
+  ],
+  "faqs": [
+    {
+      "q": "My whole floor is hot but the rest of the building is fine. What is likely wrong?",
+      "a": "Usually something local to your floor rather than something in the building plant. A fan coil or a unit serving only your stack can have a failed valve, a dirty coil, a stuck damper or a low refrigerant charge while the rest of the building runs on the same plant. When several floors are hot at once, the cause moves up to the plant and the shared equipment. The HVAC company we connect you with can work out which side of that line the fault is on before anyone starts taking things apart."
+    },
+    {
+      "q": "Why does a rooftop repair cost more than a backyard one?",
+      "a": "Access is the reason. A condenser in a side yard is a short walk. A rooftop unit may mean a service elevator, a roof hatch, a ladder, or a lift with a trained operator, plus the time to get tools and parts up there and the requirement for tie off points. On a building with terraces and setbacks the route can be longer than the repair. Any quote should say whether lift access is included, because that changes the cost more than the part does."
+    },
+    {
+      "q": "Who handles cooling in a converted warehouse space?",
+      "a": "In a converted building the split of responsibility often cuts across the floors. The rooftop plant may belong to the building owner while a tenant arrangement covers the space inside the old shell, where the ducts and the fan coil were added later. Before anybody opens anything, get the maintenance contract and the name of the property manager in front of the technician. Without it you risk paying for work that belongs to somebody else."
+    },
+    {
+      "q": "Can an old downtown building be made comfortable without replacing the plant?",
+      "a": "Often the cheaper path is not a new chiller. It might be balancing, correcting air flow, cleaning coils, adding controls or repairing the distribution rather than the generating capacity. Buildings from the 1960s often have oversized equipment with poor air distribution and dampers that have been welded or jammed shut over the years, so the plant runs fine and the space still is not right. A commissioning check by a company that does commercial work tells you which of those it is before anyone talks about a replacement."
+    }
+  ]
+}

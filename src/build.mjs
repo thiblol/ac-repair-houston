@@ -73,14 +73,30 @@ const BANNED = [
   /\b\d+(\.\d)?\s*(star|stars)\b/i, // invented rating
   /\b\d[\d,]*\+?\s*(reviews|jobs completed|happy customers|installs)\b/i,
   /\b\d+\+?\s*years (in business|of experience)\b/i,
-  /\bguarantee[ds]?\b/i,
   /—/,                        // em dash
 ];
+
+/* A guarantee is only a problem when the site OFFERS one. The copy that
+   explains why this site does not guarantee anything is the opposite of a
+   violation, so a negated "guarantee" has to be allowed through. So does a
+   homeowner asking whether a guarantee exists, which is a question the copy
+   then answers with no. */
+const NEGATED_GUARANTEE =
+  /\b(no|not|never|nobody|without|nothing|does not|do not|did not|cannot|can't|neither|nor)\b[^.]{0,60}\bguarantee/i;
+const GUARANTEE_AS_QUESTION = /\b(can|could|do|does|will|would|is|are|any)\b[^.]{0,20}\bguarantee/i;
+
 function scan(label, obj) {
   const s = JSON.stringify(obj);
   for (const re of BANNED) {
     const m = s.match(re);
     if (m) problems.push(`BANNED CLAIM in ${label}: "${m[0]}"`);
+  }
+  for (const m of s.matchAll(/\bguarantee[ds]?\b/gi)) {
+    const start = Math.max(0, m.index - 90);
+    const context = s.slice(start, m.index + 20);
+    if (NEGATED_GUARANTEE.test(context)) continue;
+    if (GUARANTEE_AS_QUESTION.test(context)) continue;
+    problems.push(`BANNED CLAIM in ${label}: offered guarantee "${m[0]}"`);
   }
 }
 
@@ -96,10 +112,32 @@ function checkTraits(area, copyObj) {
   const hit = (re) => re.test(txt);
   const flag = (m) => problems.push(`FACT CONTRADICTION ${area.slug}: ${m}`);
 
-  if (t.salt === 'none' && hit(/salt (air|spray|corrosion)|saltwater|salt damages|coastal salt/))
+  /* An area with no salt exposure may still say so out loud. "no coastal salt
+     here", "rather than salt spray", "keeps salt spray out of the picture"
+     are all the copy being careful, not being wrong. So a salt mention only
+     counts as a claim when nothing nearby denies salt exposure.
+
+     The window is bounded by the enclosing sentence so a negation from an
+     adjacent sentence cannot disarm a real claim. */
+  const SALT_DENIAL =
+    /\b(no|not|never|nothing|nobody|without|absence|lack of|far from|free of|protected from|rather than|instead of|insensitive to|immune to)\b|keeps?\b[^.]{0,30}\bout\b|keeps?\b[^.]{0,30}\baway\b/;
+  const negated = (re) => {
+    const g = new RegExp(re.source, 'gi');
+    for (const m of txt.matchAll(g)) {
+      const before = txt.lastIndexOf('.', m.index) + 1;
+      const after = txt.indexOf('.', m.index);
+      const sentence = txt.slice(before, after === -1 ? undefined : after);
+      if (!SALT_DENIAL.test(sentence)) return true;
+    }
+    return false;
+  };
+
+  if (t.salt === 'none' && negated(/salt (air|spray|corrosion)|saltwater|salt damages|coastal salt|salt film|salt attack/)) {
     flag('area has no salt exposure but copy describes salt damage');
-  if (['high', 'moderate'].includes(t.salt) && hit(/no salt|free of salt|without salt/))
+  }
+  if (['high', 'moderate'].includes(t.salt) && negated(/no salt|free of salt|without salt/)) {
     flag('area has salt exposure but copy denies it');
+  }
 
   if (/2000s-onward|1990s-to-2010s/.test(t.housing) && hit(/1950s housing|1940s housing|housing from the 1950s|home built in the 1950s/))
     flag(`housing stock is "${t.housing}" but copy describes 1950s housing`);
@@ -770,6 +808,31 @@ for (const pg of pages) {
   if (!/id="request"/.test(pg.html)) problems.push(`SEO ${pg.path}: no request form section`);
 }
 
+/* ---------- truth gate ----------
+   The facts about this business that must never appear on a page, checked on
+   every build rather than trusted to review. A referral site with no operator
+   that publishes a phone number, an address, a LocalBusiness node, or a rating
+   is claiming to be a local business it is not, which is a consumer
+   protection problem and not only a SEO one. */
+for (const pg of pages) {
+  const p = pg.path;
+  if (/tel:/i.test(pg.html)) problems.push(`TRUTH ${p}: contains a tel: link, but no phone number is published`);
+  if (/\+1\s?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}/.test(pg.html)) problems.push(`TRUTH ${p}: contains a phone number`);
+  if (/\(555\)|010-0000|555-01/i.test(pg.html)) problems.push(`TRUTH ${p}: contains a placeholder phone number`);
+  if (/"@type"\s*:\s*"(LocalBusiness|Plumber|HVACBusiness)"/.test(pg.html)) problems.push(`TRUTH ${p}: has LocalBusiness schema`);
+  if (/"streetAddress"/.test(pg.html)) problems.push(`TRUTH ${p}: has a street address`);
+  if (/"telephone"/.test(pg.html)) problems.push(`TRUTH ${p}: has a telephone in schema`);
+  if (/aggregateRating/.test(pg.html)) problems.push(`TRUTH ${p}: has aggregateRating`);
+  if (/"review"/.test(pg.html) && !/reviewCount/.test(pg.html)) problems.push(`TRUTH ${p}: has review markup`);
+  if (/(our technicians|our techs|our trucks|our crew|our installers|we are licensed|we are certified|we are bonded)/i.test(pg.html)) {
+    problems.push(`TRUTH ${p}: claims to employ technicians or hold a licence`);
+  }
+  for (const s of pg.html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
+    try { JSON.parse(s[1]); }
+    catch (e) { problems.push(`TRUTH ${p}: JSON-LD does not parse: ${e.message}`); }
+  }
+}
+
 /* ---------- every class used must exist in the stylesheet ----------
    A renamed design system silently drops styling otherwise, and the page
    still "works" so nothing catches it. */
@@ -814,7 +877,30 @@ ${requestForm(cfg)}`;
 }
 
 /* ============================ WRITE ============================ */
-fs.rmSync(OUT, { recursive: true, force: true });
+/* Removing the output directory fails while a dev server is serving it, which
+   on Windows means the file handle is still open. Retry a few times before
+   giving up, so `npm run dev` can rebuild without the server being stopped
+   first. */
+function clearOutput(dir, attempts = 5) {
+  for (let i = 0; i < attempts; i += 1) {
+    try {
+      fs.rmSync(dir, { recursive: true, force: true });
+      return;
+    } catch (e) {
+      if (i === attempts - 1) {
+        throw new Error(
+          `Could not clear ${dir}. If a dev server is running, stop it first ` +
+          `(npm run dev serves this directory and holds a lock on it).`,
+        );
+      }
+      /* Busy-wait briefly between attempts. Atomics.wait blocks without
+         spinning the CPU. */
+      Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, 250);
+    }
+  }
+}
+
+clearOutput(OUT);
 fs.mkdirSync(OUT, { recursive: true });
 fs.cpSync(path.join(ROOT, 'public'), OUT, { recursive: true });
 

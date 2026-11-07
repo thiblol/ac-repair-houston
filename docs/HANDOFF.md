@@ -154,18 +154,33 @@ explicit: never publish a fake, example, inactive, or competitor number.
 
 - [x] Source checks pass: service taxonomy, area data, copy file coverage,
       illustration references, config sanity
-- [x] Copy audit passes: no same-type page pair over the 0.15 shingle
-      similarity threshold, no em dashes, no invented prices, no banned
+- [x] Copy audit passes: 67 copy files producing 227 pages of prose, 2,430
+      same-type pairs compared, none over the 0.15 shingle similarity
+      threshold, no em dashes, no invented prices, no banned
       first-person-contractor phrasing
-- [x] Build passes: zero orphan pages, zero dangling links, one `h1` per
-      page, no heading level jumps, title and description lengths in range,
-      every image has alt text, every CSS class used is defined in the
+- [x] Build passes: 236 pages, zero orphan pages, zero dangling links, one
+      `h1` per page, no heading level jumps, title and description lengths in
+      range, every image has alt text, every CSS class used is defined in the
       stylesheet
-- [x] Link graph: every page has inbound links, no dead internal links
-- [x] Desktop and mobile layouts inspected in a browser
+- [x] Truth gate passes on every page: no phone number, no `tel:` link, no
+      street address, no `LocalBusiness` schema, no `telephone`, no
+      `aggregateRating`, no review markup, no claim of employing technicians
+- [x] Link graph: 18,675 internal links, median 14 inbound per page, every one
+      of the 235 indexable pages reachable from the home page, no orphans, no
+      thinly linked pages
+- [x] Every page's JSON-LD parses. Schema types are `Organization` (236),
+      `BreadcrumbList` (234), `Service` (227), `FAQPage` (228), `WebSite` (1)
+- [x] Sitemap contains all 235 indexable URLs and excludes the 404
+- [x] Desktop and mobile layouts inspected in a browser at 1440px and 390px
 - [x] Navigation, dropdowns, and the mobile menu tested
-- [x] Request form tested, including its pending state
-- [x] 404 page checked
+- [x] Request form tested in both states: the pending state renders honestly
+      with the submit control disabled, and in the active state the success,
+      error, and honeypot paths all behave correctly
+- [x] Accessibility checked in the browser: every link, button, image, and
+      form field has an accessible name, heading order is correct, no
+      duplicate IDs
+- [x] 404 page checked, returns a 404 status
+- [x] No console errors on any page tested
 - [x] Favicon, web manifest, and app icons generated and referenced
 - [x] No secrets in the repository
 - [x] No placeholder copy, no template tokens, no unresolved content
