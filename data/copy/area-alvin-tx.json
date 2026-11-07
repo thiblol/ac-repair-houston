@@ -1,0 +1,162 @@
+{
+  "intro": "Alvin has a lot of housing from the 1980s that has been running on whatever maintenance money was available, and it sits inside the salt belt that runs along the upper Texas coast. That combination is the reason so many calls out here are about equipment that has reached the end of its useful life all at once.",
+  "localAngle": "The equipment in this part of Brazoria County often went in during the 1980s and was never serviced the way it should have been, and that short history shows up now. Salt in the air eats the coil and the cabinet base, a neglected coil starves the refrigerant side, and a system that was never cleaned up runs hot from the first hot week of the year. Coastal oak drops more debris onto these units than most homeowners realize, because the units sit in the shade where nobody looks at them. Salt plus deferred maintenance plus shade is the local failure pattern, and it hits older systems hardest.",
+  "commonCalls": [
+    "1980s units that were never serviced and now need a full diagnosis rather than a part",
+    "Salt-corroded cabinets and coil fins on units a few miles from the Gulf",
+    "R-22 systems needing refrigerant, where the leak is the real problem",
+    "Condenser coils packed with coastal oak litter under shaded trees",
+    "Whole system replacements on houses where the indoor unit is the same age as the outdoor one"
+  ],
+  "landmarks": [
+    "downtown Alvin on TX-35",
+    "TX-35",
+    "Alvin Memorial Park",
+    "the Alvin Independent School District",
+    "Manvel",
+    "Pearland",
+    "the Brazoria County Courthouse",
+    "Challenger Park",
+    "Santa Fe",
+    "FM 517"
+  ],
+  "faqs": [
+    {
+      "q": "How bad is the salt in Alvin?",
+      "a": "It is high. This is inside the coastal salt belt, so the outdoor unit sees salt on the coil, the cabinet and the fasteners year round. It shows up as white crust on the fins and rust at the base of the unit. Rinsing the coil twice a year makes a measurable difference."
+    },
+    {
+      "q": "My AC was serviced years ago and has been fine. Why is it failing now?",
+      "a": "Deferred maintenance does not show up until the system has to work hard. Salt and a packed coil mean the unit runs hot, the compressor works longer, and the parts that would have failed one at a time start failing together. A 1980s install with no service history is at that point now."
+    },
+    {
+      "q": "Does Alvin have enough humidity to affect the system?",
+      "a": "Yes. The Gulf is close and the air is heavy with moisture. The system has to remove heat and moisture at the same time, so a unit that is marginal on capacity will also be marginal on humidity control."
+    },
+    {
+      "q": "Should I repair an old system or replace it?",
+      "a": "If the outdoor unit, the air handler and the refrigerant are all the same age, replacement is usually the better route. If the indoor equipment is newer and sound, the outdoor side can be handled on its own."
+    },
+    {
+      "q": "Do the oak trees here make a difference?",
+      "a": "They do. Coastal oak litter matting down on the condenser reduces airflow, and the shade that keeps it out of direct sun also keeps it damp. A unit in that spot needs more attention than one in open ground."
+    }
+  ],
+  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "When an older Alvin unit quits in July, it is usually not a small thing. The house heats up within the hour and the system will not come back on its own. The HVAC company we connect you with covers Brazoria County, so the request goes to the technician who takes the job.",
+      "localNote": "The units out here that fail in the heat are mostly 1980s equipment that never got a cleaning, sitting in salt air in the shade of a mature oak. The compressor has been running hot for years. When it finally locks out, the fault is usually on the high side of the system: a dirty coil, a refrigerant charge that has drifted low, or a capacitor that has cooked.",
+      "faqs": [
+        {
+          "q": "Is my old unit going to keep failing?",
+          "a": "If it has failed once from high pressure with a dirty coil and salt damage, another failure is likely unless the underlying cause is addressed. The repair that counts is the one that explains the failure, not the one that resets it."
+        },
+        {
+          "q": "What should I do in the first hour?",
+          "a": "Move the air. Switch the thermostat to fan only, open the doors between rooms and close the blinds on the sun-facing side. If there is a burning smell or a hissing noise near the unit, turn the system off at the breaker and wait for the technician."
+        },
+        {
+          "q": "Does the salt make emergency failures more common here?",
+          "a": "It accelerates wear rather than causing sudden failures. Salt corrodes the wiring and the cabinet, and the coil corrodes faster. A unit in Alvin is closer to the end of its life than the same unit inland."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "same-day-ac-repair": {
+      "intro": "The same-day calls out here are frequently about units that work but have never been properly looked at. A diagnostic visit in this part of Brazoria County can turn up three or four things at once.",
+      "localNote": "When the technician who takes the job arrives, expect the conversation to include a coil clean, a refrigerant check on an R-22 system and a look at the electrical connections, because salt corrosion and deferred service show up together. None of that is a quick fix, which is why requesting early in the day matters on this route.",
+      "faqs": [
+        {
+          "q": "How early should I request same-day service?",
+          "a": "Early in the day. Same-day slots across the Houston area are taken during the morning, and a request after lunch is likely to become a next-day appointment. Include the model and year from the outdoor unit label if you can find it."
+        },
+        {
+          "q": "Can a same-day visit handle several problems?",
+          "a": "Often. A unit that has not been maintained typically needs a coil cleaning, a refrigerant check and possibly a capacitor. Whether it all gets done in one visit depends on what is found, and the technician will tell you before starting."
+        },
+        {
+          "q": "Should I ask for a cleaning even if the system works?",
+          "a": "Yes. A coil that has not been cleaned in years is losing capacity that you are paying for in power bills. Cleaning it is cheap next to a compressor replacement."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-not-cooling": {
+      "intro": "Blowing warm air out of the vents while the compressor is running is one of the more common calls in Alvin, and it is usually the outdoor coil rather than the gas. The company that covers this area checks airflow on the condenser before anyone goes near the refrigerant line.",
+      "localNote": "The mechanism here is the coastal one: a coil that has salt crust on the fins and oak debris packed between them cannot reject heat, so the compressor runs and the house stays warm. A system that has never been cleaned up also tends to be low on charge for the same reason. The technician will distinguish between a dirty coil and a genuine refrigerant fault before recommending anything.",
+      "faqs": [
+        {
+          "q": "My AC runs but the air is warm. Why does this happen so much here?",
+          "a": "The condenser is the heat dump. A salt-crusted and debris-packed coil cannot get rid of heat, so the whole cycle slows down and the air coming off the evaporator is not cold enough. Cleaning it is often the whole fix."
+        },
+        {
+          "q": "Should I add refrigerant myself?",
+          "a": "No. Modern refrigerant is not something to add on a guess, and adding gas to a system that is dirty or low on oil can damage the compressor. If the system needs charge, it needs the leak found too."
+        },
+        {
+          "q": "What if it is not the outdoor unit?",
+          "a": "Then it is usually the indoor coil freezing over or the compressor not pulling its share of the work. A technician checks superheat and subcooling to know which, and a frozen coil is almost always an airflow or charge problem underneath."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-repair": {
+      "intro": "The repairs out here need a diagnosis first, because the same symptom shows up on a system with a dirty coil, a system with a leak and a system with a dead compressor. What gets replaced depends entirely on what the gauges and the meter say.",
+      "localNote": "Alvin has a lot of 1970s and 1980s housing, and the equipment on it is often original with no service history. Salt has been at the cabinet and the coil the whole time. So a repair here is not only about the failed part, it is about how much corrosion has spread around it. Some of these calls end as a conversation about replacing the outdoor unit instead of rebuilding it.",
+      "faqs": [
+        {
+          "q": "Why do you inspect the outdoor unit before replacing an indoor part?",
+          "a": "Because the outdoor side changes the diagnosis. A dirty and salt-affected condenser raises head pressure, which makes an indoor problem look worse than it is. It also means any new part goes into a hostile environment."
+        },
+        {
+          "q": "Is a corroded cabinet worth fixing?",
+          "a": "If the corrosion is only on the base pan, the answer is often yes, because the pan can be cleaned and coated. If the wiring, the coil and the frame are all affected, replacing the outdoor unit is the cleaner path."
+        },
+        {
+          "q": "How do I stop paying for the same repair?",
+          "a": "Find out what caused it. A refrigerant leak that is topped up instead of repaired comes back within a few months, and the cost of each visit goes up as the system ages."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-installation": {
+      "intro": "The installation work here covers both new builds and the houses that never had a system worth keeping. In a salt environment, where the unit goes and how it is protected decide how long it lasts.",
+      "localNote": "A system installed in Alvin today needs to be planned for salt and for shade. The coil should be a type that can be rinsed without damage, the unit should sit on a pad that drains away from the cabinet, and the clearance from the fence and the shrubs matters because the salt settles and stays in the still air around the base.",
+      "faqs": [
+        {
+          "q": "Does salt change what system I should install?",
+          "a": "Not the sizing. It changes the equipment choices and the maintenance plan. A coil and cabinet rated for a coastal environment, installed with clearance and on a draining pad, holds up better than a standard unit put in a corner."
+        },
+        {
+          "q": "What size system does my Alvin house need?",
+          "a": "A load calculation that accounts for humidity, orientation and the finished space. Older homes with a sunroom or an addition need the calculation done against the house as it is, not as it was built."
+        },
+        {
+          "q": "Can I add central air to an older house here?",
+          "a": "Usually. The attic access and the electrical service are checked first. Duct routing in a 1970s house can be awkward but it is rarely the blocker."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-replacement": {
+      "intro": "Replacement comes up more often out here than in inland Houston, because the salt has already done part of the work for you. The question is not whether the outdoor unit is bad, it is whether the rest of the system is worth keeping.",
+      "localNote": "A 1980s unit in this part of Brazoria County is most likely on R-22, which is discontinued for new systems, and its coil and cabinet have been in salt for three decades. The indoor air handler may or may not be original. If it is, the honest recommendation is usually a matched system, and if it is not, the outdoor side can be replaced on its own with a coastal-rated unit.",
+      "faqs": [
+        {
+          "q": "Is it time to replace rather than repair?",
+          "a": "Repairs on a salt-exposed unit from the 1980s tend to be recurring. If the same system has needed a call twice in a year, or the compressor has already been replaced once, replacement is usually the better use of the money."
+        },
+        {
+          "q": "What refrigerant will my new system use?",
+          "a": "New systems use R-410A or R-454B. The old unit is likely on R-22, which is no longer made for new systems and is priced accordingly. That difference belongs in the comparison before anyone quotes."
+        },
+        {
+          "q": "Do I need to replace the ducts too?",
+          "a": "Not automatically. If the ductwork is original but sound and the right size for the house, it can usually stay. If it is undersized, rusted or disconnected from a room that was added later, that is a separate conversation."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "intro": "Cypress has the newest housing in the northwest corridor, and that changes the kind of AC work that happens here. The equipment is not old. The problems are more often about how the system was installed and designed, with tight ductwork and sealed attics that hold heat the ducts then have to push through.",
+  "localAngle": "New construction in Cypress was built to current codes, and the codes are not always kind to the air moving through it. A sealed attic still sits in the same 130 to 140 degree range as every other attic in Houston, so ducts running through it arrive with less of their cooling than they left with. Many of these houses were framed for a plan that changed before the family moved in, and the system was sized to the plan rather than to the load. The result is a newer unit that runs constantly and never satisfies the thermostat, which looks like a fault and is often a design one.",
+  "commonCalls": [
+    "New build where the AC runs constantly but the thermostat never reaches setpoint",
+    "Indoor coil freezing on a high-efficiency system because the airflow is marginal",
+    "Ductwork in a hot attic delivering warm air to the bedrooms",
+    "Condenser fouled with oak and pine litter under the trees",
+    "System that trips its breaker shortly after a power interruption"
+  ],
+  "landmarks": [
+    "Grand Parkway (SH 99)",
+    "Highway 6",
+    "FM 1960",
+    "Bear Creek Park",
+    "Cypresswood",
+    "Fry Road",
+    "Highway 290",
+    "Stonebrook",
+    "Telfer Road",
+    "Berry Creek"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my new Cypress home's AC run all the time?",
+      "a": "Because the system and the ductwork were designed separately from how the house is actually used. A unit sized from the floor plan rather than from a load calculation will look fine on paper and struggle once the house is furnished. Tight return paths and long trunk runs in a sealed attic make it worse. The technician measures the airflow before anything is recommended."
+    },
+    {
+      "q": "Is it normal for a new system to freeze the indoor coil?",
+      "a": "It happens more often than it should, and it is a design issue rather than a fault. Modern high-efficiency systems run a dehumidification stage that makes the coil colder. If the airflow is marginal, that extra cold is enough to freeze the coil. The airflow gets measured and corrected, and the freeze stops. Adding refrigerant makes it worse."
+    },
+    {
+      "q": "Do the attic ducts get hot enough to matter?",
+      "a": "They do. A sealed attic in this climate still reaches 130 to 140 degrees, and every degree the air picks up in there is a degree the system has to remove later. That is why properly sized and insulated duct runs matter in these newer builds, and why a house can struggle in the second floor even when the unit is new."
+    },
+    {
+      "q": "Is there salt damage on outdoor units in Cypress?",
+      "a": "No. Cypress sits well inland from the bay, so the coastal corrosion that shortens condenser life in Galveston County does not reach the northwest corridor. What you get instead is tree debris from the oaks and pines along FM 1960 and the Grand Parkway, plus the damp that comes with a suburban lot. It is a different problem and it needs a different routine."
+    },
+    {
+      "q": "My AC keeps tripping the breaker after a storm. Is that normal?",
+      "a": "Not for long. After an interruption the compressor can sit in a lockout waiting for a restart that never comes, and some equipment will not reset itself. If it trips again every time you restore power, there is a fault in the unit or the circuit rather than a dirty breaker. Leave it off and have it looked at."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Local conditions used: sealed attic duct temperatures, newer high-efficiency coil freezes, plan-based sizing, and no salt exposure inland.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Emergency calls in Cypress tend to happen in the first hot stretch after a storm or a power interruption. Newer equipment with electronic controls does not always restart cleanly on its own. We pass the request to the HVAC company that covers the northwest corridor and let them work the fault directly.",
+      "localNote": "A house with modern equipment and a marginal power supply is a different failure profile from an old unit dying. After a brief outage the compressor can sit locked out waiting for a restart that never comes, and a system that has been running hard for an hour in a 130 degree attic needs the technician to check the contactor and the supply voltage. Cypress homes are new enough that a fault is wiring or controls before it is wear.",
+      "faqs": [
+        {
+          "q": "My AC will not restart after the power came back. What should I do?",
+          "a": "Switch the system off at the thermostat and try one restart after a short wait. If it still does not start, check the AC breaker once and leave it alone. Newer equipment holds a fault code that the technician can read off the unit, so tell them the power went out and how long it was gone."
+        },
+        {
+          "q": "Is a tripped breaker in a new Cypress home a wiring problem?",
+          "a": "It can be. A breaker that trips every time the system starts points at the circuit, the disconnect or a short inside the outdoor unit, and on newer installations the connections are sometimes the weak point. The technician checks the supply and the connections rather than resetting it and leaving. Do not keep resetting a breaker that keeps tripping."
+        },
+        {
+          "q": "Why does my system stop cooling in the late afternoon?",
+          "a": "In this corridor it is usually the load rather than a failure. A west-facing elevation in the afternoon sun, a house that was sized before it was furnished and duct runs sitting in a hot attic all push the system past what it can do by the middle of the afternoon. The technician checks the coil and the charge and then looks at the sizing."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: lockout after a power interruption, new-build electrical connections, afternoon load on a sized-to-plan system."
+    },
+    "same-day-ac-repair": {
+      "intro": "Same-day work in Cypress is mostly about performance on newer systems rather than breakdowns on old ones. A unit that runs constantly and never satisfies the thermostat usually has an airflow problem or a design problem, and the technician who takes the job needs to measure static pressure rather than guess. Filter changes and coil cleaning are often part of it.",
+      "localNote": "Start with the return and the filter. Newer homes in the northwest corridor have tight return paths and multi-level filters, and a restricted return starves the coil. The other local factor is the attic, where 130 to 140 degrees surrounds every duct run and quietly raises the temperature of the air before it reaches a register. Both are quick to check and neither is what most people suspect.",
+      "faqs": [
+        {
+          "q": "How often should I change the filter in my Cypress home?",
+          "a": "Every month is a fair default, and every three months if it is a high-efficiency pleated filter. A clogged filter is the most common reason a system that was fine becomes a same-day call, because it chokes the return and the coil ices over. Check the airflow arrow on the filter housing and follow whatever the filter itself says."
+        },
+        {
+          "q": "Is my new system too small for the house?",
+          "a": "It can be, and it is common in new construction. The unit was sized from a plan before the house was finished, and the finished house has more glass, more insulation and more heat gain than the plan assumed. The technician measures the actual load and the actual airflow before recommending anything, because a bigger unit on a marginal duct system is not the fix."
+        },
+        {
+          "q": "Can the attic ducts be insulated?",
+          "a": "Yes, and it is worth doing if the ducts run through a hot space. Radiant barrier or proper duct wrap on the supply runs keeps the air from picking up as much heat on the way to the rooms. It does not replace a properly sized duct run, and it does not fix a return path that is too small."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: tight return paths in new builds, attic duct heat gain, plan-based sizing in the northwest corridor."
+    },
+    "ac-not-cooling": {
+      "intro": "Warm air from a running system is not automatically a refrigerant problem, and in Cypress a large share of those calls turn out to be airflow. Newer high-efficiency systems with a dehumidification stage can freeze the indoor coil when the airflow is marginal. The technician who takes the job needs to check the static pressure and the coil before anything is added to the system.",
+      "localNote": "This is where modern Cypress homes surprise people. The system is efficient, the charge is probably fine and the coil is freezing because the duct design barely delivers enough air. In a house with a sealed attic and long trunk runs, the air arrives warm even when the coil is working. Correcting the airflow is the repair. Adding refrigerant to a system that is low on air simply moves the freeze somewhere else.",
+      "faqs": [
+        {
+          "q": "Why does a new high-efficiency system freeze the coil?",
+          "a": "The dehumidification stage drops the coil below the dew point on purpose. If the airflow over the coil is marginal, the coil goes below freezing instead and ices up. The blower then stops or the airflow drops further, and the unit blows warm. Measuring the static pressure and correcting the air path is the repair, and it is much cheaper than a refrigerant charge that does not solve anything."
+        },
+        {
+          "q": "Does adding refrigerant fix an AC that is not cooling?",
+          "a": "No, and on a system that is low on airflow it makes things worse. A coil that is already too cold freezes harder when the pressure goes up. The technician reads the charge and the airflow together and finds out which one is actually wrong. If the charge is low, the leak gets found and repaired rather than topped off."
+        },
+        {
+          "q": "Is it normal for the air from the vents to feel warm?",
+          "a": "In a new build with ducts running through a sealed attic, mildly warm air at the registers is common. The air loses temperature in the attic before it reaches the room. That is a duct design and insulation issue rather than a fault, and the fix is in the attic rather than at the unit."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: dehumidification-stage freezes in newer builds, warm air from attic ducts, static pressure diagnosis."
+    },
+    "ac-repair": {
+      "intro": "Newer equipment fails differently. Electronics, inverters, contactors and control boards take the place of the simple components that used to fail, and a fault can be a wiring problem from the original install rather than a worn part. We connect you with a company that covers the northwest corridor so the diagnosis is done on your equipment, with the codes read off the unit.",
+      "localNote": "Cypress repairs often start with the error code on the indoor unit or the thermostat rather than with a noise. Modern systems log faults and the log narrows the search quickly. The other thing to know is that a fault in a system installed at the build stage may fall under a workmanship warranty from the builder, so it is worth asking who installed it before paying for a repair.",
+      "faqs": [
+        {
+          "q": "What does the error code on my thermostat mean?",
+          "a": "It is the fastest clue available and the technician reads it before touching anything. On newer equipment the code identifies the circuit that failed, which turns a long diagnosis into a short one. Write the code down before you clear it, because clearing the fault often erases the history that points at the cause."
+        },
+        {
+          "q": "Is the AC on my new build covered under a workmanship warranty?",
+          "a": "It may be. Systems installed at the build stage are often covered for a period by the builder rather than by the installer, and a system that underperforms within the first few summers is exactly what that agreement covers. Find the paperwork, check the dates, and raise it with the builder before anyone bills you for a repair."
+        },
+        {
+          "q": "Why does my Cypress AC need repairs so soon after it was installed?",
+          "a": "New does not mean correctly installed. The common problems are a duct run that is too small for the airflow the unit moves, a return path that is restricted by the finished interior, a system sized from the plan rather than the load, and connections that were made before the power was checked. Most of these are installation issues rather than equipment failures."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: error codes on newer equipment, builder workmanship warranties, new-build installation faults."
+    },
+    "ac-installation": {
+      "intro": "Installation in Cypress falls into two groups. New construction where the system is sized before the house is finished and needs correcting, and replacements in homes that have had a garage converted or a room added. We connect you with an installer who covers the area, and the load calculation has to describe the finished house, which is rarely the same as the plan.",
+      "localNote": "The common mistake here is sizing from square footage alone. A Cypress house with a vaulted ceiling, west-facing glass and a second floor built over the garage has a load that does not match the number on the sales sheet. The sealed attic makes the duct run harder, so the design has to include the return path and the trunk sizing rather than only the outdoor unit. That is the difference between a system that settles and one that cycles.",
+      "faqs": [
+        {
+          "q": "How is AC sized for a new Cypress home?",
+          "a": "From a load calculation done on the finished house. The square footage on the plan is an input and not an answer. The calculation accounts for the glass, the orientation, the ceiling height, the insulation level and how much sun the lot takes. A house on a west-facing street with a vaulted ceiling in Cypress can need a different capacity than the identical plan on the other side of the development."
+        },
+        {
+          "q": "Does a vaulted ceiling change the calculation?",
+          "a": "It does, because the volume of air above the ceiling is conditioned and because the ceiling has less insulation than a flat roof. The finished floor area of a vaulted room understates the space that has to be cooled. That is one of the more common reasons a new build ends up short of cooling in the middle of the summer."
+        },
+        {
+          "q": "Where should the condenser go in a new build?",
+          "a": "Out of direct afternoon sun if the lot allows, with clearance on the coil face, on ground that drains and away from the windows. Around the northwest corridor the trees are young in the newer sections, so a spot that looks shaded now may be in full sun in ten years. The unit also needs to be reachable for the coil clean it will need twice a season."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: finished-house load calculation, vaulted ceilings in new builds, condenser siting in the northwest corridor."
+    },
+    "ac-replacement": {
+      "intro": "Replacing a system in a Cypress home often means replacing a unit that is not that old but was never right for the finished house. A larger unit with properly sized ducts fixes what a bigger compressor alone would not. We connect you with a company that covers the northwest corridor so the replacement is designed rather than swapped in.",
+      "localNote": "The cost of getting this wrong is that a mismatched replacement repeats the original problem with newer equipment. A unit that is too large for a marginal duct system short-cycles and does not dehumidify, and a house in this humidity will feel it. The right conversation covers the return path, the trunk size and where the condenser sits, not just the tonnage. On newer homes, that is the whole job.",
+      "faqs": [
+        {
+          "q": "My Cypress system is only a few years old, why replace it?",
+          "a": "Because it was never the right size for the house as it was finished, and replacing it with the same size repeats the complaint with newer equipment. That is not a fault in the unit. The replacement gets sized against the measured load and the duct system gets checked at the same time, so the money goes to the thing that was wrong."
+        },
+        {
+          "q": "Does a bigger unit always cool better?",
+          "a": "No, and this is where a lot of replacements go wrong. A unit that is too large for the duct system cycles short, pulls less moisture out of the air and can leave a house humid and uncomfortable at a comfortable temperature. In a climate this wet, the dehumidification side of the system matters as much as the cooling, and both depend on the duct system keeping up."
+        },
+        {
+          "q": "Should the replacement come with new ductwork?",
+          "a": "Only if the existing ductwork cannot deliver the air the new system needs. The technician measures the static pressure to find out. If it is already high, the new unit will be short on air from the first day, and the money is better spent on the ducts than on a larger condenser."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: replacing a mismatched new-build system, oversizing and humidity, static pressure in newer duct runs."
+    }
+  }
+}

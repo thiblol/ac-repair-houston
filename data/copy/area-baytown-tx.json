@@ -1,0 +1,137 @@
+{
+  "intro": "Baytown has some of the oldest housing in the Houston metro, with homes from the 1940s and 1950s mixed in with 1960s and 70s builds, and heavy industry sitting along the edges of it. A lot of that equipment was installed once, decades ago, and left alone.",
+  "localAngle": "Two things shape the work here. The first is age. On a lot with a house from 1948 next door to one from 1975, there is a fair chance one yard has a split system that came with the house and the other has a unit somebody put in in the 1990s. The second is the air. Baytown sits in the salt belt and near the refining and shipping side of the county, so outdoor units take salt and industrial particulate together, and the metal around the coil ages faster than the calendar suggests. Where the housing is genuinely old, some of it never had central air at all. Those houses are getting cooling for the first time, which is a different job than a repair.",  "commonCalls": [
+    "1940s and 50s houses getting central cooling for the first time",
+    "Outdoor units with rusted cabinets and base pans on lots near the industrial side",
+    "Old split systems that have run every summer since the 1960s without a single service visit",
+    "Coils loaded with coastal oak and industrial dust in the same pass",
+    "Systems that cannot hold temperature in a house with 1950s windows and no insulation"
+  ],
+  "landmarks": [
+    "the 45 and 610 interchange",
+    "the East Baytown refinery area",
+    "the Battleship Texas Memorial",
+    "the Houston Ship Channel",
+    "FM 140",
+    "the Evergreen Point",
+    "the San Jacinto Mall",
+    "Decker Oak Park",
+    "Lynchburg Landing",
+    "the 330 and 140 loop"
+  ],
+  "faqs": [
+    {
+      "q": "Does my Baytown house need central air or is a window unit fine?",
+      "a": "It depends on the house. Some of the older homes were framed without any central cooling and picked up a system later as an upgrade. A ductless mini split handles a small house without opening walls, and a full system makes sense if you want the place conditioned year round. Have the house looked at before deciding."
+    },
+    {
+      "q": "How much does the industrial side of Baytown affect my outdoor unit?",
+      "a": "The refinery and shipping areas put salt and particulate into the same summer air. Salt dulls the condenser fins and corrodes the cabinet, and particulate packs the fins and holds moisture against them. The unit ends up moving less air and working longer for the same result."
+    },
+    {
+      "q": "My old Baytown unit has never been serviced. Is that a problem?",
+      "a": "If the outdoor unit is from the 1960s or 70s and has never been touched, expect the usual list: a dirty coil, a capacitor that has been sitting unused for years and refrigerant that may have leaked out slowly over time. A service visit before the hottest stretch of summer is cheaper than a breakdown in July."
+    },
+    {
+      "q": "What is it like working on AC in a 1950s Baytown home?",
+      "a": "Some of the equipment here is original to the house and has been running since the 1960s. The parts still exist in places, but the model information gets harder to find and the copper and steel around the compressor may be in worse shape than the part itself. Expect a longer diagnosis and a conversation about replacement."
+    },
+    {
+      "q": "Does Baytown flood?",
+      "a": "Low areas near the Ship Channel have a history of standing water, and a unit that has been under water is not a repair. If your outdoor unit sits low on the lot, it is worth thinking about elevation when you replace it rather than after it fails."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Two reference the local condition directly: heavy industry along the edges of the city feeding salt and particulate into the summer air, and the 1940s to 1950s housing stock that in some cases never had central air. The other three cover first-time installs, deferred service and flood risk near the channel.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "The emergency calls here are not unusual: an old compressor giving up in the first hot week, or a unit that trips when it is already working hardest. What is unusual is how old some of that equipment is when it fails.",
+      "localNote": "Baytown has a lot of outdoor units that came with the house and have been sitting on the same slab for forty years. The corroded cabinet, the tired capacitor and the aged contactor are all candidates for the same visit, and the salt near the industrial side puts the electrical compartment in play too. The company we connect you with will want the age of the unit and whether the electrical service has ever been touched, because that changes what can be done on the spot.",
+      "faqs": [
+        {
+          "q": "What should I have ready when I report an emergency in Baytown?",
+          "a": "Three facts. Whether the indoor blower runs, whether the outdoor unit makes any sound, and whether the breaker holds. Add the year the system was installed if you can find it on the nameplate. On equipment this old that information tells the technician which parts to bring and whether the panel can handle the load."
+        },
+        {
+          "q": "Why does my old outdoor unit fail in the first hot week of summer?",
+          "a": "A compressor that has been idle through a mild winter comes out of storage and the first real load is the one it fails on. Capacitors and contactors that sat unused are the usual casualties. A spring service visit on a unit this age is the cheapest way to avoid finding out in July."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on the three facts that narrow an emergency call down, one on why decades-old units fail on the first hot week of the season."
+    },
+    "same-day-ac-repair": {
+      "intro": "A large share of the same-day work here is a system that has been left alone for years and has started running long. It still cools, just badly, and by the time the owner notices the electric use, the coil and the filters are the obvious starting points.",
+      "localNote": "Deferred maintenance is the common thread. A unit that has not been looked at since the 1980s has a coil packed with coastal oak litter and industrial dust, filters that have been changed without any thought and refrigerant that has leaked out slowly over years. The technician who takes the job will usually start by cleaning and measuring, because that tells them whether a part has actually failed or the system was never able to perform in the first place.",
+      "faqs": [
+        {
+          "q": "How much does a service visit cost compared with just replacing the unit?",
+          "a": "It depends entirely on what the visit finds. A coil clean, a filter and a check of the electrical connections is a small job. A compressor on a 1960s unit is a different conversation, and on a system that has never been serviced the technician may recommend the changeover once they have seen the cabinet and the line set."
+        },
+        {
+          "q": "Can a unit that has never been serviced still be worth keeping?",
+          "a": "Often yes, if the coil and the cabinet are sound. Plenty of old equipment in this area is dirty rather than destroyed. The test is whether it holds a charge, holds pressure and holds a setpoint once the airflow is right. That takes a technician with a gauge, not a guess from the driveway."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on weighing a service visit against a replacement, one on whether an untouched old unit is worth keeping."
+    },
+    "ac-not-cooling": {
+      "intro": "Running but not cooling comes up constantly in Baytown, and the cause is usually the outdoor side or the age of the ductwork. The house is the oldest part of the system in a lot of these calls.",
+      "localNote": "Houses from the 1940s and 50s have single-pane windows, thin walls and no insulation in the attic. A system that was undersized when it went in cannot catch up with that load now, especially after a coastal summer has dulled the condenser. The indoor side has its own version, with a duct layout that was never designed for the rooms as they are used today. Measuring airflow and static pressure settles the argument quickly.",
+      "faqs": [
+        {
+          "q": "My AC runs all day and the house is still warm in the afternoon. What does that point to?",
+          "a": "Lost capacity. The system is moving air but not moving enough heat, usually because the condenser is fouled, the coil is scaled or the system was undersized for the house from the start. A unit that runs nonstop in the peak of the afternoon is giving up on the load rather than refusing to start."
+        },
+        {
+          "q": "Why does my old Baytown house have rooms that never cool?",
+          "a": "Older layouts put the return in a hallway or a central spot, so the thermostat reads the average of a mixed air temperature. The room at the far end never gets the supply air it needs. Adding a room later makes it worse. Measuring the air at each vent tells you whether it is distribution or total capacity."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on a system that runs nonstop without catching up in the afternoon, one on unbalanced rooms in a 1940s layout with a central return."
+    },
+    "ac-repair": {
+      "intro": "Repairing a system in Baytown often means finding out how old the failure is. The part that stopped working may be the only part that ever broke, or it may be the last thing left on a unit that has been running since the house was new.",
+      "localNote": "Give the technician the year the system went in if you can find it. A 1960s unit in a 1950s house was probably installed by a company that no longer exists, and its paperwork is long gone. The model number on the nameplate is what gets the right parts on the truck. On units this old, expect the coil and the line set to be checked for corrosion at the same time, because the metal is often the real problem.",
+      "faqs": [
+        {
+          "q": "My compressor failed. Should the technician replace just the compressor?",
+          "a": "Ask first what caused it. A compressor that died on a fouled coil or a dirty condenser will take the new one with it, because the conditions that killed the first one are still there. The technician should clean the coil, verify the airflow and check the charge before the new part goes in."
+        },
+        {
+          "q": "Where do I find the model number on an old Baytown AC unit?",
+          "a": "On the outdoor unit, on a data plate on the side panel or at the top of the cabinet, though on a unit this old the plate may be faded or rusted through. A photo of the whole unit and the cabinet is a good substitute, and so is the year the house was built if the plate is gone."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on finding the root cause before a compressor is replaced, one on locating a model number on a faded or rusted nameplate."
+    },
+    "ac-installation": {
+      "intro": "Adding cooling to one of the older Baytown homes is a bigger project than a swap, and a good number of these houses have never had central air. The question is whether to run ducts or to put in ductless heads, and the answer depends on the attic and the walls.",
+      "localNote": "A 1950s ranch with an open attic can take a compact split system or a conventional one, but the load calculation has to account for single-pane windows, a west-facing wall and no attic insulation. A house with a vaulted ceiling or a second floor added in the 1980s is a different calculation again. The large lots here make siting easy, so the outdoor unit can go where the air moves and the water drains instead of being crammed against the house.",
+      "faqs": [
+        {
+          "q": "How do I get central air into a 1940s house that never had it?",
+          "a": "Start with what the building gives you. If there is attic space and a route for supply and return, a conventional system is straightforward. If there is not, a ductless system conditions the rooms that matter without opening finished walls. A contractor who walks the house before quoting will know which of the two applies."
+        },
+        {
+          "q": "Is a ductless mini split enough for an older Baytown home?",
+          "a": "For many of them, yes. A ductless head moves a lot of air for a small amount of power and cools the space it is in quickly, which matters in a house where the envelope leaks. It will not cool the whole building as evenly as a duct system, so the layout of the heads matters."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on getting central air into a 1940s frame, one on whether a ductless head covers an older house."
+    },
+    "ac-replacement": {
+      "intro": "Replacing an old system in Baytown is usually straightforward once you know what is in the house. Some of these homes carry refrigerant that is no longer produced for new equipment, and the metal around the old unit is often further along than the compressor.",
+      "localNote": "Houses here often have the whole original stack: condenser, coil, air handler and refrigerant lines, all from the same era. Replacing the outdoor unit alone leaves a mismatched coil and lines that have been sitting in salt air for half a century. The electrical service on a 1940s or 50s house may also need work before a modern condensing unit will run on it. Have the panel looked at as part of the job rather than after it.",
+      "faqs": [
+        {
+          "q": "What is involved in replacing AC in a house that never had central air?",
+          "a": "More than a swap. There is no existing coil, no air handler and no ductwork to reuse, so the job is a full install with new equipment and new distribution. The good news is that a modern system is far more efficient and a ductless option is available where the framing will not allow ducts."
+        },
+        {
+          "q": "Should I upgrade the electrical service at the same time?",
+          "a": "If the house has a 1940s or 50s panel, it is worth having evaluated before the install. A modern condensing unit draws more than the equipment it replaces, and an undersized service can limit what you install. Doing the panel work at the same time as the changeover is usually less disruptive than doing it a year later."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on installing cooling where none ever existed, one on pairing a service upgrade with a system changeover."
+    }
+  }
+}

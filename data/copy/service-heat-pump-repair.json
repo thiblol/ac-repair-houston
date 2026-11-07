@@ -1,0 +1,38 @@
+{
+  "intro": "A heat pump does two jobs with one set of parts. In summer it moves heat out of the house, and in winter it moves heat in, with backup electric strips covering the coldest stretches. The part that flips that direction is the reversing valve, and when it sticks the system either cools beautifully and will not heat, or heats and will not cool, so the company that covers your area diagnoses which mode is failing before a part gets ordered.",
+  "whatHappens": [
+    "Run the system in heating and in cooling to see which mode actually fails",
+    "Check the reversing valve and the outdoor unit for ice or a failed shift",
+    "Test the backup heat strips and the control that calls for them",
+    "Verify the charge and the refrigerant side of the system",
+    "Confirm the mode change works and the thermostat holds set point"
+  ],
+  "howPriced": "A heat pump failure is priced on the diagnosis first, because the same symptom can come from a reversing valve, a control board, a charge issue, or a failed sensor, and the valve and the board are the more involved repairs. Time of day matters more here than on most calls, since heating failures land in the coldest hours and after hours work carries a different rate. Whether the unit is old enough that a repair is only a short bridge to a replacement, and whether backup heat is available in the meantime, both change the quote.",
+  "faqs": [
+    {
+      "q": "How much does it cost to repair a heat pump?",
+      "a": "It depends on which mode is broken and what part failed. A reversing valve or a control board is more involved than a relay or a failed capacitor. On a heat pump that also cools the house, the cost of losing both functions is part of the conversation. Get the diagnosis first, then the price."
+    },
+    {
+      "q": "Is my heat pump broken or is it the backup heat?",
+      "a": "Both are running, so it is hard to tell from the inside. If the strips are carrying the whole load and the outdoor unit is quiet, the heat pump side has a fault. If the outdoor unit runs and the house still does not warm up, the backup is covering for a heat pump that cannot make enough heat on its own."
+    },
+    {
+      "q": "Why is there ice on my outdoor heat pump unit?",
+      "a": "Ice on the outdoor unit in cold weather is often the defrost cycle doing its job. In warm weather it is a different story. Ice that builds up while the system is trying to cool means the unit is not shedding heat, which points at a charge problem, a reversing valve stuck in the wrong position, or a blocked coil."
+    },
+    {
+      "q": "Why does my heat pump run all the time?",
+      "a": "A system that never stops is usually never reaching set point. That can be a sizing problem, a fault in the control, a failed sensor reading wrong, or a system working hard because its outdoor unit is iced over. The mode it is stuck in tells you where to look first."
+    },
+    {
+      "q": "Can a heat pump cool as well as heat?",
+      "a": "Yes, and on most systems it is the primary system for both. That is why mode matters so much on a diagnosis. A fault that only shows up in heating points at the reversing side, while a fault that takes out both usually points at the control or the electrical side."
+    },
+    {
+      "q": "How long should a heat pump last?",
+      "a": "A well installed unit can run for a couple of decades with annual service. The number that matters more is the age of the outdoor unit and whether it still has parts available. When the compressor goes on a unit that old, the conversation usually turns toward replacing the whole system."
+    }
+  ],
+  "_faqsNote": "6 FAQs. Cost first. The mode-specific questions are the ones that separate a heat pump page from a generic AC repair page."
+}

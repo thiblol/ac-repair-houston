@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Sharpstown, Houston",
+  "title": "AC Repair Sharpstown, Houston | AC Repair Houston",
+  "description": "Tract homes from the 60s and 70s running original systems on refrigerant that is no longer made, in closets with little room to work.",
+  "intro": "Sharpstown was built out fast through the 1960s and 1970s, and a lot of the equipment in those houses is the equipment that came with them. That puts many units past fifty years old and running on R-22, which is no longer produced for new systems. When one of these machines fails, the parts are hard to source and the closet it sits in was never built to hold a replacement.",
+  "localAngle": "The housing here is 1960s and 1970s tract development on small lots, and the original systems are now forty-five to fifty-five years old. Many still run R-22, a refrigerant no longer manufactured for new equipment, so parts for these units cost more and take longer to get. Inside the house the ceilings are low and the closets are shallow, so the indoor unit is boxed into a space with little room for a modern replacement. The sun hits the south and west walls with almost nothing to shade it, and the outdoor unit works against that all afternoon.",
+  "commonCalls": [
+    "Compressors failing on original systems that still use R-22",
+    "Condenser coils packed with debris because the unit sits against an unshaded wall",
+    "Air handlers crammed into closets where a replacement will not fit without modification",
+    "Systems that run all afternoon and still cannot hold the thermostat setting",
+    "Capacitors and contactors going out after fifty summers of service"
+  ],
+  "landmarks": [
+    "Southwest Freeway",
+    "Bellaire Boulevard",
+    "Westheimer Road",
+    "Sharpstown Shopping Center",
+    "Sharpstown Park",
+    "Hiram Clarke High School",
+    "Sharpstown High School"
+  ],
+  "faqs": [
+    {
+      "q": "My unit runs on R-22. Should I replace it or repair it?",
+      "a": "It depends on what failed and what the rest of the system looks like. On a system that is otherwise sound, a compressor or capacitor repair is usually workable, but R-22 is no longer produced for new equipment, so refrigerant and parts cost more and there is less supply. If the indoor unit and the ductwork are the same age as the condenser, replacing the whole system usually costs less in the long run. Knowing the refrigerant on the nameplate is the first step, and the technician can read it before anyone quotes."
+    },
+    {
+      "q": "Why is the outdoor unit so hot here when my neighbor's is not?",
+      "a": "Placement. A unit set against a west-facing wall with no shrub to break the sun runs at a much higher ambient temperature than one that gets shade, and that translates directly into a hotter discharge line and shorter run time. The fix is often to clear the space in front of the coil, cut back the plants growing into it, or add a simple shade structure over the unit."
+    },
+    {
+      "q": "Can a replacement unit even fit in my closet?",
+      "a": "Sometimes it cannot, and that is worth knowing before the truck arrives. These closets were sized for a narrow air handler from the 1960s or 1970s, and modern units have different dimensions and connection locations. If a new unit will not fit, the technician can look at slim-profile options, a horizontal install in the attic above the closet, or moving the air handler to a different space. Any of those changes the job, so it should be part of the quote rather than a surprise on the day."
+    },
+    {
+      "q": "Is it worth replacing the system at my age of the house?",
+      "a": "Usually, if the system is original and on R-22. Replacing the condenser alone on a system with a fifty-year-old air handler and original ductwork leaves the weakest parts in place. A full change to a current refrigerant system usually performs better and avoids chasing two different sets of parts for the rest of the life of the house."
+    }
+  ]
+}

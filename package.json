@@ -1,0 +1,21 @@
+{
+  "name": "ac-repair-houston",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AC Repair Houston: rank-and-rent website. Static site generator, zero runtime dependencies.",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "dev": "npm run build && npx --yes http-server dist -p 4173 -c-1",
+    "preview": "npm run build && npx --yes http-server dist -p 4173 -c-1",
+    "check": "node src/check.mjs",
+    "audit:copy": "node src/audit-copy.mjs",
+    "test": "node src/check.mjs && node src/audit-copy.mjs --self-test && npm run build"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

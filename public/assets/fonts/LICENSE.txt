@@ -1,0 +1,34 @@
+Fonts bundled in this folder
+===========================
+
+  archivo-400.woff2          Archivo Regular
+  archivo-600.woff2          Archivo SemiBold
+  archivo-narrow-600.woff2   Archivo Narrow SemiBold
+  archivo-narrow-700.woff2   Archivo Narrow Bold
+  dm-mono-500.woff2          DM Mono Medium
+
+All five are latin-subset WOFF2 builds of typefaces published under the
+SIL Open Font License, Version 1.1.
+
+  Archivo and Archivo Narrow
+    Copyright (c) Omnibus-Type
+    https://fonts.google.com/specimen/Archivo
+    https://fonts.google.com/specimen/Archivo+Narrow
+
+  DM Mono
+    Copyright (c) Colophon Foundry
+    https://fonts.google.com/specimen/DM+Mono
+
+What the OFL lets you do
+------------------------
+
+You may use, study, modify, bundle and redistribute these fonts, including in
+commercial work and including inside a website you sell to a client. You may
+not sell the font files on their own, and any derivative you make must also be
+released under the OFL.
+
+The licence requires that this notice travels with the font files, which is why
+this file is here. Keep it in place if you copy the fonts into another project.
+
+The full licence text is at https://openfontlicense.org and is included with
+each family on Google Fonts.

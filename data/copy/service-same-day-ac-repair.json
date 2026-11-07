@@ -1,0 +1,38 @@
+{
+  "intro": "Not every cooling problem can wait for a slot next week, and most of them should not wait for next week either. A unit that runs constantly without ever catching up, one room that stays warm while the rest of the house is fine, or an outdoor unit buried under tree debris are all working problems, not emergencies, and they are the ones that turn into emergencies if they sit. Same day service is for that middle ground, where the system still runs but the house is not what it should be and the fix is straightforward.",
+  "whatHappens": [
+    "Pulls the model and serial numbers off the outdoor unit label",
+    "Runs the system through a full cycle and watches what it does",
+    "Reads temperatures and pressures rather than going by what sounds wrong",
+    "Compares the numbers against what the manual says for that model",
+    "Cleans what is dirty and only replaces what the readings condemn"
+  ],
+  "howPriced": "Same day pricing is built from a shorter notice period plus whatever the fault turns out to need. Four variables move it: how hard the equipment is to access, the hour of the day the work happens, the cost of any parts that have to be replaced, and whether the honest answer is a repair or a replacement. A same day booking on a busy weekend costs more than the same repair booked on a Tuesday, for scheduling reasons rather than technical ones.",
+  "faqs": [
+    {
+      "q": "how much does same day ac repair cost",
+      "a": "There is a premium on top of the normal repair because the schedule is shorter and the technician may have to source a part that is not on the truck. The rest depends on the fault, the parts, and how difficult the unit is to reach. You get a number for the visit before the work starts, not after."
+    },
+    {
+      "q": "can you guarantee someone can come today if I call in the morning",
+      "a": "No. Anyone promising a same day arrival time regardless of where you are is guessing. What the HVAC company covering your area can do is look at the job list and tell you honestly whether there is room today or when the next opening is. Early morning requests have the best chance because the day is still filling."
+    },
+    {
+      "q": "my ac runs constantly but never cools the house, is that a same day job",
+      "a": "It can be, if the unit is otherwise healthy. Long run times usually mean the system is working hard without moving heat, and that traces back to airflow, charge, or a control problem, all of which are diagnosable in one visit. It is worth booking rather than ignoring, because a unit that never stops is a unit running up its own wear."
+    },
+    {
+      "q": "what information should I have ready before the technician gets there",
+      "a": "The model and serial number from the outdoor unit label, the year it was installed if you know it, and the type of refrigerant it uses if it is listed. A short description of what the system does rather than what you think is wrong helps too. Having that on hand saves time that would otherwise go into identifying the machine."
+    },
+    {
+      "q": "my ac works but one room is always hot, can that be fixed the same day",
+      "a": "Often, yes. A single warm room usually points to a duct that has come loose, a closed or blocked register, a thermostat in that room, or a run of duct that never had air in it to begin with. Those are quick to find and quick to correct once the technician can see them."
+    },
+    {
+      "q": "is same day ac service more expensive than waiting for a regular appointment",
+      "a": "It is, mainly because of the shorter notice and the possibility of a second trip if a part is not on hand. If the equipment can be diagnosed and fixed in one visit, the difference between same day and next week is mostly the scheduling premium. If you can wait, a booked appointment usually costs less."
+    }
+  ],
+  "_faqsNote": "5 to 6 FAQs. Cost first. Written as a homeowner trying to get ahead of a problem, not as someone in a panic."
+}

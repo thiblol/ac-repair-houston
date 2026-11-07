@@ -1,0 +1,38 @@
+{
+  "intro": "Some air conditioner problems are not mechanical at all. They are electrical faults in the start circuit, where capacitors, contactors and breakers decide whether the system is allowed to run. This kind of work is dangerous because a capacitor can hold a lethal charge long after the power is off, and it needs someone with the right meter and the training to work around a live unit.",
+  "whatHappens": [
+    "Checks the run capacitor and the start capacitor for bulging, cracking and leakage",
+    "Tests the contactor for pitted or welded points and burned wiring",
+    "Measures the circuit and confirms whether the breaker trip is a short or an overload",
+    "Discharges any capacitor properly before touching the live side of the unit",
+    "Repairs the wiring or replaces the failed component and verifies the system runs"
+  ],
+  "howPriced": "Most electrical faults are cheap parts and careful labor, so cost turns on how long the diagnosis takes and whether the failed part took others with it. The variables are the access, the time of day, the parts, and whether the repair is a single capacitor or a capacitor plus a contactor, wiring and a breaker that all need attention. Replacing the whole unit is not the answer to an electrical fault.",
+  "faqs": [
+    {
+      "q": "how much does it cost to replace an AC capacitor",
+      "a": "The capacitor itself is inexpensive. What you are paying for is the diagnosis, because the part is cheap and the testing around it is the work. If a tripped breaker, a scorched contactor or a motor that is drawing too much is also there, that gets quoted as separate work."
+    },
+    {
+      "q": "why does my AC breaker keep tripping",
+      "a": "Something is drawing more current than the circuit can carry. A shorted motor winding, a failed capacitor or a compressor that is locking up will all do it. A breaker that trips repeatedly is telling you there is a fault, so leave it off and let it be diagnosed rather than resetting it all afternoon."
+    },
+    {
+      "q": "can I replace an AC capacitor myself",
+      "a": "It is not a do it yourself job. The capacitor stores a charge that can knock you down even with the unit unplugged, and it has to be discharged with a proper tool first. If you can see a bulging or leaking capacitor, stay away from it and call someone who does this work."
+    },
+    {
+      "q": "what does a scorch mark on the outdoor unit mean",
+      "a": "It means something arced. Usually the contactor points welded together and the current burned the metal around them, or a loose terminal overheated where it connected. The damaged part gets replaced and the wiring gets checked, because scorch marks mean the fault is bigger than the part that shows it."
+    },
+    {
+      "q": "my AC hums but the outdoor unit never starts",
+      "a": "The contactor is pulling in and the motor is not turning over. That points to a weak start capacitor, a contactor with pitted points, or a seized motor, and those three need different fixes. It is also possible the unit is calling for heat and the reversing valve is stuck, which is a refrigerant side problem instead."
+    },
+    {
+      "q": "is it safe to reset the AC breaker",
+      "a": "Resetting it once is fine. If it trips again, leave it. A breaker that trips repeatedly on an air conditioner is a symptom of a fault somewhere in the outdoor unit, and resetting it does not remove the fault, it just resets the count until something in the unit burns out."
+    }
+  ],
+  "_faqsNote": "5 to 6 FAQs. Cost first. Use the phrasing a person types, not a marketer's phrasing."
+}

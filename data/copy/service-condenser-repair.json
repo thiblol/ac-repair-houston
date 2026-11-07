@@ -1,0 +1,38 @@
+{
+  "intro": "The condenser is the metal cabinet sitting on a pad outside the house, and it is the half of the system that lives in the weather. It pulls heat out of the refrigerant and pushes it into the outdoor air, so when the coil is packed with debris or the fan motor is worn out, the whole house feels it. When you send a request it goes to an independent HVAC company that covers your area, and the technician who takes the job starts at the unit outside.",
+  "whatHappens": [
+    "Reads the nameplate for the model, the refrigerant type and the ratings",
+    "Cleans the coil fins and combs out metal that has bent over",
+    "Checks the fan blade, the motor and the shroud for damage or blockage",
+    "Looks for corrosion, insect nests and a drain that will not clear in the cabinet",
+    "Compares line temperatures at the unit against what the gauges show"
+  ],
+  "howPriced": "The money is driven by how the technician gets to the unit and how much of it has to be replaced. A cabinet rusted through on one side means sheet metal work and possibly a new unit, while a dirty coil is a few hours of labor. Parts, the time of day you call, and whether the fix ends as a repair of the outdoor cabinet or a full replacement of it all move the total.",
+  "faqs": [
+    {
+      "q": "how much does it cost to repair an outdoor unit",
+      "a": "It depends on whether the cabinet is being cleaned, having a fan motor and contactor replaced, or rebuilt with a new coil and frame. A technician who looks at the unit before quoting will usually list the part, the labor and the disposal separately. Get the quote in writing before anyone orders a replacement cabinet."
+    },
+    {
+      "q": "my outdoor unit is humming but nothing is happening",
+      "a": "A hum with no compressor sound usually means the compressor is not starting, and the cause can be a contactor, a capacitor or a locked compressor. The condenser fan may still spin, so the unit looks alive from the window. Someone needs to open the electrical compartment and check the draw with a meter."
+    },
+    {
+      "q": "can the condenser be repaired instead of replacing the whole unit",
+      "a": "Often it can. Plenty of outdoor units are worth saving when the frame is solid and the trouble is a motor, a capacitor, a contactor or a coil that can be cleaned and repaired. If the cabinet is rusted through or the coil metal is badly damaged, replacing the unit is the cheaper path."
+    },
+    {
+      "q": "my condenser is covered in leaves and it still does not cool",
+      "a": "A blocked coil starves the unit of the airflow it needs to shed heat, and that alone can cost you most of your cooling. A garden hose on a gentle setting and a soft brush clear a surprising amount before anyone opens anything. A technician can take the rest and check whether other damage came with it."
+    },
+    {
+      "q": "why is there a puddle of water under my outdoor unit",
+      "a": "A small amount of condensation while the unit runs is normal. A puddle that never drains usually means the coil is freezing or the drain inside the cabinet is plugged. Ice plus a puddle means an airflow or refrigerant problem, not just a wet driveway."
+    },
+    {
+      "q": "how do I know if the condenser needs replacing or just cleaning",
+      "a": "Look at the cabinet metal, not just the coil. Surface rust and a dirty coil are both repairable. Rust through the sheet metal, an oil stain on the ground from a leaking circuit, or a fan shroud cracked apart are signs the unit is done. The technician will know which one you are looking at after a few minutes with a meter."
+    }
+  ],
+  "_faqsNote": "5 to 6 FAQs. Cost first. Use the phrasing a person types, not a marketer's phrasing."
+}

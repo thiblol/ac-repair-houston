@@ -1,0 +1,137 @@
+{
+  "intro": "Bellaire is one square mile of ranch houses built between the 1940s and the 1970s, and the air conditioning arrived at roughly the same time. Almost every unit on these small lots has now spent fifty summers in the same patch of ground, so a breakdown here is usually an old part giving out rather than a new design failing.",
+  "localAngle": "Every block in Bellaire holds houses of the same vintage, so a technician sees the same equipment year after year. A 1950s ranch may still be cooling through a 1960s split system, with a coil sized for a smaller version of the house. The lots are small, so the outdoor unit sits close to a fence line under a canopy that keeps the ground damp. Nothing here sees salt air, but the humidity load is the same Gulf load the metro carries. When a system fails, the question is rarely which part broke. It is how many of the others are one week away.",
+  "commonCalls": [
+    "R-22 systems from the 1960s and 70s losing refrigerant, where the leak has to be found rather than topped off",
+    "Fixed orifice systems that run constantly and never reach setpoint because the evaporator coil is scaled",
+    "Condenser units buried under oak leaf litter, with the airflow choked and the cabinet damp underneath",
+    "Capacitors and contactors that give up in the first stretch of hot weather after a mild winter"
+  ],
+  "landmarks": [
+    "Bellaire Boulevard",
+    "Bellaire High School",
+    "Bissonnet Street",
+    "Jenny Lind Street",
+    "the Bellaire Museum",
+    "Mockingbird Lane",
+    "South Rice Avenue",
+    "the 610 loop",
+    "Continuing Education Center",
+    "Willowbend Park"
+  ],
+  "faqs": [
+    {
+      "q": "How old is the average air conditioner in Bellaire?",
+      "a": "The houses here were built between the 1940s and the 1970s, and central air went in over the same stretch. If your outdoor unit went in before 1980, the refrigerant is almost certainly R-22, and parts for those systems get harder to find with every season that passes."
+    },
+    {
+      "q": "Why does my Bellaire unit run all day without cooling the house?",
+      "a": "A few things show up here. Ducts from the 1950s and 60s were often sized small for the house as it was framed, and adding a room later makes the imbalance worse. A scaled evaporator coil holds less heat. And a condenser sitting under a drift of oak leaves breathes less air than it needs to."
+    },
+    {
+      "q": "Is salt air a problem for an AC unit in Bellaire?",
+      "a": "No. This part of the metro sits inland from the bay and does not get the salt spray that corrodes outdoor units along the coast. What it does get is Gulf humidity and heavy oak shade, which keeps the coil damp and the ground around the unit wet."
+    },
+    {
+      "q": "Would a ductless system make more sense than central air in my Bellaire home?",
+      "a": "Some ranch houses on these small lots have no attic and no practical space for a full air handler. A ductless head or two can cool a house with no usable ductwork, and the outdoor unit can sit in a side yard where a full system would have nowhere to go."
+    },
+    {
+      "q": "What happens to my AC during a summer power interruption in Bellaire?",
+      "a": "Bellaire sits inside the 610 loop, so a storm or a load shed takes power out here along with the rest of inner Houston. The hard part is not the restart. It is the house sitting at 90 degrees for hours with the compressor then trying to pull it down against a soaked building."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Two reference the local condition directly: the square mile of 1940s to 1970s ranch housing on small lots, and the inland position that rules out salt exposure while the Gulf humidity load stays. The other three cover diagnosis, ductless options and grid behaviour.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Most emergency calls here come from a system old enough to have a specific part fail, not from a modern unit with a control board fault. Capacitors, contactors and tired breakers on 1960s equipment are the usual starting point, and the diagnosis is faster if you can say whether the outdoor unit ran before it stopped.",
+      "localNote": "Equipment here is old enough that the failure points are predictable. A capacitor sitting unused through a mild winter often dies the first time the compressor is asked to start in May, and a panel from the 1950s can trip every time the system kicks on. The company we connect you with will want the age of the unit and the age of the panel before anyone sets out.",
+      "faqs": [
+        {
+          "q": "What should I check before I call about an emergency in Bellaire?",
+          "a": "Note three things: whether the indoor blower runs, whether the outdoor unit makes any sound at all, and whether the breaker holds. In a house this old the panel is often the oldest part of the system, so say when the house was built and whether the electrical service has ever been updated."
+        },
+        {
+          "q": "Why would my AC stop on the hottest night of the year?",
+          "a": "Old compressors draw more current and are likelier to trip under load. A 1960s system on a panel that also serves the range and the dryer can trip the moment the compressor pulls full load. The technician needs the panel age to know what to plan for before the visit."
+        }
+      ],
+      "_faqsNote": "2 FAQs. The first is about narrowing the fault down before a call, the second is about a 1950s panel on a 1960s system tripping under load on a peak night."
+    },
+    "same-day-ac-repair": {
+      "intro": "Not every call here is a breakdown. A lot of them are a system that has run for years without attention and now runs all day, or an outdoor unit buried under the oak leaves that dropped this spring.",
+      "localNote": "The oak canopy over these small lots drops enough litter to cover a condenser, and a blocked coil makes the unit run long and never reach setpoint. A 1950s system with undersized ductwork does the same thing. These calls get scheduled rather than dispatched, because the system still works, it just works badly.",
+      "faqs": [
+        {
+          "q": "How often should an old Bellaire unit be checked before summer?",
+          "a": "If the outdoor unit has not been serviced in a few years, a spring check earns its keep. It gets the coil cleaned, the filter changed and the electrical connections checked before the first hot stretch, which is when most of these calls turn into emergency work."
+        },
+        {
+          "q": "My AC runs constantly but the house stays warm. What should I do first?",
+          "a": "Start with the filter and the outdoor coil. A clogged filter and a choked condenser are the two cheap things that make a system run without cooling. If it behaves the same after both, the ductwork or the refrigerant is the next thing to look at."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on scheduling a spring check before the failure, one on the filter and coil as the first two cheap checks."
+    },
+    "ac-not-cooling": {
+      "intro": "Air moving but not cooling is the most common complaint from these ranch houses. The system runs, the vents push air, and the thermostat sits at 72 while the house stays in the 80s. The usual cause is old equipment working against a coil and duct system that was never generous to begin with.",
+      "localNote": "Central air was retrofitted into a lot of these 1940s and 50s houses long after they were framed, and the duct runs were sized for the rooms they covered at the time. Open a living room up later and the same unit now pushes air through a longer path with more leakage. A scaled evaporator coil makes it worse. The technician needs to see the duct layout, not just the outdoor unit.",
+      "faqs": [
+        {
+          "q": "Why does only some rooms in my Bellaire home get cool?",
+          "a": "Older ranch houses often have the return air in a hallway or a central spot that pulls from one part of the house. If bedrooms were added or closed off later, the supply may never reach them. A thermostat in the hallway reads the average, which can hide a room that never cools at all."
+        },
+        {
+          "q": "Should I keep lowering the thermostat if the air is only warm?",
+          "a": "No. If the indoor coil is freezing, a lower setting makes the freeze worse and can shut the system down. Turn the system off at the thermostat, let the coil thaw, and try one cycle before you call."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on room-to-room imbalance from retrofitted ductwork, one on why lowering the thermostat makes a frozen coil worse."
+    },
+    "ac-repair": {
+      "intro": "A repair call usually ends with a parts conversation, because the equipment is old enough that one failed part can bring up a list of near misses. The technician who takes the job needs to identify the unit by model and serial, and that information sits on the nameplate on the outdoor unit or the side of the air handler.",
+      "localNote": "The stock here is narrow. A 1960s or 1970s unit has been sitting on the same slab since the block was built, and discontinued parts for those lines are the difference between a same-day fix and a unit that has to be swapped out. Tell the company covering your area how old the system is before the visit. If it predates the R-22 phaseout, knowing that in advance saves a wasted trip.",
+      "faqs": [
+        {
+          "q": "Where do I find the model number on my AC unit?",
+          "a": "On the outdoor unit, look on the side panel near the top for a data plate with the model and serial. If the plate has faded or rusted, a photo of it under good light still helps, and a photo of the whole unit helps more. Serial numbers alone can narrow down the production run."
+        },
+        {
+          "q": "Is it worth repairing a 1970s air conditioner in Bellaire?",
+          "a": "Sometimes. The deciding factors are whether the parts still exist for that model and whether the coil, cabinet and lines are in better shape than the failed part. If the unit uses R-22, add the shrinking supply of that refrigerant to the list, because a recharge is a short-term answer."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on finding the model number and serial without a service call, one on whether a 1970s unit with R-22 is worth repairing."
+    },
+    "ac-installation": {
+      "intro": "When a house here needs new cooling, the constraint is the lot. The ranch houses on these blocks were built with narrow side yards and often no attic worth using, so where the outdoor unit goes decides the design more than the tonnage does.",
+      "localNote": "Small lots mean the condenser has to go somewhere specific, and it cannot sit where a shrub is throwing shade onto it or where oak roots have lifted the slab. A house framed for central air in the 1940s may have a coil matching a system gone for decades, so a new install means a new coil, a new condenser and a fresh look at the line set. Get a load calculation from the actual glass, not a sales sheet.",
+      "faqs": [
+        {
+          "q": "How much room does an AC installation need on a Bellaire lot?",
+          "a": "A condenser needs clear airflow on at least two sides, a spot that drains away from the house, and pad or a base that keeps it level. On a narrow lot the fence line limits which wall you can use, and a unit wedged into a corner with no clearance will short-cycle and cook itself."
+        },
+        {
+          "q": "Do I need a load calculation for a new AC in Bellaire?",
+          "a": "Yes, and the number on a sales sheet is not one. A 1950s ranch with single-pane windows, a west wall of glass and a low ceiling profile can need a different capacity than a similar house with new windows. Over-sizing is common in these older homes and causes short cycling."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on condenser clearance and drainage on a narrow lot, one on why a load calculation beats a tonnage number for 1950s ranch housing."
+    },
+    "ac-replacement": {
+      "intro": "Replacement makes more sense than repair when the outdoor unit is from the 1960s or 70s and the refrigerant inside it is R-22. That gas is no longer produced for new equipment, so every service visit that recharges an R-22 system depends on a shrinking supply.",
+      "localNote": "A house like this often has the whole stack at the same age: condenser, coil, air handler and a matching refrigerant. Once that is true, swapping one component leaves the others behind. The electrical panel matters too. A service that has never been updated may not have the amperage for a modern condensing unit, and the panel belongs in the conversation before the quote rather than after the old unit is pulled.",
+      "faqs": [
+        {
+          "q": "What is R-22 and why does it change the replacement decision?",
+          "a": "R-22 is an older refrigerant that many systems from the 1960s through the 1980s still contain. It is no longer produced for new equipment, and what is available is limited and priced accordingly. A new system uses a different refrigerant, which means new lines, and that changes the scope of the job."
+        },
+        {
+          "q": "Do I need to replace the whole system or just the outdoor unit?",
+          "a": "If the coil and air handler are the same age as the condenser and use the same refrigerant, replacing the whole stack avoids mixing components of different eras. If the indoor side is newer and already uses the current refrigerant, the outdoor unit can sometimes go alone. Have the technician check the coil and the line set before you decide."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on what R-22 means for the parts and the line set, one on replacing the whole stack versus the condenser alone."
+    }
+  }
+}

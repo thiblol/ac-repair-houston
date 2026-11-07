@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" width="1600" height="620" role="img">
+  <defs>
+    <linearGradient id="hsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#DCE4EC"/>
+      <stop offset="0.55" stop-color="#EDE6DA"/>
+      <stop offset="1" stop-color="#F0EBE3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="620" fill="url(#hsky)"/>
+
+  <!-- haze band -->
+  <rect y="330" width="1600" height="120" fill="#E4DED4" opacity="0.55"/>
+
+  <!-- downtown skyline -->
+  <g fill="#4A443D">
+    <rect x="560" y="330" width="46" height="170"/>
+    <rect x="616" y="292" width="34" height="208"/>
+    <rect x="660" y="352" width="52" height="148"/>
+    <rect x="722" y="248" width="40" height="252"/>
+    <rect x="772" y="312" width="58" height="188"/>
+    <rect x="840" y="200" width="30" height="300"/>
+    <path d="M840 200h30l-15-42z"/>
+    <rect x="880" y="342" width="44" height="158"/>
+    <rect x="934" y="286" width="36" height="214"/>
+    <rect x="980" y="368" width="62" height="132"/>
+  </g>
+  <!-- window grids on the taller towers -->
+  <g fill="#F0EBE3" opacity="0.35">
+    <path d="M730 268h24M730 296h24M730 324h24M730 352h24M730 380h24M730 408h24M730 436h24"/>
+    <path d="M942 306h20M942 334h20M942 362h20M942 390h20M942 418h20M942 446h20"/>
+    <path d="M624 312h18M624 340h18M624 368h18M624 396h18M624 424h18M624 452h18"/>
+  </g>
+
+  <!-- mid-rise band -->
+  <g fill="#6E655B" opacity="0.8">
+    <rect x="60" y="400" width="120" height="100"/>
+    <rect x="196" y="424" width="96" height="76"/>
+    <rect x="308" y="392" width="140" height="108"/>
+    <rect x="464" y="418" width="76" height="82"/>
+    <rect x="1044" y="410" width="130" height="90"/>
+    <rect x="1190" y="388" width="104" height="112"/>
+    <rect x="1310" y="420" width="150" height="80"/>
+    <rect x="1476" y="400" width="94" height="100"/>
+  </g>
+
+  <!-- ship channel cranes, the Houston tell -->
+  <g fill="none" stroke="#4A443D" stroke-width="4" stroke-linecap="round">
+    <path d="M1090 470v-96M1090 374h116M1090 374l-30 30M1206 374v96"/>
+    <path d="M1130 470v-70M1170 470v-52"/>
+    <path d="M240 470v-84M240 386h96M240 386l-24 26M336 386v84"/>
+    <path d="M274 470v-60M306 470v-44"/>
+  </g>
+  <g fill="none" stroke="#6E655B" stroke-width="3">
+    <path d="M1064 470h168M214 470h148"/>
+  </g>
+
+  <!-- water -->
+  <rect y="500" width="1600" height="120" fill="#9DB2C4"/>
+  <g stroke="#E4DED4" stroke-width="2.5" opacity="0.55">
+    <path d="M40 528h180M280 552h240M600 530h300M980 556h260M1300 532h240"/>
+    <path d="M120 578h300M520 588h220M860 574h340M1280 592h220"/>
+  </g>
+
+  <!-- foreground bank -->
+  <path d="M0 620V566h210l60 54z" fill="#4A443D"/>
+  <path d="M1600 620v-44h-180l-50 44z" fill="#4A443D"/>
+</svg>

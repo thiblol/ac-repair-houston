@@ -1,0 +1,37 @@
+{
+  "intro": "Sending a request here does one thing: it passes what you wrote to an independent HVAC company that covers the area you picked. We are a referral service, not a repair company, so nobody from this site arrives at your house. You deal directly with the company that takes your job, from the first phone call to the final invoice.",
+  "sections": [
+    {
+      "h": "What happens when you hit send",
+      "p": "Your request goes into our system with the name, phone number, email address if you gave one, the service area you selected, the kind of work you picked and the description you wrote. It is matched to a company that covers that area and passed to them. You do not need an account and there is nothing to sign. If the submission does not go through, the form tells you rather than pretending it worked."
+    },
+    {
+      "h": "What the company does next",
+      "p": "They read the description and call you. They ask their own questions, because nobody can see your system from a form. Expect to be asked what the outdoor unit is doing, whether the air is warm, whether the breaker holds, and how old the equipment is. Then they decide what the job needs, set their own appointment, and tell you what the work involves and what it costs before they start. Everything after that first call is between you and them."
+    },
+    {
+      "h": "Why we ask for your area",
+      "p": "So the request goes to a company that works your part of the metro and can actually get to the house. A company that does not cover your street would have to turn the job down, and you would lose time for nothing. We also ask what kind of work you need so the request lands with a company that takes that kind of job."
+    },
+    {
+      "h": "Why there is no price on this site",
+      "p": "Because we do not know your system and we do not do the work. What a job costs depends on the equipment, its age, which part has failed, whether the trouble is in the refrigerant, the coil, the wiring or the airflow, and how hard the unit is to reach. Only the technician who can open the panel can price it. Any number printed here would be a guess dressed up as a quote."
+    },
+    {
+      "h": "Why we do not name one company",
+      "p": "Because the request goes to the company covering your area, not to a list we get to pick from, and we do not put companies into a contest for your job. We also do not stop you from going elsewhere. You can say no to the company that calls, ask for a second opinion, or hire somebody else entirely. If you hire somebody else, there is nothing to settle with us, because you never made a contract with us."
+    },
+    {
+      "h": "Check the license before anyone starts",
+      "p": "Ask the company for its Air Conditioning Contractors license number, then look it up yourself in the Texas Department of Licensing and Regulation license search at tdlr.texas.gov. Check that the status is active and that the name on the license matches the company you are dealing with. A company with a real license will not mind you doing this. Ask the same question about liability insurance, and get the estimate in writing before anyone opens a panel."
+    },
+    {
+      "h": "If the system fails on a hot afternoon",
+      "p": "Say in the description that the house is heating up and you have no cooling, and pick Emergency AC Repair in the service list. Say whether the outdoor unit is silent, humming or running, and leave a phone number somebody can answer. Emergency requests go to a company covering your area that takes emergency work. We do not promise an arrival time, and nobody from this site is coming to your door, so if you need somebody there now, say so on the phone. While you wait, set the thermostat to fan only, open the doors between rooms to move air, and check the AC breaker once if the outdoor unit has stopped."
+    },
+    {
+      "h": "What this site does not do",
+      "p": "We do not send technicians, diagnose your system, quote a price or book the visit. We do not have an office, a shop or a walk-in door. We do not stand behind the warranty a company gives you. We do not guarantee that anyone will respond, that a response will be quick, or that the work will be done well. Those are questions for the company that takes your job."
+    }
+  ]
+}

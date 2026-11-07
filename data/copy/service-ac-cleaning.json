@@ -1,0 +1,38 @@
+{
+  "intro": "Cleaning is the cheapest performance gain available on a cooling system. The outdoor coil packs down with dust, pollen, and whatever the wind carries, and the indoor coil in the air handler gathers dust from the return air and a film from the moisture it pulls out of the house, so a blocked coil starves airflow and the system runs longer and harder for the same result. When you book a cleaning, the technician who takes the job shows you what was actually on the coil.",
+  "whatHappens": [
+    "Cut power to the outdoor unit and comb the fins on the condenser coil",
+    "Wash the condenser coil down and rinse the pan beneath it",
+    "Open the air handler and clean the evaporator coil and the blower housing",
+    "Check the filter, the drain line, and the refrigerant readings while the unit is open",
+    "Show you the before and after pictures and flag anything that still needs repair"
+  ],
+  "howPriced": "A cleaning is priced on labor and access, and the coil count changes it. A split system has two sides to clean, the outdoor unit and the indoor coil, and both take time, while a packaged unit with everything in one cabinet is quicker and a unit in a closet, in an attic, or on a roof takes longer to reach. Time of day moves the rate the same way it does on a repair call, and whether it is a straight service or a service that turns up a bigger problem changes the total, so ask for the cleaning price and the repair price separately.",
+  "faqs": [
+    {
+      "q": "How much does AC cleaning cost?",
+      "a": "Most of it is labor, so the equipment and its location decide the number. A standard outdoor unit that is easy to reach is a short visit. Adding the indoor coil, a filter change, or a drain treatment adds time. If the technician finds a real fault while the unit is open, that gets quoted on its own."
+    },
+    {
+      "q": "How often should I have my AC cleaned?",
+      "a": "Once a year, usually before the cooling season starts. Coils pick up more as trees leaf out and as the unit collects dust over a season. If the outdoor unit sits under trees or near a dusty road, that shortens the interval."
+    },
+    {
+      "q": "Does cleaning the condenser coil actually make a difference?",
+      "a": "It does, and it is the easiest improvement to measure. A packed coil restricts airflow, which raises the pressure in the system and the power it draws. Clean the coil and the system gets back the airflow it was designed for and stops running long cycles."
+    },
+    {
+      "q": "Will an AC cleaning fix an AC that is not cooling?",
+      "a": "Sometimes, and it is worth trying before you book a repair. A dirty coil and a clogged filter are common reasons a system that worked last year barely runs now. If the airflow was fine and the cooling is still weak, the cause is somewhere else, like a charge issue, a compressor fault, or a refrigerant leak."
+    },
+    {
+      "q": "Can I clean my AC coils myself?",
+      "a": "Gently, yes. A soft brush and a hose on a low setting clears a surprising amount of debris off the outdoor coil, and a vacuum gets the indoor side. Do not use a pressure washer on the fins, which bends them, and never open the electrical compartment yourself."
+    },
+    {
+      "q": "What does an AC tune up include?",
+      "a": "Cleaning the coils, checking the filter, verifying the refrigerant charge, testing the electrical connections and the cycling, and inspecting the drain. The point is to catch what is about to fail while the unit is open. A tune up on a system with an unrepaired fault is money spent on half the problem."
+    }
+  ],
+  "_faqsNote": "6 FAQs. Cost first. Includes the honest question about whether cleaning actually fixes a system that is not cooling."
+}

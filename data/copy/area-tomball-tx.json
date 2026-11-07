@@ -1,0 +1,138 @@
+{
+  "intro": "Tomball is a former rail town with newer subdivisions spreading out around it, and the housing runs from the 1960s through houses built in the 2010s. The tree cover is the point here: heavy pine and oak over most of the town, which keeps the yards cooler and the condenser coils filthy.",
+  "localAngle": "The canopy does two opposite things. It shades the house, which cuts the cooling load, and it carpets the outdoor unit with needles and leaf litter that pack the fins. A unit that is boxed in by pine shade also stays damp, and damp is enough to corrode a base pan over decades. There is a second effect that catches people in the newer subdivisions. The trees were planted when the land was empty, the system was sized for a bare lot, and now the lot is shaded, which is a good thing, except the system was still sized for a hot one. Old and new sit on the same streets.",
+  "commonCalls": [
+    "Condenser coils packed with pine needles and oak litter in shaded yards",
+    "Systems in newer subdivisions that were sized for a bare lot and now struggle anyway",
+    "Outdoor units sitting low in grass where the grade has settled and the pad holds water",
+    "Units with a fence or shrub that grew in around them after they were installed",
+    "Older 1960s and 70s systems on the streets near the rail depot that have never been serviced"
+  ],
+  "landmarks": [
+    "the old rail depot and Tomball Historical Society",
+    "the Grand Parkway",
+    "TX-99",
+    "FM 149",
+    "Tomball High School",
+    "the 249 and 99 area",
+    "Peach Tree",
+    "Creekwood",
+    "FM 1960",
+    "the Trinity Forest area"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my Tomball AC run all day in July?",
+      "a": "The shade is good for the house and bad for the unit. Heavy pine and oak litter packs the condenser fins, and a choked coil means the system works much longer for the same cooling. Start with the filter and the outdoor coil before you decide the unit is finished."
+    },
+    {
+      "q": "Does salt air reach Tomball?",
+      "a": "No. This part of the metro is well inland from the Gulf, so outdoor equipment here does not deal with salt spray. What it deals with is humidity, shade and a steady supply of leaf litter, and the maintenance that pays off is keeping the coil and the drain line clear."
+    },
+    {
+      "q": "My Tomball house is new but the AC struggles. Why?",
+      "a": "It was sized for an empty lot. The trees were planted later and they now shade the house, which should help, but they also shade the outdoor unit, which means it moves less air and the yard around it stays damp. Subdivisions where the plant palette has grown into the equipment need attention."
+    },
+    {
+      "q": "Is a ductless system practical in Tomball?",
+      "a": "It is one of the more workable options here. Many of the older houses along the original rail town streets were framed without central air, and a ductless head can condition them without opening finished walls. The outdoor unit still needs airflow and drainage, and the shade is a factor worth thinking about."
+    },
+    {
+      "q": "What should I check on my outdoor unit before storm season?",
+      "a": "Look at the clearance around it. In a yard with mature oaks and pines, a unit that was fine in a new subdivision can be half buried in a year. Keep it clear of limbs and leaves, and make sure the pad sits above the surrounding grade, because standing water on a pad is how a unit dies."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Two reference the local condition directly: the heavy pine and oak canopy that both shades the unit and litters it, and the inland position that keeps salt spray out. The other three cover sizing for a treed lot, ductless options in the old rail town streets and pre-storm clearance.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Emergency work in Tomball is usually an older system failing in the first real heat of the season, or a unit that quits when it is already loaded up. The tree cover is the difference between a unit running hard and a unit running fine.",
+      "localNote": "The outdoor units in this area sit in permanent shade, and shade means the coil is damp and the fins are full. A compressor working against a fouled coil runs hotter and trips sooner, usually in the first afternoon the demand shows up. On the older streets near the depot the equipment goes back to the 1960s and 70s, so the parts on the truck matter. Give the age of the unit and the year it went in when you call.",
+      "faqs": [
+        {
+          "q": "Why does my Tomball AC fail when the heat arrives rather than in July?",
+          "a": "The first real demand of the season is when an aged compressor finds out what it can no longer do. A unit that has been idle through a mild winter will run differently once it is asked to carry the house day after day. It is also when a coil that has been quietly fouled finally shows its limits."
+        },
+        {
+          "q": "Does the shade around my outdoor unit cause it to fail?",
+          "a": "It contributes. A shaded unit and the ground around it stay damp, which corrodes the base pan and the electrical compartment over many years. The bigger problem is what the shade collects, since pine needles and oak litter pack the fins and the unit has to work much harder to move air through them."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on failure timing at the start of the season, one on how shade and the litter it collects affect an outdoor unit."
+    },
+    "same-day-ac-repair": {
+      "intro": "A lot of the booked work in Tomball is a system that works but works hard. New subdivisions and old streets produce the same symptom for different reasons, and it gets scheduled rather than dispatched.",
+      "localNote": "In a new subdivision the complaint is that the unit cannot keep up even though the house is shaded, and the cause is a coil buried under the leaf drop from trees that were planted after the unit went in. On the older streets the system has simply never been cleaned or serviced. Either way the appointment is a coil service, a filter and a look at the refrigerant side rather than a part swap.",
+      "faqs": [
+        {
+          "q": "My subdivision AC is only a few years old and needs a service every year. Is that normal?",
+          "a": "It is normal where the landscaping has matured around the unit. Pine and oak litter fall year round and the coil packs up faster than it would on an open lot. The service is not fixing a fault so much as clearing the airflow, and it is a good deal cheaper than a compressor that has been running against a choked coil."
+        },
+        {
+          "q": "Can a same-day visit tell me whether my old unit is worth keeping?",
+          "a": "Yes. Cleaning the coil, changing the filter and measuring the charge and the airflow will show whether the equipment is sound but neglected, or whether it is genuinely worn out. That assessment is what tells you whether to spend on a repair or on a replacement."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on annual service in a subdivision where the landscaping has grown in, one on using a service visit to judge whether an old unit is worth keeping."
+    },
+    "ac-not-cooling": {
+      "intro": "Warm air from the vents and a house that will not come down is the standard complaint here. It is usually airflow rather than a dead compressor, and the outdoor unit is where the answer is.",
+      "localNote": "A shaded condenser packed with needles is moving a fraction of the air it should. Add a grade that has settled so the unit sits in a puddle, or a fence that was built too close, and the coil runs warm with the refrigerant inside it. The indoor side has its own local story. In the older houses near the town centre the duct runs are original and the return sits in a central hallway, so the bedroom at the end of the house runs last.",
+      "faqs": [
+        {
+          "q": "The unit runs and the air is warm. Where do I start?",
+          "a": "Outside first, because that is where the problem usually is. Look at the coil through the fins, look at the clearance around the unit, and look at the pad for standing water. Any one of those will keep a system from moving enough heat, and all three are visible without a ladder."
+        },
+        {
+          "q": "My unit blows warm air after a rainstorm. What does that mean?",
+          "a": "It can mean several things and one of them is moisture in the system. After heavy rain a wet coil transfers heat poorly, and if water has been entering the outdoor unit the refrigerant charge may be affected. A system that runs a few minutes and then recovers was often working before the storm and needs a proper look."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on starting the diagnosis outdoors with the coil, the clearance and the pad, one on warm air after a rainstorm."
+    },
+    "ac-repair": {
+      "intro": "Repairing cooling in Tomball is often a matter of getting at the equipment. A unit in a fenced yard under a low limb turns a straightforward job into a longer one, and the technician needs to know that before the visit.",
+      "localNote": "Get the model and the year off the nameplate. In a town where new subdivisions and 1960s houses sit on the same street, the parts lists have nothing in common. The local conditions also change what fails. A unit that sits in a damp shaded yard corrodes at the base pan, and a line set that has been through twenty wet winters is a leak waiting to happen, so both are worth looking at while the panels are off.",
+      "faqs": [
+        {
+          "q": "My AC is behind a fence in a wooded yard. Does that affect the cost?",
+          "a": "It affects the work. A technician who has to clear a path, move a gate panel or work around low branches spends time on access rather than on the repair. Telling the company covering your area about the route in advance means they can plan for it, and it is also worth knowing whether the gate can be left open for the visit."
+        },
+        {
+          "q": "How do I tell a technician how old my outdoor unit is?",
+          "a": "Photograph the nameplate on the side of the cabinet and send it with the request. On an older unit the plate may be hard to read, so include the address and the approximate year the house was built as well. In a town with this much new construction next to 1960s housing, the year of the house alone will not narrow it down."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on access in a wooded fenced yard and how to flag it, one on identifying the age of an outdoor unit where the nameplate is hard to read."
+    },
+    "ac-installation": {
+      "intro": "Installing cooling in Tomball is a question of what the house is and what the lot looks like now. New construction in the subdivisions is straightforward. The older houses near the rail depot are not, and they often need a different answer.",
+      "localNote": "In the new subdivisions the load calculation has to look at where the trees will be in ten years rather than the bare lot, and the outdoor unit needs a pad and a spot that stays clear as the landscaping matures. In the older houses the choice is between ductless heads and a compact split, because there is often no attic and no practical place for ducts. Nothing here sees salt air, so a coastal protection package is not necessary.",
+      "faqs": [
+        {
+          "q": "Should the outdoor unit go in the shade or the sun?",
+          "a": "Shade is better for the condenser, but it must be real shade and it must not come with a tree that will drop limbs or a pile of needles onto it. The ideal is protection from the worst afternoon sun with clear airflow and room to grow. A unit placed in full sun works harder and a unit placed under a mature tree collects debris."
+        },
+        {
+          "q": "What size system does a new Tomball home need?",
+          "a": "The one the load calculation gives for the house as built, with a look at how the lot will be planted. A subdivision house with a lot that is bare today may be shaded in five years, which lowers the load, while a house with a west wall already taking afternoon sun has a permanent penalty. Ask for the calculation to be shown, not just the tonnage."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on siting the condenser for shade without debris, one on sizing a new build against a lot that will be planted."
+    },
+    "ac-replacement": {
+      "intro": "Replacing an old system in Tomball is often worth doing earlier than it would be inland, because the canopy means the house is shaded and does not need as much capacity as it used to. A unit that was oversized for a bare lot can be replaced with something better matched to the trees it now sits under.",
+      "localNote": "The 1960s and 70s houses along the old rail town streets often hold R-22 or another older refrigerant, and parts for those systems are getting harder to source. Replacing the condenser with a modern unit means a new coil and a check on the line set, since the copper has been in a damp shaded yard for half a century. A higher efficiency unit also does more here, because a shaded house has less heat to remove.",
+      "faqs": [
+        {
+          "q": "My old unit uses R-22. What does that change?",
+          "a": "It changes the scope of the job. A new system uses a different refrigerant, and if the line set is reused it has to be sized for the new charge, and in this damp environment the old copper may not be worth trusting anyway. The nameplate on the outdoor unit tells you which refrigerant is in there, and the technician can read it before anything is quoted."
+        },
+        {
+          "q": "My house is shaded by big trees now. Do I still need the same size AC?",
+          "a": "Probably not the same size. A system sized for a lot with no shade is oversized for a lot under a mature canopy, and an oversized unit cycles short and never dehumidifies properly. A load calculation that accounts for the shade today can land you on a smaller, better-matched system."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on what R-22 means for the line set and the coil, one on right-sizing a replacement under a canopy that did not exist when the house was built."
+    }
+  }
+}

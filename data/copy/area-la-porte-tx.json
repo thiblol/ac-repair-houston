@@ -1,0 +1,138 @@
+{
+  "intro": "La Porte is an older town on the east side with a working industrial strip behind it, and the summer air carries salt off the bay and particulate off the plant. The houses run from the 1950s through the 1990s, which means a lot of outdoor units have been standing in that air for a long time.",
+  "localAngle": "The condenser is where the local air shows up first. Salt settles on the fins and dulls them. Dust from the industrial corridor packs between the fins and holds moisture against them. A coil that is dirty and scaled moves far less air than a clean one, and the unit works longer for the same result, so the house cools slower and the electric use climbs. The housing adds a second layer. The 1950s through 70s homes have small windows and little insulation, and their original systems were sized for a smaller cooling market. Add the coastal oak and you get shade for the house and debris for the equipment.",
+  "commonCalls": [
+    "Condenser coils blackened by industrial dust and dulled by a salt film",
+    "Older split systems in 1950s and 60s houses running constantly without catching up",
+    "Refrigerant leaks at corroded line joints on units that have stood outside for decades",
+    "Cabinet and base pan corrosion on outdoor units set on slabs near the channel",
+    "Systems that cannot keep up during the hottest stretch of the summer"
+  ],
+  "landmarks": [
+    "TX-146",
+    "the 45 and Beltway 8",
+    "La Porte High School",
+    "the La Porte Channel",
+    "Eagle Point Park",
+    "the 610 loop",
+    "La Porte ISD",
+    "the Baytown La Porte airport",
+    "Sylvan Park",
+    "the Lynchburg Landing area"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my La Porte condenser look dirty compared with a neighbour's?",
+      "a": "The plant corridor and the bay air both reach this part of the county. Dust packs the fins and a salt film sits over the top, and the unit needs a rinse and a proper coil cleaning to move air again. A unit cleaned once a year will run cooler through August than one that never is."
+    },
+    {
+      "q": "Does the summer air quality in La Porte hurt my AC?",
+      "a": "It puts more load on the filter and on the outdoor coil than the same house would have inland. The filter clogs faster, which restricts airflow across the indoor coil, and that is how a system ends up with a frozen coil in July. Checking the filter monthly through the summer is not busywork in this environment."
+    },
+    {
+      "q": "My AC stops running in the hottest part of the afternoon. Is that normal?",
+      "a": "It is not something to put up with. A system that runs steadily and then quits when the load peaks is often low on refrigerant, or the compressor is tripping on high head pressure because the coil is fouled. Both need a technician. Note the time of day it stops, that detail helps narrow it down."
+    },
+    {
+      "q": "How old is the equipment in a 1960s La Porte house?",
+      "a": "If the house was framed in the 1960s, the original split system may still be the one in the yard unless somebody replaced the condenser alone. A mixed system, with a new outdoor unit and an old coil, is common and worth having checked, because a new condenser does not fix a system that cannot move enough air."
+    },
+    {
+      "q": "Does La Porte flood during heavy rain?",
+      "a": "Low areas near the channel do hold water, and an outdoor unit that has been standing in it is finished. Salt water and standing water together corrode the compressor quickly, and the unit can run for a while before it fails, which makes it worse. If your unit sits low on the lot, elevation is worth planning for."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Two reference the local condition directly: the combination of salt off the bay and particulate off the industrial corridor, and the channel flooding on low lots. The other three cover condenser cleaning, afternoon shutdowns and mixed-era equipment.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Emergency calls in La Porte tend to be a system giving out at the hottest hour of the hottest week. That points to a compressor working against a coil that cannot shed heat, or to the electrical side of an outdoor unit that has been standing in salt air for a long time.",
+      "localNote": "Coastal corrosion is the thread through most of these calls. The contactor, the disconnect and the wiring inside the outdoor cabinet all sit in the path of moist air, and a corroded connection will arc and open on a high-demand afternoon. Add the dust from the corridor and the coil runs hotter than it should. The company covering your area will want the model and the age of the outdoor unit when you call.",
+      "faqs": [
+        {
+          "q": "Why does my La Porte AC fail in the peak of the afternoon?",
+          "a": "Peak heat puts the most pressure on a system that is already working hard. If the coil is fouled with corridor dust and salt, the compressor runs at high head pressure and trips on its own overload. If the refrigerant is low, the same afternoon can push it over. The timing points at the cooling side rather than the controls."
+        },
+        {
+          "q": "What should I do if my outdoor unit has ice on it in the summer?",
+          "a": "Ice on the outdoor unit in warm weather usually means the refrigerant charge is low, so the pressure in the coil is dropping below what it should be. It is different from ice on the indoor unit, which is an airflow problem. Either way, switch the system off at the thermostat and have it looked at rather than letting it cycle."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on peak afternoon shutdowns from high head pressure, one on ice forming on the outdoor unit in warm weather."
+    },
+    "same-day-ac-repair": {
+      "intro": "The same-day calls here are usually systems that run but do not perform. A unit with a fouled coil, a house with a system sized for a smaller square footage, and an air handler that has quietly iced up all look like equipment that is barely working.",
+      "localNote": "The pattern in La Porte is that the outdoor unit is doing more than it was designed for. Salt film and corridor dust both act as insulation on the fins, so the unit runs longer to shed the same heat and the house takes longer to cool. That is a maintenance problem a coil service and a filter change can turn around, which is why it gets scheduled rather than dispatched.",
+      "faqs": [
+        {
+          "q": "My La Porte AC runs a long time but the house eventually cools. Is that a fault?",
+          "a": "It is a loss of capacity, which usually points at the condenser. When the coil is fouled the unit has to run longer for the same cooling, and the difference shows up most on the hottest days. A coil clean and a check of the refrigerant will tell you quickly whether there is also a leak underneath."
+        },
+        {
+          "q": "How do I know whether my filter needs changing more often here?",
+          "a": "Open the filter rack and look at it. In dust and salt air it will load up faster than the same filter in an inland house, and a dirty filter shows as a longer run time and a house that reaches setpoint more slowly. Change it when it looks grey, and check monthly through the summer."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on long run times from condenser fouling, one on filter loading in a dusty and salty environment."
+    },
+    "ac-not-cooling": {
+      "intro": "Air blowing but not cooling is common in this part of Harris County, and the reason is often visible from the yard. The condenser is dirty, or it is boxed in by a fence and a shrub that grew into it after it was installed.",
+      "localNote": "La Porte houses from the 1950s and 60s have a second factor. Central air went in years after the houses were framed, and the duct runs were sized for the rooms as they were then. Open a wall, add a den, and the same unit now pushes air through a longer path with more leakage than it was built for. A technician measuring airflow will find what a thermostat cannot tell you.",
+      "faqs": [
+        {
+          "q": "My air conditioning runs but only some rooms are cool. What is wrong?",
+          "a": "Usually the duct layout rather than the equipment. In houses where the system was added to an older frame, the supply runs often reach the original rooms and miss the ones added later. A blocked or closed register makes it worse. Testing the airflow at each vent tells you whether the problem is distribution or capacity."
+        },
+        {
+          "q": "Why does lowering the thermostat make the AC run longer without cooling more?",
+          "a": "The system can only move the air it has. If airflow is already restricted by a dirty filter, a scaled indoor coil or undersized ducts, asking for a lower setting just makes it run longer with the same result. Lowering the setting also risks freezing the coil, which cuts the airflow to nothing."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on room-to-room distribution in retrofitted ductwork, one on why lowering the setpoint does not fix a restricted system."
+    },
+    "ac-repair": {
+      "intro": "Parts availability and the condition of the metal are the two questions that shape a repair here. On units this old, the part may still exist while the cabinet or the line set around it is not worth saving.",
+      "localNote": "Salt turns the base pan and the cabinet fasteners into a liability, and it works on the copper where the lines enter the unit. A 1980s system near the channel may have a line set that is sound and a coil that is pitted, and those two decisions go in opposite directions. Give the technician the age of the system and the age of the condenser separately, because they are often different.",
+      "faqs": [
+        {
+          "q": "Can a corroded outdoor unit cabinet be repaired?",
+          "a": "Sometimes, with the base and fasteners replaced. What matters is whether the corrosion has reached the electrical compartment and the coil mount. On a unit that has stood near the channel for thirty years, the cabinet is often the weakest part of an otherwise serviceable system, and that changes whether a repair is worth doing."
+        },
+        {
+          "q": "Why does refrigerant keep leaking from the same outdoor unit?",
+          "a": "If the leak is at the line set entry or a flare joint, corrosion in the salt air is the likely cause and a new section of line is needed. If the leak is at the coil, the coil has to be replaced, and on a pitted coil cleaning will not hold a repair. Ask which it is before agreeing to a patch."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on repairing a corroded cabinet, one on why a repeated outdoor leak points to the line set or the coil rather than a fitting."
+    },
+    "ac-installation": {
+      "intro": "New cooling in La Porte has to be built for an aggressive air. The equipment choice and the siting matter more here than they would a few miles inland, and a standard unit set on a slab at the edge of a coastal lot will show it within a few seasons.",
+      "localNote": "Corrosion-resistant finishes, stainless hardware and a fresh isolator pad are worth asking about, and so is where the unit drains. Water standing in a salt environment goes to work on the base pan. Siting should also keep the unit clear of the dust plume and clear of any shrub that will grow into it. On the older housing the load calculation has to account for single-pane glass and small rooms with poor airflow, not just the square footage.",
+      "faqs": [
+        {
+          "q": "What makes a condenser last longer in La Porte?",
+          "a": "Corrosion protection and a site that stays dry. A coastal-rated finish, stainless fasteners and a pad that lifts the unit and drains away from the house slow the salt down. Keeping shrubs from growing against the unit and rinsing the coil once a year keep the airflow where it should be, and airflow is what actually cools the house."
+        },
+        {
+          "q": "How do I know what size system my older La Porte house needs?",
+          "a": "By measurement, not by square footage alone. A 1950s or 60s house may have single-pane windows, a west wall that takes the afternoon sun and little attic insulation. A load calculation that accounts for the glass, the orientation and the insulation gives a different answer than the number on the box."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on what extends condenser life in a coastal industrial environment, one on load calculation for a 1950s house with single-pane glass."
+    },
+    "ac-replacement": {
+      "intro": "Replacing the cooling in a La Porte home often makes more sense than repairing it, especially when the outdoor unit is from the 1980s and the refrigerant inside it is R-22. That gas is not produced for new equipment, so every service visit depends on a shrinking supply.",
+      "localNote": "A changeout in this environment is not just a new box on the slab. The lines have been standing in salt air and the coil and cabinet may be in the same condition, so a matched set with new lines is usually the cleaner path. The electrical service on these older homes is worth looking at while the crew is there, because a house built in the 1950s or 60s may still have a service sized for a different era.",
+      "faqs": [
+        {
+          "q": "Is replacing my AC worth it if the compressor still works?",
+          "a": "It can be, when the surrounding parts have already failed. On a unit from the 1980s in this climate, the coil, the cabinet and the line set are often in worse shape than the compressor, and the refrigerant is the one nobody can source. The technician can check those parts so the decision is made on what is actually there."
+        },
+        {
+          "q": "Do I need to upgrade the electrical service when I replace the AC?",
+          "a": "It depends on what is already there. A 1950s or 60s house may have a service that was never updated, and a modern condensing unit needs more amperage than the equipment it replaces. Have the panel checked before the quote, because a service upgrade changes the scope and it is better to know now."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on replacing a system whose compressor still runs, one on whether an old electrical service needs upgrading for a modern condensing unit."
+    }
+  }
+}

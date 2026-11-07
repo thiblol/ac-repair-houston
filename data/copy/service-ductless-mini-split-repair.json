@@ -1,0 +1,38 @@
+{
+  "intro": "A ductless system puts all of its working parts in two boxes with a line set between them, and the indoor head is where most failures show up. A dirty filter, a frozen coil, a failed fan motor, or a drain that overflows inside the head will take down one zone while the rest of the building is fine. Send the request and the technician who takes the job reads the error code on the head before deciding what part is involved.",
+  "whatHappens": [
+    "Read the code on the indoor head and confirm what that specific fault means for the model",
+    "Pull the filter and look at the coil behind it for blockage or ice",
+    "Check the drain leaving the bottom of the head for a clog",
+    "Verify the line set, the outdoor unit, and the refrigerant charge",
+    "Test the zone, and the other zones on a multi zone system, before leaving"
+  ],
+  "howPriced": "Most repair calls on these systems are a diagnosis plus one part, so the price follows the fault and the part: a clogged filter or a dirty drain coil costs very little, while a failed fan motor, a bad control board, or a leak in the line set costs more, and refrigerant work on top of that adds another visit. Access varies with where the heads are mounted and time of day moves the labor rate. On a multi zone setup a single fault can take down every head on that line set, which changes both the diagnosis and the bill.",
+  "faqs": [
+    {
+      "q": "How much does it cost to repair a mini split?",
+      "a": "Most repairs end with a single part and a service visit, so the price depends on the fault. A drain clog or a bad filter is cheap. A fan motor, a control board, or a refrigerant leak is a bigger job, and outdoor unit work often needs a second visit. Ask for a quote before the work begins."
+    },
+    {
+      "q": "My mini split is blowing warm air, what is wrong?",
+      "a": "A restricted filter or a frozen coil is the usual first guess. Beyond that it can be a failed reversing valve, a low charge, or a fault the head reports with a code. The technician reads the code, because the head usually already knows more than the symptom suggests."
+    },
+    {
+      "q": "What does the error code on my indoor head mean?",
+      "a": "It is a fault code, and it points at a circuit or a sensor inside the head. The same number can mean different things across manufacturers, so it gets looked up for the specific model rather than guessed at. It usually saves a lot of swapping parts at random."
+    },
+    {
+      "q": "Why is my ductless head leaking water?",
+      "a": "The head drains what it pulls out of the air through a small tube at the bottom. That tube can clog with algae and dust, and the water backs up into the housing and out the front. A cracked float switch or a blocked pan does the same thing."
+    },
+    {
+      "q": "Do I need to replace the whole system if one head fails?",
+      "a": "Usually not. Heads fail on their own, and a single head can be replaced or repaired while the outdoor unit and line set keep working. The exception is a shared fault, like a leak or a refrigerant problem in the line set, which affects everything on that circuit."
+    },
+    {
+      "q": "How often do I change the filter in a mini split?",
+      "a": "Every month or two in a home with normal dust and pets. The filter in a ductless head sits in a tight channel, and it clogs faster than people expect because the head is often mounted high and out of sight. A blocked filter is the first thing to rule out on any call."
+    }
+  ],
+  "_faqsNote": "6 FAQs. Cost first. The head, the code, the filter, and the water questions are what people search when one zone of a ductless system fails."
+}

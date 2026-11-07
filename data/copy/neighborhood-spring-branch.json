@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Spring Branch, Houston",
+  "title": "AC Repair Spring Branch, Houston | AC Repair Houston",
+  "description": "Ranch homes from the 50s through the 70s on wooded bayou lots, where the ducts and the condensate drain both live down in a crawlspace.",
+  "intro": "Spring Branch homes were built from the 1950s through the 1970s on generous lots along the bayou, and the ground under many of them is wet enough that the houses were built on piers with a crawlspace instead of a basement. That puts the ductwork and the condensate drain line in a place nobody looks at. A cooling problem that starts as damp carpet smell or a ceiling stain is usually a crawlspace problem before it is anything else.",
+  "localAngle": "These ranch houses sit on wooded lots where the water table runs high, so the crawlspace replaces the basement and the duct runs, the return air path and the condensate drain all sit under the house. That crawlspace is cool and damp, which is good for the ducts until a line sweats, a joint opens or a vent gets crushed by a contractor working underneath. The canopy above is heavy with mature oak and pine, so the yard is shaded, while the outdoor unit under those trees fills its coil with needles that turn to a paste against the fins.",
+  "commonCalls": [
+    "Condensate drains in the crawlspace that clog with algae and sludge",
+    "Duct runs under the house that were crushed or disconnected during a foundation or plumbing job",
+    "Musty smells and carpet dampness traced to a crawlspace leak",
+    "Outdoor units under heavy canopy with needle debris packed into the coil",
+    "Systems that hold the ground floor cool but leave the back rooms warm"
+  ],
+  "landmarks": [
+    "Spring Branch Road",
+    "Hammerly Road",
+    "Antoine Drive",
+    "Katy Freeway",
+    "Spring Creek",
+    "Springwood Elementary School",
+    "Spring Branch Memorial Library"
+  ],
+  "faqs": [
+    {
+      "q": "Why is my condensate drain in a crawlspace instead of outside?",
+      "a": "Because of the water table. Where the ground sits high, the house was built on piers over a crawlspace, and the air handler was set there because there was no attic above the living area. The drain line runs a short distance to a point outside, and along the way it sits in cool damp air with no slope to speak of. That combination of moisture and a flat run is what turns a clear line into a blocked one every year."
+    },
+    {
+      "q": "How do I know the ductwork under my house is damaged?",
+      "a": "Several ways. Air blowing out of a floor register that is weak or cold in one room while others are fine points to a disconnected or crushed branch. A musty smell that appears when the system starts, a thermostat reading that swings strangely, or visible insulation damage all point the same direction. A technician can get under the house and look at the runs directly, which is the only reliable way to confirm it."
+    },
+    {
+      "q": "The needles under my trees keep filling the coil. Is there anything better than cleaning?",
+      "a": "Regular cleaning works, but the tree cover is the cause and not much can be done about it. A condenser in a spot with clear sky around it sheds debris less often. Where the unit cannot be moved, a monthly rinse and brush through the season keeps the fins open. Cutting back the lowest branches overhead helps too, since most of the drop comes from the canopy right above the unit."
+    },
+    {
+      "q": "My upstairs is hot but the rest of the house is fine. What is going on?",
+      "a": "In a single-storey ranch that usually means the return side, not the supply. One return duct serving a closed area can pull the whole system down, and the room without a return runs hot while everything else holds. In homes here that added a second level or a sunroom later, the added space may also be running on a separate unit that was never sized with the original house. Either way it starts with finding where the air is coming from and going back to."
+    }
+  ]
+}

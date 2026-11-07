@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Memorial, Houston",
+  "title": "AC Repair Memorial, Houston | AC Repair Houston",
+  "description": "Ranch houses from the 1950s and 60s, shaded outdoor units and attic ducts laid out for smaller systems. Cooling calls here come down to access and capacity.",
+  "intro": "Memorial is mostly ranch houses from the 1950s and 1960s on big wooded lots, and the cooling problems are shaped by shade and distance. The live oaks over these blocks are good for the house and bad for the outdoor unit sitting under them. Add attic ducts sized for a smaller machine and a condenser parked far from the building, and a plain breakdown turns into a long visit.",
+  "localAngle": "Housing here runs from the 1950s into the 1960s, ranch plans on generous lots with live oak and elm overhead. Those trees put deep shade on the outdoor unit, which keeps the cabinet damp and the fins damp with it. Long driveways and wide setbacks mean the condenser can sit far from the house, down a side yard behind shrubs. Duct runs in the attic were laid out for equipment half the size of what these houses need now, and the air handler often sits in a closet with no room to work.",
+  "commonCalls": [
+    "An outdoor unit under oak shade with wet fins and moss on the coil",
+    "A system that runs all afternoon and still leaves the back bedrooms warm",
+    "Attic ducts that came loose or got crushed during a re-roof",
+    "Condensate lines that freeze or back up in a shaded side yard",
+    "A replacement quoted without anyone checking what is actually up in the attic"
+  ],
+  "landmarks": [
+    "Memorial Drive",
+    "Westheimer Road",
+    "Briarhills Boulevard",
+    "Memorial Park",
+    "Memorial Village",
+    "Hedwig Village Country Club",
+    "Briarhills Country Club"
+  ],
+  "faqs": [
+    {
+      "q": "My outdoor unit sits in deep shade. Is that bad?",
+      "a": "Shade helps the house, but it also keeps the unit damp and slows the fan from throwing heat away as fast. Under a live oak the coil holds moisture and debris that would dry off on a sunny side of the house. A unit in that spot runs longer for less cooling and needs regular coil cleaning to stay efficient."
+    },
+    {
+      "q": "The attic ductwork looks old. Does that matter?",
+      "a": "Yes. Ductwork laid in the 1960s was sized for the equipment of that decade. When the system grows, the same runs cannot move the air and the registers in the far rooms get almost nothing. Before anyone replaces equipment it is worth checking whether the ducts are disconnected, crushed or poorly insulated, because a capacity calculation that ignores the attic ends up with the same problem inside a new box."
+    },
+    {
+      "q": "The condenser is far from the house. Why does that matter?",
+      "a": "Distance means more line set to leak and a longer electrical run, and it puts the unit behind shrubs and fencing where airflow gets restricted. A unit boxed in by bushes pulls in recirculated air and runs hotter. It also makes the service visit harder, which is part of why the work takes longer here."
+    },
+    {
+      "q": "Is it worth replacing the system in a 1950s ranch?",
+      "a": "Many of these houses have been maintained or partly replaced over the years, and some still carry original equipment. The deciding factors are the age of the outdoor unit, the refrigerant type and whether the attic ductwork can support a larger machine. A house where the duct layout is sound and the equipment is at the end of its life is usually a straightforward change."
+    }
+  ]
+}

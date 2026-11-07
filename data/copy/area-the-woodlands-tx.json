@@ -1,0 +1,158 @@
+{
+  "intro": "The Woodlands is the most heavily treed place this service covers, and that has two sides to it. Shade cuts the heat on the house, but the same trees drop enough pine needles and leaf litter to seal the outdoor coil in a matter of weeks. Damp shade also keeps the unit wet instead of letting it dry between rains.",
+  "localAngle": "Everything in this area grows, and that includes the debris on the condenser. Pines and oaks over the streets through Grogan's Mill, Village Creek and Crown Castle drop year-round. Needles and fine litter mat together and block the coil face, which is how the unit ends up running continuously with no cooling. The canopy also keeps the unit in permanent shade, and shade plus Gulf humidity means the metal stays damp. Salt is not an issue this far inland. What matters here is airflow, drainage and how quickly the coil can dry after a storm.",
+  "commonCalls": [
+    "Condenser packed with pine needles and oak leaves, unit running nonstop",
+    "System blows warm air after a rainstorm",
+    "Outdoor unit sitting in a shaded yard where the cabinet stays damp",
+    "Moss and algae growing in the coil fins",
+    "House cools at the front of the day and loses it by early afternoon"
+  ],
+  "landmarks": [
+    "The Woodlands Township",
+    "Market Street",
+    "The Woodlands Waterway",
+    "Lake Woodlands",
+    "Sawmill Creek",
+    "Grogan's Mill",
+    "Village Creek",
+    "Crown Castle",
+    "Research Forest",
+    "Panther Creek"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my Woodlands condenser get dirty so fast?",
+      "a": "Because the trees never stop. Pines drop needles year-round and oaks drop through the spring, and both land on the unit if it sits under the canopy. Fine litter is worse than broad leaves because it packs into the fins. What makes it stick is the damp, so a coil that was rinsed at the start of summer can be matted again within weeks."
+    },
+    {
+      "q": "Is shade around the outdoor unit good or bad?",
+      "a": "Good for the temperature, bad for the moisture. Shade lowers the heat the condenser works against, and that is a real benefit in this climate. The downside is that the unit dries out slowly, so condensation sits on the fins and the cabinet. It also means the litter stays wet and stuck rather than blowing away."
+    },
+    {
+      "q": "Does the Woodlands have salt air problems?",
+      "a": "No. Montgomery County is far enough inland that the bay spray that corrodes condenser cabinets in Galveston County does not reach here. The corrosion people notice in this area comes from damp shade and standing moisture rather than from salt. The maintenance habit is similar though. Keep the coil clean and the base pan dry."
+    },
+    {
+      "q": "My AC is fine in the morning and stops cooling by 2pm. Why?",
+      "a": "A fouled condenser gets hotter the longer it runs, and the shaded location means it never cools down between cycles. By early afternoon the outdoor unit is pushing against a coil face that is partly blocked and partly damp, the head pressure climbs and the system gives up. Cleaning the coil and clearing the debris around it is the first thing to try."
+    },
+    {
+      "q": "Should I trim the trees around the outdoor unit?",
+      "a": "Not as a first move. Cutting branches does not stop the needles that are already in the canopy from falling for the rest of the season. Keeping the coil clear and the area around the unit open for airflow does more. If a limb is hanging directly over the unit and dropping onto it, that is worth having trimmed."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Local conditions used: year-round pine and oak drop, damp shade keeping the unit wet, and the absence of salt inland in Montgomery County.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "When the system stops here in the middle of a hot afternoon, the house heats up faster than people expect because the humidity stays put. We pass the request to the HVAC company that covers Montgomery County and let them diagnose it on site. The technician needs to know whether the fan is running, whether the compressor is silent and whether the breaker held.",
+      "localNote": "In a wooded neighborhood the most common emergency is not a failure so much as a system that gave up because it could not cool itself. A coil packed with needles raises head pressure and the compressor trips on the high side. Once the technician clears the coil and reads the pressures, a lot of these calls end as a cleaning rather than a parts order. Ask whether the coil was the reason.",
+      "faqs": [
+        {
+          "q": "Is the compressor or the coil the more likely cause?",
+          "a": "In this part of Montgomery County the coil comes first. A condenser that cannot reject heat drives the head pressure up until the compressor protects itself and shuts down. The technician checks the coil and the pressures before they replace anything, because a new compressor on a dirty coil fails in the same way."
+        },
+        {
+          "q": "What should I do if my AC stops in the middle of the night?",
+          "a": "Set the thermostat to fan only so air keeps moving through the house, and check the AC breaker once. If there is standing water around the outdoor unit, leave it alone and say so in the request. The night is not the time to open the electrical compartment on the unit."
+        },
+        {
+          "q": "Do I need to keep the system running overnight?",
+          "a": "Only if it is cooling. Running the fan without cooling moves warm air around and does nothing for the house. If the outdoor unit is silent, switch the system off at the thermostat so the compressor is not cycling against a fault."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: needle-packed condenser as a shutdown cause, night failures in a humid wooded area."
+    },
+    "same-day-ac-repair": {
+      "intro": "Same-day requests in The Woodlands are usually about a system that runs and runs. A condenser with a blanket of pine needles on it looks fine from the yard and works badly from the coil face. The technician who takes the job should pull the debris, wash the fins, and then check the charge and the compressor draw.",
+      "localNote": "Pine needles are the reason same-day work here is so common. They are small enough to fall through the fan guard and pack into the fins, and they hold moisture, so the coil stays wet and the fins corrode faster. A gentle rinse and a coil clean on the first visit often restores the performance the homeowner thought they had lost. Ask for the fins to be washed, not just cleared.",
+      "faqs": [
+        {
+          "q": "Can I clear pine needles off my condenser myself?",
+          "a": "Yes, and it helps more than most people expect. A garden hose on a gentle setting plus a soft brush will clear a matted coil, as long as the water stays out of the electrical compartment. Do not use a pressure wand, it bends the fins and makes the heat transfer worse. Keep the unit switched off while you are working on it."
+        },
+        {
+          "q": "Is it worth cleaning the coil or replacing the unit?",
+          "a": "Clean it first. If the system was doing fine before the needles built up, the coil was almost certainly the whole problem, and a clean will tell you in one visit. If the same unit has been running constantly for years and still will not hold setpoint after a clean, then the sizing and the age of the coil become the conversation."
+        },
+        {
+          "q": "My unit is right under a pine. Should I have the tree trimmed?",
+          "a": "The tree is what makes the yard pleasant, so trimming it is a last resort. Keep the coil clear and rinse it regularly instead. If a specific branch hangs over the unit and drops straight onto it, that limb is worth removing, but the canopy as a whole is not the problem."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: pine needles packing the fins, doing the clean before ordering parts, tree trimming."
+    },
+    "ac-not-cooling": {
+      "intro": "Running and blowing warm air is the call that gets booked fastest, and in this part of Montgomery County the coil condition explains a lot of them. The fix is rarely a bigger unit. It is airflow, a clean outdoor coil and a proper charge.",
+      "localNote": "A mat of needles on the outdoor coil means the condenser cannot move heat off the refrigerant. The compressor then runs at high pressure and the house gets whatever air the indoor coil can deliver, which is warm. The same tree cover that shades the unit keeps the coil wet, so the blockage does not blow away on its own. Clearing it is step one, then the charge gets verified.",
+      "faqs": [
+        {
+          "q": "Why does my AC blow warm air in The Woodlands?",
+          "a": "Start at the outdoor unit and look at the coil. If it is packed with needles and leaf litter, the condenser cannot reject heat and the whole system runs hot with nothing to show for it. The indoor coil may also be icing over for the same reason, in which case it blows warm air that feels like a gas problem. The technician works from the coil outward."
+        },
+        {
+          "q": "Is the indoor coil freezing because of the outdoor one?",
+          "a": "It can be. When the condenser cannot reject heat, the refrigerant pressure climbs and the indoor coil runs colder than it should. The freeze and the warm air are two symptoms of one fouled coil. Cleaning the outdoor coil and confirming the charge handles both, and the freeze stops coming back once the cause is gone."
+        }
+      ],
+      "_faqsNote": "2 FAQs. Local: needle-matted condenser as the cause of warm air and indoor coil freeze."
+    },
+    "ac-repair": {
+      "intro": "Systems here date from the 1980s and 1990s when the housing was built, so the repair list is predictable: capacitors, contactors, blower motors, and refrigerant leaks in aged copper. We connect you with a company that covers Montgomery County so the fault gets confirmed on your equipment. The condition of the outdoor unit gets checked carefully because it has been sitting in damp shade.",
+      "localNote": "Wooded lots do two things to an outdoor unit. Shade cuts the heat load on the coil, but permanent damp works on the cabinet and the fins, so rust shows up in the base pan and the electrical compartment long before the refrigerant side fails. That corrosion is also why outdoor units in this area fail at the connection and the capacitor rather than in the compressor.",
+      "faqs": [
+        {
+          "q": "Is it normal for an outdoor unit in The Woodlands to rust?",
+          "a": "It is common, and it comes from the damp shade rather than from salt. The base pan holds water from rain and the sprinkler system, and the cabinet does not dry out in the canopy. Rust in the base pan and around the electrical compartment is a reason to look at the unit, not just an appearance issue, because those are the parts that fail."
+        },
+        {
+          "q": "My AC is 30 years old. Repair or replace?",
+          "a": "It comes down to the refrigerant, the coil and whether the fault keeps recurring. Most of the systems installed in this area during the 1980s run a refrigerant that is no longer produced for new equipment, which makes every leak repair expensive. The nameplate settles the question before anyone starts."
+        },
+        {
+          "q": "Why do my vents whistle?",
+          "a": "That is usually a duct sizing or static pressure problem, and it is more visible here because the houses were built in the 1980s and 1990s with duct runs that were marginal from the start. The fan pushes harder, the ducts flex, and the whistle gets louder. It is worth having looked at, because the same pressure problem shortens the life of the compressor."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: damp shade corrosion on 1980s equipment, old refrigerant, whistling ducts."
+    },
+    "ac-installation": {
+      "intro": "Installation work in The Woodlands is mostly replacement in 1980s and 1990s homes, plus additions and finished attics where there is no good place for a unit. The homes are shaded and large, so a load calculation matters more than a tonnage rule of thumb. We connect you with an installer who covers the area.",
+      "localNote": "The calculation has to account for a lot of shade, which is unusual advice in a Houston summer, and for the fact that most of these homes were designed with a lower cooling load than the families now put through them. Where the outdoor unit goes is a bigger argument than usual. Set in a damp wooded corner it will corrode faster, but set in full sun it will run harder. Both choices need a reason.",
+      "faqs": [
+        {
+          "q": "Is my The Woodlands house big enough to need two zones?",
+          "a": "Several of the homes here were framed for a single central system and later had a second floor, a sunroom or a bonus room added. Once that happens, one unit often cannot move enough air for the whole space evenly. The load calculation and a look at the existing duct layout answer it, and a second unit is sometimes cheaper than rebuilding the duct system."
+        },
+        {
+          "q": "Where should the condenser go in a wooded neighborhood?",
+          "a": "Somewhere with airflow on both sides, out of the low wet spots, and reachable for cleaning. Shade lowers the temperature the unit works against, but a corner with poor drainage and a heavy leaf fall underneath costs you in corrosion and fouled coils. A spot that dries out after a rain is worth a lot more than a spot that stays damp."
+        },
+        {
+          "q": "Do new systems in older houses need new ducts?",
+          "a": "Not always, but the ductwork in an 1980s house was sized for the equipment of the day and the airflow it was designed around. A modern system moves more air than the old one did, so the ducts and the returns get checked. If the static pressure is already high, the ducts usually need attention at the same time as the equipment change."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: canopy shade in the load calculation, condenser siting in wooded lots, 1980s duct sizing."
+    },
+    "ac-replacement": {
+      "intro": "When a Woodlands system reaches the end, the deciding factor is usually the refrigerant and the condition of the coil, along with how corroded the cabinet has become from years of damp shade. The houses were built in the 1980s and 1990s, so a lot of these systems are on their second or third repair. We connect you with a company that covers the area.",
+      "localNote": "A unit that has spent its life under trees in a damp corner is not a good candidate for a new condenser. The cabinet and the electrical parts have already been eaten by corrosion, and the lineset and coil are old enough to leak. Replacing the outdoor unit in isolation leaves the weak parts behind. A matched set on a current refrigerant is the cleaner answer for most of these houses.",
+      "faqs": [
+        {
+          "q": "Is R-22 still available in The Woodlands?",
+          "a": "It is no longer produced for new systems, and it has not been for years. Systems from the 1980s and 1990s in this area mostly run it, and it is still recoverable from an old system for service work at a cost that reflects its age. Knowing what the nameplate says before the quote keeps the price of the job from moving once the old unit is pulled."
+        },
+        {
+          "q": "Should I replace the outdoor unit or the whole system?",
+          "a": "In a wooded neighborhood, the whole system more often. The cabinet and the electrical compartment have been corroded, the lineset is old and the coil has been sitting in the attic since the house went up. A new outdoor unit dropped into that same arrangement inherits the same weaknesses. A matched set on a current refrigerant fixes them together."
+        },
+        {
+          "q": "Does a shaded location really shorten condenser life?",
+          "a": "It shortens it in a different way than heat would. Shade lowers the running temperature, which is good, but it also holds the moisture in, and moisture plus salt-free damp is what rusts the base pan and eats the connections. The unit needs to be able to dry out. Rinsing the coil and clearing the debris under it helps more than moving it into the sun would."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: R-22 recovery in 1980s housing, damp-shade corrosion, replacing as a set."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "intro": "A thermostat is only a switch. It sends a low voltage signal along a wire to the furnace or air handler and tells it what to do, so a good system wired to a bad thermostat will never perform the way it should. Most replacements take an hour or so once the wiring is understood, but the wiring is where the surprises live, so the technician who takes the job checks the wire set before quoting anything.",
+  "whatHappens": [
+    "Photograph the existing conductors and identify which one carries the 24 volt control line",
+    "Compare what is in the wall against the terminals the new thermostat expects",
+    "Mount the new base and land each conductor on the correct terminal",
+    "Run the setup sequence and confirm the system answers in every mode",
+    "Test the fan speeds and confirm the schedule holds through a full cycle"
+  ],
+  "howPriced": "A thermostat swap is priced on the wiring, not on the thermostat. If the conductors in the wall already match what is going in, the job is quick and the parts list is short, but a run from a different control system, too few conductors, or no usable common line means new wire has to be pulled, and both labor and material go up. Smart models need their own power line and sometimes a hub or relay set, and a swap that turns into a wiring repair is no longer the same quote as a planned installation.",
+  "faqs": [
+    {
+      "q": "How much does it cost to install a thermostat?",
+      "a": "Most of it is the thermostat and the labor to wire it. If your existing wiring matches the new thermostat, the install is short. If the conductors need changing or a smart hub has to be added, the price goes up. Ask for the number before the tech starts."
+    },
+    {
+      "q": "Can I install a smart thermostat myself?",
+      "a": "Often yes, if the wiring already cooperates. The job gets harder when the wire set is unusual or the unit runs a proprietary control system that a smart thermostat cannot talk to. A technician can tell you which case you are in in a few minutes."
+    },
+    {
+      "q": "Do I need a C wire for my new thermostat?",
+      "a": "Most smart thermostats want one for continuous power. Older systems often lack it, which is why an adapter or a small transformer shows up on the quote. Some units can be powered at the equipment instead, and the technician will check."
+    },
+    {
+      "q": "Why won't my new thermostat talk to my AC?",
+      "a": "Usually the wiring rather than the thermostat itself. The old control system may not use the same terminals, or the equipment may not be ready to be commanded by the new unit. Compatibility and setup both have to line up."
+    },
+    {
+      "q": "Do I need a new thermostat when I replace my AC?",
+      "a": "Not always. If the existing thermostat is programmable and the new equipment speaks the same control language, it can often stay. A new system paired with an old thermostat is where mismatches show up, so it is worth checking before the swap."
+    },
+    {
+      "q": "How do I know if my AC has 24 volt wiring?",
+      "a": "Look at the terminals behind the cover on the existing thermostat. A labeled low voltage control set means the system runs on 24 volts. Photograph them before removing anything, because that photo is what makes the rest of the job straightforward."
+    }
+  ],
+  "_faqsNote": "6 FAQs. Cost first. Questions a homeowner actually types in, including the C wire question people search for on their own."
+}

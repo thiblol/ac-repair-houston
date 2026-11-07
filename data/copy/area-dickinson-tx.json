@@ -1,0 +1,137 @@
+{
+  "intro": "Dickinson is growing fast on the bay side of Galveston County, and the housing map shows it. New subdivisions from the 2000s and 2010s sit within a few blocks of 1980s houses, and every outdoor unit on every one of those lots breathes the same Gulf air.",
+  "localAngle": "Salt is the defining condition on this side of the county, and it does not care whether the house is new. It settles on condenser fins and turns them dull, it works into the fasteners and the base pan, and it holds moisture against metal that is already hot. Where Dickinson has a wrinkle is the mix. A 1980s house next to a 2015 build means the technician may be handling a fifteen-year-old unit and a brand new one carrying the same corrosion on the outdoor coil. Flooding is the other one. The bay side of Galveston County floods, and a submerged outdoor unit is finished whatever the model year is.",
+  "commonCalls": [
+    "Units on new subdivision lots with salt crust on the condenser within a few summers",
+    "1980s houses where the system is sound but the outdoor unit has rusted through at the base",
+    "Units standing in water after a bay side flood, with the compressor done",
+    "Coils packed with coastal oak leaves in the yards between newer construction",
+    "Systems that lose cooling in the same week every summer as the salt builds up"
+  ],
+  "landmarks": [
+    "TX-146",
+    "the 45 and 146 interchange",
+    "Dickinson High School",
+    "the Dickinson Sports Complex",
+    "Bayou Vista",
+    "Highland Park",
+    "the Gulf Freeway",
+    "Dickinson Bayou",
+    "the NASA Road corridor",
+    "the Colgate Park area"
+  ],
+  "faqs": [
+    {
+      "q": "Is salt air a real problem for AC in Dickinson?",
+      "a": "Yes, and it is one of the first things a technician notices here. Salt dulls the condenser fins and corrodes the cabinet and the base pan underneath. A rinse with fresh water and a coil cleaning once a year keeps the unit moving air the way it should."
+    },
+    {
+      "q": "My Dickinson house is only a few years old. Why does the outdoor unit already look rough?",
+      "a": "Salt and humidity do not care about the build date. New construction in this part of the county often goes in close to the coast, so the equipment takes the same air as everything else around it. Ask about coastal-rated equipment and about lifting the unit onto a pad that drains."
+    },
+    {
+      "q": "What happens to an AC unit that floods?",
+      "a": "If the outdoor unit was standing in water, do not assume it recovered. Salt water and standing water together corrode the compressor and the windings quickly, and the unit can run for a while before it fails, which makes it worse. Treat a flooded unit as a replacement and have the indoor side checked too."
+    },
+    {
+      "q": "Why does the cooling differ between the older part of Dickinson and the new subdivisions?",
+      "a": "The older houses carry 1980s equipment that has been through twenty coastal summers. The newer lots carry units that were installed before the landscaping closed in around them. A unit boxed in by shrubs in its second summer does not run the way it did on the day it was commissioned."
+    },
+    {
+      "q": "Does Dickinson share the Houston area grid?",
+      "a": "Galveston County is served through the same Houston area grid, so summer demand events and conservation requests can affect the county the same way they affect the city. If power cuts out mid-afternoon, the compressor restarting into a house that has been sitting hot is the hard part, not the restart."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Two reference the local condition directly: salt off the bay reaching even new construction, and flooding on the bay side of Galveston County. The other three cover new build corrosion, mixed-era cooling performance and grid behaviour.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "The emergency calls here split into two groups. One is the normal summer breakdown in equipment that has been through too many coastal seasons. The other is weather: a flooded unit after heavy rain, or a system that trips when the compressor tries to restart.",
+      "localNote": "On the bay side, water gets into the outdoor unit more often than people expect, and salt water combined with standing water is what kills the compressor. Where the unit has been submerged, the conversation changes from a repair to a replacement, and it is worth saying so early. The technician covering this area will ask whether the unit was under water and how deep it got.",
+      "faqs": [
+        {
+          "q": "My outdoor unit was under water after heavy rain. Is it worth trying to use it?",
+          "a": "No. Switch it off at the breaker and leave it off. A unit that has been submerged can run for weeks before it fails, and it will take the electrical components with it. Have the indoor side checked as well, since moisture travels into the house through the return duct."
+        },
+        {
+          "q": "Why does my Dickinson AC keep tripping its breaker after a storm?",
+          "a": "Water in the outdoor unit's electrical compartment will do it, and salt residue left behind after the water dries makes it worse. A breaker that trips once after a storm is a warning. Leave it off and have the unit inspected before it is switched back on."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on a flooded unit not being safe to run, one on breaker trips after a storm with salt residue left behind."
+    },
+    "same-day-ac-repair": {
+      "intro": "Not every Dickinson call is an outage. A lot of them are units that are running but coasting, where the salt has built up enough on the condenser that the system never quite catches up on a hot afternoon.",
+      "localNote": "A salt film on the fins acts like insulation, so the unit holds heat against the refrigerant and runs longer for the same result. The house takes longer to come down to setpoint and the fan inside never stops. That is a coil service and a rinse, and it is bookable rather than an emergency. Newer units in the subdivisions show the same symptom for a different reason, a shrub that grew around the unit after it was commissioned.",      "faqs": [
+        {
+          "q": "Is my condenser just dirty or is it salt damaged?",
+          "a": "A rinse of fresh water and a coil cleaning will show you. If the fins are dull and coated but wipe clean, it is dirt and salt film, and cleaning restores the airflow. If the metal underneath is pitted or the cabinet is flaking, the damage is corrosion and cleaning will only buy time."
+        },
+        {
+          "q": "My AC takes an hour to cool the house now instead of twenty minutes. Why?",
+          "a": "That gap usually means the system has lost capacity. A fouled condenser or a scaled indoor coil will do it, and so will a filter that has loaded up. On a coastal unit the salt film on the fins is usually the first thing that moves the timing."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on telling a dirty coil apart from salt corrosion, one on a cooling time that has doubled as capacity is lost."
+    },
+    "ac-not-cooling": {
+      "intro": "Running but not cooling is the standard request on the bay side, and the reason is usually the outdoor unit rather than anything inside the house. The coil is dull, the air is restricted, or the refrigerant is low.",
+      "localNote": "There is a version of this that only shows up in the older part of Dickinson. An 1980s house has an evaporator coil that has been scaled for thirty summers, and a scaled coil holds less heat. The newer subdivisions have a different version, with systems that were sized and commissioned before the landscaping closed in around the outdoor unit. Either way, the technician has to look outside and inside in the same visit.",
+      "faqs": [
+        {
+          "q": "The blower runs and the condenser runs but nothing feels cool. What is happening?",
+          "a": "The system is running without moving enough heat. The possibilities are a fouled condenser, a scaled indoor coil, a restricted filter or a low refrigerant charge, and from inside the house they all look identical. The outdoor unit is where the answer usually is, so a technician who looks only at the thermostat will be guessing."
+        },
+        {
+          "q": "Why does my Dickinson AC blow warm air only in the afternoon?",
+          "a": "In the morning the outdoor coil has had the night to cool down and the system can keep up. By afternoon the coil is loaded and the unit is losing ground, so the supply air warms up. That pattern points at capacity and airflow rather than a control fault, and a coil cleaning often changes it."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on why running indoor and outdoor units can still blow warm air, one on the afternoon-only pattern as a capacity symptom."
+    },
+    "ac-repair": {
+      "intro": "Repair work in Dickinson runs into the reality that a coastal unit's parts are often fine while the metal around them is not. A compressor that is available, a capacitor that is available, and a base pan that is rusted through are three different problems with three different answers.",
+      "localNote": "Ask for the model and the age of the condenser separately from the age of the system. On a street with a 2012 unit beside a 1986 one, the parts lists have nothing in common, and the salt does not treat them the same way. If the repair is on the older unit, the technician should check the line set and the coil for corrosion at the same time, because a new compressor in a corroded cabinet is a short life.",
+      "faqs": [
+        {
+          "q": "Is it worth repairing an outdoor unit that has rusted through at the base?",
+          "a": "It depends on what is behind the rust. If the base pan and the cabinet are the problem and the coil and compressor are sound, a repair can be worth it. If the rust has reached the coil mount or the electrical compartment, replacing the condenser is usually the cheaper answer over the life of the system."
+        },
+        {
+          "q": "Why is the outdoor unit on the newer Dickinson homes corroding so quickly?",
+          "a": "Corrosion does not have a grace period. A unit commissioned two summers ago on a bay side lot can show pitting at the base and the fasteners, because salt settles on every warm evening and dries in place. Ask about coastal-rated finishes and stainless hardware if the unit is being replaced."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on judging a rusted base pan against the rest of the unit, one on why corrosion shows up quickly on newer bay side installations."
+    },
+    "ac-installation": {
+      "intro": "Installing cooling on the bay side is mostly about how the equipment sits and how it is protected. The system itself is a solved problem, and the site conditions are where the money and the failures are.",
+      "localNote": "An outdoor unit in Dickinson should sit on a pad that drains away from the foundation, high enough to stay above the standing water that comes with a bay side storm. Coastal-rated finishes and stainless hardware are worth asking about because the salt starts on the cabinet from day one. Leave room for the landscaping to grow around it, and remember that the lot next door may be clear land today and a house with trees in a few years.",
+      "faqs": [
+        {
+          "q": "How high should the outdoor unit sit on a Dickinson lot?",
+          "a": "High enough that the base pan and the electrical compartment stay above the standing water that a bay side storm leaves behind. An isolator pad that lifts the unit and slopes drainage away from the house is the standard answer here. A unit set flush on the slab is the one that gets flooded."
+        },
+        {
+          "q": "Do new subdivisions in Dickinson need different AC equipment?",
+          "a": "Coastal-rated finishes and stainless hardware are the sensible choice when the lots sit this close to the water. Ask for the electrical compartment and the base to be rated for the environment, and check that the unit is not boxed in by landscaping that will mature over the next few years."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on pad height for bay side storm water, one on coastal-rated equipment for new subdivision lots."
+    },
+    "ac-replacement": {
+      "intro": "When an outdoor unit on this side of the county has been through many coastal summers, replacement starts to make sense well before the compressor itself fails. The coil is dull, the base is corroded, and the lines have been sitting in salt air for a long time.",
+      "localNote": "In the older part of Dickinson that means a changeout on a 1980s system, often with R-22 inside and parts that are getting hard to find. In the newer subdivisions it means a unit that is still under warranty but sitting on a salt-heavy site, where corrosion will shorten the life of a condenser faster than the clock suggests. Either way, replacing the coil and the lines with the condenser is the only way to avoid being back in a few summers.",
+      "faqs": [
+        {
+          "q": "Should I replace a Dickinson AC unit before the compressor actually fails?",
+          "a": "On the bay side that is often the wiser timing. The salt takes the coil, the base and the lines apart on roughly the same schedule as it takes the compressor, so waiting for the compressor means replacing the cabinet and the lines a year later anyway. Have the outside of the system inspected before it fails."
+        },
+        {
+          "q": "What refrigerant is in an older Dickinson system?",
+          "a": "A 1980s or 1990s unit in this part of the county was very likely charged with R-22, which is no longer produced for new equipment. The technician can read the type off the nameplate on the outdoor unit, and knowing it in advance keeps the scope of the quote from changing once the old unit is pulled."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on replacing before the compressor fails on a salt-heavy site, one on identifying R-22 on the nameplate before quoting."
+    }
+  }
+}

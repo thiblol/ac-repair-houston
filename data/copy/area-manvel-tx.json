@@ -1,0 +1,162 @@
+{
+  "intro": "Manvel is a town that grew over the top of older Brazoria land, so the housing runs from 1980s ranch homes on original lots to brand new subdivisions on the far side of TX-288. All of it sits close enough to the Gulf that salt is already part of the maintenance routine, including on the newest houses.",
+  "localAngle": "The salt is the thing to understand about Manvel. It is not a coastal village, but the air coming in off the Gulf reaches it, and a condenser that has never been rinsed picks up a crust on the fins that you cannot see from the sidewalk. The older half of the housing has the deferred maintenance story you would expect from Brazoria County in the 1980s. The newer subdivisions have no such history, but they have coastal oak, which sheds onto a unit that sits in the shade and never dries out.",
+  "commonCalls": [
+    "Coastal salt crust on condenser fins and cabinet bases on newer subdivision homes",
+    "1980s and 1990s homes on original lots with systems that have had no service history",
+    "Oak litter packing the coil on units installed under trees in new developments",
+    "Refrigerant leaks in older installs where the charge has been topped up before",
+    "Whole-home replacements where the indoor and outdoor equipment are the same age"
+  ],
+  "landmarks": [
+    "TX-288",
+    "Manvel",
+    "Highway 6",
+    "Alvin",
+    "Pearland",
+    "Riversides of Pearland",
+    "the Brazos River",
+    "FM 1128",
+    "Manvel Baptist Church",
+    "Manvel Sports Complex"
+  ],
+  "faqs": [
+    {
+      "q": "How soon does salt affect a new AC unit in Manvel?",
+      "a": "It starts early. Salt is in the air year round, and the fins of a condenser collect a fine crust within months. It shows up as white deposits and early corrosion at the base. The fix is not expensive: rinse the coil and wipe the cabinet a couple of times a year."
+    },
+    {
+      "q": "My house is new. Do I still need to worry about the equipment?",
+      "a": "The equipment is new, but the environment is the same as everywhere else in Brazoria County. The outdoor unit needs airflow, clearance from shrubs and occasional rinsing. Manufacturer maintenance schedules assume that."
+    },
+    {
+      "q": "Why do the newer subdivisions here have so many oak trees?",
+      "a": "Coastal oak is native to this part of the county, and the developers kept a lot of them. That is good for the house and bad for the condenser unless the unit has been kept clear."
+    },
+    {
+      "q": "Is the older part of Manvel hard to cool?",
+      "a": "The homes on original Brazoria lots were built when the neighborhood was cheap land with big trees. Many have been added to over the years without the system being resized. The cooling load now is bigger than the equipment was sized for."
+    },
+    {
+      "q": "How do I find a technician who covers Manvel?",
+      "a": "Submit the request with the city named. The referral matches it to a company that works this part of Brazoria County, which matters because a company based in Pearland may not routinely run this far south."
+    }
+  ],
+  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "An emergency out here is usually a system that was already working hard and quit in the heat. The HVAC company we connect you with covers Manvel and the surrounding Brazoria County roads, so the request goes to the technician who takes the job.",
+      "localNote": "The units that fail on a July afternoon here are the ones with two things against them: a condenser with salt crust and oak debris on it, and refrigerant that has drifted low over years. The compressor runs hot, the pressure climbs and it shuts itself down. Clearing the coil and measuring the charge solves more of these calls than a parts swap does.",
+      "faqs": [
+        {
+          "q": "What causes the sudden afternoon failures?",
+          "a": "High head pressure. The compressor gets hot, the pressure goes past the limit and the unit shuts down to protect itself. When the outdoor coil is dirty or salt-crusted, it reaches that point sooner than it should."
+        },
+        {
+          "q": "Should I keep trying to reset it?",
+          "a": "No. Each restart puts more heat into a system that is already at its limit. Leave the breaker off if it trips and let the technician look at it."
+        },
+        {
+          "q": "Is it normal for a new subdivision home to have AC trouble?",
+          "a": "It should not, so if the equipment is nearly new, the first question is whether it was installed correctly: the charge, the line set, the duct sizing and the airflow clearance around the unit. That is worth checking before anything is blamed on the weather."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "same-day-ac-repair": {
+      "intro": "Most same-day requests around Manvel are about a system that is working but not working well. The afternoon calls here are often coil and refrigerant work on units that have gone a long time without attention.",
+      "localNote": "Because Manvel has both old Brazoria housing and new subdivisions, a same-day visit can turn into very different work depending on the street. On an older lot it may be a leak search on a 1990s R-22 system. On a new street it may be a new unit with a charge or airflow problem. The technician who takes the job brings the gauges and the meter for both.",
+      "faqs": [
+        {
+          "q": "How do I get same-day service in Manvel?",
+          "a": "Request it early in the day and give the model number from the unit label. Same-day slots fill fast in the Houston area, and a morning request has a much better chance of being met than an afternoon one."
+        },
+        {
+          "q": "What should I write down before the visit?",
+          "a": "What the system does, not what you think is wrong. Does the fan run, does the outdoor unit start, does the breaker hold. Also the model number and the year. Those notes shorten the diagnosis and keep the visit from turning into guesswork."
+        },
+        {
+          "q": "Can a coil clean fix a system that is barely cooling?",
+          "a": "Sometimes, especially on a newer unit in the first few seasons. On an older system with a low charge and a leak, the clean helps but does not finish the job."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-not-cooling": {
+      "intro": "A system that blows warm air and keeps running is the classic complaint out here, and in this part of Brazoria County the first thing to check is the outdoor coil. The company that covers this area will look at the condenser before deciding it is a refrigerant problem.",
+      "localNote": "Salt crust and oak debris combine into a blanket on the fins, and a condenser under a blanket cannot reject heat. The system holds its charge, the compressor runs, and the house stays warm because the heat has nowhere to go. On the newer subdivisions this shows up in the first few years. On the older homes it has been going on for years and the homeowners simply got used to it.",
+      "faqs": [
+        {
+          "q": "Why is my AC running but not cooling?",
+          "a": "Most often low refrigerant or a compressor that is not moving heat. But check the outdoor coil first, because a packed or salt-crusted coil produces the same symptom. Cleaning it costs little and tells you a lot."
+        },
+        {
+          "q": "Can the coil get bad in just a couple of years?",
+          "a": "In a salt environment, yes. A unit under coastal oak with no maintenance can have a visible crust on the fins sooner than the manufacturers expect. Rinsing it twice a year is a habit worth keeping."
+        },
+        {
+          "q": "What if cleaning the coil does not fix it?",
+          "a": "Then the fault is on the refrigerant or compressor side, and it needs a technician with gauges to measure it. A recharge without diagnosing the cause is the same call again in a few months."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-repair": {
+      "intro": "Repairs in this area need the diagnosis done properly, because the outdoor unit's condition changes what the numbers mean. A salt-affected condenser and a clean one do not behave the same under load.",
+      "localNote": "The repair work here splits between two generations of equipment. The older houses have 1980s and 1990s systems with no service history, usually on R-22, sitting on land that has been in salt air their whole lives. The newer streets have young equipment that may still be under warranty, where the fault is more likely to be an install problem, a charge that was never set correctly or a unit with no clearance around it.",
+      "faqs": [
+        {
+          "q": "Is it still under warranty on a newer Manvel home?",
+          "a": "It may be, and it is worth checking before paying for a repair. Manufacturer warranties usually cover the parts and sometimes the labour for a set period. Have the model and serial number ready when you call."
+        },
+        {
+          "q": "How do I know if a refrigerant leak is the real problem?",
+          "a": "Ask whether the leak was located, not just whether the system was charged. Recovering gas, finding the leak and repairing it are three different jobs. A system that needs gas every few months is telling you which one was skipped."
+        },
+        {
+          "q": "Why does a corroded unit keep having different faults?",
+          "a": "Salt corrodes several things at once: the coil, the cabinet, the wiring and the connections. Fixing the one that failed today does not change the others. That is the argument for replacing an old unit rather than repairing it piece by piece."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-installation": {
+      "intro": "New construction and replacements both come through here, and the salt environment changes how the outdoor unit should be set up. Where the unit sits and what it is made of decide how it ages.",
+      "localNote": "An install in Manvel needs clearance and drainage more than most. The unit should sit where air moves freely, not tucked against a fence or into a shrub line, and it needs a pad that sheds water away from the cabinet base. Coastal oak will drop leaf litter on it within a season, so a plan for rinsing the coil belongs in the setup from day one rather than being thought of later.",
+      "faqs": [
+        {
+          "q": "Does installing in a new subdivision differ from inland Houston?",
+          "a": "The layout and electrical are familiar, but the environment is coastal. Salt and the oak litter mean the coil needs a maintenance plan, and the unit needs more clearance from vegetation than it would in an inland development."
+        },
+        {
+          "q": "How do I size the system?",
+          "a": "By load calculation against the actual house, taking orientation and glass into account. A rule of thumb number from a sales sheet will not hold up in a house with a lot of south glass."
+        },
+        {
+          "q": "Should I get the attic or the slab checked first?",
+          "a": "On an older house, the duct route and the attic access come first. On a new build, the return air path and the electrical service for the outdoor unit come first. The technician will tell you which condition your house is in."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-replacement": {
+      "intro": "Replacing here often means replacing something that still technically works. Salt exposure and a run of unrepaired faults is what tips the balance, and the refrigerant type usually makes the decision easier.",
+      "localNote": "A 1990s system on an original Brazoria lot is almost certainly on R-22, which is discontinued, and the coil and cabinet have had decades of salt. The indoor side may still be good. Where it is, the outdoor half can be replaced alone. Where it is not, a matched system is the honest answer, and the estimate should say which one it is before the old unit comes out.",
+      "faqs": [
+        {
+          "q": "Can I replace just the outdoor unit?",
+          "a": "Sometimes. If the indoor equipment is newer, still in good shape and the ducts are right for the house, it is a normal job. If everything is the same age and the refrigerant is discontinued, replacing half leaves you with a new outdoor unit feeding a tired indoor one."
+        },
+        {
+          "q": "How do I compare the quotes?",
+          "a": "Look at the refrigerant type, the equipment efficiency rating, the coil and cabinet material, and whether the ductwork is included. A quote that does not mention the refrigerant is missing a detail that affects the price."
+        },
+        {
+          "q": "Is it worth replacing an older unit that still cools?",
+          "a": "If it is original equipment with a history of salt corrosion and repeated calls, it is worth thinking about. If it has been maintained and the cabinet is sound, replacing it early is a plan rather than a repair."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    }
+  }
+}

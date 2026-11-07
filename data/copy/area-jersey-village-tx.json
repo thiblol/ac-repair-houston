@@ -1,0 +1,134 @@
+{
+  "intro": "Jersey Village mixes 1950s through 1980s houses with apartment complexes sitting right next to them, and the cooling systems do not behave the same way. A single-family ranch with a ground pad and a 1960s split system is a different job from a shared rooftop unit feeding a stack of apartments through risers.",
+  "localAngle": "The mix is what makes this place distinct. On the older single-family streets the equipment sits on a slab in the yard and the troubles are familiar: an undersized system from the 1960s, a filter rack that was never upgraded, a compressor that has run hard for fifteen summers. In the apartment complexes the machines are shared. One rooftop unit serves many tenants, so a single fault takes out a stack of apartments at once, and condensate drains run through the building as vertical risers. When something fails, who controls the equipment changes with it. A rooftop unit belongs to the building, a ground pad to the homeowner.",
+  "commonCalls": [
+    "Apartment rooftop units down, taking a stack of units out at the same time",
+    "Condensate risers backing up and threatening the ceiling of the unit below",
+    "Single-family systems from the 1960s running constantly without ever reaching setpoint",
+    "Filter drawers packed because the original filter slot was undersized for the house",
+    "Breakers on old panels that trip when the compressor pulls full load"
+  ],
+  "landmarks": [
+    "the Jersey Village Golf Club",
+    "the 45 and 290 interchange",
+    "Jersey Village Parkway",
+    "the AMC theatre",
+    "Inwood Forest",
+    "the Houston Galleria nearby",
+    "FM 529",
+    "Jersey Village Elementary",
+    "the old Village of Jersey Village",
+    "Northwest Freeway"
+  ],
+  "faqs": [
+    {
+      "q": "My apartment in Jersey Village has no cooling and the manager says it is fine. What do I do?",
+      "a": "A shared rooftop unit that is down affects every unit it serves, so check whether the outdoor equipment is running before assuming anything is wrong with your thermostat. Then raise it in writing with the property manager. The equipment on a roof belongs to the building, and the HVAC company covering your area will need the manager's authorization before anyone opens it."
+    },
+    {
+      "q": "Why is my ceiling dripping in a Jersey Village apartment?",
+      "a": "In complexes with vertical condensate risers, a blockage in the line shows up in the unit below, sometimes floors down. It is usually a drain line packed with algae or a trap that has dried out. Water coming from a vent is worth reporting quickly, because it turns into drywall and paint damage fast."
+    },
+    {
+      "q": "Does salt air reach Jersey Village?",
+      "a": "Not the way it does along the bay. This area is inland in northwest Harris County, so the outdoor equipment here deals with humidity, dust and leaf litter rather than salt spray. The maintenance that pays off here is coil cleaning and filter changes, not a corrosion rinse."
+    },
+    {
+      "q": "My house was built in the 1960s. Should I expect to replace the AC soon?",
+      "a": "Plan for it. Systems from that era are reaching the end of their service life and their parts are harder to source. Replacing a system on your own schedule is a lot easier than replacing it in the first week of a July heat wave, and the planning gives you time to compare properly."
+    }
+  ],
+  "_faqsNote": "4 FAQs. Two reference the local condition directly: the apartment complexes with shared rooftop equipment and vertical condensate risers, and the inland position that keeps salt spray out of the picture. The other two cover tenant escalation and the age of 1960s single-family equipment.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Emergency work here splits between single-family breakdowns and apartment buildings where a shared unit has stopped. The apartment calls are the ones that move fastest, because the same fault is affecting every unit on that stack.",
+      "localNote": "In the complexes the emergency is often a rooftop unit that has locked out on a high pressure or freeze fault, and the reset has to happen at the roof unit rather than at a thermostat. In the older houses the outdoor unit sits on a pad at the side of the house and the trouble is an aged compressor or a failing capacitor. The company we pass the request to will ask whether the equipment is yours or the building's, since that changes who authorizes the work.",
+      "faqs": [
+        {
+          "q": "My whole floor of apartments lost cooling at once. What is likely happening?",
+          "a": "One shared rooftop unit is probably down, which takes out every apartment it feeds rather than one unit. That is a building system, so the property manager controls the work and the technician will need access to the roof and authorization. Report it to the manager as an outage affecting multiple units."
+        },
+        {
+          "q": "My house AC stopped and the outdoor unit is silent. What do I check?",
+          "a": "See if the indoor blower runs and whether the breaker holds, then note both answers before you call. On a 1960s house with an aged compressor, a failed capacitor or contactor is common and the technician will want to know whether the unit hums, clicks or stays completely dead."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on a shared rooftop unit taking out a whole floor, one on the two facts to check before reporting a dead outdoor unit."
+    },
+    "same-day-ac-repair": {
+      "intro": "A good share of the same-day calls here are not breakdowns at all. A system that works but never quite catches up, or an apartment unit that is a few degrees off because of how the air is balanced, gets booked rather than dispatched.",
+      "localNote": "Two patterns show up. In the 1960s and 70s houses the original system was often small for the house and the duct runs were added on as rooms changed, so the unit runs long and never settles. In the complexes, a resident's unit can be perfectly good while the building set point and the individual thermostat disagree, which sends people looking for an air conditioning fault that is really a controls problem.",
+      "faqs": [
+        {
+          "q": "My apartment is cooler than the rest of the building. Is the AC broken?",
+          "a": "Probably not. In a complex the building controls the central equipment and each resident has a thermostat that can be locked or set differently. If one unit blows colder than its neighbours, the difference is often in the controls or the return path rather than the cooling equipment itself."
+        },
+        {
+          "q": "Should I book a tune-up before summer in Jersey Village?",
+          "a": "It is worth it on systems that have never had attention, particularly on the 1960s and 70s houses where the filter rack was undersized from the start. A spring visit gets the coil cleaned, the filter changed and the electrical connections checked before the first hot stretch, when the same faults turn into emergency calls."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on a unit cooling differently inside an apartment complex, one on a pre-summer check on an old undersized system."
+    },
+    "ac-not-cooling": {
+      "intro": "Running but not cooling is the classic complaint in this neighborhood, and the answer usually is not a failed compressor. It is airflow, refrigerant, or a coil that has been scaled for thirty summers.",
+      "localNote": "Older single-family systems here were often installed with a filter rack that holds a thin filter, so the unit pulls a restricted amount of air through a dirty coil. In the apartment buildings some units run with the return grille blocked by furniture or by a resident's own filter, and the same starved airflow produces a frozen coil and warm air. A technician needs to see the static pressure and the return path, not just the outdoor side.",
+      "faqs": [
+        {
+          "q": "Why does my house run constantly without cooling down?",
+          "a": "Two causes cover most of it. The system is losing capacity because the coil is scaled or the condenser is fouled, or it is moving so little air that it can never pull the house down to setpoint. Both show up as a unit that runs all afternoon without cycling off, and both are fixable once airflow is measured."
+        },
+        {
+          "q": "The air is warm but the outdoor unit is running hard. Does that mean it is out of refrigerant?",
+          "a": "Sometimes, but not always. Low refrigerant is one of several causes of a running system with no cooling. Restricted airflow, a dirty condenser and a failed blower motor all look similar from the thermostat. What separates them is what the technician finds on site, and that is why topping off the gas blind is a poor first move."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on a unit running all afternoon without cycling, one on why warm air with a running outdoor unit is not a refrigerant diagnosis."
+    },
+    "ac-repair": {
+      "intro": "Repairing cooling in Jersey Village means being precise about whose equipment is on site. A ground pad in a front yard belongs to the homeowner. A packaged unit on a roof belongs to the building, and the work needs the property manager's sign-off before the panels are opened.",
+      "localNote": "That distinction drives most of the logistics on an apartment call. Reaching a rooftop unit may involve a locked roof hatch, a building key and a manager who needs to schedule the work. For single-family homes the age of the equipment is the bigger variable: a compressor from the 1970s in a system that was never serviced is a familiar failure, and the model number on the nameplate tells the technician which parts to load on the truck.",
+      "faqs": [
+        {
+          "q": "Who pays for AC repair in a Jersey Village apartment?",
+          "a": "That is a question for the property manager, and it should be asked in writing. If the equipment is on the roof or in a shared mechanical space, it is almost certainly the building's responsibility. If the unit is inside the apartment and was supplied by the resident, that is a different arrangement. Get it in writing before you book anything."
+        },
+        {
+          "q": "How long does a typical single-family repair take in Jersey Village?",
+          "a": "Most visits are a short diagnostic and a part swap, but an old unit can add time. A compressor or a capacitor on a 1960s system may need a coil or a line set checked at the same time, and parts for those models are not always on the truck. Giving the model number ahead of the visit is what shortens this."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on responsibility for cooling in a complex, one on why giving the model number ahead of a visit shortens the job on an old system."
+    },
+    "ac-installation": {
+      "intro": "Installing cooling here looks different depending on whether the address is a house or a complex. A 1960s ranch may need its ductwork rebuilt to handle the load, while an apartment building needs a rooftop unit sized for a stack of units and a plan for keeping part of the building cooling during the changeout.",
+      "localNote": "For the older houses an install usually means new supply and return runs, because what is in the attic was sized for a smaller version of the same house. For the complexes the job involves working out where the unit sits on the roof, how the existing risers and branch ducts connect to it, and how to stage the swap so tenants are not without cooling in August. Where a building has a ground level unit, drainage under the pad decides the layout.",
+      "faqs": [
+        {
+          "q": "Do I need new ductwork when I install AC in a 1960s Jersey Village house?",
+          "a": "Usually, and this is worth understanding before the quote. The original duct runs were sized for a smaller version of the house, and the filter rack was small too. Running new supply and return in the attic is more work up front and far cheaper than repeating the same undersized design in new equipment."
+        },
+        {
+          "q": "How do apartment complexes replace a rooftop unit without leaving tenants in the heat?",
+          "a": "By staging it. The new unit goes into place and is connected before the old one is disconnected, and rooms are switched over in groups rather than all at once. That planning is part of the job and belongs in the scope of the quote, along with who authorizes the work and when the roof access is available."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on rebuilding ductwork for a 1960s ranch, one on staging a rooftop changeout so an apartment building stays partly cooled."
+    },
+    "ac-replacement": {
+      "intro": "Replacement in the apartment complexes is a planned project rather than a same-day fix, and the planning is the hard part. A packaged unit that serves twelve apartments has to be swapped with a sequence, and the building cannot afford to have half of it without cooling in August.",
+      "localNote": "The age of what is being replaced matters. A building with 1970s equipment on the roof may be running refrigerant that is no longer produced for new systems, and the ductwork inside the building may be original. Swapping the outdoor unit without looking at the return path and the electrical supply often means a second outage later. For the single-family houses the same era problem shows up as a rusted cabinet and lines that are ready to leak.",
+      "faqs": [
+        {
+          "q": "When should a Jersey Village apartment complex plan for rooftop unit replacement?",
+          "a": "Well before it fails. Rooftop equipment on 1970s buildings tends to fail all at once, and a building that waits for the failure loses cooling for every unit it feeds at the worst possible time. Getting the equipment age and the service history in the spring gives the owner time to price options and stage the work."
+        },
+        {
+          "q": "Does replacing my home AC in Jersey Village mean replacing everything?",
+          "a": "Not always. If the outdoor unit has failed but the coil, air handler and line set are newer and already use the current refrigerant, the condenser can sometimes be replaced on its own. If everything is the same age and the same refrigerant, replacing the stack avoids mixing components from different eras."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on planning rooftop replacement ahead of a fleet-wide failure, one on matching a replacement to the existing coil and refrigerant."
+    }
+  }
+}

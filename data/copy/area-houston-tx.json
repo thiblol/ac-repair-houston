@@ -1,0 +1,425 @@
+{
+  "intro": "Houston is the hardest cooling market in the country to buy a system for, and the same Gulf moisture that makes the city miserable is what breaks the equipment in it. Calls here cluster in a narrow band: a summer load that no 1980s split was sized for, outdoor units packed with cottonwood, and a grid that cuts power at the exact hour a house needs cooling. When something stops, the request goes to the independent HVAC companies that work Houston, and the fault gets diagnosed before anybody quotes a repair.",
+  "localAngle": "Houston runs on humidity. Gulf moisture puts a latent load on every system, so a unit that cools fine at nine in the morning falls behind by four in the afternoon. Housing spans 1920s Heights bungalows through modern builds in the 610 loop, and the outdoor pad often carries equipment three decades old and mismatched to the house around it. Cottonwood and mesquite mat a condenser in one season. Attics run 130 to 140 degrees. ERCOT sheds load at peak demand, right when cooling is needed. No coastal salt here. Freeze is the surprise: February 2021 and January 2024 both caught systems that were never built for it.",
+  "commonCalls": [
+    "A system that blows warm air while the outdoor unit runs nonstop. Usually low charge or a starved evaporator, made worse by Gulf humidity loading the coil every time it cycles.",
+    "Outdoor units that quit on a July afternoon and will not restart, often because the coil is matted with cottonwood and the compressor is running too hot to hold.",
+    "Indoor units dripping in the attic after a storm, where the condensate line has no gravity and no margin left in it.",
+    "Systems that stop in the middle of the afternoon in late July and August, when ERCOT calls for load conservation and the whole block goes down at once.",
+    "Calls from second floors and converted bonus rooms in remodels, where the cooling load grew and the equipment never did."
+  ],
+  "landmarks": [
+    "the Heights",
+    "River Oaks",
+    "Meyerland",
+    "Third Ward",
+    "the Energy Corridor",
+    "Clear Lake",
+    "Westheimer",
+    "Beltway 8",
+    "the Houston Ship Channel",
+    "Memorial Drive"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my AC run all afternoon and still leave the house at 84 degrees?",
+      "a": "Because the load here is moisture, not just heat. Gulf air carries far more water than a system has to remove, and a coil that is short on charge or short on airflow cannot pull enough of it out to hold a house at 72 in the afternoon. A unit that was sized before an addition or a second story went on is also doing this. If it cools in the morning and gives up by four, the fault is in the system rather than in the thermostat."
+    },
+    {
+      "q": "My unit stopped in the middle of a July heat wave. Is that the equipment or the grid?",
+      "a": "Both are worth separating. ERCOT calls for load conservation on the hottest afternoons, and controlled outages hit whole blocks at once, so check whether your neighbors lost power at the same time. If the breaker tripped, the outdoor unit may also be at fault: a condenser packed with cottonwood will trip on a supply cut that a clean unit rides through. Leave the breaker off if it trips again."
+    },
+    {
+      "q": "My system is from the 1990s and uses R-22. Does that matter now?",
+      "a": "It matters for money and for parts. R-22 is no longer produced for new systems, so any leak work on that refrigerant costs more than the same work on the current standard. Find the nameplate on the outdoor unit before you shop, because it changes what a repair or a replacement is going to cost before anyone opens anything."
+    },
+    {
+      "q": "What did the February 2021 freeze and the January 2024 freeze do to AC systems?",
+      "a": "Both freezes caught equipment that was never designed for them. Line sets and outdoor units sitting in uninsulated space or in a carport took damage, and the extended power outages that followed meant many systems were re-energised after a long delay with problems that were not visible from the outside. Systems that were running well before the freeze sometimes never came back. Nobody designs a condenser in Houston for ice, so insulation and serviceability around the outdoor unit matter more than they would in a cold climate."
+    },
+    {
+      "q": "Should I have the outdoor unit serviced before hurricane season?",
+      "a": "Book it before the summer heat, not after. Late spring is the window where the outdoor unit has collected a season of cottonwood and mesquite debris under a mature canopy, and the system has been idle through a mild winter. Storm season then adds saturated air, wind-blown debris and power interruptions to the same equipment. Getting the coil clean and the electrical connections checked before June is the cheaper move."
+    }
+  ],
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "A system that quits in the middle of a Houston July afternoon is an emergency because the humidity does not let up. Give the address and describe what the outdoor unit is actually doing, and the request goes to the HVAC company covering that part of the city. The technician who takes the job calls before setting out so you know what is coming.",
+      "localNote": "ERCOT load conservation lands hardest on the hottest afternoons, so a breaker that trips during a heat wave is sometimes the grid rather than the equipment. The technician who takes your job checks the outdoor unit first, because a condenser matted with cottonwood trips on a supply cut that a clean unit rides through. Nights are the worst time to call. The whole city is failing at once.",
+      "faqs": [
+        {
+          "q": "The breaker tripped during the heat wave and the unit will not restart. Is it my AC or ERCOT?",
+          "a": "Check the breaker once. If the unit has power, the fan starts and the compressor does not, the fault is in the equipment, and a fouled condenser is the first thing to suspect. If the breaker trips again, leave it off and let the company that covers your area look at it. Knowing whether your block lost power at the same time tells you which problem you have."
+        },
+        {
+          "q": "What should I do in the first hour while I wait for the company to reach me?",
+          "a": "Set the thermostat to fan only so air moves through the house, and open the doors between rooms to spread what cooling you have. Leave the outdoor unit alone. Do not pour water on a hot condenser to cool it down, and do not open the electrical compartment on the unit itself."
+        },
+        {
+          "q": "The outdoor unit is hissing and there is ice on the line set. What is that?",
+          "a": "That is usually refrigerant escaping at a fitting, and in Houston heat the pressure in the line is at its highest in the afternoon. If it happens in the warm months on a system that was fine through the winter, suspect the fittings and the line set rather than a failed part. It also means the system is about to lose the rest of its charge."
+        }
+      ]
+    },
+    "same-day-ac-repair": {
+      "intro": "Most same day calls are not breakdowns. They are systems still running but no longer keeping up, and in Houston that usually traces back to a fouled coil or a unit that lost charge a year ago. Send the request early and describe what the outdoor unit looks like from where you are standing.",
+      "localNote": "Summer here runs long enough that a same day slot is usually spent on the outdoor unit rather than the indoor one. Cottonwood and mesquite seeds pack the fins from April through July, and a condenser working ten degrees hotter than it should will not make the afternoon schedule. The technician who takes the job can often clear the coil and reset the system in one visit. Book in the morning. The heat is not waiting.",
+      "faqs": [
+        {
+          "q": "Can a condenser really get that dirty in one season?",
+          "a": "Cottonwood fluff and mesquite debris mat the fins fast once a tree is close to the unit. A blocked coil holds heat against the refrigerant, the compressor works harder, and the system runs longer for less cooling. Raking the pad and a soft brush on the fins does most of the work before anyone opens a panel."
+        },
+        {
+          "q": "My system runs all the time and never stops. Why does that need a same day visit?",
+          "a": "A system that never cycles off in this climate is usually short of refrigerant, short of airflow, or both. That is a repair rather than a tune up, and it is worth getting looked at before the unit quits entirely in the middle of August."
+        },
+        {
+          "q": "Is it worth booking same day service during a heat wave when the whole city is calling?",
+          "a": "If the unit has quit, yes. If it is running but struggling, book early in the day and get it looked at before the next heat wave rather than during one. The technician who takes your job can tell you from the symptom description whether it can wait a day."
+        }
+      ]
+    },
+    "ac-not-cooling": {
+      "intro": "Air that blows and stays warm means the system is running but not doing its job. Four causes account for most of it: low charge, a frozen indoor coil, a fouled condenser, or a unit that was undersized the day it went in. The request goes to the HVAC company covering your block, and the diagnosis starts with those four.",
+      "localNote": "Gulf humidity makes this symptom lie here. A system low on refrigerant still feels like it is cooling, because the coil keeps pulling water out of the air, but it cannot pull enough to hold a house at 72 in the afternoon. A frozen coil in a 1920s Heights bungalow sits in an attic unit that never gets cool enough to defrost on its own, because the attic itself runs 130 to 140 degrees.",
+      "faqs": [
+        {
+          "q": "The air feels cool but the house stays warm. Is that humidity or a bad system?",
+          "a": "Both can be true. Houston air at high humidity makes a room feel warm even at a sensible temperature, and a system with a small charge or a dirty coil cannot remove enough of that moisture. Set the thermostat to 72 and let it run, then check the humidity at the supply vent. Dry air with a warm house means the equipment is the problem."
+        },
+        {
+          "q": "The outdoor unit never stops running. Should I keep lowering the thermostat?",
+          "a": "No. Lowering the setting on a system that is already saturated with refrigerant does nothing except make the compressor run longer and wear faster. Leave it at 72, or even 74 in the morning, and get the fault found instead of fighting the thermostat."
+        },
+        {
+          "q": "Why does it cool in the morning and give up by four in the afternoon?",
+          "a": "Morning air is drier and the load is lighter, so a marginal system keeps up. By midafternoon the outdoor temperature and the humidity have both climbed, and a system sized for a cooler climate or for a house before an addition started losing ground. That pattern points at charge or sizing rather than a failed part."
+        }
+      ]
+    },
+    "ac-repair": {
+      "intro": "This is the page for anyone in Houston with a system that has quit, is running badly, or has been limping along for a year. We are a referral service, so your request goes to independent HVAC companies that work Houston, and the technician who takes the job diagnoses the fault before anybody quotes a repair. Sending the request costs you nothing.",
+      "localNote": "The housing stock is why repair work here differs. A Heights bungalow from the 1920s may have had its original system replaced twice with units that never matched the ductwork, and a Sharpstown ranch from the 1970s may have a compressor that has been running the same refrigerant for thirty years. The water table means most homes sit on a slab with the air handler in the attic, so access and attic heat shape every repair.",
+      "faqs": [
+        {
+          "q": "What actually happens when I send a request?",
+          "a": "We pass it to independent HVAC companies that cover the address you give us. They contact you and diagnose the system on site. We are not a contractor and we do not do the work ourselves, and the request is free to send."
+        },
+        {
+          "q": "My outdoor unit is in the attic and it is 135 degrees up there. Does that change the repair?",
+          "a": "It changes everything about the work. A Houston attic runs 130 to 140 degrees in summer, which shortens the life of the motor and the capacitor and makes a frozen coil more likely. Access in a small attic space is also harder than in a closet, and hot metal up there is a real hazard for the technician."
+        },
+        {
+          "q": "Should I repair a 25 year old unit or replace it?",
+          "a": "It depends on what failed and what refrigerant is in it. Read the nameplate first. An R-22 unit from the 1990s is a different decision from a 2015 system, because R-22 is no longer produced for new systems and any leak work on it costs more."
+        }
+      ]
+    },
+    "ac-installation": {
+      "intro": "New systems in Houston need a load calculation done for the house as it stands now, not a tonnage number matched to square footage. Most systems going in are replacements, and most of those are homes that changed after the original install. The company we connect you with sizes it, places it, and handles the permit.",
+      "localNote": "Houston is where tonnage guesses go to fail. A house that gained a second story, a sunroom, or a garage conversion in the 2000s is carrying a load the original unit was never sized for, and the fix is a new calculation rather than a bigger box. Attic installs in the older western neighborhoods have to survive 130 to 140 degrees, which affects duct sizing and coil selection.",
+      "faqs": [
+        {
+          "q": "How big a system do I need?",
+          "a": "Ask for a manual load calculation on the house as it stands today, including any addition or opened wall. Square footage is a starting point, not an answer. A unit that is too large short cycles and leaves the house humid, which is worse than running a little long."
+        },
+        {
+          "q": "My house has no basement and barely any attic. What are my options?",
+          "a": "Ductless mini splits. The high water table means most Houston homes sit on a slab, and the older houses in the Heights and West University Place were not built with attic runs of duct. A few head-mounted units can cool an open living space and an upstairs bedroom without opening a finished wall."
+        },
+        {
+          "q": "Does the outdoor unit location matter here?",
+          "a": "More than in most places. A condenser in afternoon sun on a west wall runs hotter than the same unit on the north side, and it has less room to shed heat when the air is already at 95 degrees. Shade and clearance change the numbers on the load calculation."
+        }
+      ]
+    },
+    "ac-replacement": {
+      "intro": "Replacement is the right answer when the equipment is old enough that repairs buy a few more hot months, or when the refrigerant is discontinued. The first thing to establish is what is on the nameplate of the outdoor unit, because that decides a lot about the quote before anyone lifts a tool.",
+      "localNote": "A large share of the systems on Houston pads came out of the 1980s and 1990s and run R-22, which is no longer made for new systems. It can still be recovered from an old unit, but buying it is expensive, so a leak on an R-22 system costs more. The other Houston reason to replace is sizing, because a 1990s unit holding a house that grew an addition in 2005 was never going to carry July.",
+      "faqs": [
+        {
+          "q": "How do I find out what refrigerant my system uses?",
+          "a": "Look at the nameplate on the outdoor unit. It lists the refrigerant by name and the amount the factory charged with. If the plate is rusted or faded, the model number will identify it. Do not guess, because the answer changes the quote before the work starts."
+        },
+        {
+          "q": "Is it worth replacing a system that still cools?",
+          "a": "Sometimes yes. If the unit is at the end of its life, the refrigerant is discontinued, or the same repair has been needed more than once, replacement usually costs less over the next few summers than another repair. A load calculation belongs in the comparison, because the right size matters more here than the brand."
+        },
+        {
+          "q": "Will a new system handle the humidity better?",
+          "a": "A properly sized system with a clean coil and the right charge pulls more moisture out of Gulf air. An oversized unit does the opposite, because it short cycles and stops before the moisture is out. That is one of the most common reasons a new install still leaves the house muggy."
+        }
+      ]
+    },
+    "ac-maintenance": {
+      "intro": "Maintenance is the cheapest thing you can do for a system that runs eleven months in this climate. A tune up before the hottest stretch catches a dirty coil, a weak capacitor, and a filter that has been starving the airflow all year. Book it in spring, before the first hot week.",
+      "localNote": "Houston gives you a narrow maintenance window and it is not the one most people assume. The useful time is March through May, because the system has been idle through a mild winter and the outdoor unit has collected a season of cottonwood and mesquite debris under a mature canopy. Get the coil cleaned before June. Once the temperature passes 90, a fouled condenser is already costing you.",
+      "faqs": [
+        {
+          "q": "When should I schedule a tune up?",
+          "a": "Before the hottest stretch. In this region that means late spring, after the last cold snap and before the first 90 degree week. Doing it in the middle of July means paying to diagnose a system that has already been running hard for weeks."
+        },
+        {
+          "q": "Do I need maintenance if I changed the filter last month?",
+          "a": "A filter is one part of it. The coil, the capacitor, the drain line, the electrical connections and the refrigerant charge are the rest, and none of them are visible from the return grille. A clean filter that solved nothing means the fault is somewhere else."
+        },
+        {
+          "q": "Does the attic change the maintenance schedule?",
+          "a": "It does. An air handler sitting in an attic at 130 to 140 degrees works harder than the same unit in a closet, so the motor and capacitor wear faster. It is worth checking that stored boxes are not blocking the unit and that the attic has ventilation."
+        }
+      ]
+    },
+    "condenser-repair": {
+      "intro": "The outdoor unit does the hardest work in a Houston summer, and it is the part sitting in the weather, in the dust, under whatever the tree above it drops. Most condenser problems come down to three things: a coil packed with debris, a compressor that has overheated, or a fan motor or capacitor gone bad.",
+      "localNote": "There is no salt in the Houston city proper, so the corrosion story the coastal towns get does not apply here. What applies is debris. Cottonwood and mesquite mat the fins and hold heat against the coil, and a unit sitting under a mature tree in the Heights or River Oaks loses its airflow every season. Ambient near 95 leaves a dirty condenser no margin at all.",
+      "faqs": [
+        {
+          "q": "Can I hose out the outdoor coil myself?",
+          "a": "A gentle hose and a soft brush will clear a lot of lint, and it is worth doing before you call. Do not use a pressure washer. A high pressure wand bends the fins, and bent fins block airflow and make the coil worse than it was."
+        },
+        {
+          "q": "Why does my unit only fail in the afternoon?",
+          "a": "Heat builds all morning and the unit has nothing left by midafternoon. A dirty coil, a failed fan motor and a low charge all show up the same way, because the system survives the morning and cannot survive the peak. The technician who takes your job checks the coil first since it is the cheapest thing to check and the most common."
+        },
+        {
+          "q": "Should I put a cover on the outdoor unit in winter?",
+          "a": "No. A cover traps moisture against the cabinet and the coil, and the February 2021 freeze was hard enough without adding a damp cabinet to the problem. Leave it clear and let it breathe."
+        }
+      ]
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump at the center of the system, and when it goes, everything downstream feels it. Sometimes it can be rebuilt, sometimes the unit is scrap and the answer is a replacement. The technician who takes your job will say which one before you commit, and will explain what killed it.",
+      "localNote": "Compressors die harder here than in a dry climate. The compressor is the hottest part of the system, and once the condenser is packed with cottonwood the unit runs hot with no relief, which is exactly how compressors fail. Dirty systems also pull down the refrigerant oil that lubricates the internals. On a 1980s R-22 unit that combination is a common story.",
+      "faqs": [
+        {
+          "q": "Can a failed compressor be repaired or does it have to be replaced?",
+          "a": "Sometimes a winding or the contactor can be addressed, but a seized or burned compressor is generally a replacement job. The useful question is why it failed. If the coil was dirty and the charge was low, the same thing will happen to the new compressor a few months later."
+        },
+        {
+          "q": "The outdoor unit hums but the compressor never kicks in. What is that?",
+          "a": "That points at the contactor, the capacitor or the windings. A humming unit with no compressor sound is a common summer call here because capacitors fail in the heat. The technician who takes your job checks those first because they are the inexpensive parts."
+        },
+        {
+          "q": "My compressor has been running nonstop for a week. Is that dangerous?",
+          "a": "It is a strain on the system and on the electricity bill, and it shortens the life of the compressor. Get it looked at rather than letting it run until something gives way in the middle of a July afternoon."
+        }
+      ]
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A system that keeps needing refrigerant has a leak, and a recharge without a leak repair is a bill with a date on it. The work splits into three parts: finding the leak, repairing it, and putting the charge back where it belongs. Ask for all three and the repair holds.",
+      "localNote": "Attics are where most of the leaks live in Houston. Line sets run through space that sits at 130 to 140 degrees for months, and that heat is hard on the joints and on the insulation. An uninsulated section of line set touching a truss can develop a pinhole after enough thermal cycles. The technician is also working in metal hot enough to burn bare skin.",
+      "faqs": [
+        {
+          "q": "How do I know it is a leak and not just a bad install?",
+          "a": "An oily mark or dark stain near a line, a hissing sound, or a unit that needs refrigerant a few months after a service visit. A system that loses its charge within a year of a new install probably has a joint that never seated properly."
+        },
+        {
+          "q": "Why does the leak show up in the hottest weeks?",
+          "a": "The system is running harder and longer, so the line holds more pressure and the weak point carries more load. In Houston the highest demand days of July and August are when you find out about the pinhole that opened over the winter."
+        },
+        {
+          "q": "Is the refrigerant itself the problem?",
+          "a": "No. Refrigerant is not used up, it leaks out. Any system that needs more than a top up over a couple of years has a leak somewhere, and finding it is the work that matters. Recovering refrigerant is required by law, so the paperwork should show that it was handled properly."
+        }
+      ]
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge means measuring the charge and confirming the system holds it, not weighing in a canister and leaving. The technician who takes your job reads superheat and subcooling, and those numbers tell you whether the system is running correctly or masking a bigger fault.",
+      "localNote": "Recharging a system that is losing its charge in Houston is a temporary fix, because the conditions that broke the seal are still here. Heat in the attic and heat on the line sets drive the pressure swings that work a fitting loose. Recovering the gas is required by law, and an R-22 unit has less of it left to recover than a modern one, so the paperwork and the price both matter.",
+      "faqs": [
+        {
+          "q": "How much refrigerant does my system need?",
+          "a": "It is listed on the outdoor unit nameplate along with the factory charge. The technician weighs what goes in and measures superheat and subcooling to confirm the result. That measurement is what tells you the system is right rather than approximately right."
+        },
+        {
+          "q": "My unit was serviced somewhere else and it stopped working after. What should I ask?",
+          "a": "Ask what was measured. If the answer is that it was topped off and left, then the leak was never found and the same thing will happen again. A proper visit reads superheat and subcooling and records the charge."
+        },
+        {
+          "q": "Can a recharge fix a system that is not cooling?",
+          "a": "Only if low refrigerant is the whole problem. If the coil is dirty, the compressor is weak or the gas is leaking out, adding more only makes the leak worse and the bill bigger."
+        }
+      ]
+    },
+    "evaporator-coil-repair": {
+      "intro": "The indoor coil is the part that actually makes the cold air, and it is where the humidity comes out of the air. A dirty or iced coil gives you weak cooling, water dripping, and a smell nobody can place. Cleaning and repair here are about airflow as much as about the coil metal itself.",
+      "localNote": "A frozen indoor coil behaves differently in this climate than in a dry one. Houston air at high humidity puts a heavy moisture load on the coil, and if the filter is even a little clogged the coil ices over, which cuts airflow, which makes it ice more. An attic unit over a 1920s Heights house has no cool air around it to melt the ice, so it stays frozen until the system is shut down.",
+      "faqs": [
+        {
+          "q": "Why does water drip from the ceiling near the vent?",
+          "a": "That is the condensate pan overflowing. The coil is producing more water than the drain line can carry, or the drain is blocked. In Houston it is often a line packed with dust and insulation residue. It needs clearing, and the pan and float switch checked while the technician is up there."
+        },
+        {
+          "q": "My unit blows cold for a while and then stops. Is the coil bad?",
+          "a": "Not necessarily. A coil that ices over and then thaws cycles exactly like that, and the cause is usually airflow or charge rather than the coil metal. Cleaning a frozen coil and calling it fixed is the most common way this gets handled badly. Ask what is causing it to come back."
+        },
+        {
+          "q": "There is green or grey slime on the coil. What is that?",
+          "a": "That is microbial growth on a wet coil, and the humidity here makes it happen fast. It smells musty and it travels with the air. The coil needs cleaning and the drain needs to be clear, or it grows back within a season."
+        }
+      ]
+    },
+    "blower-motor-repair": {
+      "intro": "The blower is what moves the air. When it fails you still have cooling equipment in the house and no air coming out of it, which in this climate is as bad as no cooling at all. Motor, capacitor and relay are the three parts involved, and the cheap ones usually go at the same time as the motor.",
+      "localNote": "Motors in Houston attics live hard. Sitting in 130 to 140 degrees, the bearings cook and the capacitor runs hot, and the unit is often in an attic space where boxes and Christmas decorations are stored within a foot of the housing. Restricted airflow around the unit is not a code issue, it is a lifespan issue. When quoting the motor, ask whether the capacitor and relay are included.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on but nothing blows. Is that the motor?",
+          "a": "It could be the motor, the capacitor or a control board. A motor that is hot to the touch after a short run is pulling too much current, and if it keeps running it will take the capacitor with it. Switch it off and get it looked at."
+        },
+        {
+          "q": "The blower only works on high fan speed and not low. What causes that?",
+          "a": "That points at the relay or the control board rather than the motor itself. It is a common failure on older systems and the parts are usually inexpensive. Ask whether the replacement includes the relay and the capacitor."
+        },
+        {
+          "q": "My blower is suddenly very loud. Can I keep using it?",
+          "a": "A rasping or grinding noise is a bearing going. It can run a while, but it will eventually seize, and a seized motor drags the capacitor and the relay with it. Replace it before the whole assembly goes."
+        }
+      ]
+    },
+    "hvac-electrical-repair": {
+      "intro": "Electrical faults do not care what the refrigerant level is, and a breaker that trips on an AC unit is not something to keep resetting. The technician who takes your job brings a meter and checks the capacitor, the contactor, the disconnect and the wiring at the unit. It is the one category where the age of the house changes everything.",
+      "localNote": "Houston housing runs from the 1920s to the 2010s, so the service panels and wiring come from every era in the book. A Heights bungalow may have later-aluminum branch wiring running to a 40 amp disconnect that a 2000s condenser never met on the nameplate. Summer ambient in the attic accelerates capacitor failure, so the electrical check is never optional on a diagnosis that ends with a part.",
+      "faqs": [
+        {
+          "q": "My breaker trips every time the AC starts. What should I do?",
+          "a": "Do not keep resetting it. A breaker that trips on start is telling you there is a short or a ground fault in the outdoor unit. Turn it off at the panel and leave it. Also check the disconnect next to the outdoor unit, because a loose screw there does exactly this."
+        },
+        {
+          "q": "What is a run capacitor and why does it fail in summer?",
+          "a": "It is a small part that helps the motor start. Capacitors are heat sensitive, and in a Houston attic running 130 to 140 degrees they fail more in summer than in any other season. A failed capacitor sounds like a hum from the unit with nothing running behind it."
+        },
+        {
+          "q": "My house has old wiring. Does that affect the AC?",
+          "a": "It can. The amperage the system needs has to be supported by the circuit and the panel, and old service entrances may not have the capacity. If you are adding a system or have had an addition, the panel should be checked before the equipment goes in."
+        }
+      ]
+    },
+    "condensate-drain-repair": {
+      "intro": "Air conditioning in Houston pulls a lot of water out of the air, and all of it has to go somewhere. A blocked drain line shows up as water in the attic, water at the base of the air handler, or a puddle under the outdoor unit that is not rain. Clearing it is simple work, and it needs doing before the pan float switch shuts the system down.",
+      "localNote": "The high water table means most Houston homes sit on a slab, so the condensate has nowhere to drain into the floor. It runs through a line to a point outside, and in a house from the 1920s or 1950s that line was installed with a slope that barely worked. Add cottonwood debris at the outdoor end and the line plugs. The attic version is worse, because water travels along the duct and appears on a ceiling in another room.",
+      "faqs": [
+        {
+          "q": "There is a puddle under my outdoor unit. Is that a leak?",
+          "a": "Often it is just condensate draining where it is supposed to drain. Look for a pipe leaving the unit and a wet spot around it. If the water is coming from the unit itself with no pipe in sight, or the pan inside is full, that is a different problem and it needs attention."
+        },
+        {
+          "q": "My ceiling has a water stain near the register. How did it get there?",
+          "a": "Almost always from the air handler, and the water has often travelled along the duct or a joist before it showed up. In a slab house with an attic unit, the stain can be in a room nowhere near the equipment. Find the source before you repaint the ceiling."
+        },
+        {
+          "q": "My system shut itself off and there is a warning light. What happened?",
+          "a": "The float switch in the pan likely tripped because the drain was blocked. That is the system protecting itself, and it is doing you a favor compared with a wet attic. Clear the drain and reset it. If it trips again straight away, there is a bigger problem with the pan or the coil."
+        }
+      ]
+    },
+    "thermostat-installation": {
+      "intro": "A good system on a bad thermostat will never perform the way it should, and most thermostat problems are wiring left over from a previous install. Swapping the thermostat is quick once the wire set is understood, and it is worth doing alongside any other work on the system.",
+      "localNote": "Photograph the wires before anything comes off, because Houston homes carry wire sets from every decade and the terminal labels rarely match what is connected. In a 1920s Heights house the existing thermostat may be a line voltage unit, and a smart thermostat installer may have used a common wire the old air handler never had. Humidity matters too: a thermostat that reads the humidity sensor can hold the house tighter to the dew point than a fixed schedule can.",
+      "faqs": [
+        {
+          "q": "Can I replace the thermostat myself?",
+          "a": "Often yes, if the new one matches the system and you are comfortable with a screwdriver and a photograph of the wires. The failures come from a wire set that does not match what the manual expects, so document everything before you start and do not force a wire into a labelled terminal."
+        },
+        {
+          "q": "Is a smart thermostat worth it in this climate?",
+          "a": "It helps, because it can use humidity rather than temperature alone to decide when to run. A schedule only thermostat holds the house to a temperature number and lets the moisture build up around it. It needs a common wire and a working connection to the system, so have the wiring checked first."
+        },
+        {
+          "q": "The system ignores the schedule. Why?",
+          "a": "Usually the thermostat has a delay or an anti-swing feature left over from installation, or it is set to the wrong mode. It can also be a wiring problem where the schedule never reaches the board at all, which is common in houses where an earlier installer used a wire set the manual does not describe."
+        }
+      ]
+    },
+    "ductless-mini-split-installation": {
+      "intro": "Ductless mini splits solve the problem of a room that has no ductwork and no way to get any. They are the natural answer in Houston for a garage, a shop, a converted attic, or an older house that never had central air. The request goes to a company that covers your area, and they size the unit and place the heads.",
+      "localNote": "Two local facts push people toward ductless. The high water table means most homes sit on a slab with no basement and no attic space to run ducts, and the older houses in the Heights, Meyerland and Third Ward were built before central air was normal. Placement is the other factor: an outdoor unit on a west or south wall in July works far harder than the same unit on the north side.",
+      "faqs": [
+        {
+          "q": "Is a mini split efficient enough for a whole house in Houston?",
+          "a": "Multiple heads can handle a house if they are sized and laid out well, and there are no ducts losing air in an attic at 130 to 140 degrees. The calculation has to account for the glass and the west facing walls, not just the square footage, or the heads will run constantly without catching up."
+        },
+        {
+          "q": "Where does the outdoor unit go?",
+          "a": "Out of direct sun, with clear airflow around it, and with a drain that runs somewhere it will not run against the foundation or toward a neighbor's yard. The technician who takes your job checks those things at the estimate because the placement decides how hard the unit works all summer."
+        },
+        {
+          "q": "Can a mini split be added to a house that already has central air?",
+          "a": "It can, to handle the part of the house the central system does not cover well. In Houston that usually means an addition, a sunroom, or an upstairs space that sits in the sun all afternoon. Running both at once is possible but worth thinking about before it goes in."
+        }
+      ]
+    },
+    "ductless-mini-split-repair": {
+      "intro": "When the head is the only cooling in the room, a mini split fault is an emergency for that room. The error code on the head tells the technician where to start, and most calls turn out to be a filter, a drain line or a dirty coil on the outdoor unit.",
+      "localNote": "The heads collect dust and pet hair fast here, and a blocked filter on a mini split freezes the coil inside the head because the refrigerant and the electronics share the same box. The outdoor unit still sits on the pad taking humidity and afternoon sun, so the cottonwood and mesquite debris that mats a standard condenser mats a mini split unit too. January 2024 caught head units and line sets that were never designed for a hard freeze.",
+      "faqs": [
+        {
+          "q": "My mini split head blows but does not cool. Where do I start?",
+          "a": "Clean the filter and make sure the head is not blocked by a curtain or a cabinet. If it is still blowing warm with the outdoor unit running, the head is usually showing an error code, and that code is the fastest thing the technician can read before anything comes apart."
+        },
+        {
+          "q": "Water is dripping from the head onto the wall. Why?",
+          "a": "The drain line from the head is blocked or kinked. In a humid climate the condensate volume is high and the small line clogs with dust and biofilm. It is usually a quick clear and a flush of the line."
+        },
+        {
+          "q": "Is a mini split worth repairing?",
+          "a": "Most of the time yes. The common faults are a fan motor, a sensor, a drain line or a failed board, and the outdoor unit on a mini split is usually newer than the central equipment it replaced. Ask what the repair covers before the board goes."
+        }
+      ]
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump does both jobs, so a fault can take out heating and cooling at the same time. In Houston the heat side matters for a few weeks of winter and the cooling side matters for about eight months, so most heat pump calls here are cooling calls with a heating problem attached.",
+      "localNote": "Heat pumps are not common in Houston, and the ones here are mostly newer systems put into houses that were not built for them. The February 2021 freeze and the January 2024 freeze both took out equipment never meant to operate through a hard freeze with no power, and line sets repaired in January 2024 now run through the same heat as everything else. Ice in the warm months means a charge or airflow problem.",
+      "faqs": [
+        {
+          "q": "My heat pump has ice on the outdoor unit in July. Is that normal?",
+          "a": "No. Ice on the outdoor unit in the warm months points at a low refrigerant charge or a reversing valve issue. Shut it down and let it thaw, then get it looked at. Running it into the ice makes the damage worse."
+        },
+        {
+          "q": "The heat side works and the cooling side does not. Does that narrow it down?",
+          "a": "It narrows it a lot. If only cooling fails, the reversing valve and the refrigerant side are the likely culprits. If both fail together, it is usually a control board or an electrical fault. That distinction saves diagnostic time."
+        },
+        {
+          "q": "Is a heat pump a good fit for a Houston house?",
+          "a": "The cooling side does most of the work here and the heating side gets used for a handful of weeks. What matters more is whether the existing ductwork is in good shape and whether the house has a lot of west facing glass. The economics depend on the system being replaced."
+        }
+      ]
+    },
+    "commercial-ac-repair": {
+      "intro": "Commercial systems in Houston have a clock running on them. A packaged rooftop unit that shuts down in July affects every tenant, a chiller that is off by a few degrees affects a whole floor, and a year of deferred filter changes can read as a failed compressor.",
+      "localNote": "The local commercial load is heavy. Houston has high humidity in every month of the cooling season, so latent load pushes rooftop units and cooling towers harder than the dry climates these systems were designed in, and ice on a packaged unit in August is a humidity and airflow problem. Scale is the other factor. A tower near NRG Park or a building on the Ship Channel side runs equipment from several manufacturers at once.",
+      "faqs": [
+        {
+          "q": "How often should a commercial rooftop unit be serviced?",
+          "a": "Filters monthly in this climate, and a full inspection at least twice a year, before the hottest stretch and after it. On a chiller or cooling tower the water treatment side matters as much as the mechanical side, and the log is what tells you what has been deferred."
+        },
+        {
+          "q": "Our tenants are hot but only on one floor. Where do we start?",
+          "a": "Start with the zone and the airflow, not the equipment. A closed damper, a stuck damper motor, or a duct crushed during a tenant fit out shows up as one warm area while the whole system works. Get the maintenance history before anyone quotes a part."
+        },
+        {
+          "q": "Do you handle commercial service in the Houston area?",
+          "a": "We are a referral service, so the request is passed to independent HVAC companies that cover commercial work in the metro. Buildings in the Energy Corridor, Downtown, and around the Port of Houston are all served by companies in that network."
+        }
+      ]
+    },
+    "ac-cleaning": {
+      "intro": "A dirty coil is the cheapest performance loss in the whole system and the easiest one to fix. Cleaning the outdoor coil, checking the indoor coil, clearing the drain and changing the filter will take a limping system back to working order. It is the one service call worth booking ahead of the heat.",
+      "localNote": "What makes cleaning urgent in this city is the trees. Cottonwood fluff and mesquite debris do not fall in one storm and stop, they drop steadily from spring through fall, and a unit under a mature canopy in the Heights, West University Place or River Oaks can be matted within a season. Add the pollen and the film Gulf humidity leaves on the fins, and the coil is insulating itself.",
+      "faqs": [
+        {
+          "q": "How do I know the outdoor coil is dirty?",
+          "a": "Look at it. If the fins are visibly packed, if you cannot see through them, or if there is a mat of debris under the unit, the coil needs attention. A dark line of debris under the unit that reappears quickly after cleaning is the sign of a tree overhead."
+        },
+        {
+          "q": "Does cleaning the coil really make a difference?",
+          "a": "On a dirty one, yes. A blocked coil holds heat against the refrigerant, the compressor works harder and the system runs longer for less cooling. On a clean coil it makes very little difference, which is why it is worth looking before booking a visit."
+        },
+        {
+          "q": "Should I clean the coil myself or have it done?",
+          "a": "A gentle hose and a soft brush on the outdoor coil will clear surface lint, and it is worth doing in the spring. Never use a pressure washer, the fins bend and the coil ends up worse. A chemical clean on the indoor coil and a proper rinse on the outdoor coil is technician work."
+        }
+      ]
+    }
+  }
+}

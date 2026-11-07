@@ -1,0 +1,162 @@
+{
+  "intro": "Pearland has gone from ranch homes on old lots to dense subdivisions fast, and the cooling equipment is a mix of both eras. It sits close enough to the Gulf that salt starts dulling condenser fins, but not close enough for salt to be the whole story. Coastal oak litter is the constant background noise in this part of Brazoria County.",
+  "localAngle": "Two generations of housing sit side by side in Pearland. The older blocks are 1990s ranches with single-storey layouts and original equipment. The new subdivisions are larger, taller and packed with coastal oak shade that drops acorns and catkins straight onto the units. Because the area sits close to the bay, the first thing salt does is dull the aluminum fins on the condenser, which lowers how much heat the coil can dump. Humidity does the rest, because every pound of water pulled out of the air has to be condensed somewhere. Salt is present here, but it is a slow damage, not a sudden failure.",
+  "commonCalls": [
+    "Condenser covered in oak catkins and leaf litter under the trees",
+    "System runs but the house stays warm and muggy on a Brazoria County afternoon",
+    "Outdoor unit fins dulled and grey from salt air",
+    "New-build system with a workmanship warranty question and weak cooling",
+    "Water pooling under the unit after a heavy rain"
+  ],
+  "landmarks": [
+    "Broadway 288",
+    "Highway 288",
+    "Pearland Town Center",
+    "Shadow Creek Ranch",
+    "Southland Shopping Center",
+    "Reedbrook",
+    "Silverlake",
+    "Briar Oaks",
+    "Manvel Road",
+    "Clear Creek"
+  ],
+  "faqs": [
+    {
+      "q": "Is there enough salt in Pearland to damage an AC condenser?",
+      "a": "There is enough to matter, but it is a slow damage rather than an overnight one. Onshore wind carries bay salt inland through the Houston area, and Pearland is close enough that the outdoor units pick it up. The fins dull and the cabinet corrodes over a few seasons. Inland units do not show this. The difference is why a rinse matters more here than in Fort Bend County."
+    },
+    {
+      "q": "My Pearland AC runs constantly but the house is humid, not cool. Why?",
+      "a": "The system is probably moving air it cannot cool. In this humidity the unit has to pull a lot of moisture out of the air, and that moisture has to condense on the coil and drain away. If the coil is dirty or the airflow is low, it freezes instead of draining. A frozen coil blows warm air and gets logged as a gas problem."
+    },
+    {
+      "q": "Do the trees in Pearland clog the outdoor unit?",
+      "a": "Coastal oaks drop acorns, catkins and small leaves year-round, and the small stuff is worse than broad leaves because it packs into the fins instead of sitting on top. A condenser under that canopy works against a blocked coil face all summer. Clearing it and washing the fins takes an afternoon and changes how the unit runs."
+    },
+    {
+      "q": "Should I have the condenser rinsed before hurricane season?",
+      "a": "It is worth doing. The storms bring salt spray and debris onto the unit, and the units that were already dulled have less margin. A rinse clears the salt crust and the leaf litter together. Gentle hose pressure and a soft brush, no high-pressure wand, because a wand bends the fins and makes the coil worse."
+    },
+    {
+      "q": "Is a system from a 1990s Pearland home worth repairing?",
+      "a": "It depends on the refrigerant and the coil. The older blocks around Reedbrook and Silverlake run equipment that went in when the house was framed, so the lineset and coil are old enough to leak. Read the nameplate before you call. That one fact changes whether the answer is a repair or a matched replacement."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Local conditions used: low coastal salt exposure, coastal oak catkin litter, the humidity load, and the 1990s versus 2010s housing split.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Pearland homes get hot fast when the cooling stops, because the humidity stays on the meter with the system off. We hand the request to the HVAC company that covers your part of Brazoria County. The first steps are the same ones a technician takes anywhere: confirm the fan and compressor state, check the breaker, and find out whether the fault is electrical.",
+      "localNote": "Two things make a Brazoria County outage different from one further inland. The damp air means the house climbs faster than the thermostat suggests, and a coastal unit that has been sitting in salt air can fail without much warning when the compressor tries to pull down against a fouled coil. The technician should check refrigerant pressures and condenser cleanliness, not just reset the breaker and leave.",
+      "faqs": [
+        {
+          "q": "The AC died during a storm. What should I check first?",
+          "a": "Look at the outdoor unit from a distance. If there is standing water or ice around the base, leave the system switched off and say so when you make the request. Then check the AC breaker once. If it holds and the unit is dead, the fault is at the equipment and it needs a technician."
+        },
+        {
+          "q": "Why do outages feel worse in Pearland than inland?",
+          "a": "The moisture in the air. The cooling system is not just removing heat, it is removing water from the air. When it stops, that load does not stop with it, and a humid house climbs faster than the thermostat number suggests. The rooms that were already humid are the ones that get uncomfortable first."
+        },
+        {
+          "q": "Is it safe to switch the AC back on after a storm?",
+          "a": "Only once the area around the unit is dry. If water has been sitting in the base pan or against the electrical compartment, that is a live hazard and the system should stay off. Salt water in the connections also ruins them quietly, which is why the cabinet gets inspected rather than just reset."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: coastal humidity load, storm water and salt in the base pan, storm-related outages."
+    },
+    "same-day-ac-repair": {
+      "intro": "A Pearland system that works but never quite gets the house cool is the classic same-day call. Coastal oak debris mats on the condenser and the coil loses airflow. The technician who takes the job should clear the coil, verify the charge and check the amp draw before deciding anything else.",
+      "localNote": "Acorns, catkins and small leaves are the local litter here, and they are worse than broad leaves because they pack into the fins instead of sitting on top. Clean the coil, check the fins for salt dulling, and the same unit that was running long all week starts hitting setpoint. Given how fast Pearland subdivisions fill with mature oaks, this is a call that repeats every season on the same block.",
+      "faqs": [
+        {
+          "q": "How often should the condenser be cleaned in Pearland?",
+          "a": "Every couple of months in the growing season, and after any storm that brings branches down. The coastal oaks drop year-round, so the coil never gets a long clean stretch. Add the salt film and the fins hold a crust that a dry brush alone will not shift."
+        },
+        {
+          "q": "The system works in the morning and quits by noon. Is that a thermostat?",
+          "a": "Usually not. By noon the coil is fouled, the outdoor unit is hot and the system has already run for hours against a bad heat rejection problem. Many systems also have a cutout timer that stops the compressor in the hottest part of the afternoon. The technician checks the coil and the run time rather than the thermostat first."
+        },
+        {
+          "q": "Can I rinse the salt off the coils myself?",
+          "a": "Yes, with care. A gentle hose setting and a soft brush will remove a salt crust and the leaf litter on top of it. Do not use a pressure wand, it bends the fins, and a bent fin reduces the coil's ability to shed heat. Keep the water out of the electrical compartment."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: coastal oak catkins, salt crust on the fins, and afternoon run-time cutouts."
+    },
+    "ac-not-cooling": {
+      "intro": "Air blowing and no cooling is the complaint that sends people looking for refrigerant. In Pearland the answer is usually airflow or a coil that has lost its edge to debris and salt. A technician needs to measure static pressure and read the charge before anything gets added, since charging a system that is actually dirty just adds gas to a problem that will come back.",
+      "localNote": "Humidity is the reason this is so common near the bay. The system has to pull a large amount of moisture out of the air, and if the indoor coil is dirty or the airflow is low, that moisture freezes on the coil instead of draining away. A frozen coil blows warm air and reads as a gas problem. Fixing the airflow and cleaning the coil is what actually restores cooling.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil freeze in Pearland?",
+          "a": "Because the coil gets colder than the air around it and the moisture in that air condenses and then freezes. That happens when the airflow over the coil is too low. A dirty filter, a restricted return in a new build with a tight return path, and a long duct run in a hot attic are all common here. Lowering the thermostat makes the freeze worse."
+        },
+        {
+          "q": "Is my AC low on refrigerant or is the coil just dirty?",
+          "a": "The technician reads the charge and the airflow together, because either one can look like the other from the thermostat. A dirty coil starves the system and drives the pressures around, which can read like a gas problem. Adding refrigerant to a system that is dirty is treating the symptom, and the same call comes back within weeks."
+        },
+        {
+          "q": "Does salt in the air affect how well the unit cools?",
+          "a": "It does, slowly. The salt film dulls the aluminum fins on the outdoor coil, and a dulled fin passes heat less efficiently. The condenser then runs hotter, the compressor works against higher pressure and the cooling output drops. Rinsing the coil restores it, which is why a coast-side unit that gets a rinse does better than one that does not."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: humidity-driven coil freeze, salt-dulled fins, and dirty coil versus low charge."
+    },
+    "ac-repair": {
+      "intro": "Pearland repair work splits cleanly between two generations of equipment. The 1990s homes have original systems with R-22 and brittle lines, while the new construction has modern units, often still under a workmanship warranty, where the complaint is usually a sizing or duct problem rather than a broken part. We connect you with a company that covers Brazoria County.",
+      "localNote": "On the older side of town the failures are predictable: aged capacitors, contactors pitted by humidity and condensers that have been running hard for twenty-five summers. On the newer side the complaint is performance, not breakdown, and it usually comes back to duct sizing in a house that was framed for a different layout. Two different repairs, two different conversations. Ask which one you are having.",
+      "faqs": [
+        {
+          "q": "How do I know if my Pearland system is original or newer?",
+          "a": "The nameplate on the outdoor unit carries the model, the refrigerant and the date code. The duct layout gives a second clue. A 1990s ranch has a single air handler and simple trunk runs, while a newer build often has a second zone, a return in every room and a much tighter return path. The two need different diagnoses."
+        },
+        {
+          "q": "What causes most repairs in Pearland?",
+          "a": "In the older housing, humidity and age working together. The electrical components corrode, the copper line set gets brittle and the compressor has run against a fouled coil for a long time. In the newer housing, the repair is usually about air movement rather than broken parts."
+        },
+        {
+          "q": "Should a company honor the workmanship warranty on a new build?",
+          "a": "Often that warranty sits with the builder rather than the installer, so it is worth asking who installed the equipment before anyone charges you for a repair. A system that underperforms within the first few summers of ownership is exactly the kind of thing those agreements cover. Ask for the paperwork and check it before the work starts."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: 1990s versus 2010s equipment split, builder workmanship warranty, humidity corrosion."
+    },
+    "ac-installation": {
+      "intro": "New construction in Pearland still has systems that were sized from a plan rather than a load calculation, and those systems get undersized the first hot summer. Installations for existing homes tend to be replacements and garage conversions, where the question is what the old system was and what the house actually needs now.",
+      "localNote": "Brazoria County has some of the fastest-settling new housing in the state, which means systems are installed into homes that are still bare. A house that gets a bonus room two years after closing has a different load than it did on the day it was framed. Ask for the calculation to be redone after the house is finished. Coastal damp also means where the outdoor unit sits matters for how long the cabinet lasts.",
+      "faqs": [
+        {
+          "q": "My new build AC cannot keep up. Is it undersized?",
+          "a": "That is one possibility and it is common in this area. A system sized from the floor plan rather than from a load calculation will look fine on paper and struggle the first time the house is fully furnished and occupied. The other possibility is that the duct system cannot move enough air for the space it serves. The technician reads both before recommending a change."
+        },
+        {
+          "q": "Should I add a second zone when I build in Pearland?",
+          "a": "It depends on the layout rather than the budget. A two-storey house with a bonus room over the garage often needs it because one unit cannot carry that volume well. A single-storey plan usually does not. The load calculation and the duct layout answer this, and the answer is different for every footprint."
+        },
+        {
+          "q": "How does coastal air affect a new condenser?",
+          "a": "It shortens the life of the cabinet and dulls the fins faster than an inland unit. It does not change how the system works on day one. The protection is regular rinsing, a unit with a coated coil, and a location that drains well and is not sitting in a low wet spot behind the house."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: new-build sizing from plans, coastal condenser placement, zoning in Brazoria County."
+    },
+    "ac-replacement": {
+      "intro": "Replacement in Pearland has two versions. For a 1990s house it means moving off a refrigerant and a coil set that have been running since the Gulf humidity got to them. For a newer house it usually means replacing a unit that was mis-sized or badly ducted, and the second one is worth thinking through before money is spent.",
+      "localNote": "The R-22 systems from the 1990s are the obvious candidates. Their linesets are brittle, the coil is thin, and any leak repair on them costs more than the repair should. Salt exposure near the bay makes an older cabinet a worse bet too, since the metal has been weathering for years. New refrigerant, a new coil, and a system matched to the house rather than to the old footprint is the more durable path.",
+      "faqs": [
+        {
+          "q": "Is my Pearland system R-22?",
+          "a": "Most systems from the 1990s and early 2000s in this area are. R-22 was the standard for residential split systems for decades and is no longer produced for new equipment. The nameplate on the outdoor unit lists the refrigerant, and reading it before the quote keeps the price of the job from changing once the old unit is pulled."
+        },
+        {
+          "q": "Should I replace the whole system or just the outdoor unit?",
+          "a": "The coil and the air handler have to match the new outdoor unit in refrigerant and in airflow design. Mixing a new condenser with an old coil and an old air handler produces a system that runs harder for less cooling and gives you the same complaints. On a house of this age, replacing the set as a whole is usually the right call."
+        },
+        {
+          "q": "How much does coastal salt shorten the life of a condenser?",
+          "a": "It is a matter of seasons rather than years for an unrinsed unit near the bay. The fins dull, the cabinet corrodes at the base and around the connections, and the electrical parts fail sooner than they would inland. A unit that gets rinsed twice a year and cleaned holds up far better than one that does not."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: R-22 from the 1990s, coastal cabinet corrosion, matching coil and air handler."
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "intro": "League City sits on the bay side of Galveston County, and salt is the fact that shapes AC work here more than anything else. Air off the water carries salt into the outdoor unit, and it goes after the coating on the condenser fins and the connections inside the cabinet. Everything else is humidity and heat.",
+  "localAngle": "Salt does its damage quietly. It settles on the outdoor coil and dulls the aluminum so the coil sheds heat less efficiently, and it gets into the base pan and the electrical compartment where it turns the metal to powder. A unit that was never rinsed shows corrosion within a few coastal seasons. Add the humidity off the bay, which pushes every system harder, and equipment that would last a decade inland is fighting for its life here. Houses date from the 1980s through the 2010s, so much of the equipment is already sitting on a salt-eaten chassis.",
+  "commonCalls": [
+    "Condenser cabinet corroded at the base from bay salt",
+    "Coil fins dulled and white, system running long with weak cooling",
+    "Outdoor unit that stops in a coastal storm and will not restart",
+    "Coastal oak leaves and salt crust on the outdoor coil",
+    "Corrosion and moisture around the electrical compartment of the unit"
+  ],
+  "landmarks": [
+    "League City Main Street",
+    "Clear Lake",
+    "Texas City Road",
+    "Highway 45",
+    "Dickinson Bayou",
+    "South Shore",
+    "Lighthouse Landing",
+    "Heritage Park",
+    "Glen Cove",
+    "Bay Oaks"
+  ],
+  "faqs": [
+    {
+      "q": "Does bay salt really damage AC units in League City?",
+      "a": "Yes, and it is the single condition that makes coastal units different from inland ones. Onshore wind carries salt off the bay and inland, and the salt crusts onto the condenser fins and into the electrical compartment. A unit that gets rinsed a couple of times a season will outlast one that never does. This is not a matter of opinion, it is visible on the cabinet within a few seasons."
+    },
+    {
+      "q": "How often should I rinse the condenser here?",
+      "a": "Twice a year is the useful minimum, and once a year is the point at which the damage starts showing. Spring after the pollen and leaf season and again before the worst of the summer. A gentle hose and a soft brush, no pressure wand, because a wand bends the fins and a bent fin sheds heat worse than a slightly dirty one."
+    },
+    {
+      "q": "Why does my outdoor unit have rust on the cabinet?",
+      "a": "Salt plus humidity plus standing water. The salt film on the steel keeps it damp, and damp steel corrodes. It starts at the base pan and the lower cabinet edges where water sits, then works up to the electrical compartment. On a coastal unit the base pan and the connections are the first things to look at, and they are the first things to fail."
+    },
+    {
+      "q": "Does salt affect the refrigerant lines too?",
+      "a": "It gets to them. The line set is copper and the fittings are brass, and salt in the air settles on the insulation and holds moisture against them. A fitting that corrodes slowly can leak without you hearing anything, and the charge disappears over a season rather than all at once. When a unit here keeps needing refrigerant, that is a strong hint about where the leak is."
+    },
+    {
+      "q": "My home is a few miles from the water. Is salt still a problem?",
+      "a": "Onshore wind carries salt inland well beyond the shoreline, which is why units in the western parts of Galveston County still show corrosion. The closer to the bay, the faster it happens. The point is that there is no distance at which you can assume the coastal units are safe, so a rinse routine makes sense anywhere in this county."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Local conditions used: bay salt on condenser fins and cabinet, salt carried inland by onshore wind, corrosion at the base pan and connections.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Coastal weather is the biggest cause of emergency calls in League City. A storm, a lightning hit or a salt-damaged electrical connection can take the unit out in one afternoon. We pass the request to the HVAC company that covers Galveston County and let them diagnose it on site, with salt corrosion and water intrusion the first two things to rule out.",
+      "localNote": "A unit that goes down after a coastal storm needs a look for salt water on the electrical parts, not just a reset. Salt that has been sitting in the base pan and the connections will keep a system from restarting even after the power comes back, because the corrosion is already there. The technician should check for standing water, test the supply, and look at the cabinet before assuming a control board failed.",
+      "faqs": [
+        {
+          "q": "My League City AC stopped after a storm. What should I check?",
+          "a": "Look at the base of the outdoor unit from a distance. If there is standing water, salt or a fine white crust around the cabinet, leave the system switched off and say so in the request. Then check the AC breaker once. If it holds and the unit stays dead, the fault is at the equipment and it needs a technician on site."
+        },
+        {
+          "q": "Can salt damage stop an AC unit from restarting?",
+          "a": "It can. Salt moisture in the base pan corrodes the connections that carry power to the compressor and the fan. The unit holds a fault code, the power is restored, and the system still will not start because the connection that should close has been eaten. Resetting it does nothing. That is why coastal units get inspected rather than simply reset."
+        },
+        {
+          "q": "Is it safe to reset the breaker at the outdoor unit?",
+          "a": "Only once everything around the unit is dry and the disconnect is intact. Salt water in the electrical compartment makes a reset dangerous and makes the damage worse. If there is any water or crust near the disconnect, leave it and let the technician who covers your area deal with it."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: salt water in the base pan after coastal storms, corroded connections blocking a restart."
+    },
+    "same-day-ac-repair": {
+      "intro": "A same-day visit in League City is usually a unit that is running but not doing the job, and the coastal air is often the reason. Dulled fins, a salt crust over the coil and a compressor working against a fouled condenser all add up to weak cooling. The technician who takes the job should rinse the coil and read the charge before quoting anything.",
+      "localNote": "A rinse changes the picture on this coast. Salt crusted onto the fins adds a blanket of insulation that the fan is fighting, and the unit comes back up to temperature once it is washed. Add the coastal oak leaves that pile against the cabinet and trap damp against the coil, and it is common to see a system that was running constantly start holding setpoint after one clean. That visit often tells you whether the real problem is capacity.",
+      "faqs": [
+        {
+          "q": "Can a salt-crusted condenser be cleaned back to working order?",
+          "a": "Usually yes. The salt crust and the leaf litter on top of it together form a blanket over the coil. Wash it off gently and the fins shed heat properly again. What cleaning cannot undo is the corrosion inside the cabinet and around the connections, so the unit still gets inspected for that even after the coil is clean."
+        },
+        {
+          "q": "How do I tell if my coil is just dirty?",
+          "a": "Look at the fins. Evenly packed leaves and dust wash off and the unit runs better the same afternoon. A grey-white crust that feels rough and gritty is salt, and it has probably been there long enough to dull the fins. Rusted cabinet panels and green deposits near the connections point at corrosion rather than dirt, and that needs more than a rinse."
+        },
+        {
+          "q": "My unit is only a few years old and already struggling. Is that salt?",
+          "a": "It can be. A coastal unit that was never rinsed dulls its fins and corrodes its cabinet within a few seasons, and it will run constantly long before it fails outright. A unit that has been rinsed twice a year should be performing much better than one that has not, so the maintenance history is worth checking before anything gets replaced."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: salt crust on the coil, corrosion versus dirt, and the effect of a rinse history on a young unit."
+    },
+    "ac-not-cooling": {
+      "intro": "Running and blowing warm air in League City has one extra suspect that inland areas do not have. A condenser whose fins have been dulled by salt cannot shed heat the way it should, and the system runs and runs without cooling the house. The technician who takes the job needs to check the coil condition and the refrigerant charge together.",
+      "localNote": "A fouled condenser raises the pressure on the refrigerant, which makes the compressor run hot and can trip it on the high side. On this coast the fouling is often salt rather than just dust and leaves. The other coastal factor is that a salt-eaten system may have a slow leak at a fitting that has been quietly losing charge for a season. Coil condition and charge need checking in that order.",
+      "faqs": [
+        {
+          "q": "Why is my League City AC running but blowing warm air?",
+          "a": "The coastal condenser is the first thing to look at. Dulled or crusted fins cannot reject heat, so the compressor runs hard, the pressures climb and the cooling output drops. If the coil has been rinsed and the air is still warm, the charge gets read next, because a fitting that has corroded can leak a season's worth of refrigerant without a sound."
+        },
+        {
+          "q": "Does salt cause refrigerant leaks?",
+          "a": "Indirectly. The salt film holds moisture against the line set and the fittings, and corrosion there eventually opens a slow leak. It is one of the reasons a coastal unit needs refrigerant every couple of summers while an inland unit of the same age does not. When the leak gets found, the corroded section of line set usually has to be replaced along with the fitting."
+        },
+        {
+          "q": "Is my AC undersized or is it the condenser?",
+          "a": "Both are worth checking and the coil comes first because it is cheaper to fix. A fouled condenser makes a correctly sized system look undersized, because it cannot reject the heat it is being given. Once the coil is clean the run times and pressures change, and then the sizing question can be answered honestly."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: salt-dulled condenser fins, corroded fittings leaking charge, fouled coil versus sizing."
+    },
+    "ac-repair": {
+      "intro": "The repair list here is longer than inland because the salt adds failures to the normal list. Corroded capacitor and contactor connections, rusted disconnect fittings, a fan motor bearing gone from salt and moisture, and coil corrosion all show up. We connect you with a company that covers Galveston County so the unit gets assessed for salt damage as well as mechanical wear.",
+      "localNote": "When a technician opens the electrical compartment of a coastal unit, the corrosion usually tells the story. Green and white deposits on the terminals mean the connections have been sitting in salt air for a long time, and a capacitor that has been damp that way can fail without looking damaged from the outside. This kind of damage is not a symptom of age, so a unit can fail early in a way an inland technician would not expect.",
+      "faqs": [
+        {
+          "q": "What does salt corrosion on an AC unit look like?",
+          "a": "White crust on the cabinet and the fins, rust at the base pan edges, and green or white deposits on the terminals inside the electrical compartment. It often looks worse on the side of the cabinet that faces the prevailing onshore wind. Once you have seen it, it is easy to tell apart from ordinary dust and leaves."
+        },
+        {
+          "q": "Do coastal units need more electrical repairs?",
+          "a": "They do. The capacitor and the contactor live in the compartment that salt reaches first, and both fail without warning on a corroded connection. That is why replacing the capacitor alone sometimes does not fix a coastal unit that keeps tripping. The connections get cleaned and replaced, not just the part."
+        },
+        {
+          "q": "Can the corroded parts be cleaned instead of replaced?",
+          "a": "Sometimes the terminals can be cleaned and re-terminated, and the technician will do that when it is appropriate. What cannot be cleaned is the cabinet sheet metal that has rusted through, or a line set whose insulation has broken down. Those have to be replaced, and it is better to know that before the work is quoted."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: salt crust and green deposits on terminals, coastal electrical repairs, cleaning versus replacing corroded parts."
+    },
+    "ac-installation": {
+      "intro": "New systems in League City have to survive the same air that ended the old one, and the specification should reflect that. Coated condenser fins, a corrosion-resistant cabinet and a serviceable design for a humid salt environment all belong in the conversation. We connect you with an installer who covers Galveston County.",
+      "localNote": "Ask what the outdoor unit is made to handle. Inland, a standard galvanized cabinet and an aluminum coil are fine. Here, the finish on the cabinet and the coil coating are what decide how many seasons you get, and a unit with a salt-resistant coating costs less over its life than the same unit replaced twice. Rinsing guidance should come with it, because no coating replaces maintenance.",
+      "faqs": [
+        {
+          "q": "Should a new AC in League City have a special coil coating?",
+          "a": "It is worth asking for and worth paying a little more for. A coated or treated coil resists the salt that dulls bare aluminum, and it holds up noticeably better on this coast. Inland it would be money wasted. Here it is the difference between a unit that lasts and one that gets replaced in a few seasons."
+        },
+        {
+          "q": "Does the salt affect the choice of outdoor unit?",
+          "a": "It should. Ask about the cabinet finish and the coil coating, and about how the unit drains. A design that lets moisture leave quickly will outlast one that traps it. The technician can also tell you where the unit should sit so it gets the least of the prevailing onshore wind."
+        },
+        {
+          "q": "How often should the new unit be rinsed?",
+          "a": "Twice a year, and more often if it sits where the salt builds. Spring after the leaf season and again before the summer heat. The routine takes a few minutes with a garden hose and a soft brush, and it is the cheapest protection available to an outdoor unit on this coast."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: coated coils for coastal exposure, cabinet finish, and the rinse routine on a new unit."
+    },
+    "ac-replacement": {
+      "intro": "Replacing a salt-exposed system in League City is a bigger job than swapping a compressor, because the outdoor cabinet, the line set and the connections all need to be looked at. The technician who takes the job should check for corrosion along the lines and around the service disconnect. A new system installed into corroded connections will fail in a way the new equipment did not deserve.",
+      "localNote": "The case for replacement here is stronger than inland. A salt-eaten cabinet, brittle line set insulation and connections that no longer hold a torque properly are all reasons to start over. The refrigerant in older units here is likely R-22, which is no longer produced for new systems. A matched set on a current refrigerant, installed with new connections and a washdown at handoff, is the durable answer for a coastal house.",
+      "faqs": [
+        {
+          "q": "Is it worth replacing a coastal AC or just cleaning it?",
+          "a": "Cleaning the coil is worth doing first, because a salt-crusted condenser will make any system look worse than it is. What cleaning does not fix is the corrosion inside the cabinet, the terminals and the base pan, and that is what actually ends the life of the unit. The technician reports on both, and the decision follows from which one dominates."
+        },
+        {
+          "q": "Does the line set need replacing with the condenser?",
+          "a": "Often on a coastal house of this age. The insulation on an old line set cracks and the salt air gets to the copper underneath, and a fitting that has been quietly corroding is the thing that leaks. New line set is also the right call whenever the refrigerant is changing, since the two cannot be mixed."
+        },
+        {
+          "q": "What refrigerant will my new League City system use?",
+          "a": "A current refrigerant, and the technician will tell you which one before the work is quoted. The older units in this area mostly run R-22, which is no longer produced for new systems and is expensive to service. Knowing what the old system uses and what the new one will use keeps the cost of the job from changing once the old unit is pulled."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: cleaning versus replacing a salt-exposed unit, line set corrosion, R-22 to current refrigerant."
+    }
+  }
+}

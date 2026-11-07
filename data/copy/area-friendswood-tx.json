@@ -1,0 +1,162 @@
+{
+  "intro": "Friendswood grew up as a ranch-home suburb on land that was already full of oak when the first houses went in. The shade is generous and the lots are large, and the southern breeze brings a salt spray in off the bay that works on the outdoor equipment all year.",
+  "localAngle": "The shade that makes a Friendswood backyard comfortable also keeps the condenser damp, and that pairing is the local problem. Oak leaf litter and catkins fall on the unit through the warm months and mat down into the fins, while salt in the southern air settles on the coil and the fasteners at the same time. The result is a system that looks clean from the fence, loses capacity over the season, and shows corrosion on the cabinet earlier than a comparable unit inland. The homes are 1970s through 2000s ranch plans, often enlarged later with a sunroom or an addition that nobody resized the system for.",
+  "commonCalls": [
+    "Condenser coils packed with oak leaf litter under shaded trees",
+    "Salt corrosion on cabinets and coil fins on units within a few miles of the bay",
+    "Systems that cool the front of the house and leave the back rooms warm after an addition",
+    "R-22 units from the 1980s that need refrigerant and are running on borrowed time",
+    "Afternoon wind-down failures on lightly shaded lots"
+  ],
+  "landmarks": [
+    "FM 528",
+    "the 45 and 59 interchange",
+    "Friendswood Park",
+    "Challenger Park",
+    "Brookhollow",
+    "Clear Lake",
+    "Meyerland",
+    "Southbay",
+    "FM 235",
+    "Armand Bayou"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my Friendswood AC cool less than it did a few years ago?",
+      "a": "Two things work against it here. A shaded lot collects leaf debris on the coil, and salt from the bay air dulls and corrodes the fins. Both reduce how much heat the outdoor unit can throw off, so the system runs longer and the house settles later."
+    },
+    {
+      "q": "Is salt a problem for AC units in Friendswood?",
+      "a": "It is a moderate exposure, less than Clear Lake City but more than inland Fort Bend. Salt shows up as white crust on the coil and rust at the base of the cabinet and around the fasteners. Rinsing the coil and wiping the cabinet down keeps it from becoming structural."
+    },
+    {
+      "q": "My house is a 1970s ranch. Why is one room always warmer?",
+      "a": "Ranch plans from that era have duct runs in the attic that were sized for the original footprint. If a family room, sunroom or extra bedroom was added later, the ductwork was never extended or resized. That is an airflow and distribution problem, not a refrigerant problem."
+    },
+    {
+      "q": "Do the trees in Friendswood make the AC run more?",
+      "a": "Shade cuts the load on the house, so no. But shade also traps humidity around the unit and drops debris on it, and the coil stays damp, which is where corrosion starts."
+    },
+    {
+      "q": "How often should the outdoor unit be rinsed?",
+      "a": "Twice a year is a good habit in this area, before the hottest stretch and again in the autumn. Use a garden hose on a gentle setting and a soft brush. A pressure wand bends the fins and makes the coil worse."
+    }
+  ],
+  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "A bay breeze is not a cooling system, and when a Friendswood unit quits in the middle of a hot afternoon the house heats up quickly. The HVAC company we connect you with covers this area, so a request goes to the technician who takes the job.",
+      "localNote": "Most of the systems here went in during the 1970s and 1980s, and the ones that fail in the heat are usually failing on high head pressure with a salt-crusted coil. A condenser that cannot reject heat trips the compressor's own protection. Cleaning the coil and verifying the charge are the first two checks in that order.",
+      "faqs": [
+        {
+          "q": "Why does my unit stop in the hottest part of the day?",
+          "a": "Heat builds on the condenser until the refrigerant pressure is higher than the compressor will tolerate, and the unit shuts down to protect itself. If it restarts in the evening, that pattern is worth describing when you call, because it points at the outdoor side of the system."
+        },
+        {
+          "q": "Is the salt here going to short out the unit?",
+          "a": "Salt corrodes the wiring and the coil more often than it causes an instant failure. It shows up as corrosion around the disconnect and the base of the cabinet, and eventually as a unit that will not start cleanly."
+        },
+        {
+          "q": "What should I do while I wait?",
+          "a": "Set the thermostat to fan only so air keeps moving, and open doors between rooms. Check the AC breaker once if you know where it is. Do not open the electrical compartment on the outdoor unit."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "same-day-ac-repair": {
+      "intro": "Same-day requests around here are often a unit that is running but not doing its job, rather than a dead system. That is a good thing to have diagnosed before the next heat wave.",
+      "localNote": "A company running these streets sees the same pattern repeatedly: oak debris packing the fins, salt dulling the metal, and a 1980s unit on a house that was extended. The quick wins are a coil clean, a filter change and a refrigerant check on an old R-22 system. What takes longer is finding out why the back of the house stays warm.",
+      "faqs": [
+        {
+          "q": "How do I get a same-day appointment?",
+          "a": "Send the request in the morning and include the model number off the outdoor unit label. Same-day work fills early across the Houston area. A clear description of what the system is doing speeds up the diagnosis."
+        },
+        {
+          "q": "Can a technician fix a salt-eaten outdoor unit?",
+          "a": "Sometimes. If the cabinet base and the coil are pitted but the electrical parts are intact, a clean and a coil replacement can carry it. If the corrosion has reached the wiring and the contactor, replacement of the outdoor unit is usually cleaner."
+        },
+        {
+          "q": "Is it worth repairing an R-22 system in this area?",
+          "a": "It can be, if the compressor is healthy and the problem is a relay or a leak. The refrigerant itself is the expensive part, because it is discontinued. That is the point where a conversation about a different system makes more sense."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-not-cooling": {
+      "intro": "Vents that blow warm air are common here, and the reason is often the same as it is everywhere near the bay: the outdoor coil is not shedding heat the way it should. The company that covers this area checks the condenser before touching the refrigerant.",
+      "localNote": "In Friendswood the coil problem is specific. Oak litter matting over the fins plus salt crust on the metal means the outdoor unit is running hot even though it looks like it is running fine. The system holds charge, the compressor works, and the house stays warm because the heat has nowhere to go.",
+      "faqs": [
+        {
+          "q": "My AC is running and the air is warm. What should I check?",
+          "a": "Look at the outdoor unit and see if the coil is packed with leaves. If it is, hose it gently and brush it. If the unit still blows warm air after that, the next step is measuring the charge, not topping it up."
+        },
+        {
+          "q": "Is it normal for the outside unit to have water pooling under it?",
+          "a": "Some water is normal on a hot day, that is the condensate. A puddle that is there when the unit is not running is not. Pooling under a unit in this salt air can also mean the base is not draining properly."
+        },
+        {
+          "q": "Why does the house cool later than it used to?",
+          "a": "Usually a gradual loss of capacity from a dirty and salt-affected coil. The unit has to work longer to reach the same temperature, and you notice it as the house taking until mid evening to settle."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-repair": {
+      "intro": "Repair work here often involves a piece of the system that has been quietly deteriorating for years. The repair itself may be small. Finding out why it failed is the part that needs a technician on site.",
+      "localNote": "Salt does not fail equipment all at once. It works on the cabinet base, the coil and the wiring over a period of years, so a Friendswood house often has a system that runs for a decade and then starts having trouble in the summer. Diagnosis here means looking at the outdoor unit closely, checking the electrical connections for corrosion and looking at the ducts for the additions that never got ducted.",
+      "faqs": [
+        {
+          "q": "What does a salt-damaged unit look like?",
+          "a": "White crust on the coil fins, rust bleeding from the base of the cabinet, green or white corrosion on the wiring and the lugs where the disconnect attaches. Any of those mean the unit has been in salt air for a while."
+        },
+        {
+          "q": "Why does my breaker trip when the AC starts?",
+          "a": "A tripped breaker points to an electrical fault, usually a shorted capacitor or a compressor winding problem. Do not keep resetting it. A unit that trips on start needs a technician with a meter and the training to work on live capacitors."
+        },
+        {
+          "q": "Should I replace the outdoor unit or the whole system?",
+          "a": "If the air handler is from the same install and the refrigerant type is discontinued, replacing the outdoor side alone usually makes little sense. If the indoor equipment is newer and sound, the outdoor side can be done on its own."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-installation": {
+      "intro": "The install work here tends to be for the additions. A sunroom, a game room or a garage conversion on a 1980s ranch needs its own cooling plan, not a bigger fan on the existing system.",
+      "localNote": "Friendswood homes sit on large mature lots, which means the outdoor unit usually has room to breathe but also a tree overhead. A new installation has to handle the salt air from the start, which means a coil that can be rinsed and a cabinet that will not pit within a few seasons. The duct plan matters as much as the tonnage when the room being cooled is an addition at the back of the house.",
+      "faqs": [
+        {
+          "q": "Can I cool an addition without replacing my whole system?",
+          "a": "Often yes. A ductless head or a small auxiliary system handles one room far more cheaply than replacing the main system. It depends on how the addition is used and how far it is from the existing equipment."
+        },
+        {
+          "q": "What size unit does a new house in Friendswood need?",
+          "a": "A load calculation, not a rule of thumb. Shaded lots and mature trees reduce the solar gain, but the humidity still has to come out of the air, and the salt air affects how long the equipment lasts."
+        },
+        {
+          "q": "How do I keep salt off a new outdoor unit?",
+          "a": "Rinse the coil with a gentle hose twice a year, keep the unit clear of mulch and shrubs that hold moisture against the cabinet, and check the base for standing water. If it is close to the bay, expect to do it more often than an inland unit."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-replacement": {
+      "intro": "The decision is straightforward on the older homes here because the equipment has a known age and a known refrigerant. The technician who inspects it will tell you whether the indoor side is worth keeping.",
+      "localNote": "A 1980s Friendswood unit is very likely on R-22, which is no longer produced for new systems and is priced accordingly. The cabinet has also been in salt air for most of its life, so corrosion is part of the condition report, not a surprise. Replacing it with a unit designed for a coastal environment, and planning for annual rinsing, is what makes the new one last.",
+      "faqs": [
+        {
+          "q": "How much does the salt here shorten the life of an outdoor unit?",
+          "a": "It varies with how close the unit is to the bay and whether it gets rinsed. A coastal unit that is never cleaned will show corrosion in the fins and cabinet long before an inland unit shows any."
+        },
+        {
+          "q": "What refrigerant did my old unit use?",
+          "a": "Read the nameplate on the side of the outdoor unit. Units from the 1980s and early 1990s commonly use R-22. Newer systems use R-410A or R-454B. Write it down before you compare quotes."
+        },
+        {
+          "q": "Is a new system worth it if the house was extended?",
+          "a": "It depends on the ductwork. If the extension rooms are still served by the original ducts, a new outdoor unit will not make them any cooler. The duct plan should be looked at before the equipment is chosen."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    }
+  }
+}

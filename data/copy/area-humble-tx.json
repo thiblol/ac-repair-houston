@@ -1,0 +1,162 @@
+{
+  "intro": "Humble sits at the north edge of the metro on the far side of the beltway, and most of the houses here came out of the 1970s and 1980s. The equipment in them was undersized when it went in and it is now well past the point where it should have been replaced. That combination is the reason for most calls out here.",
+  "localAngle": "The story in Humble is not corrosion and it is not salt. It is capacity. Homes here were built on smaller budgets, with equipment that was undersized from the first day so the power bill stayed manageable. Twenty years of added insulation changes, more people and closed-off bedrooms have raised the load without changing the outdoor unit. So the compressor runs nearly flat out from early morning, the condenser never gets a break, and failure comes as a seized compressor or a tripped breaker rather than a gradual decline. The oaks around Fall Creek and Eagle Lake add the usual litter, but the size is the real defect.",
+  "commonCalls": [
+    "Compressor seized on an original unit that was undersized from the start",
+    "System runs nonstop from morning to night and never reaches setpoint",
+    "Breaker trips when the compressor starts on a hot afternoon",
+    "Condenser packed with oak and pine litter under the trees",
+    "Upstairs or back rooms hot because the system cannot keep up"
+  ],
+  "landmarks": [
+    "Humble King Airpark",
+    "Atascocita",
+    "Lake Houston",
+    "FM 1960",
+    "Beltway 8",
+    "Humble ISD",
+    "Downtown Humble",
+    "Fall Creek",
+    "Eagle Lake",
+    "Almeda Genoa"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my Humble AC run all day without cooling the house?",
+      "a": "The most common reason is capacity. These homes were fitted with equipment that was too small from the beginning so the power bill stayed low, and twenty years of more people, more appliances and closed-off bedrooms have pushed the load well past it. The compressor never gets a break, the house never settles and the system runs from early morning until late evening."
+    },
+    {
+      "q": "Is there salt air corrosion in Humble?",
+      "a": "No. Humble is far enough north and inland that the bay spray which shortens condenser life in Galveston County does not reach it. The corrosion people find here comes from years of humidity and standing water in the base pan, not from salt. It is a slower and gentler version of the same problem, but it still reaches the electrical connections first."
+    },
+    {
+      "q": "How do I know whether my system is undersized?",
+      "a": "Watch how it runs. A system that is correctly sized cycles on and off and reaches setpoint. One that is undersized runs almost continuously in the afternoon and holds the temperature only by working flat out. The other sign is a compressor that has failed once already. A load calculation confirms it either way, and it is free information to have before you spend anything."
+    },
+    {
+      "q": "Why does the breaker trip when the AC kicks on?",
+      "a": "An undersized system working hard draws more current than the equipment was rated for, and the compressor draws its highest current at start-up. On an older electrical service that can be enough to trip the breaker. The supply and the panel get checked along with the equipment, because putting new equipment on an old service is a separate question."
+    },
+    {
+      "q": "Should I keep patching my old system?",
+      "a": "It depends on what the system is. A single capacitor on an otherwise sound unit is a reasonable repair. A third or fourth visit in a season on a unit that was undersized from day one is a signal that the money is going into a machine that cannot do the job. The repair history and the load calculation together make that call."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Local conditions used: systems undersized from 1970s budgets, no salt exposure this far inland, humid corrosion, and the demand on older electrical services.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "A compressor that has seized on a permanently overworked system is the emergency call that comes out of Humble most often. We pass the request to the HVAC company that covers north Houston and let them work the fault on site. When the unit is this old and this loaded, the conversation needs to cover what happens next, not just what gets replaced today.",
+      "localNote": "An undersized system that has run flat out for twenty years leaves the compressor and the capacitor both carrying more heat than they were rated for. When the unit finally quits, the technician should check the supply circuit because these houses often sit on a panel that was never sized for a modern outdoor unit. A new load on an old panel is a different job from putting in a like-for-like condenser.",
+      "faqs": [
+        {
+          "q": "My compressor seized. Do I need a new unit or a new system?",
+          "a": "The compressor is rarely the whole story when it has been undersized from the start. The panel, the line set, the coil and the air handler all carry their own age, and the electrical service on some of these houses was installed for a much smaller load. The technician checks those before anyone commits to a replacement, so the answer is not a surprise on the day of the work."
+        },
+        {
+          "q": "Does an undersized unit use more electricity?",
+          "a": "Yes. A system that cannot keep up runs nearly all day, and the compressor draws close to its rated current the whole time. So the power bill goes up while the cooling stays poor. Replacing it with a correctly sized unit and a sound duct system is what changes the pattern, not simply running the old one harder."
+        },
+        {
+          "q": "What should I do while I wait for a technician?",
+          "a": "Set the thermostat to fan only so air moves through the house, and leave the breaker alone if it has tripped. If the outdoor unit is silent, do not keep cycling the system trying to restart it. Note what the unit does when it starts, because that observation shortens the diagnosis considerably."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: seized compressors on undersized units, older electrical services in north Houston."
+    },
+    "same-day-ac-repair": {
+      "intro": "A Humble house that will not get down to setpoint in the afternoon is a capacity problem that usually needs more than a same-day visit. Some of these calls are simply a dirty coil, a clogged filter and an overworked compressor. The technician who takes the job needs to check airflow and amp draw, then be honest about whether more cooling can be found.",
+      "localNote": "The cheap fixes and the expensive ones are both common here. A condenser blocked with oak and pine litter, a filter that has not been touched in a year, and an outdoor unit sitting in the sun with no shade are all present in the same yard. Any one of them will make an undersized system look worse than it is. Cleaning the coil and changing the filter first tells you how much of the problem is actually capacity.",
+      "faqs": [
+        {
+          "q": "Is my Humble AC too small for my house?",
+          "a": "That is the question most of these visits end up answering. You can get a rough idea by watching how the system behaves in the afternoon heat. If it runs for hours without reaching setpoint, the capacity is the issue. A load calculation gives you the number and also shows whether the duct system can move the air that number requires."
+        },
+        {
+          "q": "How much does a dirty filter affect cooling?",
+          "a": "A lot more than most people expect. The filter sits in the return path, and a clogged one chokes the airflow over the indoor coil. The coil gets colder, moisture freezes on it, and the system blows warm air. On a marginal system the effect is dramatic. Changing the filter is the cheapest thing on the list and it should be done first."
+        },
+        {
+          "q": "Should I add a second zone instead of replacing the system?",
+          "a": "It is a real option in some of these houses, especially where the finished space is spread over two floors and the duct run is long. It also leaves the undersized main system in place, which is the part causing the long run times. The load calculation and the duct layout decide whether zoning solves the problem or hides it."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: undersized systems in north Houston housing, dirty filters on marginal units, zoning as an option."
+    },
+    "ac-not-cooling": {
+      "intro": "Running and blowing warm air in Humble is most often a system at the end of its useful life, being asked to do more than it ever did. The technician who takes the job needs to check the charge, the airflow and the compressor condition before deciding whether there is anything left worth fixing. It is a normal call in north Houston and a normal one to be given a clear answer.",
+      "localNote": "Undersized from day one means the compressor never gets relief. It runs long, it runs hot and it short-cycles when it cannot keep up, and a compressor in that pattern fails early. When the air is warm but the unit is running, check whether the outdoor coil is buried under litter and whether the system has been starved of airflow at the return. Those two things are common in this housing stock and cheap to check.",
+      "faqs": [
+        {
+          "q": "Why does my Humble AC blow warm air?",
+          "a": "Four things get checked, in order. The filter and the return path, because a starved coil freezes. The outdoor coil, because litter and a fouled condenser stop the heat from leaving. The refrigerant charge, because old systems here do leak. And the compressor, because it may have lost the capacity it once had. The order matters, because adding refrigerant to a system with an airflow problem does not fix it."
+        },
+        {
+          "q": "Is a short-cycling compressor damaged?",
+          "a": "It is being worked too hard. A compressor that starts, runs briefly and stops again is running against a system that cannot handle the load, which means high pressure and high heat. That pattern shortens the life of the compressor and the electrical components with it. The fix is on the system side, not on the compressor."
+        },
+        {
+          "q": "Can a bigger system fix an undersized one?",
+          "a": "Only if the ductwork can handle the extra air. Simply dropping a larger outdoor unit onto an existing duct system makes the static pressure worse and the coil will freeze sooner. The unit and the duct design have to be sized together, which is why the load calculation includes the air path and not only the tonnage."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: short-cycling on undersized units, litter on the condenser, duct capacity limits."
+    },
+    "ac-repair": {
+      "intro": "The repair list in Humble is the same one found across the older parts of north Houston: aged capacitors, pitted contactors, failed blower motors and refrigerant leaks in old copper. The difference is that the machine underneath is already the wrong size for the house. We connect you with a company that covers north Houston so that gets said plainly.",
+      "localNote": "Repairs here tend to hold for a while and then fail again, because the underlying system was never sized for the finished house. A new capacitor gets the compressor running again and it goes right back to running long and hot under a load it was never matched to. The useful question to ask is what the load calculation comes out at, and whether a replacement would change the pattern of the summer.",
+      "faqs": [
+        {
+          "q": "My Humble AC keeps needing repairs. Is the unit too small?",
+          "a": "Very possibly. If the same fault keeps coming back, or if the repairs keep happening in the hottest weeks, the system is being asked for more than it can deliver. The technician who takes the job can tell you whether the parts are worn out or the system is simply too small. That answer is worth more than another part."
+        },
+        {
+          "q": "What does the technician check first?",
+          "a": "Whether the fan runs, whether the outdoor unit starts, and whether the breaker holds. Those three facts narrow the fault down before anyone opens a panel. On an older north Houston unit the electrical compartment is opened and looked at too, because moisture and a corroded base pan are common and they explain faults that look electrical."
+        },
+        {
+          "q": "Is it normal for an old outdoor unit to be rusted?",
+          "a": "Rust at the base pan is common this far north because of the humidity and the standing water, not because of salt. It matters more than it looks, because the same damp works on the electrical connections and the capacitor. When the base pan is wet and the connections are green, the electrical faults come back no matter how many capacitors you replace."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: repeat repairs on undersized north Houston units, humidity corrosion in the base pan."
+    },
+    "ac-installation": {
+      "intro": "Replacement installations in Humble are where the sizing conversation matters most. The house has changed more than the equipment has. We connect you with an installer who covers north Houston so the load calculation describes the home as it is, including the rooms that were finished later and the rooms that were closed off.",
+      "localNote": "Humble has a large population of houses that were framed in the 1970s and added to afterward, so a replacement has to answer for the house as built and the house as lived in. The outdoor unit also needs a spot that is out of direct afternoon sun, which on these small lots is not always easy to find. Where it goes affects how hard it runs through a July evening.",
+      "faqs": [
+        {
+          "q": "Do I need a load calculation if my Humble house is small?",
+          "a": "Yes. The calculation is not about the size of the house, it is about how the house is used now. A small house with a vaulted ceiling, a finished back room and a west-facing window can need more cooling than a larger house with shade all afternoon. The calculation is also how you find out whether the duct system can handle the answer."
+        },
+        {
+          "q": "Where can the condenser go on my lot?",
+          "a": "It needs airflow on the coil face, clearance around the cabinet, ground that drains and a spot out of the direct afternoon sun if there is one. On these lots the side yard is often the obvious answer and it is often in the sun. Moving the unit out of the sun changes how hard it runs on the hottest evening, so it is worth the effort to find the right side of the house."
+        },
+        {
+          "q": "Should I replace the ducts at the same time?",
+          "a": "That depends on what the ducts are like. If the system has been running for thirty years with a filter change a year, the flex duct has probably sagged and the returns may be undersized. The technician measures the static pressure to find out. If the pressure is already high, a new unit on the old ducts will be short on air from day one."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: 1970s framed homes with later additions, condenser siting on small lots, duct condition."
+    },
+    "ac-replacement": {
+      "intro": "Humble is where replacement makes the most sense, because the equipment is old and undersized at the same time. The technician who takes the job should read the nameplate for the refrigerant, check the electrical panel and give you a load calculation for the house as it is now. That is three pieces of information you need before any quote means anything.",
+      "localNote": "An undersized system does not just fail, it burns itself out. Twenty years of running at high amperage is what gets you a compressor that quit last summer and a capacitor that went with it. A replacement sized for the house today ends the pattern. The panel matters too, because an old service with a modern condenser is a question that has to be answered before the equipment is set down.",
+      "faqs": [
+        {
+          "q": "How do I know my Humble AC is undersized?",
+          "a": "Three signs. The system runs nearly all day in the summer. It reaches setpoint only in the early morning and the late evening. And the compressor has failed once already. Any one of those points to capacity rather than to a failed part. A load calculation confirms it and gives you the number to size the replacement against."
+        },
+        {
+          "q": "What refrigerant is in my old unit?",
+          "a": "Most systems from the 1970s and 1980s in this part of Harris County run R-22, which is no longer produced for new systems. The nameplate on the outdoor unit lists it, and knowing the refrigerant before the quote keeps the cost of the job from moving once the old unit is pulled and the line set is opened."
+        },
+        {
+          "q": "Does the electrical panel need upgrading for a new AC?",
+          "a": "Sometimes, and it depends on what the panel has and what the new equipment draws. A modern outdoor unit draws more at start-up than the one it replaces, and the service on a house from the 1970s was installed for a much smaller load. The technician checks the panel and the circuit before the equipment goes down, because that is the part that cannot be changed once the unit is set."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: undersized north Houston systems, R-22 in older stock, electrical service limits."
+    }
+  }
+}

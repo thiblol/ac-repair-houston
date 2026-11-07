@@ -1,0 +1,867 @@
+/* ==========================================================================
+   AC Repair Houston static generator.
+   node src/build.mjs   ->   dist/
+
+   Refuses to build if: copy is missing, a banned claim appears, an invented
+   price appears, an em dash appears, a page is orphaned, a link dangles, a
+   local fact contradicts the area's traits, or two same-type pages are too
+   similar. A doorway network is a build failure here, not a thing you discover
+   in Search Console three months later.
+   ========================================================================== */
+
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { url, nearestAreas, areaServicesFor, auditGraph } from './links.mjs';
+import {
+  layout, esc, faqBlock, cloud, cardGrid, serviceRows, img,
+  serviceSchema, faqSchema, breadcrumbSchema, orgSchema, requestForm,
+  fitTitle, fitDescription,
+} from './templates.mjs';
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const OUT = path.join(ROOT, 'dist');
+const read = (p) => JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8'));
+
+const cfg = read('data/config.json');
+const services = read('data/services.json');
+const areaData = read('data/areas.json');
+
+const pillar = areaData.pillar;
+const cities = areaData.cities;
+const areas = [pillar, ...cities];
+
+/* Which area gets which service pages. Houston is the pillar market and
+   carries the full set. Every other area carries the six with real demand
+   and a genuine local angle, because 21 x 41 near-identical pages is the
+   doorway-page failure mode rather than a growth plan. */
+const areaSvcs = new Map(areas.map((a) => [a.slug, areaServicesFor(services, a, 6)]));
+
+cfg._nav = {
+  services,
+  urgency: services.filter((s) => s.tier === 'urgency'),
+  areas: cities,
+  pillar,
+};
+
+const problems = [];
+function copy(file, required) {
+  const p = path.join(ROOT, 'data/copy', file);
+  if (!fs.existsSync(p)) { problems.push(`MISSING COPY: ${file}`); return null; }
+  let j;
+  try { j = JSON.parse(fs.readFileSync(p, 'utf8')); }
+  catch (e) { problems.push(`BAD JSON: ${file}: ${e.message}`); return null; }
+  for (const k of required) {
+    const v = j[k];
+    if (v == null || (typeof v === 'string' && !v.trim()) || (Array.isArray(v) && !v.length)) {
+      problems.push(`EMPTY FIELD: ${file} -> ${k}`);
+    }
+  }
+  return j;
+}
+
+/* ---------- banned claims ----------
+   A referral site that reads as though it employs technicians is the fastest
+   way to lose consumer-protection cover and the fastest way for a competitor
+   to complain about you. These are hard failures, not warnings. */
+const BANNED = [
+  /\bour (hvac|ac|technicians|techs|team|trucks|crew|staff|installers)\b/i,
+  /\bwe (are|'re) (licensed|bonded|insured|certified)\b/i,
+  /\bwe (arrive|dispatch our|send our)\b/i,
+  /\bour (licensed|certified) (hvac|ac)\b/i,
+  /\$\s?\d/,                       // invented price
+  /\b\d+(\.\d)?\s*(star|stars)\b/i, // invented rating
+  /\b\d[\d,]*\+?\s*(reviews|jobs completed|happy customers|installs)\b/i,
+  /\b\d+\+?\s*years (in business|of experience)\b/i,
+  /\bguarantee[ds]?\b/i,
+  /—/,                        // em dash
+];
+function scan(label, obj) {
+  const s = JSON.stringify(obj);
+  for (const re of BANNED) {
+    const m = s.match(re);
+    if (m) problems.push(`BANNED CLAIM in ${label}: "${m[0]}"`);
+  }
+}
+
+/* ---------- local fact consistency ----------
+   A League City page that talks about winter freeze damage, or a Cypress page
+   describing 1950s housing stock, is wrong in a way any local spots instantly.
+   The copy is written by agents, so this is checked mechanically rather than
+   trusted. */
+function checkTraits(area, copyObj) {
+  if (!copyObj) return;
+  const t = area.traits;
+  const txt = JSON.stringify(copyObj).toLowerCase();
+  const hit = (re) => re.test(txt);
+  const flag = (m) => problems.push(`FACT CONTRADICTION ${area.slug}: ${m}`);
+
+  if (t.salt === 'none' && hit(/salt (air|spray|corrosion)|saltwater|salt damages|coastal salt/))
+    flag('area has no salt exposure but copy describes salt damage');
+  if (['high', 'moderate'].includes(t.salt) && hit(/no salt|free of salt|without salt/))
+    flag('area has salt exposure but copy denies it');
+
+  if (/2000s-onward|1990s-to-2010s/.test(t.housing) && hit(/1950s housing|1940s housing|housing from the 1950s|home built in the 1950s/))
+    flag(`housing stock is "${t.housing}" but copy describes 1950s housing`);
+
+  if (t.debris.includes('pine') && hit(/cottonwood and mesquite|cottonwood or mesquite/))
+    flag(`debris is "${t.debris}" but copy describes cottonwood and mesquite`);
+}
+
+/* ---------- page assembly ---------- */
+const pages = [];
+const add = (p, html, meta = {}) => pages.push({ path: p, html, ...meta });
+
+const CRUMB_HOME = { name: 'Home', href: '/' };
+
+/* ============================ HOME ============================ */
+{
+  const c = copy('page-home.json', ['heroIntro', 'intro', 'whyRequest', 'steps', 'faqs']) || {};
+  scan('home', c);
+  const crumbs = [];
+  const body = `
+<section class="herofig">
+  ${img('hero-condenser', 'A residential air conditioning condenser unit beside a house, with warm air drawn in through the coil and cool air leaving the vents.', { sizes: '100vw', eager: true, cls: 'herofig__img' })}
+  <div class="wrap herofig__in">
+    <span class="kicker">Houston AC repair and installation</span>
+    <h1>AC repair in Houston, matched to a company that covers your street</h1>
+    <p class="herofig__sub">Free to request. Same-day and emergency calls.</p>
+    <p class="herofig__intro">${esc(c.heroIntro || '')}</p>
+  </div>
+</section>
+
+<div class="herocta"><div class="wrap">
+  <a class="btn btn--call" href="#request">Request AC service</a>
+  <a class="btn btn--line" href="${url.howItWorks()}">How it works</a>
+</div></div>
+
+<div class="herolist"><div class="wrap">
+  <span>Same-day availability</span>
+  <span>Emergency service</span>
+  <span>No cost to request</span>
+  <span>${areas.length} service areas</span>
+</div></div>
+
+<div class="strip"><div class="wrap strip__in">
+  <div class="strip__c"><span class="strip__k">Houston</span><span class="strip__v">Pillar market</span></div>
+  <div class="strip__c"><span class="strip__k">${services.length}</span><span class="strip__v">AC services</span></div>
+  <div class="strip__c"><span class="strip__k">${pillar.areas.length}</span><span class="strip__v">Houston neighborhoods</span></div>
+  <div class="strip__c"><span class="strip__k">${cities.length}</span><span class="strip__v">Surrounding cities</span></div>
+</div></div>
+
+<section class="sec"><div class="wrap">
+  <span class="kicker">How the request works</span>
+  <h2>Describe it once, get a company that covers your area</h2>
+  <p class="lede">${esc(c.intro || '')}</p>
+  <ul class="ticks">
+    ${(c.whyRequest || []).map((x) => `<li>${esc(x)}</li>`).join('\n    ')}
+  </ul>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <span class="kicker">Urgent</span>
+  <h2>When the house is heating up</h2>
+  ${serviceRows(cfg._nav.urgency.map((s) => ({
+    href: url.service(s), title: s.name, urgent: true, tag: 'Same day', body: s.problem,
+  })))}
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <span class="kicker">What we cover</span>
+  <h2>Every AC job a Houston home needs</h2>
+  ${serviceRows(services.filter((s) => s.tier === 'core').map((s) => ({
+    href: url.service(s), title: s.name, body: s.problem,
+  })))}
+</div></section>
+
+<section class="sec sec--ink"><div class="wrap">
+  <div class="media-split">
+    <span class="shot">${img('unit-anatomy',
+      'Diagram of a split air conditioning system showing the outdoor condenser, refrigerant lines and the indoor evaporator unit.',
+      { sizes: '(min-width: 56rem) 32rem, 100vw' })}</span>
+    <div class="media-split__body">
+      <span class="kicker">What you are booking</span>
+      <h2>A company that actually works your area</h2>
+      <p class="lede">Houston AC work is not one job. A system that is not cooling in July and a system that will not start in January fail for completely different reasons, and the fix depends on where you are.</p>
+    </div>
+  </div>
+  <ol class="steps">
+    ${(c.steps || []).map((s) => `<li><h3>${esc(s.t)}</h3><p>${esc(s.d)}</p></li>`).join('\n    ')}
+  </ol>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <span class="kicker">Where we send requests</span>
+  <h2>AC repair across ${areas.length} service areas</h2>
+  ${cardGrid([pillar, ...cities].slice(0, 8).map((ct) => ({
+    href: url.area(ct), title: `${ct.name}, ${ct.stateAbbr}`,
+    body: ct.traits.note.split('.')[0] + '.',
+  })), 'grid grid--4')}
+  <div class="cols">
+    ${[
+      { label: 'Houston', items: pillar.areas.map((n) => ({ href: url.neighborhood(pillar, n), label: n.name })) },
+      { label: 'Greater Houston', items: cities.map((ct) => ({ href: url.area(ct), label: ct.name })) },
+    ].map((g) => `<div class="linkcol"><span class="linkcol__lbl">${esc(g.label)}</span><ul>${
+      g.items.map((it) => `<li><a href="${it.href}">${esc(it.label)}</a></li>`).join('')
+    }</ul></div>`).join('\n    ')}
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <h2>Questions people ask before they request</h2>
+  ${faqBlock(c.faqs)}
+</div></section>
+
+${requestForm(cfg)}
+`;
+  add('/', layout({
+    cfg, path: '/', crumbs,
+    title: 'AC Repair Houston | Same-Day AC Repair and Installation',
+    description: fitDescription(
+      'Request AC repair in Houston and the surrounding area. Same-day and emergency service, new installations and replacements. Free to request.',
+      'Request AC repair in Houston and Greater Houston. Same-day and emergency service, installations and replacements. Free to request.',
+      'AC repair in Houston and Greater Houston. Same-day and emergency service, installations and replacements. Free to request.',
+    ),
+    navCurrent: '/',
+    jsonld: [orgSchema(cfg), {
+      '@context': 'https://schema.org', '@type': 'WebSite',
+      '@id': cfg.origin + '/#website', url: cfg.origin + '/', name: cfg.brand,
+      publisher: { '@id': cfg.origin + '/#organization' },
+    }, faqSchema(cfg, c.faqs, '/')].filter(Boolean),
+    body,
+  }));
+}
+
+/* ============================ SERVICE PAGES ============================ */
+for (const s of services) {
+  const c = copy(`service-${s.slug}.json`, ['intro', 'whatHappens', 'howPriced', 'faqs']) || {};
+  scan(`service-${s.slug}`, c);
+  const parent = s.parent ? services.find((x) => x.slug === s.parent) : null;
+  const children = services.filter((x) => x.parent === s.slug);
+  const crumbs = [CRUMB_HOME, { name: 'Services', href: url.services() }];
+  if (parent) crumbs.push({ name: parent.name, href: url.service(parent) });
+  crumbs.push({ name: s.name });
+
+  const offeredAreas = areas.filter((a) => areaSvcs.get(a.slug).some((x) => x.slug === s.slug));
+  const sibs = services.filter((x) => x.slug !== s.slug);
+
+  const body = `
+<section class="hero"><div class="wrap hero__grid">
+  <div class="hero__main">
+    <span class="kicker">${s.tier === 'urgency' ? 'Urgent service' : 'AC service'}</span>
+    <h1>${esc(s.h1)}</h1>
+    <p class="hero__intro">${esc(c.intro || '')}</p>
+    <div class="btn-row">
+      <a class="btn btn--call" href="#request">Request this service</a>
+    </div>
+  </div>
+  <div class="dispatch">
+    <span class="l">${s.tier === 'urgency' ? 'Same-day and emergency' : 'AC service'}</span>
+    <span class="n">Free to request</span>
+    <span class="free">No cost to you</span>
+    <p class="sub-t">Tell us what the system is doing and where you are. It goes to an HVAC company that works your area of Houston.</p>
+    <ul>${(c.whatHappens || []).slice(0, 4).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
+  </div>
+</div></section>
+
+${parent || children.length ? `<section class="sec sec--paper"><div class="wrap">
+  <span class="kicker">${parent ? 'Part of' : 'AC repair covers'}</span>
+  <h2>${parent ? `${esc(parent.name)} and the work under it` : `Everything under ${esc(s.name.toLowerCase())}`}</h2>
+  <p class="lede">${parent ? `This is one specific part of ${esc(parent.name.toLowerCase())}. The other work in that category is listed alongside it.` : `These are the specific jobs that sit under ${esc(s.name.toLowerCase())}. Each one has its own page because the diagnosis and the fix are genuinely different.`}</p>
+  ${cloud([...(parent ? [{ href: url.service(parent), label: parent.name }] : []),
+    ...children.map((x) => ({ href: url.service(x), label: x.name }))])}
+</div></section>` : ''}
+
+<section class="sec"><div class="wrap">
+  <h2>When people request this</h2>
+  <ul class="symptoms">${s.symptoms.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
+  <div class="note${s.safetyFirst ? ' note--safety' : ''}">
+    <h3>${s.safetyFirst ? 'Before you request anyone' : 'Do this before you request'}</h3>
+    <p>${esc(s.firstStep)}</p>
+  </div>
+</div></section>
+
+<section class="sec sec--paper"><div class="wrap">
+  <div class="media-split media-split--flip">
+    <span class="shot">${img(s.tier === 'urgency' ? 'thermostat' : 'airflow',
+      s.tier === 'urgency'
+        ? 'A wall-mounted digital thermostat showing a room temperature reading.'
+        : 'Diagram of air moving through a duct into a ceiling vent and across an evaporator coil.',
+      { sizes: '(min-width: 56rem) 32rem, 100vw' })}</span>
+    <div class="media-split__body">
+      <span class="kicker">Pricing</span>
+      <h2>What it costs, and what moves the price</h2>
+      <p class="lede">${esc(c.howPriced || '')}</p>
+    </div>
+  </div>
+</div></section>
+
+${offeredAreas.length ? `<section class="sec"><div class="wrap">
+  <span class="kicker">By area</span>
+  <h2>${esc(s.name)} near you</h2>
+  ${cloud(offeredAreas.map((a) => ({
+    href: areaSvcs.get(a.slug).some((x) => x.slug === s.slug) ? url.areaService(a, s) : url.area(a),
+    label: `${s.name} in ${a.name}`,
+  })))}
+</div></section>` : ''}
+
+<section class="sec"><div class="wrap">
+  <h2>Questions about ${esc(s.name.toLowerCase())}</h2>
+  ${faqBlock(c.faqs)}
+</div></section>
+
+<section class="sec sec--paper"><div class="wrap">
+  <span class="kicker">Other services</span>
+  <h2>Also covered by the same request</h2>
+  ${cloud(sibs.map((x) => ({ href: url.service(x), label: x.name })))}
+</div></section>
+
+${requestForm(cfg, { heading: `Request ${s.name.toLowerCase()}`, service: s.name })}
+`;
+  add(url.service(s), layout({
+    cfg, path: url.service(s), crumbs,
+    title: `${s.name} Houston | AC Repair Houston`,
+    description: `${s.h1}. Request ${s.name.toLowerCase()} in Houston. Free to request, matched to an HVAC company that covers your area.`,
+    jsonld: [
+      orgSchema(cfg),
+      serviceSchema(cfg, { name: s.name, description: c.intro || s.problem, areaServed: { '@type': 'State', name: 'Texas' }, path: url.service(s) }),
+      faqSchema(cfg, c.faqs, url.service(s)),
+      breadcrumbSchema(cfg, crumbs),
+    ].filter(Boolean),
+    body,
+  }));
+}
+
+/* ============================ SERVICES INDEX ============================ */
+{
+  const crumbs = [CRUMB_HOME, { name: 'Services' }];
+  const body = `
+<section class="sec"><div class="wrap">
+  <span class="kicker">Urgent</span>
+  <h1>AC Services</h1>
+  <p class="lede">One request form for every job below. Describe what the system is doing and your area, and it goes to an HVAC company that covers it.</p>
+  ${cardGrid(cfg._nav.urgency.map((s) => ({ href: url.service(s), title: s.name, urgent: true, meta: 'Same day', body: s.problem })))}
+</div></section>
+<section class="sec"><div class="wrap">
+  <h2>Repair, installation and replacement</h2>
+  ${cardGrid(services.filter((s) => s.tier === 'core').map((s) => ({ href: url.service(s), title: s.name, body: s.problem })))}
+</div></section>
+${requestForm(cfg)}`;
+  add(url.services(), layout({
+    cfg, path: url.services(), crumbs,
+    title: `AC Services Houston | AC Repair Houston`,
+    description: `Emergency and same-day AC repair, installation, replacement, refrigerant work, mini-splits and commercial HVAC across Houston. Free to request.`,
+    jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)],
+    body,
+  }));
+}
+
+/* ============================ AREAS INDEX ============================ */
+{
+  const crumbs = [CRUMB_HOME, { name: 'Service areas' }];
+  const body = `
+<section class="sec"><div class="wrap">
+  <span class="kicker">Where we send requests</span>
+  <h1>AC Repair Service Areas</h1>
+  <p class="lede">Houston is the pillar market. Around it are ${cities.length} cities and ${pillar.areas.length} Houston neighborhoods we send requests to. If your area is not listed, request anyway. Coverage is wider than this page.</p>
+</div></section>
+<section class="sec sec--paper"><div class="wrap">
+  <h2>Houston</h2>
+  <p class="lede">Every AC service we cover is available across Houston.</p>
+  ${cardGrid([{ href: url.area(pillar), title: `Houston, ${pillar.stateAbbr}`, body: pillar.traits.note.split('.')[0] + '.' }], 'grid grid--3')}
+  <h3>Houston neighborhoods</h3>
+  ${cloud(pillar.areas.map((n) => ({ href: url.neighborhood(pillar, n), label: n.name })))}
+</div></section>
+<section class="sec"><div class="wrap">
+  <h2>Greater Houston</h2>
+  ${cardGrid(cities.map((ct) => ({
+    href: url.area(ct), title: `${ct.name}, ${ct.stateAbbr}`,
+    meta: ct.county,
+    body: ct.traits.note.split('.')[0] + '.',
+  })), 'grid grid--3')}
+</div></section>
+${requestForm(cfg)}`;
+  add(url.areas(), layout({
+    cfg, path: url.areas(), crumbs,
+    title: `AC Repair Service Areas | Houston and Greater Houston`,
+    description: `AC repair across Houston and ${cities.length} Greater Houston cities, including Katy, Sugar Land, Pearland, The Woodlands, Spring and League City.`,
+    jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)],
+    body,
+  }));
+}
+
+/* ============================ AREA + AREA x SERVICE ============================ */
+for (const ct of areas) {
+  const c = copy(`area-${ct.slug}.json`, ['intro', 'localAngle', 'commonCalls', 'landmarks', 'faqs']) || {};
+  scan(`area-${ct.slug}`, c);
+  checkTraits(ct, c);
+  const near = nearestAreas(ct, areas, 6);
+  const svcs = areaSvcs.get(ct.slug);
+  const crumbs = [CRUMB_HOME, { name: 'Service areas', href: url.areas() }, { name: ct.name }];
+
+  const body = `
+<section class="hero"><div class="wrap hero__grid">
+  <div class="hero__main">
+    <span class="kicker">${esc(ct.county)}</span>
+    <h1>AC Repair in ${esc(ct.name)}, ${esc(ct.stateAbbr)}</h1>
+    <p class="hero__intro">${esc(c.intro || '')}</p>
+    <div class="btn-row">
+      <a class="btn btn--call" href="#request">Request AC service in ${esc(ct.name)}</a>
+    </div>
+  </div>
+  <div class="dispatch">
+    <span class="l">${esc(ct.name)} service</span>
+    <span class="n">Free to request</span>
+    <span class="free">No cost to you</span>
+    <p class="sub-t">Tell us what the system is doing. It goes to an HVAC company that covers ${esc(ct.name)}.</p>
+    <ul>${(c.commonCalls || []).slice(0, 4).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <h2>AC repair in ${esc(ct.name)} specifically</h2>
+  <p class="lede">${esc(c.localAngle || '')}</p>
+</div></section>
+
+<section class="sec sec--paper"><div class="wrap">
+  <span class="kicker">In ${esc(ct.name)}</span>
+  <h2>${ct.fullServiceCoverage
+    ? `Every AC service we cover in ${esc(ct.name)}, ${esc(ct.stateAbbr)}`
+    : `AC services we cover in ${esc(ct.name)}`}</h2>
+  ${cardGrid(svcs.map((s) => ({
+    href: url.areaService(ct, s), title: `${s.name} in ${ct.name}`,
+    urgent: s.tier === 'urgency', body: (c.services?.[s.slug]?.intro || '').split('.')[0] + '.',
+  })))}
+  <h3>Every service, same request</h3>
+  ${cloud(services.map((s) => ({ href: url.service(s), label: s.name })))}
+</div></section>
+
+${ct.neighborhoods?.length ? `<section class="sec"><div class="wrap">
+  <span class="kicker">Across Houston</span>
+  <h2>Houston neighborhoods we cover</h2>
+  ${cloud(ct.neighborhoods.map((n) => ({ href: url.neighborhood(ct, n), label: n.name })))}
+</div></section>` : ''}
+
+<section class="sec"><div class="wrap">
+  <span class="shot">${img('houston-skyline',
+    'The Houston skyline seen across the Ship Channel, with low buildings and a wide flat horizon under a hazy sky.',
+    { sizes: '(min-width: 78rem) 74rem, 100vw' })}</span>
+  <h2>What we get called for in ${esc(ct.name)}</h2>
+  <ul class="symptoms">${(c.commonCalls || []).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
+  <h3>Local landmarks and neighborhoods</h3>
+  ${cloud((c.landmarks || []).map((x) => ({ href: url.area(ct) + '#local', label: x })))}
+  <h3>Nearby service areas</h3>
+  ${cloud(near.map((n) => ({ href: url.area(n.area), label: `${n.area.name}, ${n.area.stateAbbr}` })))}
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <h2>${esc(ct.name)} AC questions</h2>
+  ${faqBlock(c.faqs)}
+</div></section>
+
+${requestForm(cfg, { heading: `Request AC service in ${ct.name}`, area: ct.name })}
+`;
+  add(url.area(ct), layout({
+    cfg, path: url.area(ct), crumbs,
+    title: fitTitle(
+      `AC Repair in ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
+      `AC Repair ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
+      `AC Repair in ${ct.name} | AC Repair Houston`,
+    ),
+    description: fitDescription(
+      `Request AC repair in ${ct.name}, ${ct.stateAbbr}. Same-day and emergency service, installation and replacement. Free to request, matched to an HVAC company that covers ${ct.name}.`,
+      `Request AC repair in ${ct.name}. Same-day and emergency service, installation and replacement. Free to request, matched to a local HVAC company.`,
+      `AC repair in ${ct.name}. Same-day and emergency service, installation and replacement. Free to request, matched to a local HVAC company.`,
+    ),
+    jsonld: [
+      orgSchema(cfg),
+      serviceSchema(cfg, {
+        name: `AC repair in ${ct.name}, ${ct.stateAbbr}`,
+        description: c.intro || '',
+        areaServed: { '@type': 'City', name: ct.name, containedInPlace: { '@type': 'State', name: ct.state } },
+        path: url.area(ct),
+      }),
+      faqSchema(cfg, c.faqs, url.area(ct)),
+      breadcrumbSchema(cfg, crumbs),
+    ].filter(Boolean),
+    body,
+  }));
+
+  /* ---- area x service ---- */
+  for (const s of svcs) {
+    const sc = c.services?.[s.slug];
+    if (!sc) { problems.push(`MISSING area x service copy: ${ct.slug} / ${s.slug}`); continue; }
+    scan(`area-${ct.slug}/${s.slug}`, sc);
+    const cs = [CRUMB_HOME, { name: 'Service areas', href: url.areas() },
+      { name: ct.name, href: url.area(ct) }, { name: s.name }];
+    const sibs = svcs.filter((x) => x.slug !== s.slug);
+
+    const b = `
+<section class="hero"><div class="wrap hero__grid">
+  <div class="hero__main">
+    <span class="kicker">${esc(ct.name)}, ${esc(ct.stateAbbr)}</span>
+    <h1>${esc(s.name)} in ${esc(ct.name)}</h1>
+    <p class="hero__intro">${esc(sc.intro || '')}</p>
+    <div class="btn-row">
+      <a class="btn btn--call" href="#request">Request ${esc(s.name.toLowerCase())} in ${esc(ct.name)}</a>
+    </div>
+  </div>
+  <div class="dispatch">
+    <span class="l">${esc(s.name)}</span>
+    <span class="n">Free to request</span>
+    <span class="free">No cost to you</span>
+    <p class="sub-t">Describe what the system is doing and an HVAC company that covers ${esc(ct.name)} comes back with a next step.</p>
+    <ul>${s.symptoms.slice(0, 4).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <h2>Why this comes up in ${esc(ct.name)}</h2>
+  <p class="lede">${esc(sc.localNote || '')}</p>
+  <div class="note${s.safetyFirst ? ' note--safety' : ''}">
+    <h3>${s.safetyFirst ? 'Before you request anyone' : 'Do this before you request'}</h3>
+    <p>${esc(s.firstStep)}</p>
+  </div>
+</div></section>
+
+<section class="sec sec--paper"><div class="wrap">
+  <h2>${esc(s.name.toLowerCase())} questions in ${esc(ct.name)}</h2>
+  ${faqBlock(sc.faqs)}
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <span class="kicker">Also in ${esc(ct.name)}</span>
+  <h2>Other AC jobs covered here</h2>
+  ${cardGrid(sibs.map((x) => ({ href: url.areaService(ct, x), title: `${x.name} in ${ct.name}`, urgent: x.tier === 'urgency' })), 'grid grid--4')}
+  <h3>${esc(s.name)} in nearby areas</h3>
+  ${cloud(near
+    .filter((n) => areaSvcs.get(n.area.slug).some((x) => x.slug === s.slug))
+    .slice(0, 5)
+    .map((n) => ({ href: url.areaService(n.area, s), label: `${s.name} in ${n.area.name}` })))}
+  <p class="small muted">See all <a href="${url.service(s)}">${esc(s.name.toLowerCase())} coverage</a>,
+  or everything covered in <a href="${url.area(ct)}">${esc(ct.name)}</a>.</p>
+</div></section>
+
+${requestForm(cfg, { heading: `Request ${s.name.toLowerCase()} in ${ct.name}`, area: ct.name, service: s.name })}
+`;
+    add(url.areaService(ct, s), layout({
+      cfg, path: url.areaService(ct, s), crumbs: cs,
+      title: fitTitle(
+        `${s.name} in ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
+        `${s.name} in ${ct.name} | AC Repair Houston`,
+        `${s.name} ${ct.name} | AC Repair Houston`,
+      ),
+      description: fitDescription(
+        `${s.name} in ${ct.name}, ${ct.stateAbbr}. Request it free and it goes to an HVAC company covering ${ct.name}. Same-day and emergency service available.`,
+        `${s.name} in ${ct.name}. Request it free and it goes to an HVAC company covering ${ct.name}. Same-day and emergency service available.`,
+        `${s.name} in ${ct.name}. Request it free and it goes to a local HVAC company. Same-day and emergency service available.`,
+      ),
+      jsonld: [
+        orgSchema(cfg),
+        serviceSchema(cfg, {
+          name: `${s.name} in ${ct.name}, ${ct.stateAbbr}`,
+          description: sc.intro || '',
+          areaServed: { '@type': 'City', name: ct.name, containedInPlace: { '@type': 'State', name: ct.state } },
+          path: url.areaService(ct, s),
+        }),
+        faqSchema(cfg, sc.faqs, url.areaService(ct, s)),
+        breadcrumbSchema(cfg, cs),
+      ].filter(Boolean),
+      body: b,
+    }));
+  }
+}
+
+/* ============================ NEIGHBORHOOD PAGES ============================
+   Houston neighborhoods. These are the pages behind the neighborhood chips on
+   the Houston page rather than links that bounce back to the same page. */
+for (const n of pillar.areas) {
+  const ac = copy(`neighborhood-${n.slug}.json`,
+    ['h1', 'title', 'description', 'intro', 'localAngle', 'commonCalls', 'landmarks', 'faqs']);
+  if (!ac) continue;
+  scan(`neighborhood-${n.slug}`, ac);
+  checkTraits(pillar, ac);
+
+  const sibs = pillar.areas.filter((x) => x.slug !== n.slug);
+  const cs = [CRUMB_HOME, { name: 'Service areas', href: url.areas() },
+    { name: 'Houston', href: url.area(pillar) }, { name: n.name }];
+
+  const body = `
+<section class="sec"><div class="wrap">
+  <span class="kicker">${esc(n.name)}, ${esc(pillar.stateAbbr)}</span>
+  <h1>${esc(ac.h1)}</h1>
+  <p class="lede">${esc(ac.intro)}</p>
+  <div class="btn-row">
+    <a class="btn btn--call" href="#request">Request AC service in ${esc(n.name)}</a>
+  </div>
+</div></section>
+
+<section class="sec sec--paper"><div class="wrap">
+  <span class="kicker">Local detail</span>
+  <h2>AC repair in ${esc(n.name)}</h2>
+  <p class="lede">${esc(ac.localAngle)}</p>
+  <h3>What we get called for here</h3>
+  <ul class="ticks">${(ac.commonCalls || []).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <span class="kicker">Every service</span>
+  <h2>AC services in ${esc(n.name)}</h2>
+  ${serviceRows(areaSvcs.get(pillar.slug).map((sv) => ({
+    href: url.areaService(pillar, sv), title: `${sv.name} in ${n.name}`,
+    urgent: sv.tier === 'urgency', tag: sv.tier === 'urgency' ? 'Same day' : null,
+    body: sv.problem,
+  })))}
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <h2>Around ${esc(n.name)}</h2>
+  ${cloud((ac.landmarks || []).map((x) => ({ href: url.neighborhood(pillar, n) + '#local', label: x })))}
+  <h3>Other Houston neighborhoods</h3>
+  ${cloud(sibs.map((x) => ({ href: url.neighborhood(pillar, x), label: x.name })))}
+  <p class="small muted">Back to <a href="${url.area(pillar)}">AC repair across Houston</a>.</p>
+</div></section>
+
+<section class="sec sec--paper"><div class="wrap">
+  <h2>${esc(n.name)} AC questions</h2>
+  ${faqBlock(ac.faqs)}
+</div></section>
+
+${requestForm(cfg, { heading: `Request AC service in ${n.name}`, area: pillar.name })}
+`;
+  add(url.neighborhood(pillar, n), layout({
+    cfg, path: url.neighborhood(pillar, n), crumbs: cs,
+    title: ac.title, description: ac.description,
+    jsonld: [
+      orgSchema(cfg),
+      serviceSchema(cfg, {
+        name: `AC repair in ${n.name}, ${pillar.stateAbbr}`, description: ac.intro,
+        areaServed: { '@type': 'Place', name: `${n.name}, ${pillar.stateAbbr}` },
+        path: url.neighborhood(pillar, n),
+      }),
+      faqSchema(cfg, ac.faqs, url.neighborhood(pillar, n)),
+      breadcrumbSchema(cfg, cs),
+    ].filter(Boolean),
+    body,
+  }));
+}
+
+/* ============================ STATIC PAGES ============================ */
+for (const [p, title, desc, file] of [
+  [url.howItWorks(), 'How AC Repair Houston Works', 'How our free AC repair referral service works. Request once and it goes to an HVAC company that covers your area of Houston.', 'page-how-it-works.json'],
+  [url.forCompanies(), 'Get AC Repair Leads in Houston', 'Join the AC Repair Houston network and take AC service requests from homeowners across Houston and Greater Houston.', 'page-for-companies.json'],
+  [url.privacy(), 'Privacy Policy', 'What AC Repair Houston collects when you send a request, who we share it with, and how to ask us to delete it. We do not sell your details to marketing lists.', 'page-privacy.json'],
+  [url.terms(), 'Terms of Service', 'AC Repair Houston is a free referral service, not an AC repair contractor. Your agreement is with the independent company that takes the job.', 'page-terms.json'],
+]) {
+  const c = copy(file, ['intro', 'sections']) || {};
+  scan(file, c);
+  const crumbs = [CRUMB_HOME, { name: title }];
+  const body = `
+<section class="sec"><div class="wrap">
+  <h1>${esc(title)}</h1>
+  <p class="lede">${esc(c.intro || '')}</p>
+  ${(c.sections || []).map((s) => `<h2>${esc(s.h)}</h2><p class="lede">${esc(s.p)}</p>`).join('\n  ')}
+</div></section>
+${requestForm(cfg)}`;
+  add(p, layout({ cfg, path: p, crumbs, title: `${title} | AC Repair Houston`, description: desc, navCurrent: p,
+    jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)], body }));
+}
+
+/* ============================ HTML SITEMAP ============================
+   A human-readable index of every page. Also the single flattest crawl
+   path on the site: every page is one hop from here. */
+{
+  const crumbs = [CRUMB_HOME, { name: 'Sitemap' }];
+  const body = `
+<section class="sec"><div class="wrap">
+  <span class="kicker">Every page</span>
+  <h1>Sitemap</h1>
+  <p class="lede">All ${pages.length + 1} pages on this site. If you are looking for an area that is
+  not listed, request anyway. Coverage is wider than this page.</p>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <h2>Main</h2>
+  ${cloud([
+    { href: '/', label: 'Home' },
+    { href: url.services(), label: 'All services' },
+    { href: url.areas(), label: 'All service areas' },
+    { href: url.howItWorks(), label: 'How it works' },
+    { href: url.forCompanies(), label: 'For HVAC companies' },
+    { href: url.privacy(), label: 'Privacy' },
+    { href: url.terms(), label: 'Terms' },
+  ])}
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <h2>Services</h2>
+  <div class="cols">
+    <div class="linkcol"><span class="linkcol__lbl" id="sm-e">Urgent</span>
+      <ul aria-labelledby="sm-e">${cfg._nav.urgency.map((x) => `<li><a href="${url.service(x)}">${esc(x.name)}</a></li>`).join('')}</ul></div>
+    <div class="linkcol"><span class="linkcol__lbl" id="sm-r">Repair and install</span>
+      <ul aria-labelledby="sm-r">${services.filter((x) => x.tier === 'core').map((x) => `<li><a href="${url.service(x)}">${esc(x.name)}</a></li>`).join('')}</ul></div>
+  </div>
+</div></section>
+
+<section class="sec"><div class="wrap">
+  <h2>Service areas</h2>
+  <div class="cols">
+    <div class="linkcol"><span class="linkcol__lbl" id="sm-houston">Houston</span>
+      <ul aria-labelledby="sm-houston"><li><a href="${url.area(pillar)}">Houston, TX</a></li>
+      ${pillar.areas.map((n) => `<li><a href="${url.neighborhood(pillar, n)}">${esc(n.name)}</a></li>`).join('')}</ul></div>
+    ${cities.map((ct) => `<div class="linkcol">
+      <span class="linkcol__lbl" id="sm-${ct.slug}"><a href="${url.area(ct)}">${esc(ct.name)}</a></span>
+      <ul aria-labelledby="sm-${ct.slug}">${areaSvcs.get(ct.slug).map((sv) => `<li><a href="${url.areaService(ct, sv)}">${esc(sv.name)}</a></li>`).join('')}</ul>
+    </div>`).join('\n    ')}
+  </div>
+</div></section>
+
+<section class="sec sec--paper"><div class="wrap">
+  <h2>For search engines</h2>
+  <p class="lede">The machine-readable version lives at
+  <a href="/sitemap.xml">/sitemap.xml</a>.</p>
+</div></section>
+
+${requestForm(cfg)}`;
+  add(url.sitemap(), layout({
+    cfg, path: url.sitemap(), crumbs,
+    title: 'Sitemap | AC Repair Houston',
+    description: `Every page on AC Repair Houston: all AC services, Houston and ${cities.length} Greater Houston cities, and Houston neighborhoods. One hop to anything on the site.`,
+    navCurrent: url.sitemap(),
+    jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)],
+    body,
+  }));
+}
+
+/* ---------- SEO gate ----------
+   The nav dropdown labels used to be <h4>, which made the first heading on all
+   pages an h4 rather than the h1. Nothing caught it because the page still
+   looked right. These run on every build now. */
+for (const pg of pages) {
+  const body = pg.html.replace(/<script[\s\S]*?<\/script>/gi, ' ');
+  const hs = [...body.matchAll(/<h([1-6])[^>]*>([\s\S]*?)<\/h\1>/gi)]
+    .map((m) => ({ lvl: +m[1], txt: m[2].replace(/<[^>]+>/g, '').trim().slice(0, 40) }));
+
+  if (!hs.length) { problems.push(`SEO ${pg.path}: no headings`); continue; }
+  if (hs[0].lvl !== 1) problems.push(`SEO ${pg.path}: first heading is h${hs[0].lvl} ("${hs[0].txt}"), must be h1`);
+  const n1 = hs.filter((x) => x.lvl === 1).length;
+  if (n1 !== 1) problems.push(`SEO ${pg.path}: ${n1} h1 elements, must be exactly 1`);
+  let prev = 0;
+  for (const { lvl, txt } of hs) {
+    if (prev && lvl > prev + 1) { problems.push(`SEO ${pg.path}: heading jumps h${prev} to h${lvl} ("${txt}")`); break; }
+    prev = lvl;
+  }
+
+  const t = pg.html.match(/<title>(.*?)<\/title>/);
+  if (!t) problems.push(`SEO ${pg.path}: no title`);
+  else if (t[1].length > 62) problems.push(`SEO ${pg.path}: title ${t[1].length} chars, truncates past 62`);
+  else if (t[1].length < 25) problems.push(`SEO ${pg.path}: title only ${t[1].length} chars`);
+
+  const d = pg.html.match(/name="description" content="([^"]*)"/);
+  if (!d) problems.push(`SEO ${pg.path}: no meta description`);
+  else if (d[1].length > 165 || d[1].length < 70)
+    problems.push(`SEO ${pg.path}: meta description ${d[1].length} chars, want 70-165`);
+
+  if (!/property="og:image"/.test(pg.html)) problems.push(`SEO ${pg.path}: no og:image`);
+  if (!/rel="canonical"/.test(pg.html)) problems.push(`SEO ${pg.path}: no canonical`);
+  for (const im of body.match(/<img[^>]*>/g) || []) {
+    if (!/alt="[^"]+"/.test(im)) problems.push(`SEO ${pg.path}: img without alt`);
+  }
+  if (!/id="request"/.test(pg.html)) problems.push(`SEO ${pg.path}: no request form section`);
+}
+
+/* ---------- every class used must exist in the stylesheet ----------
+   A renamed design system silently drops styling otherwise, and the page
+   still "works" so nothing catches it. */
+{
+  const css = fs.readFileSync(path.join(ROOT, 'public/assets/site.css'), 'utf8');
+  const defined = new Set([...css.matchAll(/\.([a-zA-Z][\w-]*)/g)].map((m) => m[1]));
+  const used = new Set();
+  for (const pg of pages) {
+    for (const m of pg.html.matchAll(/class="([^"]*)"/g)) {
+      for (const c of m[1].split(/\s+/)) if (c) used.add(c);
+    }
+  }
+  const missing = [...used].filter((c) => !defined.has(c)).sort();
+  if (missing.length) problems.push(`CLASSES WITH NO CSS: ${missing.join(', ')}`);
+}
+
+/* ============================ 404 ============================ */
+{
+  const crumbs = [CRUMB_HOME, { name: 'Page not found' }];
+  const body = `
+<section class="sec"><div class="wrap">
+  <span class="kicker">404</span>
+  <h1>That page is not here</h1>
+  <p class="lede">The link may be old, or the page may have moved. Everything on the site is one
+  hop from the sitemap, and if you were looking for AC service in your area you can request it directly.</p>
+  ${cloud([
+    { href: '/', label: 'Home' },
+    { href: url.services(), label: 'All services' },
+    { href: url.areas(), label: 'All service areas' },
+    { href: url.sitemap(), label: 'Sitemap' },
+  ])}
+</div></section>
+
+${requestForm(cfg)}`;
+  add('/404.html', layout({
+    cfg, path: '/404.html', crumbs,
+    title: 'Page Not Found | AC Repair Houston',
+    description: 'That page is not here. Find AC repair in Houston and the surrounding area, or send a request directly.',
+    jsonld: [orgSchema(cfg)],
+    body,
+  }));
+}
+
+/* ============================ WRITE ============================ */
+fs.rmSync(OUT, { recursive: true, force: true });
+fs.mkdirSync(OUT, { recursive: true });
+fs.cpSync(path.join(ROOT, 'public'), OUT, { recursive: true });
+
+for (const p of pages) {
+  if (p.path === '/404.html') {
+    fs.writeFileSync(path.join(OUT, '404.html'), p.html);
+    continue;
+  }
+  const dir = path.join(OUT, p.path);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, 'index.html'), p.html);
+}
+
+/* sitemap + robots */
+const now = new Date().toISOString().slice(0, 10);
+fs.writeFileSync(path.join(OUT, 'sitemap.xml'),
+  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
+  pages.filter((p) => p.path !== '/404.html').map((p) => `  <url><loc>${cfg.origin}${p.path}</loc><lastmod>${now}</lastmod></url>`).join('\n') +
+  `\n</urlset>\n`);
+fs.writeFileSync(path.join(OUT, 'robots.txt'),
+  `User-agent: *\nAllow: /\n\nSitemap: ${cfg.origin}/sitemap.xml\n`);
+
+/* ============================ AUDIT ============================ */
+const graph = auditGraph(pages);
+if (graph.orphans.length) problems.push(`ORPHAN PAGES (no inbound internal link): ${graph.orphans.join(', ')}`);
+if (graph.dangling.length) problems.push(`DANGLING LINKS (target does not exist): ${graph.dangling.join(', ')}`);
+
+console.log(`\n  built ${pages.length} pages -> dist/`);
+console.log(`  internal links: ${graph.totalEdges}, median inbound: ${graph.medianInbound}`);
+console.log(`  orphans: ${graph.orphans.length}, dangling: ${graph.dangling.length}`);
+if (graph.thinlyLinked.length) {
+  console.log(`  thinly linked (<8 outbound): ${graph.thinlyLinked.length}`);
+}
+if (!cfg.domainConfirmed) {
+  console.log(`\n  !! DOMAIN IS A PLACEHOLDER (${cfg.domain})`);
+  console.log(`     Set domain + origin + domainConfirmed:true in data/config.json once the real`);
+  console.log(`     domain is purchased and DNS points at the host.`);
+}
+if (cfg.conversion.status !== 'active') {
+  console.log(`\n  !! REQUEST FORM IS NOT LIVE (endpoint ${cfg.conversion.endpoint}, status "${cfg.conversion.status}")`);
+  console.log(`     Deploy the handler, then set conversion.status to "active" in data/config.json.`);
+}
+if (problems.length) {
+  console.error(`\n  BUILD PROBLEMS (${problems.length}):`);
+  for (const p of problems.slice(0, 40)) console.error('   - ' + p);
+  if (problems.length > 40) console.error(`   ... and ${problems.length - 40} more`);
+  process.exitCode = 1;
+} else {
+  console.log('\n  no content violations, no orphans, no dangling links.\n');
+}

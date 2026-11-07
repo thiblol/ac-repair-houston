@@ -1,0 +1,162 @@
+{
+  "intro": "A lot of Spring houses were built in the 1970s for a smaller family and a smaller footprint, then finished off over the years. The oak canopy came with the land and it stayed. The result is a house that asks more of its cooling system every year than the one it was designed for.",
+  "localAngle": "The sizing is the story here. A 1970s system was chosen when a home had fewer finished rooms, less glass and lower expectations of comfort. Closed-off bedrooms, a family room addition and a vaulted ceiling all raise the heat gain, and none of that changes the unit outside. So the same equipment that handled the house in the eighties runs near its limit in the middle of an August afternoon. The oak canopy adds shade, which helps, and a steady rain of leaves that blocks the condenser. The grid sags in the afternoon too, and a compressor at its limit has no margin for a bad power moment.",
+  "commonCalls": [
+    "System runs all day in summer and never gets the house below setpoint",
+    "Bedroom closed off years ago is now hot and has no vent",
+    "Outdoor unit under a mature oak with the coil covered in leaves",
+    "Breaker trips when the compressor tries to start during the afternoon",
+    "Old system on R-22 that needs refrigerant every summer"
+  ],
+  "landmarks": [
+    "Old Village Spring",
+    "Spring Creek",
+    "Highway 45",
+    "Grand Parkway",
+    "Sawdust Road",
+    "Krog Street",
+    "The Legends",
+    "Oak Ridge",
+    "Binglewood",
+    "Louetta"
+  ],
+  "faqs": [
+    {
+      "q": "My Spring house is 40 years old. Is the AC too small?",
+      "a": "It very well may be. The original unit was chosen when the house had fewer finished rooms and less glass. Every addition since then has raised the heat gain, and the outdoor unit has not changed. A load calculation against the house as it is now will tell you whether you are looking at a sizing problem or a repair problem."
+    },
+    {
+      "q": "Why does the compressor trip in the afternoon?",
+      "a": "A system that is already near its limit gets no worse as the grid strains. The demand peak across the Houston area lands in the hottest part of the day, and a brief voltage dip on the service can be enough to stop a compressor that has no headroom. The technician checks the supply voltage at the unit before calling the compressor dead."
+    },
+    {
+      "q": "Does having a lot of oak around the house hurt the AC?",
+      "a": "The shade helps more than the litter hurts, and the litter is easily handled. The trees keep the house out of the sun and lower the attic temperature a little. What they do is drop a steady layer of leaves onto the condenser, which blocks the coil face and makes the unit run long without cooling it."
+    },
+    {
+      "q": "I closed off the upstairs bedrooms years ago. Should I open them back up?",
+      "a": "Opening them up without changing anything makes the house harder to cool, because the system now has to move air into spaces it was never delivering to. The right answer is a load calculation first, then either extending the ductwork to those rooms, adding capacity, or putting a separate system in the space that needs it."
+    },
+    {
+      "q": "How long do 1970s AC systems last in this climate?",
+      "a": "It depends on how they were installed and how they were maintained, but the humidity in this part of Montgomery and Harris County is hard on them. The coil runs wet, the refrigerant side works against a heavy moisture load, and the electrical components corrode in the humidity. Many of them are still running. They are not all in good shape."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Local conditions used: 1970s sizing against a grown house, mature oak leaf fall, ERCOT afternoon dips, and closed-off upstairs rooms.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "A Spring callout in the middle of a heat wave is usually about a house that cannot cool itself. We pass the request to the HVAC company that covers your part of Montgomery and Harris County and let them work the fault directly. Because the equipment is old and the house is loaded, the outcome depends as much on the power supply as on the parts.",
+      "localNote": "An undersized system running flat out during the ERCOT afternoon peak is exactly when the compressor is most likely to trip. The technician should verify the supply voltage at the outdoor unit before condemning the compressor, and check whether the coil under the oak is fouled. In this neighborhood the coil and the power are both suspects, and one of them is usually the cheaper to fix.",
+      "faqs": [
+        {
+          "q": "Is my compressor bad or is it the power?",
+          "a": "Both are checked, in that order. A compressor that trips when it starts during the hottest part of the afternoon may simply be losing voltage as the grid strains. The technician measures the supply at the outdoor unit disconnect and looks at the amp draw before ordering a compressor, because a part that was never the fault gets replaced and the problem comes back."
+        },
+        {
+          "q": "My AC quit during the afternoon heat wave. What do I do now?",
+          "a": "Leave the breaker off if it has tripped, and switch the system off at the thermostat so the compressor is not trying against a fault. Put the thermostat on fan only so air keeps moving. Then make the request and describe the time of day it happened, because that timing is a real clue."
+        },
+        {
+          "q": "Should I turn the system off until someone comes?",
+          "a": "If the unit is silent and the house is hot, yes. A compressor cycling against a fault or a locked rotor will burn out. If the system is still cooling and running normally, leave it alone. The technician can talk you through which of the two you have when you call."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: undersized systems tripping on the ERCOT afternoon peak, coil fouling under the oaks."
+    },
+    "same-day-ac-repair": {
+      "intro": "Same-day work in Spring tends to involve a system that runs continuously without ever satisfying the thermostat, and the tree cover is usually a large part of why. The technician who takes the job should clean the condenser, check the refrigerant charge and then look at whether the system can move enough air for the finished space.",
+      "localNote": "Spring's mature oaks drop enough debris to cover a condenser in a season, and the shade they provide keeps that litter damp so it does not blow away. A blocked outdoor coil is the fastest way to turn an old system into a same-day call. Clear it, wash the fins, and check the charge. If it still cannot hold setpoint, the next question is sizing, because these houses grew after the systems went in.",
+      "faqs": [
+        {
+          "q": "Why does my Spring AC run all day and still not cool?",
+          "a": "The system has three things working against it: a condenser that is half buried in leaves, a house that grew after the equipment was installed, and a refrigerant charge that may have drifted over twenty summers. Clearing the coil is quick. If the system still cannot hold setpoint after that, the conversation moves to capacity, which is a different visit."
+        },
+        {
+          "q": "How often should I clear the leaves off the outdoor unit?",
+          "a": "Through the growing season, every few weeks is not too often if the unit sits under a big oak. The litter packs down and holds moisture against the fins, and it does not blow off on its own because of the shade. A soft brush and a gentle rinse keeps the coil face clear without touching the fins."
+        },
+        {
+          "q": "My system was sized when the house was smaller. Does that matter now?",
+          "a": "It matters a great deal. The load calculation is done against the house as it is today, and the answer is often a larger unit than the one on the pad. It is also sometimes a second system for the upstairs rather than a bigger single one. The technician measures the actual load before either option is quoted."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: oak leaf fall on the condenser, houses grown past the original sizing, leaf clearing interval."
+    },
+    "ac-not-cooling": {
+      "intro": "Blown air that stays warm is the most common complaint from Spring homeowners, and the diagnosis usually starts with airflow rather than gas. In homes that have been changed over the years, the ductwork and the space the unit occupies rarely match the way the house is used now. We connect you with a company that covers the area.",
+      "localNote": "A closed-off bedroom with no supply vent is the classic Spring version of this. The main system tries to cool a space it cannot reach, the static pressure climbs and the coil ices over. Then the thermostat reads room temperature because the vents near the thermostat are fine. The fix is a load calculation and possibly new or extended ductwork, not another cylinder of refrigerant.",
+      "faqs": [
+        {
+          "q": "Why is one bedroom hot and the rest of the house cool?",
+          "a": "In this housing stock it is nearly always the ductwork. The bedroom was finished or walled off at some point and the vent was removed or never extended into it. The system cannot cool a room it delivers no air to, and it also loses airflow trying. The thermostat sits in a room that is fine, so the system runs all day without ever fixing the problem."
+        },
+        {
+          "q": "Does closing off rooms save energy?",
+          "a": "Closing a room with a working vent does reduce the space the system has to treat. Closing a room and removing its vent is different, because the room still receives air through leakage and the rest of the house loses the return path it was designed around. The result is often a system that runs constantly, which is exactly the complaint."
+        },
+        {
+          "q": "My indoor coil keeps freezing. What causes that?",
+          "a": "Low airflow over the coil, and the summer load is what pushes it over the edge. A dirty filter, a long duct run, a closed-off return path and an attic at 130 to 140 degrees all contribute. Switch the system off at the thermostat and let the coil thaw before you try again. Turning the thermostat down makes the freeze worse."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: closed-off upstairs bedrooms without vents, return path losses, attic heat on the coil."
+    },
+    "ac-repair": {
+      "intro": "The equipment in these houses goes back to the 1970s, so the repair list is the old one: capacitors, contactors, blower motors, and R-22 systems that need refrigerant every few summers. We connect you with a company covering Montgomery and Harris County. Diagnosis before parts, especially on a system that has already had work done.",
+      "localNote": "Old systems here were sized for less house, and they were also run hard for a long time. The compressor on a 1970s install has pulled a lot of hours against a coil that was never kept clean, and the result is leaks and failed contactors rather than a clean end. Two things are worth checking before replacing anything: what refrigerant the nameplate lists and whether the line set has been repaired before.",
+      "faqs": [
+        {
+          "q": "What refrigerant does a 1970s Spring system use?",
+          "a": "Almost certainly R-22, which was the standard residential refrigerant for decades and is no longer produced for new equipment. It is still recoverable for service work on an old system, at a cost that reflects its age. The nameplate on the outdoor unit says so, and knowing it before the visit keeps the quote from changing."
+        },
+        {
+          "q": "Is it worth repairing an old system or replacing it?",
+          "a": "It depends on how the money would be spent. A capacitor and a contactor on a sound system is a reasonable repair. A third visit in a season for the same unit is not. The two questions that decide it are the refrigerant type and whether the coil and line set are worth keeping."
+        },
+        {
+          "q": "Why is there a puddle under my outdoor unit?",
+          "a": "A small puddle in the right place is normal. The unit sheds water as it pulls moisture out of the air, and it drains from the base pan. A puddle in the wrong place, or one that never dries, means the drain is blocked. That is worth having cleared, because a blocked pan can cause the unit to shut down on the float switch."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: R-22 in 1970s installs, the repair versus replace question, condensate puddles under the unit."
+    },
+    "ac-installation": {
+      "intro": "Installations in Spring are usually replacements in older homes, and the sizing conversation is the whole job. The house has more finished space and more glass than it did when the original unit was chosen. We connect you with an installer who covers the area so the load calculation reflects the house as it stands now.",
+      "localNote": "The calculation has to describe the house today, not the floor plan from when it was framed. Finished bedrooms that were closed off, a family room addition and a vaulted ceiling all change the numbers. The oak canopy affects the answer too, since shade lowers the gain on one side of the house and the west sun still bakes the other. Those two facts pull in opposite directions and the calculation has to settle it.",
+      "faqs": [
+        {
+          "q": "My house was framed in the 1970s. How does that affect the AC sizing?",
+          "a": "It means the original number is probably wrong now. The system was chosen for fewer finished rooms, less glass and a different standard of comfort. A load calculation for the house as it stands includes the additions, the finished spaces and the upgraded appliances. It also has to allow for how much shade the oak canopy gives you, which a lot of calculations do not."
+        },
+        {
+          "q": "Should I add ducts to the closed-off bedrooms or put in a second system?",
+          "a": "Both are workable answers and the right one depends on the duct layout. If the trunk run has the capacity and the return path is intact, extending it is simpler. If the attic run is already tight, a second unit for that side of the house avoids rebuilding the whole system. The static pressure and the load calculation decide between them."
+        },
+        {
+          "q": "Does the oak canopy affect the cooling load?",
+          "a": "It does, and in two directions at once. The trees shade the north and east sides, which lowers the gain there. The west side still takes full afternoon sun with no shade at all. A calculation that only counts the average, or that ignores the west exposure, gets the capacity wrong for the rooms that matter most."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: 1970s floor plans against the current house, duct extension versus a second unit, oak shade and west exposure."
+    },
+    "ac-replacement": {
+      "intro": "Replacing the system in a Spring house usually means moving off a refrigerant that is no longer made and off a coil that has been in the attic for half a century. There is also the question of whether the old line set is worth keeping. We connect you with a company that covers the area so both questions get answered before the quote.",
+      "localNote": "The R-22 systems from the 1970s are the strongest case for replacement. The refrigerant is discontinued for new equipment, so a single leak repair on an old line set is expensive work on a system that still will not meet a house that has grown since it went in. Add a coil sitting in a 130 degree attic and the whole assembly has had a long life. A new matched set removes the question.",
+      "faqs": [
+        {
+          "q": "Can my old Spring system be recharged?",
+          "a": "It can be serviced, but that is different from being able to rely on it. R-22 is no longer produced for new systems, so the cost of a charge on an old unit is high and the cost of the next one is higher. If the system also needs refrigerant regularly, that is a leak, and a leak in a 1970s line set is the point at which replacement usually wins."
+        },
+        {
+          "q": "Do I need to replace the ducts too?",
+          "a": "Sometimes. The ductwork in these houses was sized for the equipment of the 1970s, and it may already be pushing too hard. If the static pressure is high or the ducts are noisy and sagging, the duct system gets addressed at the same time as the equipment. If it is in good shape, it can often stay."
+        },
+        {
+          "q": "Is a 1970s system worth repairing in the Houston humidity?",
+          "a": "A single component repair on an otherwise sound unit is reasonable. The problem is the pattern. A system that has been repaired repeatedly in a humid climate is telling you the same thing each time. Note what the technician found and how long the repair is expected to last, because that history is what makes the next decision easier."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: R-22 recharging in 1970s units, 1970s duct sizing, repair history in a humid climate."
+    }
+  }
+}

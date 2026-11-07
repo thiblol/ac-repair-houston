@@ -1,0 +1,38 @@
+{
+  "intro": "The evaporator coil is the wet part inside the air handler, the coil your air passes through to get cold. When it is dirty, iced over or coated in slime, the system runs and runs and the house stays warm. A coil problem is usually an airflow problem in disguise, and a clean coil on a system that still has bad airflow will freeze again next month.",
+  "whatHappens": [
+    "Opens the air handler and looks at the coil and the drain pan",
+    "Checks the filter, the blower wheel and the return ducts for the real restriction",
+    "Cleans the coil with the proper solvent and combs the fins back open",
+    "Looks for a refrigerant or airflow cause instead of treating the ice as the fault",
+    "Clears and treats the pan, the drain line and the float switch after the thaw"
+  ],
+  "howPriced": "A cleaning is labor, and a coil that has to be replaced is a different scale of job. The variables are access to the air handler, whether it sits in an attic or a closet, time of day, the parts involved, and whether the repair is a clean, a coil swap, or an entire indoor unit. Fixing the airflow cause is often part of the same visit, and it should be.",
+  "faqs": [
+    {
+      "q": "how much does it cost to clean a frozen evaporator coil",
+      "a": "The cleaning itself is not the expensive part. The money is usually in whatever is causing the freeze, which is a dirty filter, a weak blower, a closed vent or a low refrigerant charge, and that work gets quoted on its own. Replacing a damaged coil instead of cleaning it costs considerably more."
+    },
+    {
+      "q": "why is my evaporator coil freezing up",
+      "a": "Airflow is the usual reason. When too little air moves over the coil, the refrigerant inside gets colder than it should and the moisture in the air freezes on the fins. A dirty filter, a clogged blower or a kinked duct does it. Low refrigerant and a failing blower also do it. Until the cause is fixed the ice comes back."
+    },
+    {
+      "q": "why is my AC dripping water from the ceiling",
+      "a": "That water is condensation that formed on the coil and could not drain away. A frozen coil that thaws quickly overflows the pan, or the drain line is clogged and the pan backs up. An overflow float switch will usually shut the system down to prevent damage. The drain line needs clearing and the coil needs to stop icing."
+    },
+    {
+      "q": "what is the green or black gunk on my coil",
+      "a": "It is a mix of dust, moisture and mold that formed on the coil fins. It blocks the fins, which chokes airflow and makes freezing more likely, and it is what makes the musty smell that fills the house whenever the system starts. It needs to be cleaned off properly rather than wiped down."
+    },
+    {
+      "q": "should I keep running my AC with a frozen coil",
+      "a": "No. Running it with ice on the coil can stress the compressor and it will keep frosting up. Turn the system off at the thermostat and let the coil thaw completely, then look at the filter and the vents. If it freezes again within a day or two, there is a mechanical cause and it needs a technician on site."
+    },
+    {
+      "q": "can the coil be cleaned or does it have to be replaced",
+      "a": "Most of the time it can be cleaned, and a cleaned coil that is not damaged will work as well as a new one. Replacement comes up when the fins are corroded through, when there is a hole in the coil, or when the coil has been frozen so many times that the metal is brittle. The technician will tell you which case you are in."
+    }
+  ],
+  "_faqsNote": "5 to 6 FAQs. Cost first. Use the phrasing a person types, not a marketer's phrasing."
+}

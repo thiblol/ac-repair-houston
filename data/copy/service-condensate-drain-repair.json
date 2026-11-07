@@ -1,0 +1,38 @@
+{
+  "intro": "A clogged drain line sends the water somewhere it does not belong. Moisture pulled out of the air runs down the indoor coil, collects in a shallow pan, and leaves through that line, usually toward a floor drain or out through the wall. Send the request and the HVAC company we connect you with traces the actual path of the water before pulling anything apart.",
+  "whatHappens": [
+    "Locate the air handler and confirm whether it sits in an attic, a closet, or a utility room",
+    "Trace the drain line and find the plug, or find the pan that is overfilling",
+    "Flush the line, clear the trap, and check the outlet where it leaves the unit",
+    "Test the float switch that is supposed to shut the system down before overflow",
+    "Scrub the pan and treat the growth so the clog does not come back next month"
+  ],
+  "howPriced": "Access drives most of the difference. A pan inside an occupied closet is a different job than one in an attic that needs a ladder, and some units sit behind finished walls. Time of day matters for an active leak, and whether you need a repair or a replacement changes the scope entirely, since parts such as a failed float switch, a cracked pan, or a new length of line are quoted apart from labor to clear a clog.",
+  "faqs": [
+    {
+      "q": "How much does it cost to fix a clogged AC condensate drain?",
+      "a": "It depends on where the unit is and what has failed. A simple line flush on an accessible unit is at the low end. Reaching an attic unit, replacing a float switch, or replacing a cracked pan costs more because of access and parts. The company that covers your area will give you a number before the work starts."
+    },
+    {
+      "q": "Why is my AC unit leaking water inside the house?",
+      "a": "Almost always the drain. The pan under the indoor coil fills faster than the line can carry it away, so it spills over the edge. A frozen line, a blocked trap, or a kinked section of pipe causes the same symptom."
+    },
+    {
+      "q": "Is it safe to keep running the AC if it is dripping?",
+      "a": "Usually yes, but not for long. The water can soak into baseboard, drywall, and insulation, and it encourages mold where it sits. If the float switch has already cut the unit off, leave it off until the drain is cleared."
+    },
+    {
+      "q": "What is the float switch and why did my unit shut off?",
+      "a": "It is a small switch in the pan that detects water rising. When it trips, the unit stops so it does not push water over the edge and into the house. It is a protection device, not the cause, so the drain itself still needs to be fixed."
+    },
+    {
+      "q": "Why does my unit only leak when it rains?",
+      "a": "Rain usually means the ground is saturated and the drain cannot soak in, so it backs up. It can also mean the outside outlet is packed with debris. Either way the fix is at the pan or the line, not at the weather."
+    },
+    {
+      "q": "How do I stop the drain from clogging again?",
+      "a": "Algae, dust, and insulation fibers collect in the pan and the trap where the line turns down. A treatment that coats the pan slows the growth, and a periodic flush keeps the line open. Ask about a maintenance interval you can actually keep up with."
+    }
+  ],
+  "_faqsNote": "6 FAQs. Cost first. Phrased the way a homeowner types it into a search box, not the way a contractor writes it."
+}

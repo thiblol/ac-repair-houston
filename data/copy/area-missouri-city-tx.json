@@ -1,0 +1,162 @@
+{
+  "intro": "The housing here runs from 1990s tract homes to newer subdivisions off the Grand Parkway, and the cooling load in this corner of Fort Bend County runs higher than the lot sizes suggest. The air off the Gulf arrives warm and wet, and equipment sized in a milder decade struggles to keep up with it.",
+  "localAngle": "This corner of Fort Bend County sits close to the Gulf, so the humidity does not let up in August the way it does inland, and the night dew point stays high enough that a system has to keep running through the night to hold the house. The housing stock is younger than in older parts of the metro, but 1990s builders sized equipment by square footage rather than by load, and the oak and pine that matured on those lots have been dropping needles and catkins onto the units for twenty years. A system that was right-sized on the drawing board is now a season behind the thermostat.",
+  "commonCalls": [
+    "1990s and 2000s systems that run all day and never pull the house below the thermostat setting",
+    "Condenser coils choked with oak and pine litter on shaded lots",
+    "Systems that dehumidify poorly and leave the house clammy at night",
+    "Airflow complaints in homes where a builder added a bonus room later",
+    "Same-day calls after a storm knocks the power to a whole block"
+  ],
+  "landmarks": [
+    "Highway 6",
+    "Fort Bend Parkway",
+    "the Grand Parkway",
+    "Missouri City Municipal Park",
+    "Ridgemont",
+    "Lake Thompson",
+    "Cypresswood",
+    "Gessner",
+    "Beltway 8",
+    "Stadium Way"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my Missouri City home feel humid even with the AC running?",
+      "a": "Because the unit may be sized right for the temperature but not for the moisture. In a climate this wet, a system that runs short cycles never pulls the humidity out of the air. The result is a house that sits at temperature and still feels sticky."
+    },
+    {
+      "q": "My house is only about 2,000 square feet. Why does it need so much cooling?",
+      "a": "Square footage does not capture the load. Gulf humidity raises the latent load, and west-facing glass adds to the afternoon gain. Homes with a bonus room, a vaulted ceiling or a lot of glass can need more capacity than a neighbour with the same floor plan."
+    },
+    {
+      "q": "Why does my outdoor unit have so much debris on it?",
+      "a": "Mature oak and pine on these lots drop for much of the year, and a unit tucked under a tree collects it without anybody noticing. A packed coil cannot reject heat, so the system runs longer and harder for the same result."
+    },
+    {
+      "q": "Is Fort Bend County prone to outages in summer?",
+      "a": "It is part of the ERCOT grid, so demand-driven outages happen in the hottest weeks, typically in the afternoon and early evening. Most systems do not need anything special for that, but a home without any cooling needs a plan for those hours."
+    },
+    {
+      "q": "How old is the equipment in a typical Missouri City house?",
+      "a": "Homes built in the 1990s are carrying systems that went in with the house, so a lot of them are reaching the end of the original install's life now. Newer subdivisions off the Grand Parkway have younger equipment but bigger homes."
+    }
+  ],
+  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "The emergency calls here tend to come in the peak of the afternoon, when a system that was already running all day cannot keep up and quits. The HVAC company we connect you with covers this part of Fort Bend County, so a request gets to the technician who takes the job.",
+      "localNote": "A lot of the equipment around here is from the 1990s and early 2000s and was sized by rule of thumb rather than by load. When Gulf humidity pushes it past what the unit was built for, the compressor locks out on high pressure or the refrigerant gets low enough to stop. The cabinet underneath has been in shade and leaf litter for twenty years, so airflow is part of the diagnosis.",
+      "faqs": [
+        {
+          "q": "Why does my AC stop in the hottest part of the day?",
+          "a": "Heat and humidity together push the system past the point where it can hold temperature. The compressor gets hot, the pressure climbs and the unit shuts itself down to protect itself. When the afternoon eases it may start again, which is why it looks intermittent."
+        },
+        {
+          "q": "Is a locked out unit an emergency?",
+          "a": "If the house is still moving air and the temperature is manageable, it is a same-day problem rather than an emergency. If nobody in the house can get relief in the heat, treat it as one and say so when you submit the request."
+        },
+        {
+          "q": "Will a power outage during a storm cause this?",
+          "a": "It can. A short outage can leave the compressor in a locked state when power returns. The unit is usually reset from the breaker, but if it does not restart on its own, the technician will check the capacitor and contactor first."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "same-day-ac-repair": {
+      "intro": "Same-day work here is usually about a system that works poorly rather than one that stopped. A unit running flat out and still leaving the house warm is a common request, especially in a week of high humidity.",
+      "localNote": "The fastest same-day fix in this area is usually a coil and filter clean plus a check of the refrigerant level on a 1990s install that was never oversized. Oak and pine litter on a shaded condenser costs more capacity than most homeowners expect, and the improvement shows up the same afternoon.",
+      "faqs": [
+        {
+          "q": "How do I get someone out today?",
+          "a": "Request it early. Same-day appointments across the Houston area fill during the morning, so a request submitted at the start of the day has a much better chance than one made after lunch. Include the model number from the outdoor unit."
+        },
+        {
+          "q": "Is a dirty outdoor coil really worth a visit?",
+          "a": "If the coil is visibly packed, yes. A blocked condenser cannot reject heat, so the system runs longer, uses more power and delivers less cooling. A hose on a gentle setting and a soft brush will clear part of it, and the technician will see what is underneath."
+        },
+        {
+          "q": "Should I book the service before or during the hottest weeks?",
+          "a": "Before. The same-day schedule gets tighter as the heat builds, and a visit in early summer can head off the emergency call later in the month."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-not-cooling": {
+      "intro": "Warm air from a running system is the fault that gets misdiagnosed most often, and here it usually comes down to charge or airflow on equipment that has been running for two decades. The company that covers this area checks both before anyone pulls a tool out.",
+      "localNote": "The distinctive case around here is a system that holds temperature reasonably but leaves the house clammy, because the coil cannot move enough air through it to strip the moisture. That is a coil and filter problem more often than a refrigerant problem, and the two get confused because the symptom sounds the same.",
+      "faqs": [
+        {
+          "q": "The AC is on and the vents blow warm. What is actually wrong?",
+          "a": "Most often the charge is low or the compressor is not moving heat. A dirty indoor coil will do the same thing. The technician measures pressure and airflow to tell them apart, because topping off a system that is dirty will not fix it."
+        },
+        {
+          "q": "Why does my house feel stuffy even when it is cool?",
+          "a": "That is the humidity side of it. A system running in a wet climate has to remove moisture as well as heat. If the coil is blocked or the unit is undersized, it holds temperature and leaves the moisture behind."
+        },
+        {
+          "q": "Is running the AC constantly normal in Missouri City?",
+          "a": "Not if it never settles. A system that starts and stops on short cycles is not doing what it was designed to do. Long run times with a house that holds temperature are worth having looked at."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-repair": {
+      "intro": "Repair here is mostly about equipment in its late teens and early twenties, which is the age where a single failure tends to be a pattern rather than an accident. The diagnosis decides whether the money buys a part or a new system.",
+      "localNote": "The mix of ages in this area makes each call a little different. A 1996 tract home and a house from the 2010s off the Grand Parkway will not have the same failure, even with the same symptom. What they share is a summer load set by Gulf humidity and a lot of shade, which means the condenser works in damp air with a wet coil more often than homeowners expect.",
+      "faqs": [
+        {
+          "q": "Is it worth fixing a system from the early 2000s?",
+          "a": "Often, yes. If the compressor is good and the refrigerant type is still in production, a repair is a reasonable call. The decision changes when the unit is on a discontinued refrigerant or the coil and cabinet are both worn."
+        },
+        {
+          "q": "What is the most expensive thing to leave undiagnosed?",
+          "a": "A refrigerant leak. Every charge you add goes out the same place, and the compressor eventually runs without lubrication. Finding the leak and repairing it is the job that ends the repeat visits."
+        },
+        {
+          "q": "Should I get the system checked before a power outage season?",
+          "a": "Yes. The weakest part of a cooling system is usually the outdoor electrical components, and those fail most when the system is working hardest. A capacitor and contactor check is cheap compared with an afternoon without cooling."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-installation": {
+      "intro": "Most of the installation work here is in newer subdivisions and in homes that got a second system rather than a first. Either way, the sizing has to reflect Gulf humidity and the actual finished space, not the builder's default.",
+      "localNote": "A 2010s subdivision home near the Grand Parkway and a 1990s tract house a mile away can need different capacity for the same floor plan, because lot orientation and glass change the solar gain. The load calculation and the duct design both matter here. A zoned plan that serves the front and back of the house separately also lets the equipment match the load instead of averaging it.",
+      "faqs": [
+        {
+          "q": "What size system does my Missouri City house need?",
+          "a": "It comes from a load calculation that looks at orientation, glass, insulation and the moisture in the air. A rule of thumb number from a sales sheet will be wrong in one direction or the other, and oversizing is the more common error."
+        },
+        {
+          "q": "Is central air worth adding to a 1990s house here?",
+          "a": "It depends on what is already there. If the ducts are original and undersized, a new unit alone will not fix the distribution. If the ducts are sound, a properly sized system is a good investment."
+        },
+        {
+          "q": "Where should the outdoor unit go?",
+          "a": "Somewhere with clear airflow, out of direct afternoon sun where possible, and enough distance from a fence or shrub. On a shaded lot the location is easier, but the shade also means the coil stays damp and collects debris faster."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-replacement": {
+      "intro": "The replacement conversations here are usually about a 1990s system that still works well enough to be annoying about failing. What decides the outcome is the refrigerant type, the age of the air handler, and the condition of the ducts.",
+      "localNote": "Units from the 1990s in this area are likely on a refrigerant that is still produced, which makes replacement a straightforward swap, but the ductwork they fed is often undersized for the house as it now stands. A replacement with the same tonnage will not fix a distribution problem. The load calculation has to be redone for the current space, not copied from the old paperwork.",
+      "faqs": [
+        {
+          "q": "How do I know if my AC needs replacing?",
+          "a": "Look at how it is failing. A unit that needs refrigerant every year, or one that has had three repairs, is telling you something. Repairs on a system that is 20 years old buy time, not reliability."
+        },
+        {
+          "q": "Is my ductwork part of the replacement decision?",
+          "a": "It should be. New equipment pushing air through undersized ducts will be noisy and uneven, and that gets blamed on the new unit. A duct check before the quote keeps that from happening."
+        },
+        {
+          "q": "Should I replace before or after the summer?",
+          "a": "Before, if the house can take it. Scheduling outside the hottest weeks gives you more choice and avoids the period when every contractor is fully booked. If the system fails in July, the replacement can still be done after the season with the house comfortable."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    }
+  }
+}

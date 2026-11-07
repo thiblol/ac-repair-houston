@@ -1,0 +1,162 @@
+{
+  "intro": "Katy is mostly housing built after 2000, and a lot of those houses are large, west-facing and shaded by mature oaks. The sun loads the back of the house late in the afternoon, and the cottonwood and mesquite from those oaks fall straight down onto the outdoor units. On top of that, the ERCOT supply gets rough during the peak of a July evening, and a compressor working against a sagging voltage has nothing left in reserve.",
+  "localAngle": "Most Katy stock was built after 2000 with west-facing elevation and high windows, so solar gain lands on the back of the house when outside air is still hot enough to cook. Shade is generous and that cuts attic temperature somewhat, but it also traps moisture around the outdoor coil. Cottonwood and mesquite litter falls straight down on units sitting under the oaks. The power supply also dips during the hottest stretch of the afternoon, and a struggling compressor on a sagging voltage will trip before it cools.",
+  "commonCalls": [
+    "Unit stops cooling in the late afternoon when the west sun hits the back of the house",
+    "Outdoor unit humming but the compressor never kicks in after a grid dip",
+    "Condenser packed with cottonwood and oak leaves, system running long and never reaching setpoint",
+    "West-facing bedroom stays warm while the front of the house is fine",
+    "Breaker trips each time the system starts after the ERCOT demand peak"
+  ],
+  "landmarks": [
+    "Katy Freeway (I-10)",
+    "Grand Parkway (SH 99)",
+    "Cinco Ranch",
+    "Towne Lake",
+    "Bridgeland",
+    "Katy Mills",
+    "Morton Ranch",
+    "Heritage Ranch",
+    "FM 723",
+    "Cypress Church"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my Katy AC quit cooling in the late afternoon?",
+      "a": "Homes here were built after 2000 and a lot of them face west. The sun loads the glass and the walls after the outside air has already peaked, so the system is asked for more than it can move at four in the afternoon. A west-facing bedroom usually warms up first. The fix is usually airflow or capacity, not a new machine."
+    },
+    {
+      "q": "Does Katy get salt air damage on outdoor units?",
+      "a": "No. Katy sits well inland from the bay, so the coastal corrosion that eats through condenser cabinets in Galveston County does not happen here. What does happen is leaf litter and Gulf humidity. The metal still weeps and the base of the unit can rust, but that takes years rather than seasons."
+    },
+    {
+      "q": "My outdoor unit sits under a big oak. Is the shade hurting it?",
+      "a": "The shade helps the unit. It lowers the temperature the condenser has to work against. The cost is what falls on it. Cottonwood and mesquite collect on the coil face and block the airflow needed to dump heat. Clear the coil and the shade is a benefit again."
+    },
+    {
+      "q": "How often should I rinse the condenser in Katy?",
+      "a": "Every couple of months through the growing season, and after any storm that brings a lot of branches down. A packed coil makes the system run long and never reach setpoint. Gentle hose pressure and a soft brush are enough. Do not use a high-pressure wand, it bends the fins and makes the coil worse."
+    },
+    {
+      "q": "Does the Katy area have power problems in the summer?",
+      "a": "The grid is strained across the metro on the hottest afternoons, and demand peaks in the Houston area can show up as a brief voltage dip on the service. A system that trips its breaker or stops starting at that time of day deserves a voltage check before anyone decides the compressor is dead."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Local conditions used: west-facing solar load, oak and cottonwood litter, ERCOT afternoon demand peaks, and the absence of coastal salt.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "When a Katy unit stops in the middle of a July afternoon, the house heats up in a couple of hours, especially on the west-facing side. We pass the request to the HVAC company that covers your part of the corridor and let them work the fault directly. The first thing the technician does is confirm whether this is a mechanical fault or a power problem.",
+      "localNote": "Katy runs on ERCOT, and the grid gets rough in the peak afternoon demand window. A unit that trips its breaker or drops out at four in the afternoon is often a supply problem, not a dead compressor. The technician should measure the voltage at the disconnect before ordering parts. Add the oak litter on the coil and a system working hard against a sagging supply, and that is the Katy emergency profile.",
+      "faqs": [
+        {
+          "q": "Is the power out at my house or is it just my AC?",
+          "a": "Check the main breaker first. If the rest of the house has power and only the outdoor unit is dead, the fault is at the unit or the AC breaker. In this part of the metro an afternoon voltage dip can also cause the compressor to fail to start, so the technician checks the supply at the disconnect before condemning a part."
+        },
+        {
+          "q": "What should I do while I wait for a technician?",
+          "a": "Set the thermostat to fan only so the air keeps moving, and open doors between rooms. If there is water or ice around the outdoor unit after a storm, leave it alone and say so when you make the request. Do not open the electrical compartment on the unit."
+        },
+        {
+          "q": "Do oak leaves cause emergency calls?",
+          "a": "Rarely on their own. Leaves make a system run long and work harder, which shows up as poor cooling rather than a shutdown. The emergencies in this area come from compressor lockouts on a weak supply during the afternoon peak."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: ERCOT afternoon demand peak and voltage dips on the Katy side of the metro."
+    },
+    "same-day-ac-repair": {
+      "intro": "A Katy system that runs all day and never catches up is usually a coil and airflow problem, not a dead machine. The housing stock here is new enough that most breakdowns are wear items rather than age. Same-day visits usually mean clearing the condenser, checking the capacitor and confirming the charge, and noting the model and serial off the nameplate before you call so the right parts come on the first trip.",
+      "localNote": "Cottonwood and mesquite from the mature oaks along FM 723 and through Towne Lake and Bridgeland blanket the outdoor unit and block the coil face. A blocked coil makes the system run long and never reach setpoint, which is exactly how a same-day call starts. Clean the coil, clear the fins, and check the amp draw before assuming the system needs replacing.",
+      "faqs": [
+        {
+          "q": "Why is a morning request better for same-day AC work in Katy?",
+          "a": "Same-day work across Houston depends on where the technician already is that morning. Fort Bend and Harris County are long drives from many of the shops, so an afternoon request usually becomes a next-day appointment instead. Calling early gives the request the best chance of landing the same day."
+        },
+        {
+          "q": "What does a running-but-not-cooling system in Katy usually need?",
+          "a": "A coil clean and a filter change cover a surprising share of these calls. Then the technician reads the charge and the amp draw. If the system still will not hold setpoint with a clean coil and good airflow, the sizing becomes the subject of the visit."
+        },
+        {
+          "q": "Does my attic unit need attention too?",
+          "a": "If the air handler is up in the attic, the return air comes in at 130 to 140 degrees before it ever reaches the coil. A dirty filter or a kinked return in that space starves the coil the same way a blocked condenser starves it outside."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: cottonwood and mesquite litter from the oaks, attic temperatures, and how a request gets scheduled."
+    },
+    "ac-not-cooling": {
+      "intro": "Running and not cooling is the most common complaint from Katy homeowners, and the reason is usually visible from the yard. A west-facing two-storey gets a solar load the system was never sized to carry, and the indoor coil ices over while the blower keeps pushing warm air. Diagnosis starts with airflow and refrigerant readings, not with parts ordering.",
+      "localNote": "Two things happen to a Katy system that will not cool. The west glass loads the house in the late afternoon and pushes the indoor coil below freezing. Then the oak and cottonwood blanket outside block the condenser, so the system cannot reject heat even at full capacity. Both faults together look like a dead unit from the thermostat. Separate them before replacing anything.",
+      "faqs": [
+        {
+          "q": "My Katy AC is running but the house is still hot. Is it low on refrigerant?",
+          "a": "Not necessarily. A system that runs continuously without cooling is usually starved of airflow or working against a fouled condenser. If the coil is iced over, the freeze is the cause of the warm air. Lowering the thermostat makes a freeze worse, so switch it off and let the coil thaw before trying again."
+        },
+        {
+          "q": "Why does my indoor coil freeze in Katy?",
+          "a": "Three local things push it. A dirty filter or a blocked return reduces airflow. The afternoon sun loads the house faster than the system can pull heat out, so the coil gets cold enough to freeze. And the condenser outside may be fouled, which makes the whole cycle run at high pressure."
+        },
+        {
+          "q": "Is a bigger unit the answer to a house that will not cool?",
+          "a": "Not usually. A unit that is too large for the duct system cycles short and never dehumidifies, which can feel worse. Airflow and coil condition get checked first, and the sizing question gets answered by a load calculation rather than by square footage."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: west-facing solar load, oak litter blocking the condenser, attic heat in the return air."
+    },
+    "ac-repair": {
+      "intro": "Katy systems are young, so most repair work here is a component failure rather than a worn-out machine. The recurring list is a failed capacitor, a contactor that has pitted shut, a failed motor, and refrigerant leaks at old braze joints, so the diagnosis comes first and then the parts. We connect you with a company that covers the Katy area so the fault gets looked at on site rather than guessed at over the phone.",
+      "localNote": "Because most of the housing here dates from after 2000, the failures are usually electrical or refrigerant rather than the corroded cabinet and perished rubber you find on older units elsewhere in the metro. What Katy does add is debris load. The unit sits under mature oaks and the coil needs clearing before pressures can be read honestly. Expect a coil clean before any quote.",
+      "faqs": [
+        {
+          "q": "How old is the AC equipment in Katy?",
+          "a": "Most of it was installed when the houses were built, and most of those houses went up after 2000. That makes the equipment relatively young. You will see corrosion and worn rubber more often on units in the older parts of Houston than on the ones here."
+        },
+        {
+          "q": "What should the technician check first?",
+          "a": "Whether the fan runs, whether the outdoor unit starts, and whether the breaker holds. Those three facts narrow the fault down before anyone opens a panel. On a Katy unit, the coil condition gets checked at the same time, since debris can make a healthy system look like a broken one."
+        },
+        {
+          "q": "My outdoor unit looks new but the system is not cooling. What now?",
+          "a": "New equipment can still be installed badly. A blocked condenser, a reversed or undersized duct run and a clogged filter all show up on a unit that has only run a few summers. The technician checks the air path and the charge before concluding the unit is faulty."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: post-2000 housing stock, oak debris on the coil, and what a young-but-problem system means."
+    },
+    "ac-installation": {
+      "intro": "Most installations in Katy go into homes that already have a system and are replacing it, or into a new build that never had one. The house matters more than the tonnage number. A west-facing two-storey in Bridgeland or Heritage Ranch needs a load calculation that accounts for the glass and the shading, and duct sizing that actually moves air upstairs.",
+      "localNote": "Katy's newer homes are the easy install, right up until they are not. Fresh construction includes sealed attics, low-e glass and a lot of square footage with vaulted ceilings, and the load calculation has to reflect that or the unit will be short on the hottest afternoon. ERCOT summer demand also makes a right-sized system with a properly sized capacitor worth insisting on.",
+      "faqs": [
+        {
+          "q": "How big should the AC be for my Katy home?",
+          "a": "The answer comes from a load calculation, not from the square footage on the listing sheet. West-facing glass, a vaulted ceiling, a second floor and the amount of sun the lot gets all change the answer. Two houses the same size on opposite sides of the same street can need different capacities."
+        },
+        {
+          "q": "Does a sealed attic in a new Katy build affect the system?",
+          "a": "It does. A well-insulated attic holds its heat, and duct runs lose air temperature as they travel through it. The duct design has to account for that, which means the return path and the trunk sizing get worked into the plan rather than added later."
+        },
+        {
+          "q": "Can the condenser be set in the shade under the oaks?",
+          "a": "Shade is good for the compressor, and the trees are a large part of why the yard feels cooler than the street. The tradeoff is litter. Set the unit where it gets airflow and can be cleaned, and keep the coil face clear of leaf fall."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: west-facing glass in newer builds, sealed attic temperatures, condenser placement under oaks."
+    },
+    "ac-replacement": {
+      "intro": "When a Katy system needs replacing, it is usually because a failure costs more to fix than to swap, not because the house is old. Some of the units here are already approaching the end of their service life after two decades of Gulf humidity. Replacing is also the sensible call when the outdoor unit is rusted through on the side where the fence has been holding water.",
+      "localNote": "Age is not the only argument for replacement in Katy. If the old system runs an R-22 charge, the refrigerant is no longer produced for new equipment and the cost of any leak repair climbs with it. Pair that with a compressor that has already been repaired once and a coil packed with oak litter, and the money left in the old unit is money that buys no summer. New equipment also runs quieter against the west sun.",
+      "faqs": [
+        {
+          "q": "What decides whether a Katy system is worth replacing?",
+          "a": "Three things: the refrigerant type on the nameplate, the condition of the coil and line set, and whether the failure keeps repeating. If the system is a twenty-year-old R-22 install with a repaired compressor, the money is better spent on a matched new set than on a third visit for the same unit."
+        },
+        {
+          "q": "Should the indoor and outdoor unit be replaced together?",
+          "a": "Usually yes. A new outdoor unit on an old coil and an old air handler gives you a mismatch in refrigerant, refrigerant pressure and airflow design. The result is a system that runs harder than either half and still underperforms. Matching the whole set is the cleaner path."
+        },
+        {
+          "q": "Does the climate here wear out a system faster?",
+          "a": "Gulf humidity does more to a system than dry air would. The coil spends much of its life wet, the cabinet weeps and rust forms at the base, and the refrigerant side runs with a heavier moisture load than it would inland. Maintenance and a rinse twice a year extend the life of the outdoor unit."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: R-22 systems from the 2000s, humidity corrosion, and matching a new set to the house."
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "intro": "Cinco Ranch was master-planned from the 2000s and the homes are large, two storeys, often with a second-floor living area over a garage. That layout puts the cooling load where the duct runs have the least space and the most distance to travel.",
+  "localAngle": "The house itself is the local condition here. A two-storey home in these neighborhoods puts the bedrooms and the media room above a garage, and the air handler is often in the garage attic with ducts that have to climb through the floor structure to get there. Bonus rooms with vaulted ceilings add volume that needs conditioning. The equipment is young, but it was sized for the first version of the house, and a lot of these floors were finished later or fitted out with more glass than the plan called for. Oak and pine on the lots add the usual debris to the condenser.",
+  "commonCalls": [
+    "Second-floor bedrooms and bonus rooms that stay warm while the first floor is fine",
+    "Zoned systems with one zone running constantly and the others cycling",
+    "Systems sized before a bonus room was converted or a wall was removed",
+    "Condenser coils packed with oak and pine litter on the larger lots",
+    "Duct runs in the garage attic restricted by added insulation or a storage build"
+  ],
+  "landmarks": [
+    "Cinco Ranch Boulevard",
+    "the Grand Parkway",
+    "Six Flags",
+    "Hurricane Park",
+    "Falcon Point",
+    "CINEMARK",
+    "Becker's",
+    "FM 1093",
+    "the 45 and 99 interchange",
+    "Twin Lakes"
+  ],
+  "faqs": [
+    {
+      "q": "Why is the second floor of my Cinco Ranch home warmer than the first?",
+      "a": "In a two-storey house the warm air has to be carried up through the floor structure, and the ducts in that run are often smaller than the ones downstairs because the space between joists is limited. A zoned system handles it better than a single zone. The other possibility is that the second floor was finished after the system was installed."
+    },
+    {
+      "q": "What is a bonus room and why does it matter?",
+      "a": "It is the space over the garage, usually with vaulted ceilings and a high roofline. It has far more volume and far more glass than the rest of the house, so it pulls in more heat and needs more air than a normal bedroom. If it was converted after the HVAC was designed, the load is different from what the system was specified for."
+    },
+    {
+      "q": "Is the equipment in these homes still under warranty?",
+      "a": "Many of the houses are recent enough that a manufacturer warranty may still apply. Check the model and serial number before paying for a repair, and check the date on the home if you are not sure."
+    },
+    {
+      "q": "Do the oaks around Cinco Ranch cause problems?",
+      "a": "They drop enough to pack a condenser if nobody clears it, and the lots are large enough that the trees are a real presence. The unit sits in shade on many streets, which is good for the house and bad for airflow at the coil."
+    }
+  ],
+  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Losing cooling in a large two-storey house is felt quickly, because the second floor has no other way to cool down. The HVAC company we connect you with covers Cinco Ranch, so a request goes to the technician who takes the job.",
+      "localNote": "The emergency calls here tend to involve a zoned system where one zone has failed and the rest are compensating. The upstairs zone in particular is usually the one that stops, because its duct run is the longest and it is the last to get air. The technician checks the zone damper and the air handler rather than treating it as a whole system failure.",
+      "faqs": [
+        {
+          "q": "One zone is dead but the others work. Is that an emergency?",
+          "a": "It depends on which zone. If the bedrooms are on it, treat it as urgent. The house will not be comfortable if the room people sleep in cannot be cooled."
+        },
+        {
+          "q": "Why does the second floor fail before the rest?",
+          "a": "The upstairs duct run is the longest and the tightest. It also carries the greatest static pressure, so a restriction in the return path hits that zone first. A clogged filter or a kinked flex duct in the garage attic does it."
+        },
+        {
+          "q": "Can a technician work on a zoned system?",
+          "a": "Yes, and it is worth saying which zones are affected when you make the request. Zone dampers and zone thermostats fail separately from the main equipment, and that changes what gets diagnosed."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "same-day-ac-repair": {
+      "intro": "Same-day work around Cinco Ranch is usually about one part of a large system not performing. Big zoned homes give a technician more to look at, which is why the notes you provide matter.",
+      "localNote": "The quickest useful work in this area is usually on the second floor: a return air path restricted by a storage build in the garage attic, a filter that was never changed, or a zone damper that has stuck. The equipment here is young enough that the faults tend to be distribution and control rather than worn-out compressors.",
+      "faqs": [
+        {
+          "q": "How do I get a same-day visit here?",
+          "a": "Request early and describe which rooms are affected. Saying that the bedrooms are warm while the downstairs is fine lets the technician bring the right parts and go straight to the zone. Same-day slots fill during the morning."
+        },
+        {
+          "q": "Is my upstairs always the problem?",
+          "a": "Not always, but it is where the ducts are smallest and the run is longest. If the return grilles in the upstairs rooms were reduced when the rooms were fitted out, that alone can starve the zone."
+        },
+        {
+          "q": "What should I check before the visit?",
+          "a": "The filter in the handler, which on many of these homes is in the garage attic and easy to forget. A restricted return path and a dirty filter can produce almost the same symptoms as a failed compressor."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-not-cooling": {
+      "intro": "In a large zoned home, air that blows warm is usually a zone issue rather than a whole system issue. The company that covers this area looks at the zone and the duct path before assuming anything about the refrigerant.",
+      "localNote": "The two-storey layout makes this a distribution problem more often than a capacity one. The upstairs zone runs through duct that was sized for the plan before the rooms were finished, and a bonus room with vaulted ceilings draws far more air than the same room with a flat ceiling. The system can be running fine and still not move enough air to the floor it serves.",
+      "faqs": [
+        {
+          "q": "The vents blow cool air but the rooms are still warm.",
+          "a": "That points at airflow rather than temperature. The air is cold, it is just not reaching the rooms in enough volume. A restricted return path, a closed damper or undersized ducts in that zone all look like this."
+        },
+        {
+          "q": "Is the house too big for the system?",
+          "a": "Possibly, but the load calculation usually reflects the original plan. If the house was finished out differently, with more glass, a bonus room converted or a wall taken out, the actual load is higher than the design."
+        },
+        {
+          "q": "Why does it cool down at night and warm up in the afternoon?",
+          "a": "That is a load problem. The system can hold the house at set point early on, then loses ground as the solar gain builds. The capacity or the distribution is short of what the house needs in the peak hours."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-repair": {
+      "intro": "The equipment in these homes is young, so repairs are more often about control and distribution than worn parts. The diagnosis matters because the symptom of a zone fault and the symptom of a system fault look identical from the thermostat.",
+      "localNote": "On a zoned system the first question is which part of the system the fault belongs to: the air handler, the zone damper, the zone control board or the thermostat. The building adds another layer, because a garage attic full of stored boxes or a foam-insulated attic can quietly choke the return air. The technician who takes the job checks airflow at the unit and at the zone, not just at the thermostat.",
+      "faqs": [
+        {
+          "q": "Why do you check the return air in the garage attic?",
+          "a": "Because on these homes the return path runs through the same space as the supply, and it is the easiest place for a return to be restricted. Stored items, added insulation or a duct that got pinched during a build can all do it, and the result looks exactly like a failed system."
+        },
+        {
+          "q": "Is a smart thermostat worth putting on a zoned system?",
+          "a": "It can be, but the zoning has to be right first. A smart thermostat on a bad zone damper does not fix the zone. Confirm that each zone controls and reports correctly before adding anything on top."
+        },
+        {
+          "q": "My system is new and the warranty is on it. What do I do?",
+          "a": "Have the model and serial numbers ready, and check whether the fault is covered before authorizing a repair. Warranties usually cover the parts and often the labour for a set period after installation."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-installation": {
+      "intro": "Install work here is often for homes that are still being built out, and for additions that the original plan did not account for. Getting the zoning right at the start is worth more than any later adjustment.",
+      "localNote": "A second floor over a garage limits what the ducts can do, so the design has to start from the volume of the rooms rather than the floor plan. Bonus rooms with vaulted ceilings, media rooms with big screens that run warm, and a laundry room on the second floor all need to be on the load calculation. Zone boundaries that match how the family actually uses the house prevent one zone from carrying the whole cooling load.",
+      "faqs": [
+        {
+          "q": "How many zones does a large home need?",
+          "a": "Enough that the second floor is not permanently sharing a zone with the first. A good starting point is separating the upstairs from the downstairs and then splitting by how the rooms are used. Each additional zone adds equipment and control complexity, so it is worth doing it properly the first time."
+        },
+        {
+          "q": "What size system does a two-storey home need?",
+          "a": "A load calculation that treats the two floors as separate thermal loads. A vaulted ceiling over a garage, a large south-facing window wall and a bonus room all add volume that a square-foot rule misses."
+        },
+        {
+          "q": "Where should the air handler go?",
+          "a": "Somewhere with enough room for the supply and return ducts, accessible for filter changes, and inside the conditioned envelope. A cramped garage attic location that gets very hot in the summer makes every service visit harder and can shorten the life of the electronics."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-replacement": {
+      "intro": "Replacement in this area is usually about capacity and control rather than worn-out metal. The equipment is young, so the question is what the house needs now compared with what it needed when it was built.",
+      "localNote": "A home here may have been finished out over several years, with a wall removed, a bonus room converted and more glazing added after the original load calculation was done. The installed system was sized against the first version of the house. Replacing it against the same old numbers reproduces the original problem. The zones are what matter here, and a properly zoned replacement handles a house that a single central unit never could.",
+      "faqs": [
+        {
+          "q": "Do I need a bigger system to replace the one I have?",
+          "a": "Not automatically. A load calculation on the house as it stands now is the answer. If the original was undersized against the finished space, the replacement will be larger, but the calculation decides that, not the age of the old unit."
+        },
+        {
+          "q": "Should I replace the zones as well?",
+          "a": "If the zone dampers and controls are original, it is worth pricing them into the comparison. New dampers and a new control platform are usually a small part of the job and they make the difference between a system that balances and one that does not."
+        },
+        {
+          "q": "Is it worth replacing a young system?",
+          "a": "If it is well built and correctly sized, then no. If it was sized wrong for the finished house, replacing it with the same size again does nothing. Look at what the house needs now, not what it needed on the day it was built."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    }
+  }
+}

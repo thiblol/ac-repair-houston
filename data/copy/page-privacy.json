@@ -1,0 +1,33 @@
+{
+  "intro": "This page says exactly what happens to the information you type into the request form. AC Repair Houston is a referral service. We do not sell your details, we do not use them for advertising, and we pass them only to the HVAC company that covers your area. Read this before you send a request.",
+  "sections": [
+    {
+      "h": "What we collect",
+      "p": "When you submit the request form we collect six things: your name, your phone number, your email address if you chose to give one, the service area you selected, the kind of work you picked, and the description of the problem you wrote. That is the whole list. The form also carries a hidden field that only a robot would fill in. If it comes back filled in, the submission is thrown away and nothing is stored."
+    },
+    {
+      "h": "What we do not collect",
+      "p": "We do not ask for your street address, your payment details, your social media accounts, or a copy of any document. We do not ask for an account or a password. We do not run advertising trackers on this site and we do not build a profile of you across other websites."
+    },
+    {
+      "h": "Who receives your information",
+      "p": "Your request goes to the independent HVAC company that covers the area you picked. That company contacts you about the job. After that, the company may keep your details under its own privacy policy, and that policy, not this one, governs what the company does with them. If you want your details removed from the company's records, ask the company directly."
+    },
+    {
+      "h": "What we do with it",
+      "p": "We use your details for one purpose, which is to pass your request to the company covering your area and to tell you if the request did not go through. We do not sell your details to marketing lists, we do not hand them to advertisers, and we do not use them for targeted advertising. If you hire the company, the company pays us a referral fee. That fee comes from the company. We do not add a referral charge to your bill."
+    },
+    {
+      "h": "How to ask us to delete it",
+      "p": "This site does not publish a phone number or an email address yet, so the way to reach us is the request form. Send a request with the words delete my request in the description box, and put the phone number you gave us in the phone field. We will remove it from our records and ask the company that received it to remove theirs. If you would rather not go through us, the company that contacted you can delete your details from its own records."
+    },
+    {
+      "h": "Analytics and server logs",
+      "p": "The host that serves this site keeps standard server logs, which include the page requested, the time, a rough browser type and an IP address. Those logs are used to keep the site running and to spot abuse. Right now the site does not run advertising or cross-site tracking scripts. If page view counting is added later, it will count visits and page views, it will not follow you to other sites, and this page will say so."
+    },
+    {
+      "h": "This page changes with the site",
+      "p": "What is written here describes what the site does today. If the way information is handled changes, this page gets updated to match, so the version you are reading is the version that applies. If a change affects what we hold about you, the practical effect is that you can ask us to delete it at any time, using the method above."
+    }
+  ]
+}

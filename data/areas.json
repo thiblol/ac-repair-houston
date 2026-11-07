@@ -1,0 +1,523 @@
+{
+ "_taxonomyNote": "Pillar area is Houston. Houston gets a page for every service. Its 16 neighborhoods each get a page plus a 5-service set. The 24 surrounding Greater Houston municipalities each get a page plus a 5-service set. Traits are the real, verifiable conditions that change AC work in each place: heat and humidity load, housing stock age, grid behaviour, coastal salt exposure, tree debris and attic temperatures.",
+ "pillar": {
+  "slug": "houston-tx",
+  "name": "Houston",
+  "state": "Texas",
+  "stateAbbr": "TX",
+  "county": "Harris County",
+  "lat": 29.7604,
+  "lon": -95.3698,
+  "fullServiceCoverage": true,
+  "traits": {
+   "heat": "extreme-humid",
+   "humidity": "very-high",
+   "housing": "mixed-1920s-to-2010s",
+   "grid": "ercot-unstable-summer",
+   "debris": "cottonwood-and-mesquite",
+   "salt": "none",
+   "attic": "130-140f",
+   "note": "Gulf humidity puts more latent load on every system, and almost nothing in the city is built to handle the freeze events that do happen."
+  },
+  "areas": [
+   { "slug": "the-heights", "name": "The Heights" },
+   { "slug": "memorial", "name": "Memorial" },
+   { "slug": "westchase", "name": "Westchase" },
+   { "slug": "montrose", "name": "Montrose" },
+   { "slug": "uptown-galleria", "name": "Uptown / Galleria" },
+   { "slug": "sharpstown", "name": "Sharpstown" },
+   { "slug": "alief", "name": "Alief" },
+   { "slug": "spring-branch", "name": "Spring Branch" },
+   { "slug": "third-ward", "name": "Third Ward" },
+   { "slug": "energy-corridor", "name": "Energy Corridor" },
+   { "slug": "clear-lake", "name": "Clear Lake" },
+   { "slug": "downtown", "name": "Downtown" },
+   { "slug": "midtown", "name": "Midtown" },
+   { "slug": "river-oaks", "name": "River Oaks" },
+   { "slug": "meyerland", "name": "Meyerland" },
+   { "slug": "briar-forest", "name": "Briar Forest" }
+  ]
+ },
+ "cities": [
+  {
+   "slug": "katy-tx",
+   "name": "Katy",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Fort Bend and Harris Counties",
+   "lat": 29.785,
+   "lon": -95.969,
+   "population": 121000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "mostly-2000s-onward",
+    "grid": "ercot-unstable-summer",
+    "debris": "cottonwood-and-mesquite",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "Almost everything here was built after 2000, so the systems are young but the houses are large, west-facing and shaded by mature oaks that carpet the outdoor units with debris."
+   }
+  },
+  {
+   "slug": "sugar-land-tx",
+   "name": "Sugar Land",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Fort Bend County",
+   "lat": 29.6197,
+   "lon": -95.6349,
+   "population": 111000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1990s-to-2010s",
+    "grid": "ercot-unstable-summer",
+    "debris": "oak-and-pine",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "Large two-storey homes on generous lots, with the cooling load concentrated on the second floor where the air sits."
+   }
+  },
+  {
+   "slug": "pearland-tx",
+   "name": "Pearland",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Brazoria County",
+   "lat": 29.5636,
+   "lon": -95.286,
+   "population": 118000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1990s-to-2010s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "low",
+    "attic": "130-140f",
+    "note": "Newer homes in a fast-growing corner of the metro, close enough to the Gulf for salt to start dulling condenser fins."
+   }
+  },
+  {
+   "slug": "the-woodlands-tx",
+   "name": "The Woodlands",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Montgomery County",
+   "lat": 30.1028,
+   "lon": -95.4719,
+   "population": 114000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1980s-to-2000s",
+    "grid": "ercot-unstable-summer",
+    "debris": "heavy-pine-and-oak-canopy",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "Dense pine and oak canopy drops enough needles and leaf litter to clog a condenser coil within weeks, and the shade that protects the house also keeps the unit damp."
+   }
+  },
+  {
+   "slug": "spring-tx",
+   "name": "Spring",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Montgomery and Harris Counties",
+   "lat": 30.0799,
+   "lon": -95.4186,
+   "population": 83000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1970s-to-2000s",
+    "grid": "ercot-unstable-summer",
+    "debris": "heavy-oak-canopy",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "Mature oak canopy over homes that now need far more cooling than they did when they were built, so undersized systems from the 1970s are common."
+   }
+  },
+  {
+   "slug": "humble-tx",
+   "name": "Humble",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 30.0023,
+   "lon": -95.3122,
+   "population": 79000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1970s-to-2000s",
+    "grid": "ercot-unstable-summer",
+    "debris": "oak-and-pine",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "Homes sized for the 1970s air conditioning market, now running systems that were undersized on day one and are twenty years past due for replacement."
+   }
+  },
+  {
+   "slug": "cypress-tx",
+   "name": "Cypress",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.9691,
+   "lon": -95.6972,
+   "population": 90000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "2000s-onward",
+    "grid": "ercot-unstable-summer",
+    "debris": "oak-and-pine",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "The newest housing stock in the northwest corridor, built to current codes but with the same attic temperatures and the same load as everything else in Greater Houston."
+   }
+  },
+  {
+   "slug": "league-city-tx",
+   "name": "League City",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Galveston County",
+   "lat": 29.5075,
+   "lon": -95.0949,
+   "population": 106000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1980s-to-2010s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "high",
+    "attic": "130-140f",
+    "note": "Bay salt is the defining condition here, eating through condenser coatings and corroding the coil within a few coastal seasons if it is not rinsed."
+   }
+  },
+  {
+   "slug": "pasadena-tx",
+   "name": "Pasadena",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.6911,
+   "lon": -95.2091,
+   "population": 151000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1920s-to-1970s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "moderate",
+    "attic": "130-140f",
+    "note": "A very old housing stock on the Ship Channel side of the metro, downwind of the refining corridor, where the air itself is harder on outdoor equipment."
+   }
+  },
+  {
+   "slug": "missouri-city-tx",
+   "name": "Missouri City",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Fort Bend and Harris Counties",
+   "lat": 29.6186,
+   "lon": -95.5377,
+   "population": 76000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1990s-to-2010s",
+    "grid": "ercot-unstable-summer",
+    "debris": "oak-and-pine",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "A broad mix of tract housing from the 1990s and newer subdivisions, with the gulf-side humidity pushing cooling loads higher than the lot size suggests."
+   }
+  },
+  {
+   "slug": "friendswood-tx",
+   "name": "Friendswood",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.7055,
+   "lon": -95.2488,
+   "population": 41000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1970s-to-2000s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "moderate",
+    "attic": "130-140f",
+    "note": "Older ranch homes on mature lots near the bay, where shade is generous and the equipment still gets a salt spray from the south."
+   }
+  },
+  {
+   "slug": "alvin-tx",
+   "name": "Alvin",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Brazoria County",
+   "lat": 29.4213,
+   "lon": -95.2313,
+   "population": 27000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1970s-to-2000s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "high",
+    "attic": "130-140f",
+    "note": "Older south Brazoria housing within reach of the Gulf, where the combination of salt and deferred maintenance on 1980s equipment is the common failure story."
+   }
+  },
+  {
+   "slug": "manvel-tx",
+   "name": "Manvel",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Brazoria County",
+   "lat": 29.3956,
+   "lon": -95.2516,
+   "population": 23000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1980s-to-2010s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "high",
+    "attic": "130-140f",
+    "note": "Growth on top of older Brazoria lots, with the newest subdivisions sitting close enough to the coast that salt is already part of the maintenance picture."
+   }
+  },
+  {
+   "slug": "richmond-tx",
+   "name": "Richmond",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Fort Bend County",
+   "lat": 29.5516,
+   "lon": -95.7986,
+   "population": 16000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1950s-to-2000s",
+    "grid": "ercot-unstable-summer",
+    "debris": "oak-and-pine",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "A wide spread of older Fort Bend housing around a town centre that predates air conditioning, where a lot of the equipment still dates to the 1980s and 1990s."
+   }
+  },
+  {
+   "slug": "cinco-ranch-tx",
+   "name": "Cinco Ranch",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Fort Bend and Harris Counties",
+   "lat": 29.74,
+   "lon": -95.826,
+   "population": 74000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "2000s-onward",
+    "grid": "ercot-unstable-summer",
+    "debris": "oak-and-pine",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "Master-planned from the 2000s with large two-storey homes and zoned systems, where the second floor and the bonus rooms carry the cooling load."
+   }
+  },
+  {
+   "slug": "clear-lake-city-tx",
+   "name": "Clear Lake City",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.67,
+   "lon": -95.116,
+   "population": 31000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1960s-to-1980s",
+    "grid": "ercot-unstable-summer",
+    "debris": "heavy-pine-canopy",
+    "salt": "high",
+    "attic": "130-140f",
+    "note": "A planned community from the 1960s with deep pine stands and long-standing salt exposure, and with equipment that is at or past the age where replacement beats repair."
+   }
+  },
+  {
+   "slug": "bellaire-tx",
+   "name": "Bellaire",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.7005,
+   "lon": -95.3988,
+   "population": 17000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1940s-to-1970s",
+    "grid": "ercot-unstable-summer",
+    "debris": "oak-canopy",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "A square mile of 1940s to 1970s ranch houses on small lots, where the units are all roughly the same age and the work is mostly on equipment that has been sitting outside for fifty years."
+   }
+  },
+  {
+   "slug": "west-university-place-tx",
+   "name": "West University Place",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.732,
+   "lon": -95.443,
+   "population": 17000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1920s-to-1950s",
+    "grid": "ercot-unstable-summer",
+    "debris": "mature-oak-canopy",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "Some of the oldest housing stock in the western half of the city, on small lots under a heavy oak canopy, where access and duct routing matter as much as the repair."
+   }
+  },
+  {
+   "slug": "santa-fe-tx",
+   "name": "Santa Fe",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.193,
+   "lon": -95.11,
+   "population": 11000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1970s-to-2000s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "high",
+    "attic": "130-140f",
+    "note": "Close to the bay and to the industrial corridor on the south side, where summer air quality and salt are both part of the equipment environment."
+   }
+  },
+  {
+   "slug": "jersey-village-tx",
+   "name": "Jersey Village",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.887,
+   "lon": -95.563,
+   "population": 8800,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1950s-to-1980s-plus-apartments",
+    "grid": "ercot-unstable-summer",
+    "debris": "oak-and-pine",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "A dense mix of 1960s and 70s houses with apartment complexes, where condensate risers and shared rooftop equipment behave nothing like a single-family system."
+   }
+  },
+  {
+   "slug": "la-porte-tx",
+   "name": "La Porte",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.668,
+   "lon": -95.122,
+   "population": 33000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1950s-to-1990s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "high",
+    "attic": "130-140f",
+    "note": "An older industrial corridor town where the summer air carries both salt and industrial particulates, and the condenser coils show it."
+   }
+  },
+  {
+   "slug": "dickinson-tx",
+   "name": "Dickinson",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Galveston County",
+   "lat": 29.46,
+   "lon": -95.055,
+   "population": 19000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1980s-to-2010s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "high",
+    "attic": "130-140f",
+    "note": "Growing fast on the bay side, where new subdivisions sit beside 1980s housing and every outdoor unit inherits the same salt air."
+   }
+  },
+  {
+   "slug": "baytown-tx",
+   "name": "Baytown",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris County",
+   "lat": 29.735,
+   "lon": -95.9774,
+   "population": 78000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1940s-to-1980s",
+    "grid": "ercot-unstable-summer",
+    "debris": "coastal-oak",
+    "salt": "high",
+    "attic": "130-140f",
+    "note": "Heavy industry sitting on top of some of the oldest housing in the metro, with large lots and a lot of equipment that has simply been left in place."
+   }
+  },
+  {
+   "slug": "tomball-tx",
+   "name": "Tomball",
+   "state": "Texas",
+   "stateAbbr": "TX",
+   "county": "Harris and Montgomery Counties",
+   "lat": 30.113,
+   "lon": -95.656,
+   "population": 18000,
+   "traits": {
+    "heat": "extreme-humid",
+    "humidity": "very-high",
+    "housing": "1960s-to-2010s",
+    "grid": "ercot-unstable-summer",
+    "debris": "heavy-oak-canopy",
+    "salt": "none",
+    "attic": "130-140f",
+    "note": "An old rail town with new subdivisions growing around it, under pine and oak that keep the yards cool but keep the coils dirty."
+   }
+  }
+ ]
+}

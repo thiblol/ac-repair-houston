@@ -1,0 +1,484 @@
+[
+ {
+  "slug": "emergency-ac-repair",
+  "name": "Emergency AC Repair",
+  "nav": "Emergency",
+  "tier": "urgency",
+  "parent": "ac-repair",
+  "h1": "Emergency AC Repair, Answered Day and Night",
+  "kw": { "head": "emergency ac repair" },
+  "alsoTargets": [
+   { "k": "emergency ac repair near me" },
+   { "k": "24 hour ac repair" },
+   { "k": "ac repair open now" }
+  ],
+  "problem": "the temperature inside the house is climbing and so is the risk of a heat illness",
+  "symptoms": [
+   "Air is running but the house will not cool down",
+   "The outdoor unit is silent and the thermostat reads warm",
+   "The system shut off mid-afternoon and will not restart",
+   "Water or ice is around the outdoor unit after a storm",
+   "A burning smell when the system kicks on"
+  ],
+  "firstStep": "Set the thermostat to fan-only and open doors between rooms to move air. If the outdoor unit has stopped and you have a breaker panel, check the AC breaker once. Do not open the electrical compartment on the unit itself, and if you smell gas, leave the house and call the gas utility first.",
+  "priority": 1
+ },
+ {
+  "slug": "same-day-ac-repair",
+  "name": "Same Day AC Repair",
+  "nav": "Same Day",
+  "tier": "urgency",
+  "parent": "ac-repair",
+  "h1": "Same Day AC Repair, Booked This Morning",
+  "kw": { "head": "same day ac repair" },
+  "alsoTargets": [
+   { "k": "same day ac repair near me" },
+   { "k": "ac repair today" }
+  ],
+  "problem": "it is not a breakdown, but it cannot wait until next week",
+  "symptoms": [
+   "A unit that works but runs constantly and never catches up",
+   "One warm room in the house with the rest of it fine",
+   "An outdoor unit covered in cottonwood or mesquite debris",
+   "Loud rattling, hissing or grinding from the unit",
+   "A system that trips the breaker when it starts"
+  ],
+  "firstStep": "Call early in the day. Same-day slots fill by early afternoon in the Houston area, and an afternoon request usually becomes a next-day appointment anyway. Note what the outdoor unit says on the label, the model number and the year, so the technician does not have to guess on arrival.",
+  "priority": 2
+ },
+ {
+  "slug": "ac-not-cooling",
+  "name": "AC Not Cooling",
+  "nav": "Not Cooling",
+  "tier": "urgency",
+  "parent": "ac-repair",
+  "h1": "AC Not Cooling: What Is Actually Wrong",
+  "kw": { "head": "ac not cooling" },
+  "alsoTargets": [
+   { "k": "ac not cooling but running" },
+   { "k": "air conditioner runs but does not cool" },
+   { "k": "ac blowing warm air" }
+  ],
+  "problem": "the system is running, so it looks like it is working, and the house is still hot",
+  "symptoms": [
+   "Air blows from the vents but it is warm or room temperature",
+   "The thermostat is set to 72 and the house stays in the 80s",
+   "The outdoor unit runs continuously and never cycles off",
+   "Only some rooms are cool",
+   "The evaporator coil is frozen over and the fan has stopped"
+  ],
+  "firstStep": "Do not keep lowering the thermostat. If the indoor coil is frozen, dropping the setting makes the freeze worse. Turn the system off at the thermostat and let the coil thaw for a few hours, then try one cycle before you call. If it happens again within a day, the cause is mechanical and needs a technician on site.",
+  "priority": 3
+ },
+
+ {
+  "slug": "ac-repair",
+  "name": "AC Repair",
+  "nav": "AC Repair",
+  "tier": "core",
+  "parent": null,
+  "isPillar": true,
+  "h1": "AC Repair in Houston, Diagnosed Before It Is Repaired",
+  "kw": { "head": "ac repair" },
+  "alsoTargets": [
+   { "k": "ac repair near me" },
+   { "k": "ac repair houston" },
+   { "k": "local ac repair" }
+  ],
+  "problem": "something in the system has failed and guessing at it costs money twice",
+  "symptoms": [
+   "The system runs but does not cool the house",
+   "The outdoor unit will not start at all",
+   "The blower runs but the compressor does not",
+   "Water pooling under or around the outdoor unit",
+   "The system cycles on and off in short bursts"
+  ],
+  "firstStep": "Write down what the system does, not what you think is wrong. Whether the fan runs, whether the outdoor unit starts, and whether the breaker holds are the three facts that narrow the fault down before anyone opens a panel. That list shortens the diagnosis.",
+  "priority": 4
+ },
+ {
+  "slug": "ac-installation",
+  "name": "AC Installation",
+  "nav": "Installation",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "AC Installation, Sized for a Houston Home",
+  "kw": { "head": "ac installation" },
+  "alsoTargets": [
+   { "k": "new ac installation" },
+   { "k": "central air installation houston" }
+  ],
+  "problem": "there is no working system, or the current one cannot be saved",
+  "symptoms": [
+   "A home with no central air at all",
+   "An open addition, garage conversion or new build with no cooling",
+   "A replacement where the old unit is beyond economical repair",
+   "Rooms that stayed warm after a remodel or an addition"
+  ],
+  "firstStep": "Get a load calculation, not a tonnage number off a sales sheet. A Houston home with west-facing glass, a vaulted ceiling or a second story in the loop needs a different capacity than the same square footage in Sugar Land. A unit that is too large cycles short and never dehumidifies.",
+  "priority": 5
+ },
+ {
+  "slug": "ac-replacement",
+  "name": "AC Replacement",
+  "nav": "Replacement",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "AC Replacement When Repair Is Not the Answer",
+  "kw": { "head": "ac replacement" },
+  "alsoTargets": [
+   { "k": "replace my ac unit" },
+   { "k": "ac replacement cost houston" }
+  ],
+  "problem": "the system is old enough that repair money buys a few more hot months",
+  "symptoms": [
+   "The outdoor unit is past its service life",
+   "The refrigerant is a discontinued type and parts are hard to source",
+   "Repairs on the same unit keep recurring",
+   "The unit runs on a circuit that is already at its limit",
+   "The indoor coil and air handler are the same age as the condenser"
+  ],
+  "firstStep": "Find the refrigerant type listed on the outdoor unit nameplate before you shop. Older Houston systems run R-22, which is no longer produced for new systems and is priced accordingly. Knowing this in advance prevents the quote from changing once the old unit is pulled.",
+  "priority": 6
+ },
+ {
+  "slug": "ac-maintenance",
+  "name": "AC Maintenance",
+  "nav": "Maintenance",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "AC Maintenance and Tune-Up",
+  "kw": { "head": "ac maintenance" },
+  "alsoTargets": [
+   { "k": "ac tune up" },
+   { "k": "hvac maintenance houston" }
+  ],
+  "problem": "the unit works fine right up until the week it does not",
+  "symptoms": [
+   "The unit has not been serviced in two or more years",
+   "The system was barely used through a mild winter",
+   "The outdoor coil is dirty and the system runs long",
+   "Ductwork or filters were changed recently and performance changed with it",
+   "You want the unit checked before the hottest stretch of summer"
+  ],
+  "firstStep": "Change the filter first, and then see how the system behaves. A clogged filter is the most common reason a system that was fine becomes a same-day call. If the symptom does not change with a clean filter, the maintenance visit is worth booking.",
+  "priority": 7
+ },
+ {
+  "slug": "condenser-repair",
+  "name": "Condenser Repair",
+  "nav": "Condenser",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Condenser Repair for the Outdoor Unit",
+  "kw": { "head": "condenser repair" },
+  "alsoTargets": [
+   { "k": "outdoor unit not running" },
+   { "k": "ac condenser repair" }
+  ],
+  "problem": "the part outside is the one doing the hard work, and it is the one in the weather",
+  "symptoms": [
+   "The outdoor unit is humming but the compressor is not starting",
+   "The fan spins and blows but the unit never cools",
+   "The unit is running and there is a puddle of water under it",
+   "The cabinet is rusted through in coastal areas",
+   "The unit is loud when it starts and then shuts off"
+  ],
+  "firstStep": "Clear the debris off the coil and make sure the unit has clear airflow and is level. Do not hose the coil with a high-pressure wand, it bends the fins and makes the coil worse. Beyond that, condenser work is a technician job because it involves refrigerant and live electrical.",
+  "priority": 8
+ },
+ {
+  "slug": "compressor-repair",
+  "name": "Compressor Repair",
+  "nav": "Compressor",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Compressor Repair and Replacement",
+  "kw": { "head": "ac compressor repair" },
+  "alsoTargets": [
+   { "k": "compressor replacement" }
+  ],
+  "problem": "the pump at the center of the system has failed and everything downstream depends on it",
+  "symptoms": [
+   "The outdoor unit runs but no cooling reaches the house",
+   "The compressor is silent and the fan still spins",
+   "The unit trips its breaker right after starting",
+   "The compressor has been running continuously for days",
+   "There is a hum from the unit with no compressor sound"
+  ],
+  "firstStep": "Before replacing a compressor, find out why it failed. A failed compressor on a system with a dirty coil or a blocked condenser will take the new one with it. Ask specifically what the tech did to find the root cause, not just what part went in.",
+  "priority": 9
+ },
+ {
+  "slug": "refrigerant-leak-repair",
+  "name": "Refrigerant Leak Repair",
+  "nav": "Leak Repair",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Refrigerant Leak Repair and Recovery",
+  "kw": { "head": "ac refrigerant leak" },
+  "alsoTargets": [
+   { "k": "ac losing refrigerant" },
+   { "k": "freon leak repair" }
+  ],
+  "problem": "the system is losing the gas that makes it cold, and topping it up is not a repair",
+  "symptoms": [
+   "The system needs refrigerant every few months",
+   "The outdoor unit runs constantly but the house will not cool",
+   "There is an oily residue or a dark stain near a line or coil",
+   "The unit was low on gas a month after a service visit",
+   "You hear a hissing sound near the outdoor unit or the lines"
+  ],
+  "firstStep": "Ask for the leak to be located, not just for the system to be charged. Recovering refrigerant, finding the leak and repairing it are three separate jobs, and a recharge without a leak repair means the same call again in a few months.",
+  "priority": 10
+ },
+ {
+  "slug": "refrigerant-recharge",
+  "name": "Refrigerant Recharge",
+  "nav": "Recharge",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Refrigerant Recharge and Service",
+  "kw": { "head": "ac refrigerant recharge" },
+  "alsoTargets": [
+   { "k": "freon recharge" }
+  ],
+  "problem": "the charge is low and the system needs to be brought back to spec",
+  "symptoms": [
+   "The system is short on refrigerant and was told it needs a charge",
+   "A recently installed unit that is not cooling as expected",
+   "The blower runs and the compressor starts but the air is warm",
+   "The system was serviced elsewhere and behaviour changed afterward"
+  ],
+  "firstStep": "A proper recharge means measuring the charge, not eyeballing it, and checking superheat and subcooling to confirm the system is actually holding the right amount. That measurement is also what tells you whether the system is operating correctly or hiding a bigger fault.",
+  "priority": 11
+ },
+ {
+  "slug": "evaporator-coil-repair",
+  "name": "Evaporator Coil Repair",
+  "nav": "Evaporator Coil",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Evaporator Coil Repair and Cleaning",
+  "kw": { "head": "evaporator coil repair" },
+  "alsoTargets": [
+   { "k": "ac coil cleaning" },
+   { "k": "frozen evaporator coil" }
+  ],
+  "problem": "the coil inside the air handler is the part that actually makes the cold air",
+  "symptoms": [
+   "Water dripping from the ceiling or the air handler",
+   "A frozen coil and a fan that has stopped",
+   "Musty or sour air from every vent",
+   "A visible green or grey slime on the coil",
+   "Water pooling in the air handler pan"
+  ],
+  "firstStep": "A frozen coil is usually a airflow or refrigerant problem, not a coil problem. Cleaning a frozen coil and calling it fixed is the most common way this gets handled badly. Ask what is causing the freeze to come back.",
+  "priority": 12
+ },
+ {
+  "slug": "blower-motor-repair",
+  "name": "Blower Motor Repair",
+  "nav": "Blower Motor",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Blower Motor Repair",
+  "kw": { "head": "blower motor repair" },
+  "alsoTargets": [
+   { "k": "air handler blower motor" },
+   { "k": "furnace blower motor replacement" }
+  ],
+  "problem": "the motor that moves the air has failed and the house has no air at all",
+  "symptoms": [
+   "The thermostat says the system is on but nothing blows",
+   "A grinding, squealing or rattling noise from the air handler",
+   "The blower runs at one speed only and not at the other",
+   "The system works on the fan setting but not on cooling",
+   "The blower has started making a rasping sound"
+  ],
+  "firstStep": "A blower motor that is pulling too much current can take the capacitor and the motor together. If the motor is hot to the touch after a short run, stop using it. Ask whether the replacement includes the capacitor and the relay, which are the two cheap parts that usually go at the same time.",
+  "priority": 13
+ },
+ {
+  "slug": "hvac-electrical-repair",
+  "name": "HVAC Electrical Repair",
+  "nav": "Electrical",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "HVAC Electrical and Capacitor Repair",
+  "kw": { "head": "ac capacitor replacement" },
+  "alsoTargets": [
+   { "k": "ac blows fuse" },
+   { "k": "ac breaker trips" }
+  ],
+  "problem": "the fault is electrical, and electrical faults do not care what the refrigerant level is",
+  "symptoms": [
+   "The breaker trips when the system starts",
+   "The outdoor unit does not start and there is no sound",
+   "A humming outdoor unit that never kicks in",
+   "A scorch mark on a capacitor or contactor",
+   "The system works at one temperature setting and not another"
+  ],
+  "firstStep": "Do not keep resetting the breaker. If it trips again, leave it off. A tripped breaker on an AC unit is a short somewhere in the outdoor unit, and that needs a technician with the right meter and the training to work on live capacitors safely.",
+  "priority": 14
+ },
+ {
+  "slug": "condensate-drain-repair",
+  "name": "Condensate Drain Repair",
+  "nav": "Condensate",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Condensate Drain Repair",
+  "kw": { "head": "ac condensate drain" },
+  "alsoTargets": [
+   { "k": "ac dripping water" },
+   { "k": "water leaking from air handler" }
+  ],
+  "problem": "the water the system pulls out of the air has nowhere to go",
+  "symptoms": [
+   "Water dripping inside the house from the air handler",
+   "A puddle under the outdoor unit that is not rain",
+   "Water staining the ceiling below a vent",
+   "A musty smell that gets worse when the system runs",
+   "The unit shuts down and a warning light comes on"
+  ],
+  "firstStep": "If the drain is backed up, the pan float switch may have already shut the system down. Do not try to clear a drain line with a shop vac or a garden hose. Note where the water is coming from, since an attic unit and a unit in a closet fail differently and the water often travels before it shows.",
+  "priority": 15
+ },
+ {
+  "slug": "thermostat-installation",
+  "name": "Thermostat Installation",
+  "nav": "Thermostat",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Thermostat Installation and Replacement",
+  "kw": { "head": "thermostat installation" },
+  "alsoTargets": [
+   { "k": "smart thermostat install" },
+   { "k": "replace thermostat" }
+  ],
+  "problem": "a good system on a bad thermostat never performs the way it should",
+  "symptoms": [
+   "The system runs constantly and the house is still warm",
+   "The schedule on the thermostat is ignored",
+   "The thermostat needs replacing after a remodel",
+   "A smart thermostat that will not connect to the system",
+   "The thermostat is old and the wiring does not match"
+  ],
+  "firstStep": "Photograph the existing wires before anything is removed, and note which ones go to which terminal. Most thermostat problems in Houston homes are a mismatched wire set left from a previous install, and that photograph is what makes the swap quick.",
+  "priority": 16
+ },
+ {
+  "slug": "ductless-mini-split-installation",
+  "name": "Ductless Mini-Split Installation",
+  "nav": "Mini-Split Install",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Ductless Mini-Split Installation",
+  "kw": { "head": "ductless mini split installation" },
+  "alsoTargets": [
+   { "k": "mini split install houston" },
+   { "k": "ductless air conditioner installation" }
+  ],
+  "problem": "there is no ductwork to run and the rooms that need cooling have none",
+  "symptoms": [
+   "A room addition, garage or shop with no cooling",
+   "An older Houston home with no central air and no attic space for ducts",
+   "A second floor that is a different temperature from the first",
+   "A home where ductwork would mean opening finished walls",
+   "Multi-unit cooling planned room by room"
+  ],
+  "firstStep": "Find out whether there is a place for the outdoor unit that is out of direct sun and drains away from the house. In Houston, the condenser placement matters as much as the sizing, because a unit in the afternoon sun works far harder than one in shade.",
+  "priority": 17
+ },
+ {
+  "slug": "ductless-mini-split-repair",
+  "name": "Ductless Mini-Split Repair",
+  "nav": "Mini-Split Repair",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Ductless Mini-Split Repair",
+  "kw": { "head": "ductless mini split repair" },
+  "alsoTargets": [
+   { "k": "mini split not cooling" }
+  ],
+  "problem": "a head-mounted system is the only cooling in the room and it has stopped",
+  "symptoms": [
+   "The indoor head blows but does not cool",
+   "Water drips from the head onto the wall or floor",
+   "The outdoor unit is running but the head stays in fan only",
+   "A loud rattle or a whistling noise from the head",
+   "The head shows an error code"
+  ],
+  "firstStep": "Clean the filter and make sure the head is not obstructed. Mini-split heads in a Houston bedroom collect dust and pet hair quickly, and a blocked filter freezes the coil inside the head. If it is still not cooling after that, the error code on the head tells the technician where to start.",
+  "priority": 18
+ },
+ {
+  "slug": "heat-pump-repair",
+  "name": "Heat Pump Repair",
+  "nav": "Heat Pump",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Heat Pump Repair",
+  "kw": { "head": "heat pump repair" },
+  "alsoTargets": [
+   { "k": "heat pump not working" }
+  ],
+  "problem": "one system handles both heating and cooling, so a fault takes out both",
+  "symptoms": [
+   "The heat side runs but the cooling side does not",
+   "The system runs constantly in both directions",
+   "Ice on the outdoor unit in the warm months",
+   "The backup heat strip runs all the time",
+   "The system will not switch from heating to cooling"
+  ],
+  "firstStep": "Note whether the problem follows the mode. If cooling fails and heating still works, that points to the reversing valve and the refrigerant side. If both fail together, it usually points to a control or electrical fault. That distinction saves a lot of diagnostic time.",
+  "priority": 19
+ },
+ {
+  "slug": "commercial-ac-repair",
+  "name": "Commercial AC Repair",
+  "nav": "Commercial",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "Commercial AC Repair and Rooftop Units",
+  "kw": { "head": "commercial ac repair" },
+  "alsoTargets": [
+   { "k": "rooftop unit repair houston" },
+   { "k": "commercial hvac service" }
+  ],
+  "problem": "a building system serves a lot of people at once and the clock is the constraint",
+  "symptoms": [
+   "A rooftop unit that has shut down and will not restart",
+   "Tenant complaints that only some offices are hot",
+   "A chiller or cooling tower that is not keeping up",
+   "A building with no preventive maintenance schedule",
+   "Ice forming on a packaged rooftop unit"
+  ],
+  "firstStep": "Get the maintenance history before you call. On a commercial unit, the difference between a failed part and a failed system is usually a year of deferred filter changes. A contractor who reads the service log first is working from facts rather than symptoms.",
+  "priority": 20
+ },
+ {
+  "slug": "ac-cleaning",
+  "name": "AC Cleaning",
+  "nav": "Cleaning",
+  "tier": "core",
+  "parent": "ac-repair",
+  "h1": "AC Cleaning and Coil Service",
+  "kw": { "head": "ac cleaning" },
+  "alsoTargets": [
+   { "k": "air conditioner cleaning cost" },
+   { "k": "condenser coil cleaning" }
+  ],
+  "problem": "a dirty coil is the cheapest performance loss in the whole system",
+  "symptoms": [
+   "The outdoor coil is packed with leaves, lint or dust",
+   "The system runs long and never reaches setpoint",
+   "The indoor coil has visible grime on the fins",
+   "Water is dripping from the unit after it shuts down",
+   "The unit has not been cleaned since it was installed"
+  ],
+  "firstStep": "Look at the outdoor coil. If the fins are visibly packed with debris, a garden hose on a gentle setting and a soft brush will clear a surprising amount before anyone opens anything. Keep the unit clear of a shrub or a fence too, because a blocked condenser works far harder for the same result.",
+  "priority": 21
+ }
+]

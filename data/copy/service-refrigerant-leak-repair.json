@@ -1,0 +1,38 @@
+{
+  "intro": "Refrigerant does not wear out. If your system needs gas every few months, gas is leaving somewhere, and topping it back up without finding that spot means you pay for the same visit again. A leak repair is a hunt first and a fix second, and the hunt is where the time and the money go.",
+  "whatHappens": [
+    "Checks the obvious joints and fittings before pulling anything apart",
+    "Introduces tracer dye or uses an electronic sniffer to find the escape point",
+    "Pressurizes the suspected section with dry nitrogen to confirm the location",
+    "Repairs the leak with a fitting change, a brazed joint or a section of line",
+    "Evacuates the air, holds a vacuum to prove the leak is sealed, then recharges"
+  ],
+  "howPriced": "Cost here depends almost entirely on where the gas is escaping and how hard that spot is to reach. A leak at a service valve or a fitting is quick, while a pinhole in a buried line section means opening a wall or trenching. Parts, access, time of day, and whether the repair is a small joint or a rerun of the line set are the variables that set the number.",
+  "faqs": [
+    {
+      "q": "how much does it cost to find a freon leak",
+      "a": "It depends on where the leak is and how long it takes to find. A leak at a fitting can take a short visit. A leak in a line buried under a slab or inside a wall can take hours of searching and then real work to open it up. The cost of the hunt and the cost of the repair are usually quoted as two separate parts."
+    },
+    {
+      "q": "why does my AC need refrigerant every few months",
+      "a": "Because the refrigerant is escaping somewhere. Systems do not consume refrigerant on their own, it is a closed loop. If it has been topped up more than once in a year, there is a leak, and each top-up without finding it just buys you another few weeks of poor cooling."
+    },
+    {
+      "q": "can you just recharge it instead of finding the leak",
+      "a": "A recharge restores the charge. It does not stop the loss, so the system runs low again within weeks or months. The honest order of work is find the leak, repair it, then charge to the correct amount. Charging a leaking system means paying for the gas twice."
+    },
+    {
+      "q": "how do I know if my AC is leaking refrigerant",
+      "a": "Some signs you can look for yourself. Listen for a hissing near the outdoor unit or the lines, look for oily residue or a dark stain on a pipe or around a coil, and watch for the compressor running constantly without the house cooling. None of these pinpoints the leak, but they tell you it is worth having it checked."
+    },
+    {
+      "q": "is it bad to keep running an AC that is low on refrigerant",
+      "a": "Yes, over time. A starved compressor runs hot, works harder, and wears out faster than it should. You are also paying to run the system at its worst. The short answer is that a low system should be topped up only after the leak is found and fixed."
+    },
+    {
+      "q": "what does refrigerant recovery mean",
+      "a": "It means pulling the remaining refrigerant out of the system into proper containers before cutting into a line or changing a part. It has to be done by someone with the right equipment, both because the gas is under pressure and because releasing it to the air is regulated. Recovery is standard practice on any leak repair."
+    }
+  ],
+  "_faqsNote": "5 to 6 FAQs. Cost first. Use the phrasing a person types, not a marketer's phrasing."
+}

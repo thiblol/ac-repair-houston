@@ -1,0 +1,38 @@
+{
+  "intro": "Commercial cooling is not a bigger version of residential cooling. A building may be served by a rooftop unit over a bank of offices, a chiller feeding several floors of tenant space, or a cooling tower on a pad serving one wing, and when something fails the disruption lands on the tenants who work in that space, so access, timing, and the service history matter as much as the part. Requests go to a company that covers your area, and it reads the maintenance log before anyone opens a panel.",
+  "whatHappens": [
+    "Review the service history and the filter change log for the equipment",
+    "Identify which zone and which tenants are affected by the outage",
+    "Check filters, coils, belts, and the refrigerant charge on the affected unit",
+    "Test the rooftop unit, chiller, or cooling tower and read the control fault",
+    "Confirm the space is back on temperature before closing the call"
+  ],
+  "howPriced": "Commercial pricing is shaped by the building rather than the part. Access on a roof or in a plant room, the size of the unit, and whether a crane or a second person is needed all change the labor, after hours work carries a different rate than a daytime service call, and a maintenance agreement may or may not cover it. Deferred filter changes and a missed coil cleaning over a year of neglect add real repair scope, so the age of the unit and the length of the last service both matter, and whether the fix is a repair or the replacement of a major component is often the biggest swing in the number.",
+  "faqs": [
+    {
+      "q": "How much does commercial AC repair cost?",
+      "a": "It depends on the system, the access, and when the work happens. A rooftop unit on a building with no roof access costs more than the same repair in a ground level plant room. After hours calls carry a different rate than daytime work. Get the diagnosis and the scope in writing before anything starts."
+    },
+    {
+      "q": "How do I stop my tenants complaining about the heat?",
+      "a": "Start with which spaces are actually hot rather than the whole building. One suite running warm often means a damper, a zone control, or a fan issue, not a failed unit. Document the temperature, the time, and the unit that serves that space. That record makes the call faster and the diagnosis sharper."
+    },
+    {
+      "q": "Do I need a service contract for my rooftop unit?",
+      "a": "Not required, but it changes the arithmetic. A contract usually covers scheduled maintenance and discounted labor, and it does not always cover refrigerant, parts, or after hours work. Ask specifically what is included and what is billed at cost."
+    },
+    {
+      "q": "How often should a commercial rooftop unit be serviced?",
+      "a": "Filters need attention on a schedule the building size determines, and the coils and belts need a technician on a regular cycle. Skipping the filter changes is the most common cause of a unit that never holds temperature. The schedule should match the equipment and the number of occupants, not a generic calendar."
+    },
+    {
+      "q": "What is the difference between a chiller and a rooftop unit?",
+      "a": "A rooftop unit makes conditioned air and puts it directly into the space it serves. A chiller makes chilled water, which is then pumped through a building distribution system to air handlers in each zone. That is why a chiller fault can affect several floors at once while one rooftop unit affects only its own."
+    },
+    {
+      "q": "Can the building stay open during repairs?",
+      "a": "Usually yes. Most work on a single unit can be done without taking the building down, and even a chiller issue often only affects the zones fed by that equipment. Any shutdown has to be planned around the tenants in the affected areas."
+    }
+  ],
+  "_faqsNote": "6 FAQs. Cost first. Written for a building owner or property manager rather than a homeowner, and framed around tenant impact."
+}

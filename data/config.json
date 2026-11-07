@@ -1,0 +1,41 @@
+{
+  "brand": "AC Repair Houston",
+  "domain": "acrepairhouston.example",
+  "origin": "https://acrepairhouston.example",
+  "domainConfirmed": false,
+  "_domainNote": "PLACEHOLDER. RFC 2606 reserved .example TLD, so it can never point at a real third party while the site is in staging. Set domain + origin here AND domainConfirmed to true once the real domain is purchased and DNS is pointed at the host. Every canonical, sitemap URL, og:url and schema @id is derived from origin, so this one value plus the two in data/config.json is the whole swap.",
+  "positioning": {
+    "type": "rank-and-rent lead generation, operator not yet assigned",
+    "weAre": "a free service that matches Houston-area AC problems with independent HVAC companies that cover that area",
+    "weAreNot": "an AC repair contractor, and not a business with a physical location in any Houston-area city",
+    "howWeMakeMoney": "HVAC companies we refer pay us a referral fee. The request is free to the homeowner.",
+    "neverClaim": [
+      "a street address or a walk-in location",
+      "that we are licensed, bonded, insured or certified, until a real license number is on file",
+      "a review count, star rating, award or testimonial we cannot attribute",
+      "years in business, jobs completed, installs performed, or a number of technicians",
+      "a specific arrival time, price, or that anyone is standing by",
+      "a phone number we have not been given and verified"
+    ]
+  },
+  "disclosure": "AC Repair Houston is a free referral service. We are not an AC repair contractor. Your request is passed to independent HVAC companies that cover your area, and those companies pay us a referral fee.",
+  "conversion": {
+    "endpoint": "/api/leads",
+    "status": "pending",
+    "_statusNote": "status is pending until the /api/leads handler exists at the edge (Cloudflare Worker, Netlify Function or equivalent). While pending, the request form renders in an honest not-yet-active state and the submit control is disabled, rather than pretending a submission worked. Set status to active once the handler is deployed and tested."
+  },
+  "theme": {
+    "ink": "#141210",
+    "paper": "#F6F3EE",
+    "surface": "#FFFFFF",
+    "sunk": "#F0EBE3",
+    "line": "#E4DED4",
+    "cool": "#0B5FD1",
+    "coolDark": "#0A4CA8",
+    "coolWash": "#E8F0FC",
+    "heat": "#D6401F",
+    "heatDark": "#B0321A",
+    "heatWash": "#FDEDE9",
+    "ok": "#1B7F4D"
+  }
+}

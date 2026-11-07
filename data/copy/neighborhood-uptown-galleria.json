@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Uptown / Galleria, Houston",
+  "title": "AC Repair Uptown / Galleria, Houston | AC Repair Houston",
+  "description": "High-rise and mixed-use towers where the cooling is rooftop chillers and shared systems, and condo interiors where the indoor unit sits in a closet.",
+  "intro": "Cooling in this part of Houston is mostly not a single-family condenser sitting in a side yard. Much of it is rooftop equipment, chillers and shared systems that serve an entire tower, and the work is a different discipline from a residential call. Inside the units, the fan coil often lives in a closet off the hallway, which sets its own limits on access and on what can be changed.",
+  "localAngle": "This is a high-rise and mixed commercial and residential district, so the equipment is shared. Rooftop units, chillers and cooling towers serve whole stacks of floors rather than one household, and a fault in that equipment shows up as several tenants complaining at once instead of one house being warm. Condo interiors add a second problem: the indoor coil and fan coil are usually behind a closet door in a finished hallway, where access is narrow and every duct connection is in a space that was never sized to be opened up.",
+  "commonCalls": [
+    "Several units on different floors of the same tower reporting the same problem at once",
+    "A rooftop unit that trips or will not restart after a storm",
+    "A fan coil in a hallway closet dripping into the corridor or onto the floor",
+    "Tenant spaces that swing from cold to warm depending on when the chillers run",
+    "Condensate lines on a tower that drain slowly because the pan has scaled up"
+  ],
+  "landmarks": [
+    "The Galleria",
+    "Uptown Grove",
+    "Chase Tower",
+    "River Oaks Shopping Center",
+    "Post Oak Boulevard",
+    "Westheimer Road",
+    "Greenway Plaza"
+  ],
+  "faqs": [
+    {
+      "q": "My whole floor is hot but the rest of the building is fine. What is likely wrong?",
+      "a": "In a tower with shared plant, the fault is usually in the branch that serves that floor, not the whole system. That could be a zone valve that has failed shut, a duct connection that has separated, or a fan coil that has tripped its own breaker. The building's maintenance records and the tenant improvement drawings for that floor will tell the technician where to start."
+    },
+    {
+      "q": "How is rooftop equipment different from a house condenser?",
+      "a": "A rooftop unit or chiller handles a far larger load, sits on a roof that bakes all afternoon, and feeds a network of ducts and chilled water lines rather than one set of registers. A residential condenser is a single machine with a coil and a fan. The service access, the safety requirements and the diagnostic instruments are different, and the technician who works on them needs the ones that match."
+    },
+    {
+      "q": "The indoor unit is behind a closet door. Can it still be repaired?",
+      "a": "In most cases yes, but access is what drives the work. A fan coil in a finished hallway closet often sits in a space barely wider than the unit, with the drain line and the coil already boxed in. The technician will need to know the closet dimensions and how the unit was installed before quoting anything, because getting a replacement into a tight closet is sometimes the whole job."
+    },
+    {
+      "q": "Who should I call about a chiller problem in a building?",
+      "a": "For equipment serving more than one unit, the building or property manager normally handles it, since the chiller, the cooling tower and the rooftop units are building systems. If you are the manager or owner, request commercial service and give the technician the equipment tag, the fault history and the recent service logs. If you are a tenant, the property manager is the right first call, because they control access to the mechanical spaces."
+    }
+  ]
+}

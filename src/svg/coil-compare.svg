@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" role="img">
+  <rect width="1200" height="700" fill="#F0EBE3"/>
+
+  <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#6E655B" letter-spacing="3">
+    <text x="56" y="58">THE COIL, PACKED AND CLEAN</text>
+  </g>
+
+  <!-- dirty coil -->
+  <g>
+    <rect x="70" y="120" width="460" height="400" rx="8" fill="#FFFFFF" stroke="#141210" stroke-width="4"/>
+    <g stroke="#4A443D" stroke-width="4">
+      <path d="M110 170H490M110 230H490M110 290H490M110 350H490M110 410H490M110 470H490"/>
+    </g>
+    <!-- debris mat -->
+    <g fill="#6E655B" opacity="0.92">
+      <path d="M110 190c40-14 70 16 104 4s54-20 90-6 76 24 108 6 62-14 78-2v22c-30-10-56 14-92 6s-58-20-96-4-66 18-98 6-62-18-94-6z"/>
+      <path d="M110 250c46 16 74-14 112-2s52 24 92 8 70-22 100-4 58 18 86 4v24c-34 12-58-12-96-2s-60 18-98 4-60-22-100-6-64 16-96 2z" opacity="0.85"/>
+      <path d="M110 310c40 18 72-12 106 0s56 22 96 6 66-20 100-2 62 16 88 4v24c-32 10-56-14-92-4s-62 16-98 2-56-20-96-4-68 14-104 0z" opacity="0.78"/>
+      <path d="M110 370c44-16 76 14 110 2s54-22 94-8 72 22 100 4 60-16 86-2v22c-32-10-54 14-90 4s-58-20-96-6-64 18-96 6-60-18-98-4z" opacity="0.7"/>
+    </g>
+    <!-- leaves and twigs -->
+    <g fill="none" stroke="#4A443D" stroke-width="3" stroke-linecap="round">
+      <path d="M160 200c22-14 44-8 58 10"/>
+      <path d="M300 340c26-10 50-2 62 18"/>
+      <path d="M400 430c18-16 40-14 54 2"/>
+    </g>
+    <g fill="#D6401F" opacity="0.8">
+      <ellipse cx="150" cy="272" rx="26" ry="12" transform="rotate(-18 150 272)"/>
+      <ellipse cx="368" cy="216" rx="24" ry="11" transform="rotate(22 368 216)"/>
+      <ellipse cx="262" cy="438" rx="22" ry="10" transform="rotate(-8 262 438)"/>
+    </g>
+    <text x="300" y="566" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#B0321A" letter-spacing="3">PACKED</text>
+    <text x="300" y="602" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#6E655B">Cottonwood, mesquite, dust and salt</text>
+  </g>
+
+  <!-- clean coil -->
+  <g>
+    <rect x="670" y="120" width="460" height="400" rx="8" fill="#FFFFFF" stroke="#141210" stroke-width="4"/>
+    <g stroke="#0B5FD1" stroke-width="4">
+      <path d="M710 170H1090M710 230H1090M710 290H1090M710 350H1090M710 410H1090M710 470H1090"/>
+    </g>
+    <g stroke="#4A443D" stroke-width="1.2" opacity="0.45">
+      <path d="M710 170H1090M710 230H1090M710 290H1090M710 350H1090M710 410H1090M710 470H1090"/>
+    </g>
+    <!-- airflow through -->
+    <g fill="none" stroke="#0B5FD1" stroke-width="4" stroke-linecap="round" opacity="0.85">
+      <path d="M690 200H1110M690 260H1110M690 320H1110M690 380H1110M690 440H1110"/>
+    </g>
+    <g fill="#0B5FD1">
+      <path d="M1116 190l22 12-22 12z" transform="rotate(180 1127 202)"/>
+      <path d="M1116 250l22 12-22 12z" transform="rotate(180 1127 262)"/>
+      <path d="M1116 310l22 12-22 12z" transform="rotate(180 1127 322)"/>
+      <path d="M1116 370l22 12-22 12z" transform="rotate(180 1127 382)"/>
+      <path d="M1116 430l22 12-22 12z" transform="rotate(180 1127 442)"/>
+    </g>
+    <text x="900" y="566" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#0A4CA8" letter-spacing="3">CLEAN</text>
+    <text x="900" y="602" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#6E655B">Fin spacing open, air moves freely</text>
+  </g>
+
+  <!-- divider -->
+  <path d="M600 100V540" stroke="#DED7CE" stroke-width="3" stroke-dasharray="8 8"/>
+
+  <!-- bottom note -->
+  <g>
+    <rect x="70" y="628" width="1060" height="52" rx="6" fill="#E4DED4"/>
+    <text x="600" y="662" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#141210" letter-spacing="2">A PACKED COIL DROPS HEAD PRESSURE, SO THE SYSTEM RUNS LONGER AND DELIVERS LESS</text>
+  </g>
+</svg>

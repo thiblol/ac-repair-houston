@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img">
+  <rect width="1200" height="800" fill="#F0EBE3"/>
+
+  <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#6E655B" letter-spacing="3">
+    <text x="56" y="60">READING THE GAUGES BEFORE AND AFTER</text>
+  </g>
+
+  <!-- manifold gauges -->
+  <g>
+    <rect x="430" y="120" width="340" height="54" rx="8" fill="#141210"/>
+    <rect x="452" y="174" width="296" height="26" rx="6" fill="#3A322A"/>
+
+    <!-- low side gauge -->
+    <g>
+      <circle cx="500" cy="330" r="120" fill="#FFFFFF" stroke="#141210" stroke-width="4"/>
+      <circle cx="500" cy="330" r="100" fill="none" stroke="#DED7CE" stroke-width="2"/>
+      <g stroke="#4A443D" stroke-width="3" stroke-linecap="round">
+        <path d="M500 240v18M500 402v18M410 330h18M572 330h18M436 266l13 13M551 381l13 13M564 266l-13 13M449 381l-13 13"/>
+      </g>
+      <g stroke="#0B5FD1" stroke-width="5" stroke-linecap="round">
+        <path d="M500 330L452 268"/>
+      </g>
+      <circle cx="500" cy="330" r="12" fill="#141210"/>
+      <text x="500" y="492" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="20" fill="#0A4CA8" letter-spacing="2">LOW SIDE</text>
+      <text x="500" y="522" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#6E655B">SUCTION</text>
+    </g>
+
+    <!-- high side gauge -->
+    <g>
+      <circle cx="700" cy="330" r="120" fill="#FFFFFF" stroke="#141210" stroke-width="4"/>
+      <circle cx="700" cy="330" r="100" fill="none" stroke="#DED7CE" stroke-width="2"/>
+      <g stroke="#4A443D" stroke-width="3" stroke-linecap="round">
+        <path d="M700 240v18M700 402v18M610 330h18M772 330h18M636 266l13 13M751 381l13 13M764 266l-13 13M649 381l-13 13"/>
+      </g>
+      <g stroke="#D6401F" stroke-width="5" stroke-linecap="round">
+        <path d="M700 330L756 252"/>
+      </g>
+      <circle cx="700" cy="330" r="12" fill="#141210"/>
+      <text x="700" y="492" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="20" fill="#B0321A" letter-spacing="2">HIGH SIDE</text>
+      <text x="700" y="522" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#6E655B">DISCHARGE</text>
+    </g>
+  </g>
+
+  <!-- hoses down to the unit -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M500 450C500 540 470 570 400 596" stroke="#0B5FD1" stroke-width="10"/>
+    <path d="M700 450C700 540 730 570 800 596" stroke="#D6401F" stroke-width="10"/>
+  </g>
+
+  <!-- unit -->
+  <g>
+    <rect x="290" y="596" width="620" height="130" rx="8" fill="#FFFFFF" stroke="#141210" stroke-width="4"/>
+    <g stroke="#DED7CE" stroke-width="3">
+      <path d="M330 620v82M360 620v82M390 620v82M420 620v82M450 620v82M480 620v82M510 620v82M540 620v82M570 620v82M600 620v82M630 620v82M660 620v82M690 620v82M720 620v82M750 620v82M780 620v82M810 620v82M840 620v82M870 620v82"/>
+    </g>
+    <text x="600" y="580" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="19" fill="#141210" letter-spacing="2">CONDENSING COIL</text>
+  </g>
+
+  <!-- callout -->
+  <g>
+    <rect x="60" y="200" width="270" height="180" fill="#FFFFFF" stroke="#141210" stroke-width="3" rx="4"/>
+    <text x="195" y="244" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#141210" letter-spacing="2">WHY IT MATTERS</text>
+    <text x="195" y="286" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6E655B">A charge is a number, not a</text>
+    <text x="195" y="312" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6E655B">feeling. Superheat and</text>
+    <text x="195" y="338" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6E655B">subcooling are what confirm</text>
+    <text x="195" y="364" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6E655B">the system is right.</text>
+  </g>
+
+  <g>
+    <rect x="880" y="200" width="270" height="180" fill="#FFFFFF" stroke="#141210" stroke-width="3" rx="4"/>
+    <text x="1015" y="244" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#B0321A" letter-spacing="2">RECHARGE IS NOT</text>
+    <text x="1015" y="274" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#B0321A" letter-spacing="2">A REPAIR</text>
+    <text x="1015" y="316" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6E655B">Adding gas to a leaking</text>
+    <text x="1015" y="342" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6E655B">system buys a few weeks</text>
+    <text x="1015" y="368" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#6E655B">and hides the fault.</text>
+  </g>
+</svg>

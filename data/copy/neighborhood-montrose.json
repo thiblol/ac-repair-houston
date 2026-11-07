@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Montrose, Houston",
+  "title": "AC Repair Montrose, Houston | AC Repair Houston",
+  "description": "Houses from the 1920s through the 50s mixed with 60s and 70s builds and later infill, under a dense oak and pecan canopy on small lots.",
+  "intro": "Montrose has no single housing era. A 1920s cottage on a narrow lot sits beside a 1960s build and a newer infill house, and each one carries whatever equipment was installed at the time. Cooling that was added decades after the house was framed does not always match the ductwork that came with it.",
+  "localAngle": "Most of the older stock here dates from the 1920s through the 1950s, with 1960s and 1970s houses mixed in and newer infill filling the gaps between them. The lots are small, so the outdoor unit often ends up in a side passage where a shrub has been allowed to grow right up against the coil. Dense oak and pecan cover shades the block and drops debris through the season. Where a house has been reworked over the decades, the cooling equipment inside is a mix of original parts and later additions that were never designed to work together.",
+  "commonCalls": [
+    "Two systems on one house that were never matched to each other",
+    "An outdoor unit wedged into a side passage with a shrub pressed against the coil",
+    "Ductless heads installed in a 1930s cottage with no attic to run duct through",
+    "A compressor that quits in the afternoon after a decade of long runs",
+    "Rooms that heat up fast because the insulation and glass are original to the house"
+  ],
+  "landmarks": [
+    "Westheimer Road",
+    "Montrose Boulevard",
+    "Richmond Avenue",
+    "West Alabama Street",
+    "Vanderbilt Street",
+    "Hermann Park",
+    "The Menil Collection"
+  ],
+  "faqs": [
+    {
+      "q": "My house has two different AC systems. Do they have to work together?",
+      "a": "Not physically, but they need to be able to cover the house together. When one half of the house is cooled by a system installed in the 1960s and the other by a ductless head added in the 2010s, the thermostat that controls them may not be the same. The technician should verify what each thermostat actually commands before assuming the fault is in the equipment."
+    },
+    {
+      "q": "Is a shrub touching the outdoor unit actually causing problems?",
+      "a": "It blocks airflow across the coil and across the fan discharge. On a small Montrose lot, that clearance can be only a few inches once a plant has grown in, and the difference shows up as longer run times and a warmer discharge line. Trimming back from the coil restores the rating the unit was built to."
+    },
+    {
+      "q": "Do older Montrose houses need a different cooling approach?",
+      "a": "Often they do. Where there is no attic and no chase, adding ducted central air means cutting into a structure that was not designed for it. Ductless heads, a high-velocity system in an existing closet, or a carefully planned replacement with minimal duct changes are the options the technician will weigh against each other."
+    },
+    {
+      "q": "How much does the tree canopy affect a system here?",
+      "a": "The canopy does two opposite things. It shades the house and cuts down on solar gain, which helps. It also drops leaves and catkins onto the coil through the spring and summer, which reduces the unit's ability to reject heat. Regular coil cleaning is the part that is easy to forget on a shaded block."
+    }
+  ]
+}

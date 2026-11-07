@@ -64,12 +64,69 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
 
-<!-- BEGIN:nextjs-agent-rules -->
+# AC Repair Houston
 
-# This is NOT the Next.js you know
+A rank-and-rent lead generation site for AC repair across Houston and Greater
+Houston. Static site generator, zero runtime dependencies. `data/` holds the
+content, `src/` holds the generator, `npm run build` writes plain HTML to
+`dist/`.
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
+Read `docs/PROJECT-BRIEF.md` and `docs/HANDOFF.md` before changing anything.
 
-This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
+## Never invent a fact about this business
 
-<!-- END:nextjs-agent-rules -->
+This site is a referral service with no operator, no premises, no phone number
+and no Google Business Profile. The build enforces this, and so must you.
+
+- No phone number, not even a placeholder. Every call to action points at the
+  request form.
+- No street address, no map, no storefront, no `LocalBusiness` schema, no `geo`.
+- No review counts, star ratings, awards, job counts, years in business,
+  response-time promises, or prices.
+- No claim that this business employs technicians, or that it is licensed,
+  bonded, certified or insured.
+- No Google Business Profile, and no hint that one exists. A lead-generation
+  property with no operator is not eligible.
+- No specific HVAC company, product brand, or technician by name.
+
+`data/config.json` lists what may never be claimed. The build fails on any of
+it, but only if you do not also fix the copy.
+
+## The copy is the product
+
+Every page's prose lives in exactly one file in `data/copy/`. The generator
+never invents a sentence.
+
+- Copy is written **per page**, not templated with the area name swapped. An
+  automated audit fails the build if two same-type pages are more than 15
+  percent similar on 8-gram word overlap.
+- Area pages carry real, checkable local conditions: housing stock era, coastal
+  salt exposure, tree debris, attic temperatures, grid behaviour. The build
+  fails if a page contradicts its own traits in `data/areas.json`.
+- No em dashes anywhere. No `$` followed by a digit.
+- Write like a technician explaining something to a homeowner whose house is
+  too hot. Short sentences, concrete, no marketing voice.
+
+## The build gates are the point
+
+`npm test` must pass before anything ships. It runs the source checks, the copy
+audit self-test, and a clean build. The build fails on a missing copy file, a
+banned claim, a duplicated page, a local fact contradiction, a heading
+structure problem, a missing alt text, an undefined CSS class, an orphan page,
+or a dangling link.
+
+Do not weaken a gate to make a build pass. Fix the copy.
+
+## Adding things
+
+- A new service: entry in `data/services.json`, a `data/copy/service-{slug}.json`,
+  and a `services` block in each area copy file that should carry it.
+  `npm run check` reports missing and unused blocks.
+- A new area: entry in `data/areas.json` with its traits, a
+  `data/copy/area-{slug}.json`, and a rebuild. Links, sitemap and nav pick it up.
+- A new page type: a template in `src/templates.mjs`, a builder in
+  `src/build.mjs`, and the SEO gate in `src/build.mjs` will check it.
+
+Non-Houston areas carry six services. Houston is the pillar market and carries
+all of them. Widening that produces near-duplicate pages, which is the failure
+mode the whole copy-audit system exists to prevent.

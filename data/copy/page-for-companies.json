@@ -1,0 +1,33 @@
+{
+  "intro": "If you run an HVAC company in the Houston area, this page sets out what a request from this site contains and how it reaches you. Homeowners come here to find a company that covers their street. They do not pay for the referral. You do.",
+  "sections": [
+    {
+      "h": "What a request contains",
+      "p": "When somebody fills in the form, the request carries the fields they filled in: their name, their phone number, their email address if they chose to give one, the service area they picked, the kind of work they asked for, and a short description of the problem in their own words. There is no account attached to it and nothing they had to sign. The description is short and practical. People write what the outdoor unit is doing, whether the vents blow warm air, whether the breaker holds, and what they have already tried."
+    },
+    {
+      "h": "How a request reaches you",
+      "p": "A request is passed to the company or companies covering the area the homeowner selected. We do not run an auction and we do not pass a request to anyone who has not agreed to work that area. When we set up your listing we will tell you exactly how a request arrives, before any of them are sent, and you will see the same fields the homeowner filled in."
+    },
+    {
+      "h": "The homeowner has already agreed to be contacted",
+      "p": "They filled in this form because they want somebody to get back to them. Submitting it means they have agreed to be contacted about their request, so a first call about the job is expected and welcome. You are not cold calling. You are the company they asked to hear from. What they did not agree to is anything beyond that, so do not treat the contact details as permission to send marketing, and do not pass them to anybody else."
+    },
+    {
+      "h": "Who pays the referral fee",
+      "p": "The referral fee is paid by the company, never by the homeowner. The homeowner pays the company for the work. We do not add a referral charge to the homeowner's bill and we do not pass the fee on to them as a fee. The fee itself, and the terms around it, are handled with you directly and in writing before your listing goes live."
+    },
+    {
+      "h": "What makes a good listing here",
+      "p": "A good listing says plainly which parts of the metro you cover and which jobs you take, so a request for an area you cannot reach never reaches you. It names the kinds of work you handle, from emergency calls to same day repairs to maintenance, so the right request reaches the right desk. It keeps a current Air Conditioning Contractors license on file and lets us confirm it. It tells homeowners honestly what a service call includes and how you charge, in your own words. It stays current, because an out of date service area sends you work you cannot take."
+    },
+    {
+      "h": "What we ask of you",
+      "p": "Answer the phone. Be ready to ask about the equipment, because the description comes from somebody who does not know what they have. Turn down work you cannot take and say so plainly rather than letting it sit. Give the homeowner a written estimate before you start, in your own company name. Use the details you receive only for the job they asked about."
+    },
+    {
+      "h": "What we will not do",
+      "p": "We will not sell a homeowner's details to marketing lists and we will not use them to run advertising. We will not promise you a number of requests, a cost or a timetable, because we do not control how many requests come in or which company takes them. We will not publish comparisons between companies, and we will not publish anything about your business that you have not approved."
+    }
+  ]
+}

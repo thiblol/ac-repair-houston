@@ -1,0 +1,162 @@
+{
+  "intro": "The downtown courthouse square in Richmond sits on ground that was a town centre before central air was normal in Fort Bend County. Around it is a wide spread of housing from the 1950s to the 2000s, and a large share of the systems out there are original installs from the 1980s and 90s that have had very little done to them.",
+  "localAngle": "The equipment around Richmond is old in a way. It went in when the housing stock was smaller, when nobody was sealing a house as tightly, and when the sizing rules were looser. Gulf humidity has not changed, so the latent load on those units is well above what they were specified for, and they run long and hard to keep up. Many of those homes have an addition, a converted garage or a room off the back that was never on the original duct plan. Oak and pine litter on the outdoor units adds to it, and the attic in an uninsulated 1950s house does nothing to help.",
+  "commonCalls": [
+    "Original 1980s and 90s systems on houses that have been extended without touching the ductwork",
+    "Units running constantly because the system was sized for a smaller, drier house",
+    "R-22 systems that need refrigerant on homes around the courthouse square",
+    "Coils packed with oak and pine litter on lots with mature trees",
+    "Same-day calls on systems that trip a breaker when the compressor starts"
+  ],
+  "landmarks": [
+    "the downtown Richmond courthouse square",
+    "Highway 59",
+    "Fort Bend Parkway",
+    "Greatwood",
+    "the Brazos River",
+    "FM 723",
+    "Richmond Brazos Nursing",
+    "Cottonwood Creek",
+    "Memorial Oaks",
+    "Bridle Gate"
+  ],
+  "faqs": [
+    {
+      "q": "How old is the AC in a typical Richmond house?",
+      "a": "A lot of them are original. Homes in and around the town centre were built between the 1950s and the 1980s, and the unit that went in with the house is often still the unit in the yard. A large share of those systems run on R-22, which is no longer made for new systems."
+    },
+    {
+      "q": "Why does my Richmond AC run all day without getting the house cool?",
+      "a": "The system is probably doing what it was built to do, in conditions it was not built for. Units from the 1980s were sized for a smaller house with less moisture in the air. Gulf humidity puts a bigger load on it, so it runs long and holds temperature only loosely."
+    },
+    {
+      "q": "I added a bedroom. Does the AC reach it?",
+      "a": "Not unless the ducts were extended. Additions and garage conversions are the most common reason one part of a Richmond house is warm and the rest is fine. It is a duct sizing and airflow question, not a refrigerant one."
+    },
+    {
+      "q": "Does the Fort Bend County climate affect these old systems?",
+      "a": "Yes. The combination of heat and heavy humidity is harder on a marginal system than heat alone. The unit has to remove water as well as heat, and a system that was undersized for the original house has no margin for either."
+    },
+    {
+      "q": "Is Richmond prone to power outages in the summer?",
+      "a": "It is on the ERCOT grid, so demand-driven outages happen during the hottest afternoon and early evening hours. Not every house has the same exposure, but it is part of the cooling plan for anyone without a system that can coast on a cold tank."
+    }
+  ],
+  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Emergency calls here tend to involve equipment that is old enough that a fault is a real breakdown rather than a nuisance. The HVAC company we connect you with covers Fort Bend County, so the request goes straight to the technician who takes the job.",
+      "localNote": "The units that lock out on a July afternoon here were sized for a house with fewer rooms and drier air. Humidity pushes the load up until the compressor gives up, and a 1990s system with a decade of no service behind it has little margin left. The split that matters is between a charge problem and a compressor problem, because one is a part and the other is a conversation about replacing the system.",
+      "faqs": [
+        {
+          "q": "Can an old unit be fixed in an emergency?",
+          "a": "It depends on what failed. A relay, capacitor or contactor is a straightforward part. A failed compressor on an R-22 system is usually the point where replacement makes more sense, and the technician will say so plainly."
+        },
+        {
+          "q": "What can I do at home before the technician gets there?",
+          "a": "Move the air with the fan setting, open doors between rooms and close blinds on the sun side. If the system has stopped and you know where the AC breaker is, check it once. Do not open the outdoor unit's electrical compartment."
+        },
+        {
+          "q": "Is an outage related failure common here?",
+          "a": "It happens in the hottest weeks when the grid cannot carry the load. A unit that stops during an outage and does not restart when the power returns is usually a lockout condition or a capacitor, not a refrigerant problem."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "same-day-ac-repair": {
+      "intro": "The same-day calls around Richmond are frequently about a system that runs constantly and never quite gets there. That is a diagnostic question, and it can often be resolved in a single visit.",
+      "localNote": "These houses are old enough that a same-day visit commonly turns into several findings at once: a coil that has not been cleaned in years, an air filter that was never changed, a refrigerant charge that has drifted, and ductwork that does not reach the addition somebody built in the 1990s. The technician who takes the job sorts those into what is stopping it now and what is going to fail next.",
+      "faqs": [
+        {
+          "q": "How do I get same-day service in Richmond?",
+          "a": "Request it early. Same-day slots fill through the morning across the Houston area. Have the model number off the outdoor unit and a note of what the system does when it misbehaves, because that is what gets the diagnosis moving."
+        },
+        {
+          "q": "My unit runs constantly. Is that normal for an older system?",
+          "a": "It is common but not right. A system that never reaches the thermostat setting is working at its limit, and it will keep running until something gives out. There is usually a reason it cannot catch up, and it is findable."
+        },
+        {
+          "q": "Should I get a tune-up in the same visit?",
+          "a": "It makes sense to ask. If the technician is already in the attic and at the outdoor unit, checking the coil, the filter and the refrigerant is a small addition to the call. It also gives you a record of what the system looked like before it failed."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-not-cooling": {
+      "intro": "Warm air from a running system is the most common confusion out here, and the old equipment around Fort Bend makes it harder to sort out quickly. The company that covers this area checks airflow, charge and refrigerant type before recommending anything.",
+      "localNote": "A system from the 1980s loses charge slowly over a decade, and refrigerant that is not quite right shows up as a system that runs and runs without ever satisfying the thermostat. Add an attic full of oak and pine litter on the condenser and the unit is working against itself. The technician measures superheat and subcooling to decide whether the fault is gas, airflow or control.",
+      "faqs": [
+        {
+          "q": "Why does my AC blow warm air when the outside unit is running?",
+          "a": "That usually means the system is low on refrigerant or the compressor is not moving heat properly. It can also mean a dirty condenser is running so hot the whole cycle slows down. Measuring the charge and checking the coil tells you which."
+        },
+        {
+          "q": "Can a recharge fix it?",
+          "a": "Only if the leak is also repaired. Adding gas to a system that is losing it buys a few weeks. If the technician finds a leak and repairs it, the system holds the charge it should."
+        },
+        {
+          "q": "Why does the thermostat say the system is off?",
+          "a": "Some older systems have low-voltage control wiring that gets brittle and intermittent, and some have a transformer that fails. The thermostat reads the switch, not the machine, so it can report off while the equipment is running."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-repair": {
+      "intro": "Richmond repair work is mostly about systems that have been in service for a very long time. The fault matters, but the condition of everything around the fault matters more, and that is what a good diagnosis is for.",
+      "localNote": "The common pattern here is an original install, on a house that has been modified, with a system that has never been properly maintained. An addition off the back changes the load, an old refrigerant type changes the parts story, and twenty-five years of coastal humidity changes the coil and the cabinet. Diagnosing the failure without looking at those three things leads to replacing parts in a system that was never going to hold up.",
+      "faqs": [
+        {
+          "q": "Is it worth repairing a system from the early 1990s?",
+          "a": "If the compressor is sound and the refrigerant is still available, often yes. If the air handler is the same age and the ductwork does not reach the addition, no. The condition of the whole install decides, not the age on its own."
+        },
+        {
+          "q": "What should the technician check first?",
+          "a": "The refrigerant type on the nameplate, the condition of the outdoor coil and cabinet, the static pressure in the duct system, and the charge. Those four answers narrow the fault down faster than guessing at parts."
+        },
+        {
+          "q": "How do I stop the same failure repeating?",
+          "a": "Ask what caused the failure rather than what was replaced. A compressor that failed because the coil was packed will take the new compressor with it unless the coil gets cleaned."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-installation": {
+      "intro": "There is a steady need for cooling systems in this part of Fort Bend, both in homes that have never had one and in the houses that need a second one. Sizing matters more here than most, because the humidity is doing extra work on the system.",
+      "localNote": "A 1950s or 60s house in Richmond is a harder install than a new one: the attic may be low, the joists may be tight, the electrical service may be original and there may be a crawl space instead of a slab. Cooling a converted garage or a shop out back is a separate calculation from cooling the house, and the humidity load means the unit needs the headroom.",
+      "faqs": [
+        {
+          "q": "Can a 1960s Richmond house get central air?",
+          "a": "Yes, usually. The attic access, the joist spacing and the electrical service are the three things that get looked at. Duct routing is often the part that takes the most planning in a house that was framed for a different era."
+        },
+        {
+          "q": "Do I need a bigger unit because of the humidity?",
+          "a": "Not simply bigger. The calculation accounts for the moisture in the air as well as the heat, and a properly sized system handles both. A unit that is oversized for the sensible load will short cycle and leave the house humid, which is worse than being slightly undersized."
+        },
+        {
+          "q": "What about cooling a garage or a workshop?",
+          "a": "A ductless head or a small dedicated unit handles a space like that better than extending the central system. It also avoids running the main ducts at full flow for a room that is only used sometimes."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-replacement": {
+      "intro": "When a system is original, on discontinued refrigerant and no longer reliable, the case for replacement gets clearer every year. The technician who inspects it can tell you whether the indoor side is worth keeping.",
+      "localNote": "A 1990s Richmond system is very likely on R-22, which is no longer produced for new systems and is priced accordingly, and the outdoor cabinet has been through twenty-five years of Fort Bend humidity. That is the easy half of the decision. The harder half is the ductwork, because a replacement that pushes more air through undersized ducts to a converted garage will be noisy and uneven.",
+      "faqs": [
+        {
+          "q": "How do I know if it is time to replace?",
+          "a": "Look for the pattern: repeated calls on the same system, a refrigerant type that is discontinued, an indoor unit the same age as the outdoor one, and ductwork that does not serve the whole house. Two or three of those together and replacement is usually the sensible route."
+        },
+        {
+          "q": "What refrigerant will the new system use?",
+          "a": "New systems use R-410A or R-454B. Knowing what the old unit used before you compare quotes keeps the comparison honest, because the old refrigerant type affects the price of the work."
+        },
+        {
+          "q": "Should the ductwork be redone at the same time?",
+          "a": "If the house has been extended and the rooms are still not served properly, doing it together makes sense. If the ducts are original but the right size for the main house, they can stay. The technician can check the static pressure and tell you."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    }
+  }
+}

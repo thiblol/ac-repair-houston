@@ -1,0 +1,158 @@
+{
+  "intro": "A lot of the houses here were standing before the air conditioner became standard, and the equipment bolted to the side of many of them has been outside ever since. That age, plus the industrial air that drifts in off the Ship Channel, is why so many summer calls in this part of Harris County are about systems that will not hold their charge and cabinets that are corroding through.",
+  "localAngle": "The oldest homes here were framed and shaded before anyone ran ductwork, and many got a system bolted on in the 1960s and never had another look. Air drifting off the Ship Channel refining corridor is dirtier than most, and it settles on condenser fins and screens, shortening the life of gear that was already old. Coastal oak adds its litter to the same units. Nothing fails here because of a bad install. It fails because the same box has been weathering for fifty years.",
+  "commonCalls": [
+    "1970s installs that lock out in the afternoon heat and need a refrigerant or capacitor",
+    "Coil and fin cleaning on outdoor units blackened by refinery-side air",
+    "Replacing the first-generation system in houses that got central air added decades late",
+    "Duct sizing checks on 1940s and 50s homes with attic conversions",
+    "Thermostat swaps where the wiring was changed by a previous owner"
+  ],
+  "landmarks": [
+    "Main Street Pasadena",
+    "the 610 and 45 interchange",
+    "Ship Channel",
+    "the University of Houston",
+    "Pasadena ISD",
+    "Strawberry Park",
+    "Pasadena Memorial Park",
+    "South Main",
+    "Red Bluff",
+    "the Museum of the Texas Gulf Coast"
+  ],
+  "faqs": [
+    {
+      "q": "Why does my Pasadena air conditioner stop cooling in the middle of a hot afternoon?",
+      "a": "The oldest equipment in this part of Harris County was sized for homes that did not have the sunroom, den conversion or added bedrooms they have now. When the load goes up and the unit is already running hard, refrigerant pressure climbs and the compressor can shut down. A technician who finds that will tell you whether it is a charge problem, an airflow problem, or a unit that has simply reached the end of its life."
+    },
+    {
+      "q": "Is the air around Pasadena hard on outdoor units?",
+      "a": "The Ship Channel refining corridor sits to the east, and the prevailing summer wind carries a fine mix of particulates and salt inland. That dust packs into condenser fins and cuts airflow. It does not kill a system on its own, but it shortens the life of one that is already old."
+    },
+    {
+      "q": "My Pasadena house was built in the 1940s and never had central air. What happens now?",
+      "a": "Most of those homes got a duct system added in the 1970s or 1980s, often with a unit that was undersized for the finished square footage. Some of those systems ran on R-22, which is no longer made for new systems. A load calculation is the first thing worth paying for, because a replacement has to be sized for the house as it is now, not as it was."
+    },
+    {
+      "q": "How much salt is there in Pasadena compared to the bay?",
+      "a": "Less than Clear Lake City or La Porte, but not zero. Any unit within a few miles of the water will see salt on the coil and on the fasteners. Rinsing the coil with a garden hose twice a year and wiping the cabinet down keeps corrosion from starting."
+    },
+    {
+      "q": "Do coastal oaks cause problems for AC units here?",
+      "a": "They do. Oak leaf litter and catkins mat down on the condenser and block airflow across the fins. Combined with the dust coming off the Ship Channel, a neglected outdoor unit can lose a lot of its capacity to a buildup of debris you cannot see from the fence."
+    }
+  ],
+  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Most emergency calls here land on the hottest afternoon of the week, when an old outdoor unit finally gives up under a load it was never sized for. The HVAC company we connect you with covers Pasadena and handles the request directly, so the work goes to the technician who takes the job.",
+      "localNote": "The equipment in the older half of Pasadena is first-generation, often on a house that grew after the install. Those units were sized for fewer warm rooms and an attic with less insulation. When they lock out on a July afternoon, the fault is usually a charge, a capacitor or a compressor that has been cooking in refinery-side air for decades.",
+      "faqs": [
+        {
+          "q": "What is the most common emergency in Pasadena?",
+          "a": "A system that ran all morning and quit in the middle of the afternoon, usually on 1970s equipment that was already working hard. The outdoor unit is hot, the house climbs fast, and the air stops moving within an hour."
+        },
+        {
+          "q": "Can I fix a locked out unit myself?",
+          "a": "You can check the AC breaker once and switch the system to fan only, which moves air without running the compressor. Do not open the electrical compartment on the outdoor unit itself. If the breaker holds and the unit still will not start, it needs a technician."
+        },
+        {
+          "q": "Does the refinery-side air make emergencies more likely?",
+          "a": "Not directly, but it wears the parts faster. Dust loading on the condenser reduces airflow, the unit runs hotter, and components that would have lasted a few more years fail instead."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "same-day-ac-repair": {
+      "intro": "Not every call is a breakdown. Here it is often a system that works but never catches up, running through the afternoon without bringing the house down to temperature. Same-day work in Pasadena usually goes to a company already running the southeast Harris County routes, which is why calling early matters.",
+      "localNote": "Pasadena has a wide housing spread, and the same-day calls often come from the 1950s and 60s homes where a unit from the 1970s has been patched together over the years. A short-notice visit here is usually a coil cleaning, a relay and capacitor, or a refrigerant leak search on an old R-22 system, and the diagnosis takes longer than the repair.",
+      "faqs": [
+        {
+          "q": "How do I get same-day AC service in Pasadena?",
+          "a": "Send the request early in the day. Same-day slots in the Houston area fill by early afternoon, and a request made at mid-morning is the one that gets a same-day technician. Have the model number and the year off the outdoor unit label ready."
+        },
+        {
+          "q": "Is the unit on my Pasadena home worth repairing if it is from the 1970s?",
+          "a": "Sometimes. If the cabinet is sound and the compressor has not failed, a relay, capacitor or contactor is a small job. If the coil is rusted through and the refrigerant type is discontinued, the money is better spent on a replacement."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-not-cooling": {
+      "intro": "Air moving but not cooling is the most confusing symptom a homeowner can describe, and it is common here because so much of the housing stock has older equipment running older refrigerants. The company that covers this area checks airflow, charge and refrigerant type before anyone talks about replacing anything.",
+      "localNote": "In Pasadena the usual reason a system runs and blows warm air is an old first-generation install that has lost its charge, combined with a condenser packed with oak litter and refinery dust. A dirty coil alone will not cause this. Low charge plus a coil that cannot shed heat will, and the unit runs nonstop without ever satisfying the thermostat.",
+      "faqs": [
+        {
+          "q": "Why is my Pasadena AC running but blowing warm air?",
+          "a": "A running system with warm air usually means the refrigerant is low or the compressor is not pulling its share of the work. On older installs here, a dirty condenser adds to it by making the unit too hot to pull down the temperature. The technician checks charge and airflow together."
+        },
+        {
+          "q": "Should I lower the thermostat if the air is warm?",
+          "a": "No. If the indoor coil is iced over, dropping the setting makes the freeze worse and can damage the line set. Turn the system off at the thermostat and let the coil thaw before trying another cycle."
+        },
+        {
+          "q": "How much do the salt and dust here affect how well the system cools?",
+          "a": "They affect airflow on the outdoor coil, which is where the heat gets dumped. A blocked or dirty coil runs hotter and pressures up, which makes the whole system less efficient in a place where summer humidity already asks a lot of the equipment."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-repair": {
+      "intro": "The work here is diagnostic more than mechanical. Plenty of Pasadena systems are old enough that the first guess is usually wrong, and the fix depends on what the gauges read rather than on what the symptom sounds like.",
+      "localNote": "Pasadena housing runs from 1920s bungalows to 1970s tract houses, so the same symptom has different causes on different streets. On the older side the trouble is a first-generation system running a discontinued refrigerant in a cabinet that has sat in salt and refinery dust for decades. On the newer side it is an ordinary equipment failure on a house that was added to after the unit went in.",
+      "faqs": [
+        {
+          "q": "Why do you check before you repair?",
+          "a": "Because the symptom lies. A system that blows warm air can be low on charge, have a dirty coil, a failed compressor or a control problem, and the first two cost very different amounts. Measuring first keeps the repair from being wrong twice."
+        },
+        {
+          "q": "Is my Pasadena AC worth repairing if it is old?",
+          "a": "Age alone does not decide it. What decides it is the condition of the compressor, the cabinet and the refrigerant type, plus whether the ducts can move the air a replacement would need. The technician who looks at it can tell you which category it falls into."
+        },
+        {
+          "q": "What should I have ready before the visit?",
+          "a": "The model number and year from the outdoor unit label, and a note of what the system does when it fails. Does the fan run, does the outdoor unit start, does the breaker hold. Those three facts shorten the diagnosis."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-installation": {
+      "intro": "A lot of the installation work here is a second system, not a first. Homes that never had central air, or that gained a room, are getting equipment sized for the house as it stands now rather than as it was built.",
+      "localNote": "Adding air to a Pasadena house from the 1940s or 50s means an attic that was never insulated for it and joists that were not framed to carry a duct run. The load calculation has to account for the finished square footage and the afternoon gain through old single-pane windows. A crawl space house and a slab house need different plans, and neither takes a tonnage number off a sales sheet.",
+      "faqs": [
+        {
+          "q": "Can I put central air in a 1940s Pasadena home?",
+          "a": "Usually yes. The attic space and the electrical service are the two things that get examined first. Duct routing has to avoid the framing, and the electrical panel may need a circuit added for the outdoor unit."
+        },
+        {
+          "q": "How big should the unit be for my Pasadena house?",
+          "a": "By load calculation, not by square footage alone. The calculation looks at the roof and wall area, the glass, the insulation and the heat that comes in during a peak afternoon. A unit that is too large cycles short and never pulls the humidity out."
+        },
+        {
+          "q": "Does the refinery-side air affect a new installation?",
+          "a": "Not the sizing. It affects where the outdoor unit goes and how often the coil gets rinsed. A location with good airflow and some distance from a fence or shrub keeps the unit's output higher."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-replacement": {
+      "intro": "A large share of the systems here have reached the point where a repair buys a season and a replacement buys ten years. The question is rarely emotional. It is what the refrigerant type and the cabinet condition say about the unit you already have.",
+      "localNote": "Replacement decisions here come down to what is on the nameplate. A 1970s unit is likely on R-22, discontinued for new systems and priced accordingly, and its cabinet has been sitting in salt air since the neighborhoods west of Beltway 8 were cleared. Knowing the refrigerant before anyone quotes removes the surprise later.",
+      "faqs": [
+        {
+          "q": "How do I know if my Pasadena AC needs replacing?",
+          "a": "Look at the outdoor unit and the air handler together. If both are the same age and the same original install, and the refrigerant is discontinued, replacement is usually the sensible route. If only the condenser failed and the indoor equipment is newer, a repair may still make sense."
+        },
+        {
+          "q": "What refrigerant does my old unit use?",
+          "a": "Check the nameplate on the side of the outdoor unit. Units from the 1970s and 80s commonly use R-22. Newer systems use R-410A or R-454B. Write down what it says before you start comparing options."
+        },
+        {
+          "q": "Is it worth replacing a working system in an old Pasadena house?",
+          "a": "It depends on how much of the original install is still in place. If the ductwork is sound and the air handler still has life, replacing just the outdoor side can be the middle path. The technician who inspects it can show you which parts are original."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    }
+  }
+}

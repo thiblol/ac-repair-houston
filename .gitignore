@@ -3,13 +3,11 @@
 /.pnp
 .pnp.*
 
+# build output
+/dist
+
 # testing
 /coverage
-
-# next.js
-/.next/
-/out/
-/build
 
 # misc
 .DS_Store
@@ -23,9 +21,6 @@ yarn-error.log*
 .env*
 !.env*.example
 
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
+# editors
+.vscode
+.idea

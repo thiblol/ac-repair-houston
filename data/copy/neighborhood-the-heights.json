@@ -1,0 +1,42 @@
+{
+  "h1": "AC Repair in The Heights, Houston",
+  "title": "AC Repair The Heights, Houston | AC Repair Houston",
+  "description": "Pier-and-beam cottages, narrow lots and window-unit retrofits in Houston's oldest housing. Cooling problems here start with where the equipment fits.",
+  "intro": "The Heights has the oldest housing stock in Houston, and the cooling equipment problems come out of that age. A 1920s pier-and-beam cottage has no attic to run ducts through, so cooling got added in pieces over decades and the pieces rarely match each other. A technician working here is solving a design problem as much as a repair.",
+  "localAngle": "Most houses here date from the 1920s through the 1940s and sit on narrow lots, under a mature street canopy of oak and elm that drops leaf litter onto every outdoor unit. Pier-and-beam and raised cottages have no attic space at all, so central air came later, sometimes as a ductless head in the back bedroom and sometimes as window units in each room. Mechanical areas are tight, and the roof gets almost no shade, so the air handler works harder through July and August.",
+  "commonCalls": [
+    "Window units that run but never cool the room they sit in",
+    "Ductless heads added to old houses, freezing or dripping onto the wall",
+    "A condenser buried in oak leaf litter in a narrow side yard",
+    "Cooling added in stages, with the back of the house a different temperature from the front",
+    "Units that trip the breaker when old wiring is loaded up"
+  ],
+  "landmarks": [
+    "19th Street",
+    "Heights Boulevard",
+    "Yale Street",
+    "Market Street",
+    "Westmoreland Street",
+    "Sawyer Yards",
+    "Lakewood Park",
+    "Heights Senior High School"
+  ],
+  "faqs": [
+    {
+      "q": "My Heights house has no central air. What are my options?",
+      "a": "Most houses from the 1920s and 1940s were built before central air was normal, and the raised and pier-and-beam cottages have no attic space for ductwork. A ductless mini-split handles a single zone without opening walls, and a full system can run its line set in a chase or through the slab. The HVAC company we connect you with can look at the house and tell you which route the space actually allows."
+    },
+    {
+      "q": "Why does my window unit run but leave the room hot?",
+      "a": "A window unit cools the space it sits in and dumps most of the heat it pulls out back into that same space. On a west-facing wall in August it runs constantly and still does not win. Moving it out of direct sun, or replacing it with something that moves air across the whole room, usually does more than cleaning it."
+    },
+    {
+      "q": "Is the leaf litter on my outdoor unit really a problem?",
+      "a": "Yes. The canopy over these streets is heavy, and a packed coil cannot move heat. That means longer run times, higher power draw and a compressor working harder than it should. Keep the coil clear and the unit has a better chance of making it through the season."
+    },
+    {
+      "q": "My house is one cool room and three warm rooms. What does that mean?",
+      "a": "In houses where cooling was added in stages, the newer zone usually handles one part of the house and the rest depends on old window units or a system sized for a smaller footprint. It is common to see a place that cools well in the front and stays hot in the back. A load calculation plus a look at the duct or line set layout tells you whether the fix is balancing or redoing it."
+    }
+  ]
+}

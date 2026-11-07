@@ -1,0 +1,162 @@
+{
+  "intro": "Sugar Land is full of two-storey houses on big lots, and the second floor is where the heat problems live. Upstairs bedrooms hit their setpoint late and sometimes never do it at all. Oak and pine litter collects on the outdoor units, and the Gulf humidity keeps everything damp for months on end.",
+  "localAngle": "The cooling load here is stacked. With two full floors and a high ceiling in the living space, the system has to move air through more volume than a ranch of the same square footage. That is why duct design matters, and why a system that was fine when the ground floor was the only conditioned space starts short-cycling after a second-floor remodel. Ducts routed through an attic sitting at 130 to 140 degrees lose a good part of their air temperature before it reaches a vent. Oak and pine debris on the coil adds to it. There is no salt to fight here, only humidity and heat.",
+  "commonCalls": [
+    "Upstairs bedrooms stay warm while the downstairs is at setpoint",
+    "System short-cycles and never settles on the second floor",
+    "Outdoor unit buried under pine needles and oak leaves",
+    "Air handler in the attic with a sweating condensate line",
+    "Blower sounds strained and the airflow feels thin at the vents"
+  ],
+  "landmarks": [
+    "First Colony",
+    "Sugar Land Town Center",
+    "Fort Bend Parkway",
+    "Highway 59",
+    "Greatwood",
+    "Colony Creek",
+    "Brazos Bend State Park",
+    "Staffordshire",
+    "Sugar Lakes",
+    "Avalon Oaks"
+  ],
+  "faqs": [
+    {
+      "q": "Why is the second floor warmer than the first in Sugar Land?",
+      "a": "The house is built in two layers and the upstairs is at the end of the duct run. It also sits where the heat collects, under the roof and above the living space. If the system was sized when the ground floor was the only conditioned space, it will not have the capacity for the second floor as it is used now. A load calculation settles the question."
+    },
+    {
+      "q": "Does my Sugar Land home need a bigger unit because it has two floors?",
+      "a": "Square footage and floor count are inputs to the calculation, not the calculation itself. Two storeys, high ceilings and a lot of glass in a humid climate push the number up. So does a unit that is too large, because it cycles short and never dehumidifies. Both directions are wrong, so the calculation decides."
+    },
+    {
+      "q": "Is there salt damage on outdoor units in Sugar Land?",
+      "a": "No. Sugar Land is well inland from the bay, so the coastal corrosion that shortens condenser life in Galveston County does not reach here. What does reach here is humidity, which weeps on the cabinet and rusts the base pan, and leaf litter, which blocks the coil. Neither is the same problem as salt, and neither needs the same treatment."
+    },
+    {
+      "q": "Where is the AC unit and why does that matter?",
+      "a": "In a two-storey home the air handler is usually up in the attic or in a closet off the second floor. An attic handler pulls in return air at 130 to 140 degrees, which makes the coil work harder and makes the whole system feel short of air. A closet unit gets much better air, which is worth knowing before anyone recharges anything."
+    },
+    {
+      "q": "My AC runs all day and never catches up. What is going on?",
+      "a": "Three local factors stack up. The coil outside may be packed with pine needles and oak leaves. The system may be too small for the finished space above. And the attic heat means the air arrives warmer than it should. The technician who takes the job works through those in order, starting with the cheapest to check."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Local conditions used: two-storey load, attic unit temperatures, pine and oak debris, and the absence of coastal salt inland.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "An upstairs that will not cool in a Fort Bend summer is an emergency even when the unit is technically still running. We pass the request to the company that covers your part of Fort Bend County and let them handle the fault on site. The first question is always whether the system can move enough air to cool a two-storey house at all.",
+      "localNote": "Second-floor calls here need more than a quick condenser check. If the fault is a compressor that has locked down, the upstairs is going to climb while the technician works. If the fault is a blower motor in an attic unit, the whole house waits on it. Sugar Land's two-storey layouts mean the repair priority is usually the part that affects the most rooms, and the technician should say which that is before they start.",
+      "faqs": [
+        {
+          "q": "How urgent is a broken AC if only the upstairs is affected?",
+          "a": "In a two-storey house the upstairs is where the heat gets trapped, so it climbs fast and stays hot overnight. That makes it more urgent than the same fault on a single floor. The other question is whether the blower is running, because an attic unit that has stopped moves no air anywhere in the house."
+        },
+        {
+          "q": "What if the power is out at my Sugar Land house during a heat wave?",
+          "a": "Shut off the AC at the thermostat so the unit is not trying to restart on a dead supply, and leave the breaker off until power is restored and stable. When power comes back, the unit may sit in a lockout and need a reset at the outdoor unit. Tell the company you connect with that the power went out, because it changes what they check first."
+        },
+        {
+          "q": "The outdoor unit is silent but air is still blowing. What does that mean?",
+          "a": "The blower is running and the compressor is not. The system is moving room temperature air around the house with no cooling at all. Leave it running if you want the air movement, but it will not get cooler. That is a compressor, contactor or capacitor fault and it needs a technician."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: stacked two-storey heat, attic air handler failure, and an ERCOT-era power interruption."
+    },
+    "same-day-ac-repair": {
+      "intro": "Most same-day work in Sugar Land is a system that runs and runs but never quite gets the house cool. That points at airflow, a dirty coil or a system that is too small for the floors it has to serve. The technician who takes the job should check static pressure and clean the coil before quoting a part.",
+      "localNote": "Pine needles are the local signature here. Sugar Land sits under mature pines and oaks, and the needles mat together into a blanket that seals the coil face. Fine at first, then the condenser runs hot and the compressor works overtime for very little cooling. A same-day visit that starts with a coil clean and a rinse of the coil pan can turn a running-not-cooling complaint into a system that hits setpoint.",
+      "faqs": [
+        {
+          "q": "Why is a morning request better for same-day AC work in Sugar Land?",
+          "a": "Same-day work depends on where the technician already is that morning, and Fort Bend County is a long drive from many of the shops. A request that arrives in the afternoon usually becomes a next-day appointment instead. Calling early gives the request the best chance of landing the same day."
+        },
+        {
+          "q": "What does a running-but-not-cooling system here usually need?",
+          "a": "The coil clean is the usual first step, because pine needles and oak leaves pack into the fins rather than sitting on top of them. After that the charge gets read and the amp draw checked. If the system still will not hold setpoint with a clean coil, the sizing question comes up and the visit gets longer."
+        },
+        {
+          "q": "Does the attic air handler need cleaning too?",
+          "a": "If the handler is in the attic, the return filter there handles air that has been at 130 to 140 degrees. It loads up faster than a filter in a conditioned closet, and a restricted return starves the coil the same way a blocked condenser starves it outside. The attic side gets looked at, not just the outdoor unit."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: pine needle matting, attic return filters, and how a request gets scheduled in Fort Bend County."
+    },
+    "ac-not-cooling": {
+      "intro": "When the thermostat is set to 72 and the second floor sits in the 80s, the fault is usually in the air path, not the refrigerant. Sugar Land houses are large enough that a marginal system shows the weakness upstairs first. Checking airflow, coil condition and the refrigerant charge in that order usually finds it.",
+      "localNote": "Two-storey homes put the second floor at the end of the duct run, so any restriction shows up there first. A partly blocked coil cuts airflow enough to freeze the indoor coil, and the freeze is then read as a refrigerant problem. Meanwhile the condenser outdoors is under needles and oak leaves, so it cannot reject heat either. Both sides are restricted. Diagnostic work has to check both.",
+      "faqs": [
+        {
+          "q": "My AC is running but the upstairs is still hot. Is it a refrigerant leak?",
+          "a": "Rarely. What is far more common here is a supply problem that the thermostat cannot see. The unit is delivering air to a space it cannot reach, the static pressure climbs, and the coil ices over. A frozen coil blows warm air that looks exactly like a gas problem. The technician checks airflow before anyone opens a valve."
+        },
+        {
+          "q": "Why does my indoor coil freeze in Sugar Land?",
+          "a": "Airflow first. A clogged filter, a kinked return or a tight duct run cuts the air the coil gets. Then the attic heat pushes the load up. When the coil gets colder than the dew point it ices, the fan stops and the air goes warm. Switch the system off at the thermostat and let the coil thaw rather than turning the thermostat down."
+        },
+        {
+          "q": "Does a bigger unit fix an upstairs cooling problem?",
+          "a": "Not on its own. If the duct system cannot move enough air, a larger unit makes the static pressure worse and the coil will freeze sooner. The duct design and the sizing have to be answered together. That is why the diagnosis comes before the quote here."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: stacked duct runs, attic return air, and how a freeze reads as a refrigerant fault."
+    },
+    "ac-repair": {
+      "intro": "The systems in this part of Fort Bend County are mostly 1990s and 2000s installs, so faults show up as parts rather than as a dead machine. Capacitors, contactors, blower motors and leaking braze joints are the everyday list. We connect you with a company covering Fort Bend County so the diagnosis happens on your equipment, not from a symptom list.",
+      "localNote": "Homes here were built when two-stage systems were still rare and the outdoor unit was often set in a side yard where the fence traps moisture. Salt is not a factor inland. What does shorten equipment life is the damp and the leaf litter. A twenty-year-old condenser sitting in wet shade under oaks will corrode at the base and the connections long before the refrigerant side gives out.",
+      "faqs": [
+        {
+          "q": "How old is the average AC system in Sugar Land?",
+          "a": "Most of the housing in these neighborhoods went up between the mid-1990s and the 2010s, so the original equipment is anywhere from about ten to thirty years old. The units in First Colony and Greatwood are at the older end of that range. It is old enough for the electrical components to be tired, but not old enough for the cabinet to be gone."
+        },
+        {
+          "q": "Is it worth repairing a system that runs R-22?",
+          "a": "Often not, and the reason is the refrigerant itself. R-22 is no longer produced for new systems, so every leak repair on an old line set is expensive work on a system that still will not meet the house it sits in. Knowing the refrigerant before the technician arrives keeps the scope of the visit from changing."
+        },
+        {
+          "q": "My outdoor unit is in a fenced side yard. Does that matter?",
+          "a": "Two ways. A fence close to the unit restricts the airflow the condenser needs to dump heat, which makes it run longer and hotter. It also holds damp against the cabinet and the base pan, which is where the rust starts. The unit wants clearance and a way for the moisture to leave."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: 1990s and 2000s housing stock, R-22 refrigerant, fenced side yard airflow and moisture."
+    },
+    "ac-installation": {
+      "intro": "Installation work in Sugar Land tends to be second-floor additions and whole-home replacements in houses that were built with the ground floor in mind. The interesting part is the load: two storeys, high ceilings and a lot of glass for a climate this humid means the sizing has to come from a calculation. We connect you with an installer who covers the area.",
+      "localNote": "Most Sugar Land homes were designed for a family that used the ground floor and slept upstairs. That has changed. When the second floor gets finished properly, the load calculation changes, and a system sized for the old single-floor use no longer moves enough air on a humid July night. Duct design has to be redrawn too, not just the tonnage. Wider returns and properly sized transitions make more difference than the unit badge.",
+      "faqs": [
+        {
+          "q": "Do I need a load calculation or is square footage enough?",
+          "a": "Square footage is one input among several. Two storeys, a vaulted ceiling in the living room, a west-facing wall of glass and a humid climate all push the number up. The calculation also looks at how much sun the lot takes and how much of the house is shaded by trees, because those two answers pull in opposite directions here."
+        },
+        {
+          "q": "Can the condenser go in the side yard where the fence is?",
+          "a": "It can, but the clearance matters. A unit needs air on the coil face and space around the cabinet, and a fence against the discharge side pushes hot air back at the coil. In these subdivisions the back of the lot under the oaks is often the better spot, and the debris that comes with it is handled with regular rinsing."
+        },
+        {
+          "q": "What about finishing the upstairs and adding a room?",
+          "a": "Every finished space upstairs changes the load, and the duct run often has to be extended or redrawn to reach it. Adding a bedroom above a garage in a house that already has a tight duct system sometimes calls for a second unit rather than a bigger one. The calculation answers that, not the square footage."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: two-storey design, finished second floors, side yard condenser placement."
+    },
+    "ac-replacement": {
+      "intro": "Replacement comes up more here than in the newer parts of the metro because a lot of Sugar Land equipment is now in its late teens or twenties. The refrigerant type and the condition of the coil decide whether a swap makes sense. Getting the nameplate information before the quote keeps the scope from changing on install day.",
+      "localNote": "The deciding factor in Fort Bend County is usually the refrigerant and the coil condition together. A twenty-year-old system on R-22 has a leak-prone line set and a coil that is no longer worth chasing. Replacing the outdoor unit alone while leaving the aging coil in place means the same performance problem comes back. A matched indoor and outdoor set on a modern refrigerant ends the cycle of small repairs each summer.",
+      "faqs": [
+        {
+          "q": "Is it cheaper to repair or replace a 20-year-old system in Sugar Land?",
+          "a": "That depends on the refrigerant, the coil and whether the fault keeps coming back. The costs are driven by access, the parts needed and whether you are repairing or replacing. What you can do before you call is read the nameplate on the outdoor unit and note the refrigerant, the model and the year, because that information decides the conversation."
+        },
+        {
+          "q": "What refrigerant do older Sugar Land systems use?",
+          "a": "Most systems installed before the mid-2010s in this area run R-22, which is no longer produced for new systems. That is why the price of a leak repair on an older unit is what it is, and why the refrigerant needs to be known before anyone quotes. The nameplate on the outdoor unit lists it."
+        },
+        {
+          "q": "Does the humidity in Fort Bend County shorten the life of a system?",
+          "a": "It does more to the equipment than dry air would. The coil runs wet for much of the summer, the cabinet weeps and the base pan rusts, and the refrigerant side carries a heavier moisture load than it would inland. Add leaf litter that holds damp against the coil and the outdoor unit needs a rinse a couple of times a season."
+        }
+      ],
+      "_faqsNote": "3 FAQs. Local: R-22 systems from the 1990s and 2000s, Fort Bend humidity on the coil, and replacement scope."
+    }
+  }
+}

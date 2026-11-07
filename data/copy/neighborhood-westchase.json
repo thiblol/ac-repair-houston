@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Westchase, Houston",
+  "title": "AC Repair Westchase, Houston | AC Repair Houston",
+  "description": "Two-storey homes from the 70s through the 90s with vaulted ceilings and west-facing glass, where the cooling load sits upstairs and in the sun.",
+  "intro": "Westchase grew between the 1970s and the 1990s, and the houses here are larger and taller than most of Houston's older stock. Vaulted ceilings push air into the upper half of the room, and west-facing glass loads a space with afternoon sun. The second floor is usually the first place a homeowner notices the system cannot keep up.",
+  "localAngle": "The housing here runs from the 1970s into the 1990s, mostly two storeys with cathedral and vaulted ceilings over the living areas and a lot of glass on the west side of the plan. A tall ceiling means the conditioned air stratifies, with the cold air settling to the floor and the upper room staying warm. Mature oaks and pines along these streets keep the yard shaded, so the outdoor unit sees less direct sun than the windows do, while a heavy canopy feeds debris into the coil.",
+  "commonCalls": [
+    "The second floor running warmer than the ground floor through the afternoon",
+    "West-facing rooms that heat up after lunch no matter what the thermostat says",
+    "A vaulted living room where the cold air settles and never reaches the upper walls",
+    "Condenser coils packed with oak and pine litter under the trees",
+    "A system cycling short because it was matched to a smaller version of this house"
+  ],
+  "landmarks": [
+    "Westchase Drive",
+    "Gessner Drive",
+    "Briar Forest Drive",
+    "Bellaire Boulevard",
+    "Westpark Way",
+    "Timbergrove",
+    "Lakeside Shopping Center"
+  ],
+  "faqs": [
+    {
+      "q": "Why is the upstairs always hotter in a Westchase two-storey?",
+      "a": "Warm air rises, and a vaulted ceiling gives it somewhere to go. If the supply registers are on the ground floor only, the second level has to be served by air that has to work its way up through the stairwell. Zone control with a separate handler, or adding supply to the upper floor, is the usual fix rather than simply turning the thermostat down."
+    },
+    {
+      "q": "Does the shade from the trees protect my outdoor unit?",
+      "a": "Shade lowers the ambient temperature around the condenser, which does help. The trade is that falling leaves and needles pack the coil, and a packed coil holds heat that the fan cannot shed. In this canopy a unit can lose a lot of airflow capacity between cleanings even though the yard stays cool."
+    },
+    {
+      "q": "My west windows are the problem. Is a bigger system the answer?",
+      "a": "Sometimes, but not always. West-facing glass loads a room with solar gain that runs in the afternoon, right when the system is already near its limit. Shading the glass, adding film, or handling that room on its own often buys more than an extra ton of capacity spread across the whole house. A load calculation that includes the glass orientation is worth asking for."
+    },
+    {
+      "q": "What should I check before replacing a system in this neighborhood?",
+      "a": "Check how the house was zoned and where the returns are. A two-storey from this era was often built with one handler for the lower floor and a second unit for the upper, and the two may be different ages now. Knowing that layout before the technician arrives makes the diagnosis much faster."
+    }
+  ]
+}

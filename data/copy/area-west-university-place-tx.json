@@ -1,0 +1,137 @@
+{
+  "intro": "West University Place has some of the oldest housing in the western half of Houston, with houses going back to the 1920s and 1930s and additions layered on top of them through the 1950s. A good share never had central air at all, so the cooling in the older blocks is a window unit, a wall unit, or a system installed decades after the house was framed.",
+  "localAngle": "These houses are small, the lots are tight, and the oaks are old enough to shade the whole property. That combination drives how the work goes. A technician cannot roll a large truck down a narrow drive without clearing branches first. If a ductless head or a new outdoor unit is needed, the placement has to work around roots, a mature canopy and fencing that has been there for decades. The building is the other half of the job. A 1930s shell with high ceilings, thin walls and west-facing rooms can need more capacity than the square footage suggests, and a converted garage sends air through a space nobody uses.",
+  "commonCalls": [
+    "Houses with no central air at all, where a window unit failed in the middle of a July week",
+    "Systems added to a 1930s or 1940s house in the 1970s that still cool unevenly between floors",
+    "Outdoor units wedged behind a fence under low limbs, where access decides the job",
+    "Ductless heads installed in bedrooms and a den that were never drawn with a cooling plan"
+  ],
+  "landmarks": [
+    "the West University Place Greenway",
+    "the Kirby Green school",
+    "Avenue M",
+    "the 45 and 59 area",
+    "Bellaire Boulevard",
+    "the West U Shopping Center",
+    "US 59",
+    "the municipal park",
+    "the Fire Museum",
+    "Montrose Boulevard"
+  ],
+  "faqs": [
+    {
+      "q": "Does my West University Place house need ductless AC?",
+      "a": "If the house was framed in the 1920s or 30s, it may have no attic, no crawl space and no practical place for a duct system. A ductless mini split avoids opening finished walls. It is also the usual answer for older homes that were expanded later, where the added room has no duct runs reaching it."
+    },
+    {
+      "q": "Why does the outdoor unit in my West U yard look so hard to reach?",
+      "a": "Small lots and mature trees. The unit may sit behind the garage with a fence across the front, under branches low enough to hit a ladder, and on a pad that root growth has pushed out of level. Access is part of the job, and mentioning it when you call saves time on arrival."
+    },
+    {
+      "q": "Is salt air a problem for AC in West University Place?",
+      "a": "No. This part of Houston is inland, and the units here do not face the salt spray that corrodes coastal equipment. The pressure on an outdoor unit comes from humidity, leaf litter and age instead."
+    },
+    {
+      "q": "How much cooling does a 1940s West U house need?",
+      "a": "Square footage understates it. These houses have high ceilings, thin walls, single-pane windows and west-facing rooms that pull heat in all afternoon. A load calculation that looks at the glass and the orientation lands in a different place than one that only counts square feet."
+    },
+    {
+      "q": "Why do the upstairs bedrooms stay hot?",
+      "a": "Two causes are common. The house may have had central air added after it was framed, with a duct design that favoured the downstairs. Or the system was sized before the trees matured and has never caught up. Both are fixable, but only after someone measures the actual airflow."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Two reference the local condition directly: houses framed before central air existed and the tight lots under a mature oak canopy. The other three cover ductless options, the absence of salt exposure and the load calculation for an old envelope.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "The emergency calls here come from two directions: a failed window or wall unit in a house that never had central air, and a system in an older home that has run for twenty years without service. Both need someone who can work in a tight yard under a heavy canopy.",
+      "localNote": "Access shapes the job here more than it does almost anywhere else in the metro. A technician reaching an outdoor unit behind a garage under low branches may have to clear the route before the unit is even opened. In the oldest houses there is often no service disconnect and a panel that predates central air entirely, so the electrical side needs looking at first.",
+      "faqs": [
+        {
+          "q": "My window unit died during a heat wave. Is that an emergency call?",
+          "a": "If it is the only cooling in the house, treat it as urgent and say so when you call. In a West U house with no central system, a failed window unit leaves you with nothing but fans. If the home does have a split system, the failed window unit is usually a separate and less urgent problem."
+        },
+        {
+          "q": "What should I say about my house before an emergency visit?",
+          "a": "Tell the company covering your area the year the house was built, whether there is central air, and what is blocking access to the outdoor unit. On a property this size, a technician who knows there is a locked side gate and a low branch can plan for it and bring the right gear."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on a window unit as the only cooling in an older house, one on the details that matter for access and for the age of the panel."
+    },
+    "same-day-ac-repair": {
+      "intro": "The non-urgent calls here are about systems that run and cool badly rather than stop. A system that was added to an old house in the 1970s, or a ductless head in one bedroom while the rest of the house stays hot, is a same-day kind of problem.",
+      "localNote": "Ductless heads and add-on systems are common in these older blocks, and they bring their own quirks. A head can be installed with a line set routed through a closet or a chase that is hard to service later, and a refrigerant line run through a crawl space in a house this old is where leaks usually turn up. Same-day work here usually means tracing refrigerant or correcting airflow.",
+      "faqs": [
+        {
+          "q": "Why does one room in my West U house have a ductless unit and the rest does not?",
+          "a": "In houses this old, a room often gets cooled later than the rest of the building. A ductless head was added because the room had no duct runs and no easy way to reach them. It works, but it does not move air between rooms, so the balance across the house changes when it comes on."
+        },
+        {
+          "q": "Can a same-day visit fix a system that runs but does not cool?",
+          "a": "Often, if the fault is airflow, a filter or a dirty indoor coil. If the system is low on refrigerant or the coil is scaled, the technician can tell you on the visit whether the job is a small correction or a larger repair. Ask for that assessment in the same conversation."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on a later-added ductless head changing the balance of an old house, one on what a same-day visit can and cannot settle."
+    },
+    "ac-not-cooling": {
+      "intro": "A house that runs and does not cool is a common request from this neighborhood, and the reason is often the house itself rather than the equipment. The system may be doing exactly what it was designed to do in a building that has changed around it.",
+      "localNote": "Central air added to a house from the 1920s or 30s was usually run into whatever space was available, with the air handler placed near the plumbing. Rooms added since then have no supply run to them. These homes also carry a lot of west-facing glass, so the load lands late in the afternoon when the attic is already near its peak and the system has been running all day without catching up.",
+      "faqs": [
+        {
+          "q": "My West U house is 90 years old and the AC runs but will not cool. What should be checked?",
+          "a": "Airflow first. Old duct runs add resistance, a return in the wrong place starves the system, and a scaled coil cuts its capacity. A technician needs to measure the airflow and look at the static pressure across the filter and the coil, which is what separates a duct problem from a refrigerant problem."
+        },
+        {
+          "q": "Is a frozen coil common in older West U homes?",
+          "a": "It happens when airflow drops below what the coil needs to absorb the heat, and low airflow is common in these houses. The usual causes are a clogged filter, undersized duct runs and a thermostat set far below what the system can deliver. Clearing the blockage is the fix. Leaving the ice to melt without correcting the cause brings it back."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on airflow measurement in a 90-year-old house, one on why low airflow in an old duct layout causes a frozen coil."
+    },
+    "ac-repair": {
+      "intro": "Repair work here takes longer to diagnose, because the equipment is often old and sometimes a replacement for an even older system. Plenty of these houses are running a mix of components that were never installed as a matched set.",
+      "localNote": "The mismatch is the story. A 1980s condenser with a 1970s coil, or a wall unit serving half a house and a split system serving the other half, means the technician is diagnosing a system assembled from whatever was available at the time. Get the model and serial off the nameplate before the visit. On a house this old that number is often the difference between sourcing a part and ordering the wrong one.",
+      "faqs": [
+        {
+          "q": "Can a technician work on a wall unit and a split system in the same house?",
+          "a": "Yes, and it happens often here because cooling was added in stages over decades. The technician needs to know about every outdoor unit on the property, not just the one you are calling about, because the second system often shares a breaker or a drain and that changes the diagnosis."
+        },
+        {
+          "q": "Why is it harder to find parts for a home in West University Place?",
+          "a": "The equipment in this neighborhood is not just old, it is spread across manufacturers and model years from before the industry settled on common platforms. A name that worked for the last unit may mean nothing for the one in the attic. The model number narrows the search faster than the symptom does."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on a house with two separate cooling systems, one on why parts sourcing is harder when the equipment came from several eras."
+    },
+    "ac-installation": {
+      "intro": "Adding cooling to a home here usually means working with a building that predates modern construction on a lot where space is the limiting factor. The design choice is usually between ductless heads and a compact split system, not a full duct network.",
+      "localNote": "A 1930s house with no attic and no crawl space rules out most central air. If the option is ductless, the outdoor unit still needs a spot with airflow, a drain that slopes away from the foundation, and shade that does not come from a tree dropping limbs onto it. Lots here also have mature oak roots, so the pad and the lines go in around roots rather than through them.",
+      "faqs": [
+        {
+          "q": "Can central air be installed in a 1930s house in West University Place?",
+          "a": "It can be done, but it usually means opening finished walls or finding a closet or attic space that does not exist. A ductless system sidesteps that entirely and can be added in a day. If the house has a usable attic and the walls are open for other work, a conventional system is still worth pricing."
+        },
+        {
+          "q": "Where should a ductless outdoor unit go in a West U yard?",
+          "a": "Out of direct sun, with clear airflow on the long side, and on a base that drains away from the house and the foundation. Watch out for low branches, because a mature oak over the unit will fill the fins with leaf litter every spring and can drop a limb on it in a storm."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on whether central air is worth it in a 1930s shell, one on siting a ductless unit under a mature oak on a small lot."
+    },
+    "ac-replacement": {
+      "intro": "When an old system reaches the point where parts cost more than a new unit, replacement is the straightforward answer, though the house can complicate the install. Some of these homes need a fresh electrical service or a new air handler location before anything else can happen.",
+      "localNote": "Older housing here means matching a replacement to what is already in the ceiling and the walls. A house with a 1970s air handler in a closet may need a new handler and new supply runs, and a converted garage will have ductwork and refrigerant lines that were never designed to be serviced. Swapping a window or wall unit for a ductless system also changes the electrical load in a house that may have a small, old panel.",
+      "faqs": [
+        {
+          "q": "Does replacing AC in an old West U house mean running new ductwork?",
+          "a": "Often, yes. If the existing duct runs are original and undersized, they are the reason the house cools badly, so replacing only the equipment repeats the problem. Some old houses have been opened up for other work, which makes new runs easier and cheaper. Have the duct layout looked at before the quote is written."
+        },
+        {
+          "q": "My West U house has an old electrical panel. Will a new AC unit work on it?",
+          "a": "It depends on the panel and on what else is on the circuit. A house from the 1920s or 30s may have a service that was never updated, and a modern condensing unit needs more amperage than the old equipment did. Ask for that to be checked as part of the job rather than discovered on install day."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on ductwork replacement in original 1920s and 30s houses, one on whether an old electrical panel will carry a modern condensing unit."
+    }
+  }
+}

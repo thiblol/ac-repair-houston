@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img">
+  <rect width="1200" height="800" fill="#F0EBE3"/>
+
+  <g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="21" fill="#6E655B" letter-spacing="3">
+    <text x="56" y="60">WHERE THE AIR ACTUALLY GOES</text>
+  </g>
+
+  <!-- attic plenum -->
+  <path d="M60 300H1140V150H60Z" fill="#E4DED4" stroke="#4A443D" stroke-width="3"/>
+  <text x="90" y="135" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="19" fill="#6E655B" letter-spacing="2">ATTIC PLENUM</text>
+
+  <!-- duct trunk -->
+  <rect x="440" y="150" width="150" height="150" fill="#FFFFFF" stroke="#141210" stroke-width="3"/>
+
+  <!-- branch ducts running down to registers -->
+  <g fill="#FFFFFF" stroke="#141210" stroke-width="3">
+    <path d="M440 170H250V470H180V300H250V150"/>
+    <path d="M590 170H800V470H870V300H800V150"/>
+    <path d="M515 300V540H430V700"/>
+  </g>
+
+  <!-- registers -->
+  <g fill="#F0EBE3" stroke="#141210" stroke-width="3">
+    <rect x="110" y="440" width="140" height="80" rx="4"/>
+    <rect x="800" y="440" width="140" height="80" rx="4"/>
+    <rect x="360" y="670" width="140" height="80" rx="4"/>
+  </g>
+  <g stroke="#6E655B" stroke-width="3">
+    <path d="M124 460h112M124 478h112M124 496h112"/>
+    <path d="M814 460h112M814 478h112M814 496h112"/>
+    <path d="M374 690h112M374 708h112M374 726h112"/>
+  </g>
+
+  <!-- airflow arrows -->
+  <g fill="none" stroke="#0B5FD1" stroke-width="5" stroke-linecap="round" opacity="0.85">
+    <path d="M515 168C515 120 500 110 470 108"/>
+    <path d="M420 300C300 300 200 330 180 380"/>
+    <path d="M660 300C780 300 860 330 870 380"/>
+    <path d="M515 420C515 500 470 580 430 620"/>
+  </g>
+  <g fill="#0B5FD1">
+    <path d="M462 92l14 26 14-26z" transform="rotate(180 488 105)"/>
+    <path d="M150 366l-4 30 28-14z" transform="rotate(-20 168 380)"/>
+    <path d="M900 366l4 30-28-14z" transform="rotate(20 882 380)"/>
+    <path d="M400 606l-4 30 28-14z" transform="rotate(-35 418 620)"/>
+  </g>
+
+  <!-- a blocked return, the classic cause of a system that will not cool -->
+  <g>
+    <rect x="1000" y="150" width="140" height="150" fill="#FFFFFF" stroke="#141210" stroke-width="3"/>
+    <g fill="#D6401F" opacity="0.85">
+      <path d="M1020 170c30 12 44 34 44 62s-14 50-44 62c-30-12-44-34-44-62s14-50 44-62z" opacity="0.18"/>
+      <path d="M1030 190c18 8 27 22 27 42s-9 34-27 42c-18-8-27-22-27-42s9-34 27-42z" opacity="0.3"/>
+      <path d="M1040 210c8 4 12 12 12 22s-4 18-12 22c-8-4-12-12-12-22s4-18 12-22z" opacity="0.55"/>
+    </g>
+    <text x="1070" y="335" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#B0321A" letter-spacing="2">RESTRICTED RETURN</text>
+  </g>
+
+  <!-- callout -->
+  <g>
+    <rect x="60" y="560" width="250" height="150" fill="#FFFFFF" stroke="#141210" stroke-width="3" rx="4"/>
+    <text x="185" y="600" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#141210" letter-spacing="2">THE USUAL CULPRIT</text>
+    <text x="185" y="638" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#6E655B">A dirty filter or a collapsed</text>
+    <text x="185" y="666" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#6E655B">duct starves the coil of air.</text>
+    <text x="185" y="694" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#6E655B">The coil freezes, then stops.</text>
+  </g>
+</svg>

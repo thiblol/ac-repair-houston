@@ -1,0 +1,162 @@
+{
+  "intro": "Clear Lake City was laid out as a planned community in the 1960s, and the pine that was left standing is still standing. The equipment in most of those houses is original or close to it, and it has been sitting in salt air the whole time.",
+  "localAngle": "One of the oldest planned communities in the Houston area, it has the longest exposure to coastal salt of any neighborhood on this site. The deep pine stands are the other half of the local story: they shed needles through the warm months, they drop a fine layer of pollen and catkins onto everything below, and they keep the ground and the outdoor unit shaded and damp. A condenser sitting under that canopy in salt air corrodes at the base and clogs at the fins at the same time. The systems are at or past the age where a repair buys another season and a replacement buys a decade.",
+  "commonCalls": [
+    "Whole system replacements on houses where the indoor and outdoor equipment are both original",
+    "Condensers packed with pine needles and pollen under the canopy",
+    "Salt corrosion on the cabinet base and the coil fins on units near the bay",
+    "R-22 systems that need refrigerant on 1970s and 80s installs",
+    "Systems that cannot keep up with a house that has been added to over the years"
+  ],
+  "landmarks": [
+    "Clear Lake City",
+    "the 45 and 59 interchange",
+    "Clear Lake",
+    "Bay Forest",
+    "Clear Lake Shores",
+    "Meadowbend",
+    "the Clear Lake City boundary",
+    "Falcon Field",
+    "Pinebrook",
+    "Space City"
+  ],
+  "faqs": [
+    {
+      "q": "Why is the salt worse here than in places further inland?",
+      "a": "The community sits on the bay side of the metro with open water in every direction, and the prevailing wind carries salt inland across the whole development. Every outdoor unit on every street is exposed to it, not just the ones closest to the shoreline."
+    },
+    {
+      "q": "How old is the equipment in a typical Clear Lake City house?",
+      "a": "These homes went in from the 1960s through the 1980s, and a lot of them are still running the system that was installed with the house. At that age, the outdoor unit and the air handler are usually both at the end of their useful life."
+    },
+    {
+      "q": "Does the pine cause problems?",
+      "a": "Yes. Pine needles shed for much of the year and they mat down into the condenser fins. Pollen and catkins add a finer layer on top. A unit under a mature canopy needs to be rinsed more often than one in open ground."
+    },
+    {
+      "q": "Is repair or replacement the better call here?",
+      "a": "On an original install in salt air, replacement usually is. When the outdoor unit, the air handler and the refrigerant type are all the same age, the cost of repairing one part is money spent on a system that has no margin left."
+    },
+    {
+      "q": "Will a new system last longer here?",
+      "a": "It will if it is the right equipment for a coastal site and if the coil gets rinsed. The salt does not go away. What changes is that a coastal-rated cabinet and a rinseable coil start from a much better place."
+    }
+  ],
+  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "When a system in this part of the metro fails in the heat, it is often on equipment that has been in service since the 1970s. The HVAC company we connect you with covers Clear Lake City, so a request goes to the technician who takes the job.",
+      "localNote": "The failures out here are usually systems at the end of their life rather than a single failed part. A salt-corroded condenser under a pine canopy runs hot, holds low pressure and eventually will not hold the compressor. When that happens the technician still has to decide whether the outdoor unit alone is the failure or whether the whole original install has reached the end.",
+      "faqs": [
+        {
+          "q": "My AC stopped and the outdoor unit is silent. What is happening?",
+          "a": "The most common causes are a tripped breaker, a failed capacitor or a compressor that has stopped. On old salt-exposed equipment the capacitor and the wiring are worth checking early, because corrosion there can look like a compressor failure."
+        },
+        {
+          "q": "How fast will the house heat up?",
+          "a": "Quickly in this climate, especially upstairs and in a west-facing room. Move the air with the fan setting, close the blinds and open doors between rooms while you wait."
+        },
+        {
+          "q": "Should I repair it or replace it if it fails?",
+          "a": "If the equipment is original, the technician will lay out both options, including what the repair buys you. Make the decision with the numbers rather than in the middle of a heat wave."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "same-day-ac-repair": {
+      "intro": "Same-day calls around Clear Lake City are commonly about a system that has run for years and is now showing its age. Some of that work turns into a replacement conversation on the spot, and that is worth being ready for.",
+      "localNote": "A technician running these streets sees the same picture repeatedly: an original install from the 1970s or 80s, a condenser with pine needles packed into the fins and salt crust on the cabinet base, and refrigerant that has drifted low over decades. The same-day work is usually the coil clean, the electrical check and the refrigerant measurement, with the conversation about a full replacement happening alongside it.",
+      "faqs": [
+        {
+          "q": "How do I arrange a same-day visit?",
+          "a": "Request it early in the morning and include the model number and year from the outdoor unit label. Same-day work fills through the morning across the Houston area, so an early request has the best chance of being met."
+        },
+        {
+          "q": "What should I do to get ready?",
+          "a": "Clear the pine needles off the condenser with a garden hose on a gentle setting and a soft brush, and change the filter if it is accessible. That is worth doing before the technician arrives, because it shows whether the coil is part of the problem."
+        },
+        {
+          "q": "Can a same-day visit end with a replacement instead?",
+          "a": "It can, if the technician finds that the outdoor unit is beyond repair or that the indoor equipment is the same age. Be clear about your budget before the work starts so the option is available to you either way."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-not-cooling": {
+      "intro": "This is one of the places where a system that runs but does not cool is genuinely common, and the cause is usually visible on the outdoor unit. The company that covers this area checks the condenser before anyone talks about the refrigerant.",
+      "localNote": "The pine canopy here is the mechanism. Needles and pollen pack into the fins, salt crusts the metal, and the shade keeps the coil wet instead of letting it dry out between cycles. The condenser cannot reject heat, so the compressor works forever and the house stays warm. On a system of this age the same blocked coil is usually also why the charge keeps drifting low.",
+      "faqs": [
+        {
+          "q": "Why does my AC run constantly and never cool the house?",
+          "a": "Most often the outdoor coil is blocked or the system is low on refrigerant. Both are common in this area. The technician measures the charge and checks the airflow at the unit so the two do not get confused."
+        },
+        {
+          "q": "Can I hose the outdoor unit myself?",
+          "a": "Yes, on a gentle setting, with a soft brush on the fins. Do not use a pressure washer or a high-pressure wand, it bends the fins and makes the coil less effective than it was."
+        },
+        {
+          "q": "The unit is only a few years old, why is it already struggling?",
+          "a": "Check the age of the system rather than the age of the house. Some homes here had their original equipment replaced and others still have the 1970s unit. The nameplate tells you which refrigerant it uses and the year it was made."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-repair": {
+      "intro": "A large share of the repair work here is on equipment that is at or past the age where a repair makes economic sense. The technician's job is to show you what condition the system is in, not just to swap the part that failed today.",
+      "localNote": "Everything about the local environment pushes in one direction here. The salt shortens the life of the cabinet, the coil and the connections. The pine keeps the coil clogged. The age of the install means the refrigerant is likely discontinued and the indoor equipment is likely original. A repair that addresses the failed part but not those three conditions is a call that comes back, and a good diagnosis says so plainly before the work starts.",
+      "faqs": [
+        {
+          "q": "How do I know if my old system is worth fixing?",
+          "a": "Look at the whole install rather than the failed part. If the outdoor unit, the air handler and the refrigerant type are all the same age, and the outdoor cabinet is salt-corroded, the honest answer is usually replacement. If the indoor side is newer and sound, the outdoor side can be done on its own."
+        },
+        {
+          "q": "What refrigerant do the old systems here use?",
+          "a": "Most of the original installs run R-22, which is no longer produced for new systems and is priced accordingly. Read the nameplate on the outdoor unit to confirm what yours is before you start comparing options."
+        },
+        {
+          "q": "Is there anything I can do to extend the life of the unit?",
+          "a": "Rinse the coil twice a year and keep it clear of needles, wipe the cabinet down and check that it drains freely. On a system in salt air under trees, that maintenance is the difference between a unit that lasts and one that does not."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-installation": {
+      "intro": "Some of the homes here never had central air and others are getting a second system for an addition. Installing in a planned community with this much pine means the site of the outdoor unit matters from the start.",
+      "localNote": "The ground under a mature pine stand stays damp and shaded, so a unit set down there lives in a wetter, saltier microclimate than the same unit would in open ground. Where it goes, how far it is from the trunk and whether the pad drains are decisions that decide how long it lasts. Duct routing through an original 1960s attic with low clearances is the other half of the job.",
+      "faqs": [
+        {
+          "q": "My 1960s house never had central air. Can it be done?",
+          "a": "Usually yes. The attic clearance and the joist spacing decide the duct plan, and the electrical service has to carry the outdoor unit circuit. A house this age is manageable, it just takes more planning than a new build."
+        },
+        {
+          "q": "Where should the outdoor unit go under the pines?",
+          "a": "Away from the drip line of a large tree, where the pad will actually drain, with airflow clearance on all sides. Shade is good for the house and bad for the coil, so a unit in deep canopy needs a maintenance plan attached to it from the start."
+        },
+        {
+          "q": "How big should the system be?",
+          "a": "From a load calculation that accounts for humidity, orientation and the finished space. A coastal climate places a bigger load on the same house than a drier one, so the calculation needs to be done for the conditions here."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    },
+    "ac-replacement": {
+      "intro": "Replacement is the most common outcome in this community, and that is a local fact rather than a sales tactic. The systems went in with the houses and the salt has been working on them since the 1960s.",
+      "localNote": "An original install here is usually on R-22, discontinued for new systems, with an outdoor cabinet that has been in salt air for decades and an air handler that has no more life in it. That combination is what makes replacement the sensible route. The thing worth getting right on the new equipment is coastal suitability and rinseability, because the salt and the pine needles are not going anywhere.",
+      "faqs": [
+        {
+          "q": "Is replacement really better than repair here?",
+          "a": "On an original install in salt air under pine, usually yes. Repairing one part of a system where the coil, the cabinet and the wiring are all corroded leaves you with new parts in old equipment. The technician will show you the condition of each side so you can compare."
+        },
+        {
+          "q": "What does a coastal-rated system mean?",
+          "a": "It means the coil and cabinet materials and the finish are built for salt exposure rather than for an inland climate. It costs a little more up front and it holds up better in an area where the air itself is corrosive."
+        },
+        {
+          "q": "How much of the ductwork needs replacing?",
+          "a": "That depends on the house. Original ductwork in a 1960s house can be usable if it is intact and correctly sized. If rooms were added, or the ducts are undersized for a second floor, that is a separate scope and worth pricing at the same time."
+        }
+      ],
+      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+    }
+  }
+}

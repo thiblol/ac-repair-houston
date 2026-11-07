@@ -1,0 +1,138 @@
+{
+  "intro": "Santa Fe sits on the south side of the metro, close to the bay and downwind of the industrial corridor. The summer air here carries salt and particulate at the same time, and the housing is a mix of 1970s homes and newer construction from the 1990s and 2000s.",
+  "localAngle": "Two things make equipment work harder here than inland. The first is salt. Air off the Gulf leaves a film on condenser fins that insulates the coil and dulls the cabinets and fasteners below it. The second is dust from the industrial corridor to the south and west, which settles on the same coil and packs into the fins. Neither is obvious from the street. The housing adds a third factor, with 1970s systems running next to 2000s subdivisions, so the technician may be handling a twenty-year-old unit or a brand-new one never sized for the load it inherited. Coastal oak drops its leaves onto units that already work hard.",
+  "commonCalls": [
+    "Condenser coils in newer subdivisions packed with industrial dust and coated with salt film",
+    "Older units on 1970s housing losing refrigerant at corroded line set joints",
+    "Systems that run all afternoon and never reach setpoint after a few years of service",
+    "Outdoor units left close to a fence or a shrub where the airflow is restricted",
+    "Refrigerant leaks that appear right after a coastal storm or a hard rain"
+  ],
+  "landmarks": [
+    "TX-146",
+    "the 45 and 146 interchange",
+    "Santa Fe High School",
+    "the 288 feeder road",
+    "the Johnson Space Area",
+    "Houston Skies",
+    "the Brazos River basin",
+    "FM 528",
+    "Manvel",
+    "Friendswood"
+  ],
+  "faqs": [
+    {
+      "q": "How does salt air affect an air conditioner in Santa Fe?",
+      "a": "Salt settles on the condenser fins and on the cabinet, and it holds moisture against metal that is already warm. It dulls the coil so the unit transfers less heat, and it corrodes the fasteners and the base pan underneath. A rinse with fresh water and a proper coil cleaning once a year does more than people expect."
+    },
+    {
+      "q": "Is the air quality in Santa Fe bad for my AC?",
+      "a": "The industrial corridor to the south puts particulate into the summer air. It lands on the outdoor coil the same way dust lands on a car, and a dirty finned coil moves less air and works harder for the same result. Filters in these houses fill up faster than the same filter would inland."
+    },
+    {
+      "q": "My unit is newer than my neighbour's and still cools worse. Why?",
+      "a": "A new unit does not automatically mean a clean one. If the outdoor unit sits near the road or on a lot with bare ground, the first months of dust can load the coil. Ask for a coil service and check that nothing is banked against the unit, because a blocked condenser works far harder for the same cooling."
+    },
+    {
+      "q": "How often should I change the filter in Santa Fe?",
+      "a": "More often than you would inland. Salt and dust come in on the same air the system pulls through, and the filter is what stops that from reaching the coil and the blower wheel. A monthly check through the summer is the habit that pays off."
+    },
+    {
+      "q": "What should I do about an outdoor unit that keeps tripping its breaker?",
+      "a": "Leave the breaker off and stop resetting it. In a coastal environment the electrical compartment on the outdoor unit is one of the first places salt and moisture cause trouble, and a unit that trips on start needs a technician with a meter rather than another reset."
+    }
+  ],
+  "_faqsNote": "5 FAQs. Two reference the local condition directly: salt off the bay and particulate from the industrial corridor to the south. The other three cover coil loading, filter interval and the electrical side of a coastal outdoor unit.",
+  "services": {
+    "emergency-ac-repair": {
+      "intro": "Emergency calls here often trace back to the outdoor unit, because salt and industrial dust both attack the parts that make a system start. A corroded contactor or a wet electrical compartment is a common failure, and it tends to happen in the hottest weeks when the system is loaded hardest.",
+      "localNote": "The failure mode here is corrosion rather than wear. Salt and moisture get into the disconnect and the electrical compartment of the outdoor unit, and the contactor inside starts to arc and stick. A unit that ran through the winter without one problem can fail in the first week it is asked to cool a house in July. Tell the company we connect you with how old the unit is and how close it sits to the house.",
+      "faqs": [
+        {
+          "q": "Why does my Santa Fe AC fail at the start of summer rather than mid-season?",
+          "a": "A component that has sat all winter can fail the first time it carries real load. Contactors, capacitors and outdoor disconnect blades are the usual suspects, and in this climate the salt adds to it. A unit that has been through one summer without a problem is not proof that it will survive the next."
+        },
+        {
+          "q": "Is it safe to run the AC if the outdoor unit smells burnt?",
+          "a": "No. Turn the system off at the thermostat and leave the breaker off. A burning smell from the outdoor unit means a component is overheating, and it can run without you for a while. Have it looked at before you switch it back on, and mention the smell when you call so the technician brings what is needed."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on why coastal units fail at the start of the season, one on a burning smell from an outdoor unit in a salty environment."
+    },
+    "same-day-ac-repair": {
+      "intro": "Not every call here is a breakdown. A unit that is running hard and never quite catches up, or a condenser that has quietly lost half its airflow to a dirty coil, gets booked rather than dispatched.",
+      "localNote": "A finned coil in this part of the county does not stay clean on its own. Dust from the corridor packs the fins and salt film sits over the top, and the unit runs longer to move the same air. The technician who takes the job will want to see the coil rather than just the thermostat, because the symptom and the cause are not in the same place.",
+      "faqs": [
+        {
+          "q": "How do I tell whether my Santa Fe condenser is dirty without opening it?",
+          "a": "Look at the fins from a low angle. If you cannot see through them, airflow is restricted. You will also notice the unit running far longer than it used to for the same setpoint, and the fan sound changing as the coil loads up. A coil service usually settles it, and it is much cheaper than a compressor that has been running against a fouled coil."
+        },
+        {
+          "q": "Should I hose down my outdoor unit myself?",
+          "a": "A gentle hose and a soft brush will clear a surprising amount, and in a salty area the rinse is worth doing. Do not use a high-pressure wand, it bends the fins and makes the coil perform worse. Leave the unit switched off while you do it, and keep the water off the electrical compartment."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on spotting a packed condenser from the yard, one on rinsing a salty coil without damaging the fins."
+    },
+    "ac-not-cooling": {
+      "intro": "The system runs, the vents blow, and the house stays warm. That is the most common request from here, and the answer is usually sitting outside behind the fence where the outdoor unit has been quietly losing airflow and heat transfer.",
+      "localNote": "A condenser that has been washed with salt air and corridor dust every summer for years can look fine and still be a badly insulated surface. Add a shrub that has grown against the unit since it was installed and the airflow is worse. The indoor side has its own story, with filters loading up fast in dusty air and 1970s houses that were insulated to a standard nobody builds today.",
+      "faqs": [
+        {
+          "q": "The outdoor unit is running and the vents blow air. Why is the house still warm?",
+          "a": "The system is moving air but not removing enough heat. A fouled condenser and a restricted filter both limit the amount of heat the refrigerant can pick up, and the air comes back out barely cooler. If the system never stops running, that points at capacity being lost rather than a switch failing."
+        },
+        {
+          "q": "Can a dirty filter stop my Santa Fe system from cooling?",
+          "a": "It can, and it is the first thing to check. A restricted filter cuts airflow across the indoor coil, which lowers the coil temperature until it ices over, and an iced coil stops moving air altogether. A new filter is cheap and the symptom will tell you within an hour of the change."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on airflow versus refrigerant loss when a running system does not cool, one on a dirty filter causing an iced indoor coil."
+    },
+    "ac-repair": {
+      "intro": "Repairs on this side of the county carry two extra questions. Is the part available for this model and age, and is the metal it mounts to still sound, or has the salt already taken it?",
+      "localNote": "Salt turns fasteners into a problem and turns a refrigerant line joint into a leak site. On a 1970s unit sitting on a slab for forty years, the copper lines near the cabinet are the first place to look, and a coil can need replacing rather than cleaning once the fins are pitted. The technician needs the model, the age, and a clear look at where the lines enter the cabinet.",
+      "faqs": [
+        {
+          "q": "Why do refrigerant lines leak near the outdoor unit?",
+          "a": "The flare nut is the weak point on an older line set, and salt and moisture work on the metal around it. Heat cycling adds to it, since the joint expands and contracts every time the compressor starts. On a unit this old, a leak there usually means the line set gets replaced rather than patched."
+        },
+        {
+          "q": "Can a corroded condenser coil be cleaned instead of replaced?",
+          "a": "If the fins are bent or pitted rather than merely dirty, cleaning will not bring the capacity back. Salt film is one thing, and a coil that has been eaten through is another. A technician can tell the difference by looking at how the metal has degraded, and that decision changes the quote significantly."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on leak points at the line set entry, one on telling a dirty coil apart from a pitted one on a coastal unit."
+    },
+    "ac-installation": {
+      "intro": "New cooling on the south side has to survive the same air that breaks the old equipment. The install choices here are more about corrosion protection and siting than they are in an inland neighborhood.",
+      "localNote": "Coastal-rated equipment, a fresh isolator pad that drains and sits above grade, and stainless fasteners instead of the plated kind go a long way in this environment. Siting matters for another reason: a unit placed where the yard floods, or where wind drives rain into the coil compartment, will fail early no matter how good the hardware is. The load calculation also has to account for a lot that may have been cleared of trees since it was built.",
+      "faqs": [
+        {
+          "q": "Does a new AC unit in Santa Fe need special corrosion protection?",
+          "a": "It helps. Coastal-rated finishes, stainless hardware and a pad that drains and keeps the unit off the ground slow the salt down considerably compared with a standard unit set straight on a slab. Ask the company covering your area which parts of the system are coastal rated before you sign anything."
+        },
+        {
+          "q": "How high off the ground should the outdoor unit sit?",
+          "a": "Enough that standing water cannot reach the base pan and the electrical compartment. On a low lot that drain badly, an isolator pad that lifts the unit and slopes the drainage away from the house is the difference between a unit that survives and one that does not. Ground level also puts the unit closer to salt spray off the bay breeze."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on coastal-rated equipment and hardware for the south side, one on pad height and drainage on a low lot near the bay."
+    },
+    "ac-replacement": {
+      "intro": "When an outdoor unit has spent twenty years taking salt and dust, replacement usually makes more sense than another repair. The coils are pitted, the fasteners are corroded, and a unit installed in 2000 is now working with parts that are harder to find.",
+      "localNote": "The refrigerant is often the deciding factor. A 2000s system here may still be R-22, and with the phaseout behind it, a recharge is a short-term fix. A full changeout means a new condenser, a new matching coil and often a new line set, since the old copper has been sitting in salt air for two decades. Ask for the coil and the lines to be included rather than priced later as an add-on.",
+      "faqs": [
+        {
+          "q": "Is it worth replacing a working unit just because it uses R-22?",
+          "a": "Sometimes, when the outdoor cabinet and the line set have already been attacked by salt. The gas is not produced for new systems and the supply for servicing the old ones is limited, so each year of delay gets more expensive to service. Have the line set and the coil checked so the decision is made on facts."
+        },
+        {
+          "q": "Do I need new refrigerant lines when I replace the condenser?",
+          "a": "If the old lines are sound, they can sometimes be reused with the new refrigerant, provided the technician sizes them for the charge. In this climate, where salt has been working on the copper for twenty years, new lines are usually the safer call and are worth quoting so you can compare."
+        }
+      ],
+      "_faqsNote": "2 FAQs. One on replacing a still-working R-22 unit because of salt damage, one on whether the old line set can be reused with a new refrigerant."
+    }
+  }
+}

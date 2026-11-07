@@ -1,0 +1,41 @@
+{
+  "h1": "AC Repair in Alief, Houston",
+  "title": "AC Repair Alief, Houston | AC Repair Houston",
+  "description": "Homes from the 60s through the 80s built to a thin standard, where a missing attic insulation turns the space above your ceiling into the hottest room in the house.",
+  "intro": "Alief is a wide spread of housing ages, from the 1960s through the 1980s, and much of it went up to a lighter standard than the older neighborhoods to the east. The result is houses that heat up fast and stay hot, with the real cause often above the ceiling rather than in the equipment. When the attic is running at full summer temperature, the system is losing the fight before it cools a single room.",
+  "localAngle": "The housing stock here runs from the 1960s all the way to the 1980s, and much of it was framed with little or no attic insulation and minimal duct sealing. On a Houston summer afternoon the attic in one of these houses can sit well above the outdoor air temperature, and every degree of that comes down through the duct runs into the rooms below. The mechanical closet is small, the outdoor unit sits tight against the wall, and the cooling load is set by a house built for a milder climate than the one it lives in now.",
+  "commonCalls": [
+    "Systems that run nonstop through the afternoon and never reach the thermostat setting",
+    "Hot air at the registers with a unit that sounds like it is working hard",
+    "Ductwork in an uninsulated attic that has lost most of its cooling to the heat above",
+    "Outdoor units with no clearance to the side wall and shrubs growing into the coil",
+    "Homes with a 1970s system carrying a load that was sized for a smaller floor plan"
+  ],
+  "landmarks": [
+    "Bellaire Boulevard",
+    "Southwest Freeway",
+    "Westheimer Road",
+    "Highway 90",
+    "Alief Elsik High School",
+    "Alief Middle School",
+    "Alief Park"
+  ],
+  "faqs": [
+    {
+      "q": "How hot does an attic get in Alief?",
+      "a": "Hot enough that it changes how the system performs. In a well-insulated attic the space stays closer to outdoor temperature. In an uninsulated one it can run fifteen to twenty degrees above the air outside on a clear afternoon, and the ductwork sitting in that heat pushes that heat straight into the supply air. The equipment is not failing, it is losing to the attic. Adding insulation and sealing the ducts is often cheaper than buying a larger unit, and it pays off every summer."
+    },
+    {
+      "q": "My outdoor unit has no space around it. Is that a real problem?",
+      "a": "Yes. A condenser needs clearance on all sides to pull in air and reject heat. Pushed against a side wall with a hedge on the other side, it runs hotter, makes more noise and uses more power for the same result. Shaving back the plants and creating a couple of feet of clear space on the intake side recovers a surprising amount of capacity."
+    },
+    {
+      "q": "Should I add attic insulation or replace the AC?",
+      "a": "Insulation first, in most cases here. The ductwork is losing heat before the air reaches a register, so a bigger unit works harder to overcome the loss and runs longer doing it. If the attic gets sealed and insulated and the system still cannot hold temperature, then the equipment is genuinely undersized and the load calculation will show that. Doing the attic work first also makes the eventual sizing decision accurate."
+    },
+    {
+      "q": "Is my system too old to repair?",
+      "a": "Age alone does not decide it. A well-maintained system from the 1980s can be serviceable, while a neglected one from the same decade can be a pile of failed parts. The useful questions are what the refrigerant type is, how long the unit has been out of service, and whether the same fault has already been repaired once. A technician who checks the nameplate and the compressor draw can tell you quickly whether the money goes further into repair or into replacement."
+    }
+  ]
+}
