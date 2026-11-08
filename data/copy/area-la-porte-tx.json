@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "La Porte is an older town on the east side with a working industrial strip behind it, and the summer air carries salt off the bay and particulate off the plant. The houses run from the 1950s through the 1990s, which means a lot of outdoor units have been standing in that air for a long time.",
   "localAngle": "The condenser is where the local air shows up first. Salt settles on the fins and dulls them. Dust from the industrial corridor packs between the fins and holds moisture against them. A coil that is dirty and scaled moves far less air than a clean one, and the unit works longer for the same result, so the house cools slower and the electric use climbs. The housing adds a second layer. The 1950s through 70s homes have small windows and little insulation, and their original systems were sized for a smaller cooling market. Add the coastal oak and you get shade for the house and debris for the equipment.",
   "commonCalls": [
@@ -47,7 +47,7 @@
   "services": {
     "emergency-ac-repair": {
       "intro": "Emergency calls in La Porte tend to be a system giving out at the hottest hour of the hottest week. That points to a compressor working against a coil that cannot shed heat, or to the electrical side of an outdoor unit that has been standing in salt air for a long time.",
-      "localNote": "Coastal corrosion is the thread through most of these calls. The contactor, the disconnect and the wiring inside the outdoor cabinet all sit in the path of moist air, and a corroded connection will arc and open on a high-demand afternoon. Add the dust from the corridor and the coil runs hotter than it should. The company covering your area will want the model and the age of the outdoor unit when you call.",
+      "localNote": "Coastal corrosion is the thread through most of these calls. The contactor, the disconnect and the wiring inside the outdoor cabinet all sit in the path of moist air, and a corroded connection will arc and open on a high-demand afternoon. Add the dust from the corridor and the coil runs hotter than it should. We ask for the model and the age of the outdoor unit when you call, and we pass both on to the company covering your street.",
       "faqs": [
         {
           "q": "Why does my La Porte AC fail in the peak of the afternoon?",

@@ -99,6 +99,7 @@ function header(cfg, current) {
   const areas = cfg._nav.areas;
   const pillar = cfg._nav.pillar;
   const q = Math.ceil(areas.length / 3);
+  const phone = cfg.phone?.publish ? cfg.phone : null;
 
   const li = (href, label) => `<li><a href="${href}">${esc(label)}</a></li>`;
   let colN = 0;
@@ -114,7 +115,7 @@ function header(cfg, current) {
       ${col('Repair and install', core.slice(half).map((x) => li(url.service(x), x.name)))}
       <div class="sub__cta">
         <strong>Not sure what you need?</strong>
-        <span>Describe it in the form and it goes to an HVAC company that covers your area.</span>
+        <span>Describe it in the form and we send it to an HVAC company that covers your area.</span>
         <a class="btn btn--call" href="#request">Request service</a>
       </div>
     </div></div>`;
@@ -137,6 +138,17 @@ function header(cfg, current) {
         li(url.forCompanies(), 'For HVAC companies'),
       ].join('')}</ul></div>
     </div></div>`;
+
+  /* The call button. On a phone the header carries a call button instead of the
+     request button, because on a phone a call is what people reach for and the
+     fixed bar at the bottom of the screen already holds the request. The
+     number is the same on both. */
+  const callBtn = phone
+    ? `<a class="hdr__call" href="tel:${esc(phone.e164)}" aria-label="Call ${esc(phone.display)}">
+        <svg viewBox="0 0 24 24" aria-hidden="true" width="16" height="16"><path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.24 11.4 11.4 0 0 0 3.6.58 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1 11.4 11.4 0 0 0 .58 3.6 1 1 0 0 1-.25 1z"/></svg>
+        <span class="hdr__call-lbl">Call</span><span class="hdr__call-num">${esc(phone.display)}</span>
+      </a>`
+    : '';
 
   return `<header class="hdr">
   <div class="wrap hdr__in">
@@ -168,14 +180,17 @@ function header(cfg, current) {
       ${mobilePanel}
     </details>
 
+    ${callBtn}
     <a class="hdr__cta" href="#request">Request service</a>
   </div>
 </header>`;
 }
 
 function ribbon(cfg) {
+  const phone = cfg.phone?.publish ? cfg.phone : null;
   return `<div class="ribbon"><div class="wrap">
-    <span>&#9679; Houston heat is on. Same-day AC repair available.</span>
+    <span>&#9679; Houston heat is on. Same-day and emergency requests welcome.</span>
+    ${phone ? `<a class="ribbon__call" href="tel:${esc(phone.e164)}">${esc(phone.display)}</a>` : ''}
   </div></div>`;
 }
 
@@ -192,8 +207,10 @@ ${crumbs
 }
 
 function formbar(cfg) {
+  const phone = cfg.phone?.publish ? cfg.phone : null;
   return `<div class="callbar">
-  <a class="btn btn--call" href="#request">Request AC service</a>
+  ${phone ? `<a class="btn btn--call" href="tel:${esc(phone.e164)}">Call ${esc(phone.display)}</a>` : ''}
+  <a class="btn btn--line" href="#request">Request service</a>
 </div>`;
 }
 
@@ -220,6 +237,9 @@ function footer(cfg) {
       insurance, pricing and the work itself are the responsibility of the independent HVAC
       company that takes your request. Always confirm a contractor's license with the Texas
       Department of Licensing and Regulation before work begins.</p>
+      ${cfg.phone?.publish ? `<p>The number on this site is a call tracking line. If you call it,
+      a partner company working your area may answer. If nobody answers, use the request form and
+      we will pass it to a company that covers your street.</p>` : ''}
       <p><a href="${url.howItWorks()}">How it works</a> &middot; <a href="${url.forCompanies()}">For HVAC companies</a>
       &middot; <a href="${url.sitemap()}">Sitemap</a> &middot; <a href="${url.privacy()}">Privacy</a>
       &middot; <a href="${url.terms()}">Terms</a></p>
@@ -259,6 +279,7 @@ export function img(name, alt, { sizes = '100vw', eager = false, cls = '' } = {}
    and what is happening. Anything more is a reason to abandon the form. */
 export function requestForm(cfg, { heading = 'Request AC service', area = '', service = '' } = {}) {
   const pending = cfg.conversion.status !== 'active';
+  const phone = cfg.phone?.publish ? cfg.phone : null;
   const areaOptions = [cfg._nav.pillar, ...cfg._nav.areas]
     .map((a) => `<option value="${esc(a.name)}${a.stateAbbr ? ', ' + a.stateAbbr : ''}"${a.name === area ? ' selected' : ''}>${esc(a.name)}</option>`)
     .join('');
@@ -271,13 +292,15 @@ export function requestForm(cfg, { heading = 'Request AC service', area = '', se
     <div class="formgrid__intro">
       <span class="kicker">Free to request</span>
       <h2>${esc(heading)}</h2>
-      <p class="lede">Tell us what is happening and where you are. It goes to an HVAC company that
-      covers your area, and they come back with a next step. No charge to you.</p>
+      <p class="lede">Tell us what is happening and where you are. We share your request with the
+      HVAC company or companies working your area, and you get a call back with a next step.
+      No charge to you.</p>
       <ul class="ticks">
         <li>Describe the symptom in your own words</li>
-        <li>Get a callback from a company that works in your area</li>
+        <li>Get a call back from a company that works in your area</li>
         <li>No obligation, no cost to you</li>
       </ul>
+      ${phone ? `<p class="formgrid__call">Would rather talk it through? <a href="tel:${esc(phone.e164)}">Call ${esc(phone.display)}</a>.</p>` : ''}
     </div>
     <div class="formcard">
       ${pending
@@ -317,7 +340,7 @@ export function requestForm(cfg, { heading = 'Request AC service', area = '', se
         </div>
         <button class="btn btn--call btn--full" type="submit"${pending ? ' disabled' : ''}>Send request</button>
         <p class="rform__status" id="rf-status" role="status" aria-live="polite"></p>
-        <p class="rform__note">No cost to you. HVAC companies pay for the referral.</p>
+        <p class="rform__note">No cost to you. Your request is shared with the HVAC company or companies working your area, and they pay us a referral fee. They will contact you about the job.</p>
       </form>
     </div>
   </div>
@@ -371,6 +394,7 @@ ${items
    Service. It is NOT a LocalBusiness and carries no address, no geo, no rating,
    because it has no premises and no reviews we can attribute. */
 export function orgSchema(cfg) {
+  const phone = cfg.phone?.publish ? cfg.phone : null;
   return {
     '@context': 'https://schema.org',
     '@type': 'Organization',
@@ -384,6 +408,7 @@ export function orgSchema(cfg) {
       contactType: 'customer service',
       areaServed: 'US',
       availableLanguage: 'English',
+      ...(phone ? { telephone: phone.e164 } : {}),
     },
   };
 }

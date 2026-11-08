@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Katy is mostly housing built after 2000, and a lot of those houses are large, west-facing and shaded by mature oaks. The sun loads the back of the house late in the afternoon, and the cottonwood and mesquite from those oaks fall straight down onto the outdoor units. On top of that, the ERCOT supply gets rough during the peak of a July evening, and a compressor working against a sagging voltage has nothing left in reserve.",
   "localAngle": "Most Katy stock was built after 2000 with west-facing elevation and high windows, so solar gain lands on the back of the house when outside air is still hot enough to cook. Shade is generous and that cuts attic temperature somewhat, but it also traps moisture around the outdoor coil. Cottonwood and mesquite litter falls straight down on units sitting under the oaks. The power supply also dips during the hottest stretch of the afternoon, and a struggling compressor on a sagging voltage will trip before it cools.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "5 FAQs. Local conditions used: west-facing solar load, oak and cottonwood litter, ERCOT afternoon demand peaks, and the absence of coastal salt.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "When a Katy unit stops in the middle of a July afternoon, the house heats up in a couple of hours, especially on the west-facing side. We pass the request to the HVAC company that covers your part of the corridor and let them work the fault directly. The first thing the technician does is confirm whether this is a mechanical fault or a power problem.",
+      "intro": "When a Katy unit stops in the middle of a July afternoon, the house heats up in a couple of hours, especially on the west-facing side. We send it to a company that covers your part of the corridor and let them work the fault directly. The first thing the technician does is confirm whether this is a mechanical fault or a power problem.",
       "localNote": "Katy runs on ERCOT, and the grid gets rough in the peak afternoon demand window. A unit that trips its breaker or drops out at four in the afternoon is often a supply problem, not a dead compressor. The technician should measure the voltage at the disconnect before ordering parts. Add the oak litter on the coil and a system working hard against a sagging supply, and that is the Katy emergency profile.",
       "faqs": [
         {
@@ -108,7 +108,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and two local ones: the west-facing load, the oak and cottonwood litter, the ERCOT afternoon supply, and the age of the equipment."
     },
     "ac-repair": {
-      "intro": "Katy systems are young, so most repair work here is a component failure rather than a worn-out machine. The recurring list is a failed capacitor, a contactor that has pitted shut, a failed motor, and refrigerant leaks at old braze joints, so the diagnosis comes first and then the parts. We connect you with a company that covers the Katy area so the fault gets looked at on site rather than guessed at over the phone.",
+      "intro": "Katy systems are young, so most repair work here is a component failure rather than a worn-out machine. The recurring list is a failed capacitor, a contactor that has pitted shut, a failed motor, and refrigerant leaks at old braze joints, so the diagnosis comes first and then the parts. We send the request to a company that covers the Katy area so the fault gets looked at on site rather than guessed at over the phone.",
       "localNote": "Because most of the housing here dates from after 2000, the failures are usually electrical or refrigerant rather than the corroded cabinet and perished rubber you find on older units elsewhere in the metro. What Katy does add is debris load. The unit sits under mature oaks and the coil needs clearing before pressures can be read honestly. Expect a coil clean before any quote.",
       "faqs": [
         {
@@ -232,7 +232,7 @@
       "_faqsNote": "6 FAQs. Local: cottonwood and mesquite drop under the oaks, the 130 to 140 degree attic, and the pre-summer window."
     },
     "condenser-repair": {
-      "intro": "The condenser is the outdoor unit, the box in the yard that does the work of dumping heat. Most calls on it come down to a fan motor, a capacitor, a contactor, or a coil that has packed itself with leaves. The technician who takes the job checks airflow and the electrical side first, because that is where the faults are.",
+      "intro": "The condenser is the outdoor unit, the box in the yard that does the work of dumping heat, and the unit in Katy often sits in the shade of a mature oak. Most calls on it come down to a fan motor, a capacitor, a contactor, or a coil that has packed itself with leaves. Airflow and the electrical side get checked first, because that is where the faults are.",
       "localNote": "Katy units are mostly from the 2000s, so the cabinet is still sound and what wears out is electrical and the coil face. There is no salt to eat the metal this far inland, but there is a great deal of humidity and shade, and a unit sitting under a mature oak collects cottonwood and mesquite through the year. That combination explains a hum that stops short of a start and the rattling that shows up on a humid evening.",
       "faqs": [
         {
@@ -263,7 +263,7 @@
       "_faqsNote": "6 FAQs. Local: inland cabinet condition instead of salt, oak litter on the coil, and the ERCOT afternoon dip behind a humming unit."
     },
     "compressor-repair": {
-      "intro": "The compressor is the pump that moves the refrigerant, and when it fails the system goes quiet at once. Sometimes it can be rebuilt, and more often the honest answer is a replacement. The technician who takes the job finds out why it failed before anything is ordered, because whatever killed it will kill a new one too.",
+      "intro": "The compressor is the pump that moves the refrigerant, and when it fails the system goes quiet at once. The equipment in these yards went in with the houses in the 2000s, so a compressor here is often young when it lets go. Sometimes it can be rebuilt, and more often the honest answer is a replacement. The cause gets established before anything is ordered, because whatever killed it will kill a new one too.",
       "localNote": "On Katy systems the compressor tends to fail young rather than old. Most of the equipment here went in with the house in the 2000s, so age is not the story, heat is. A condenser packed with oak litter runs hot with no relief, and a supply that dips during a summer demand peak makes a tired compressor harder to start, which is how a lot of these units end.",
       "faqs": [
         {
@@ -288,7 +288,7 @@
         },
         {
           "q": "Is it safe to keep running if the compressor is making a noise?",
-          "a": "Not if it is grinding or buzzing and then stopping. A compressor that is locked draws current, can trip the breaker, and can damage the contactor and the windings if it keeps trying to start. Turn the system off at the thermostat and leave the breaker off until the technician who takes the job has had a look at it."
+          "a": "Not if it is grinding or buzzing and then stopping. A compressor that is locked draws current, can trip the breaker, and can damage the contactor and the windings if it keeps trying to start. Turn the system off at the thermostat and leave the breaker off until the technician has had a look at it."
         }
       ],
       "_faqsNote": "6 FAQs. Local: 2000s equipment failing on heat rather than age, the ERCOT demand dip, and attic heat around the air handler."
@@ -325,7 +325,7 @@
       "_faqsNote": "6 FAQs. Local: attic line sets at 130 to 140 degrees, early-2000s refrigerant types, and where the oil mark shows up."
     },
     "refrigerant-recharge": {
-      "intro": "A recharge means bringing the charge back to the number on the nameplate and confirming it with gauges, not filling a canister until the hose feels right. The technician who takes the job reads superheat and subcooling, and those two readings tell you whether the system is running properly or covering up something else.",
+      "intro": "A recharge means bringing the charge back to the number on the nameplate and confirming it with gauges, not filling a canister until the hose feels right. Superheat and subcooling get read, and those two readings tell you whether the system is running properly or covering up something else.",
       "localNote": "In Katy the numbers move more than they do in a dry climate. The condenser sits under an oak collecting cottonwood and mesquite, the air handler works in an attic at 130 to 140 degrees, and the supply is unreliable through the afternoon peak. Each of those changes what the charge should be, so the readings are taken with the system settled under those conditions rather than from a guess.",
       "faqs": [
         {
@@ -361,7 +361,7 @@
       "faqs": [
         {
           "q": "Why does the indoor coil keep freezing over?",
-          "a": "Three things, and they often come together. Restriction on the filter or in the duct, a low charge, and a thermostat set cold enough to pull the coil below freezing. The coil thaws, the water runs into the pan, and then it freezes again the next night. The technician who takes the job has to work out which of the three is doing it, because washing the coil and calling the job done is how it comes back inside a week."
+          "a": "Three things, and they often come together. Restriction on the filter or in the duct, a low charge, and a thermostat set cold enough to pull the coil below freezing. The coil thaws, the water runs into the pan, and then it freezes again the next night. Which of the three is doing it has to be worked out, because washing the coil and calling the job done is how it comes back inside a week."
         },
         {
           "q": "What is the grey or green slime on my coil?",

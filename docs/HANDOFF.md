@@ -86,7 +86,7 @@ a full national page, and every area links to all of them.
   `http://localhost:4173` via `npx http-server`)
 - Production build command: `npm run build`
 - Output directory: `dist/`
-- Full check: `npm test` (source checks, copy audit self-test, clean build, SEO audit, link audit)
+- Full check: `npm test` (source checks, copy audit, clean build, SEO audit, link audit)
 - Copy audit: `npm run audit:copy`
 - Page by page SEO audit of the built site: `npm run audit:seo`
 - Internal link architecture audit: `npm run audit:links`
@@ -121,8 +121,11 @@ it lives with the host, not in this repository.
 
 ## Lead routing
 
-- Phone status: **none**. No phone number is published anywhere in the site,
-  the copy, or the structured data.
+- Phone status: **one call tracking line**, configured in `data/config.json`
+  under `phone`. It is published in the header, the ribbon, the fixed mobile
+  bar, the request form and the `Organization` schema. It forwards to a
+  partner company. The current value is a placeholder and the build prints a
+  launch blocker until `phone.verified` is `true`.
 - Form destination: `POST /api/leads`, status `"pending"` until the handler
   is deployed.
 - Spam protection: a honeypot field on the form, plus rate limiting and a
@@ -131,10 +134,14 @@ it lives with the host, not in this repository.
   shows a sending state, a success message, and an error message that asks the
   user to try again. It never reports success for a failed submission.
 
-**Why form-only:** this site is a referral service with no operator, no
-premises and no phone number. Publishing a placeholder line would send real
-emergency calls to a stranger. The truth policy from the build skill is
-explicit: never publish a fake, example, inactive, or competitor number.
+**Why one number and why it is gated:** the number is owned by this site even
+though a contractor answers it, so publishing it is honest, and it is the single
+highest-value element on a mobile page for a service business. Two flags
+control it. `phone.publish` decides whether a call button exists at all, and
+`phone.verified` decides whether the number is real. The build refuses to
+accept any phone number in the HTML that is not the one in the config, and it
+refuses to let a placeholder be marked verified, so the placeholder cannot
+reach production by accident.
 
 ## SEO and analytics
 
@@ -148,8 +155,9 @@ explicit: never publish a fake, example, inactive, or competitor number.
 - Sitemap: `/sitemap.xml`, generated at build time from the real page list.
 - Robots: `/robots.txt` allows everything and points at the sitemap.
 - Structured data types: `Organization`, `Service`, `WebSite`, `FAQPage`,
-  `BreadcrumbList`. No `LocalBusiness`, no address, no `geo`, no telephone, no
-  `aggregateRating`, no review markup.
+  `BreadcrumbList`. No `LocalBusiness`, no address, no `geo`, no
+  `aggregateRating`, no review markup. The `Organization` carries the
+  published call tracking number as its `contactPoint.telephone`.
 - Analytics: not installed. See `docs/LAUNCH-BLOCKERS.md` item 5.
 - Search Console owner: not set up.
 
@@ -165,9 +173,10 @@ explicit: never publish a fake, example, inactive, or competitor number.
       `h1` per page, no heading level jumps, title and description lengths in
       range, every image has alt text, every CSS class used is defined in the
       stylesheet
-- [x] Truth gate passes on every page: no phone number, no `tel:` link, no
-      street address, no `LocalBusiness` schema, no `telephone`, no
-      `aggregateRating`, no review markup, no claim of employing technicians
+- [x] Truth gate passes on every page: no street address, no `LocalBusiness`
+      schema, no `aggregateRating`, no review markup, no claim of employing
+      technicians, and every phone number or `tel:` link on the page is the
+      one published in `data/config.json`
 - [x] Link graph: 36,165 internal links, median 21 inbound per page, every one
       of the 425 indexable pages reachable from the home page, no orphans, no
       thinly linked pages
@@ -222,9 +231,12 @@ photography in place of the illustrations.
   photographs. They are sharp at any size and cost almost nothing to load, but
   they are diagrams rather than pictures of real work. Commissioning real
   photographs is item 6 in the launch blockers.
-- **No phone number.** Every call to action points at the form. This is
-  deliberate and it is also a conversion cost. Item 3 in the launch blockers
-  covers what has to change if a number is added.
+- **The phone number is still a placeholder.** The call button is built and
+  wired everywhere it should be, but `data/config.json` carries
+  `(713) 555-0100` until the real call tracking line is bought. The build
+  prints a launch blocker while `phone.verified` is `false`, and it fails if
+  the number is marked verified while it still looks like a placeholder. Item
+  3 in the launch blockers covers the swap.
 - **Six services per non-Houston area.** The other fifteen services have
   national pages and are linked from every area, but do not get their own
   area x service page outside Houston. This is a deliberate anti-doorway

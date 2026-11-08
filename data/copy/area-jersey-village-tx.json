@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Jersey Village mixes 1950s through 1980s houses with apartment complexes sitting right next to them, and the cooling systems do not behave the same way. A single-family ranch with a ground pad and a 1960s split system is a different job from a shared rooftop unit feeding a stack of apartments through risers.",
   "localAngle": "The mix is what makes this place distinct. On the older single-family streets the equipment sits on a slab in the yard and the troubles are familiar: an undersized system from the 1960s, a filter rack that was never upgraded, a compressor that has run hard for fifteen summers. In the apartment complexes the machines are shared. One rooftop unit serves many tenants, so a single fault takes out a stack of apartments at once, and condensate drains run through the building as vertical risers. When something fails, who controls the equipment changes with it. A rooftop unit belongs to the building, a ground pad to the homeowner.",
   "commonCalls": [
@@ -24,7 +24,7 @@
   "faqs": [
     {
       "q": "My apartment in Jersey Village has no cooling and the manager says it is fine. What do I do?",
-      "a": "A shared rooftop unit that is down affects every unit it serves, so check whether the outdoor equipment is running before assuming anything is wrong with your thermostat. Then raise it in writing with the property manager. The equipment on a roof belongs to the building, and the HVAC company covering your area will need the manager's authorization before anyone opens it."
+      "a": "A shared rooftop unit that is down affects every unit it serves, so check whether the outdoor equipment is running before assuming anything is wrong with your thermostat. Then raise it in writing with the property manager. The equipment on a roof belongs to the building, and the company we send the request to will need the manager's authorization before anyone opens it."
     },
     {
       "q": "Why is my ceiling dripping in a Jersey Village apartment?",
@@ -51,7 +51,7 @@
   "services": {
     "emergency-ac-repair": {
       "intro": "Emergency work here splits between single-family breakdowns and apartment buildings where a shared unit has stopped. The apartment calls are the ones that move fastest, because the same fault is affecting every unit on that stack.",
-      "localNote": "In the complexes the emergency is often a rooftop unit locked out on a high pressure or freeze fault, and the reset happens at the roof unit, not at a thermostat. In the older houses the outdoor unit sits on a side pad and the trouble is an aged compressor or a failing capacitor. The company we pass the request to asks whether the equipment is yours or the building's, since that decides who authorizes the work.",
+      "localNote": "In the complexes the emergency is often a rooftop unit locked out on a high pressure or freeze fault, and the reset happens at the roof unit, not at a thermostat. In the older houses the outdoor unit sits on a side pad and the trouble is an aged compressor or a failing capacitor. We ask whether the equipment is yours or the building's before the request goes out, because that decides who authorizes the work.",
       "faqs": [
         {
           "q": "My whole floor of apartments lost cooling at once. What is likely happening?",

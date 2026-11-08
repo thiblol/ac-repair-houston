@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Cinco Ranch was master-planned from the 2000s and the homes are large, two storeys, often with a second-floor living area over a garage. That layout puts the cooling load where the duct runs have the least space and the most distance to travel.",
   "localAngle": "The house itself is the local condition here. A two-storey home in these neighborhoods puts the bedrooms and the media room above a garage, and the air handler is often in the garage attic with ducts that have to climb through the floor structure to get there. Bonus rooms with vaulted ceilings add volume that needs conditioning. The equipment is young, but it was sized for the first version of the house, and a lot of these floors were finished later or fitted out with more glass than the plan called for. Oak and pine on the lots add the usual debris to the condenser.",
   "commonCalls": [
@@ -50,7 +50,7 @@
   "_faqsNote": "6 FAQs about this area specifically.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "Losing cooling in a large two-storey house is felt quickly, because the second floor has no other way to cool down. The HVAC company we connect you with covers Cinco Ranch, so a request goes to the technician who takes the job.",
+      "intro": "Losing cooling in a large two-storey house is felt quickly, because the second floor has no other way to cool down. We send the request to a company that covers Cinco Ranch, and the fault gets worked on site.",
       "localNote": "The emergency calls here tend to involve a zoned system where one zone has failed and the rest are compensating. The upstairs zone in particular is usually the one that stops, because its duct run is the longest and it is the last to get air. The technician checks the zone damper and the air handler rather than treating it as a whole system failure.",
       "faqs": [
         {
@@ -81,7 +81,7 @@
       "_faqsNote": "6 FAQs. Local coverage: the upstairs zone on its long duct run, the garage attic handler, ERCOT summer interruptions on the local supply."
     },
     "ac-not-cooling": {
-      "intro": "In a large zoned home, air that blows warm is usually a zone issue rather than a whole system issue. The company that covers this area looks at the zone and the duct path before assuming anything about the refrigerant.",
+      "intro": "In a large zoned home, air that blows warm is usually a zone issue rather than a whole system issue. The zone and the duct path get looked at before anything is assumed about the refrigerant.",
       "localNote": "The two-storey layout makes this a distribution problem more often than a capacity one. The upstairs zone runs through duct that was sized for the plan before the rooms were finished, and a bonus room with vaulted ceilings draws far more air than the same room with a flat ceiling. The system can be running fine and still not move enough air to the floor it serves.",
       "faqs": [
         {
@@ -113,7 +113,7 @@
     },
     "ac-repair": {
       "intro": "The equipment in these homes is young, so repairs are more often about control and distribution than worn parts. The diagnosis matters because the symptom of a zone fault and the symptom of a system fault look identical from the thermostat.",
-      "localNote": "On a zoned system the first question is which part of the system the fault belongs to: the air handler, the zone damper, the zone control board or the thermostat. The building adds another layer, because a garage attic full of stored boxes or a foam-insulated attic can quietly choke the return air. The technician who takes the job checks airflow at the unit and at the zone, not just at the thermostat.",
+      "localNote": "On a zoned system the first question is which part of the system the fault belongs to: the air handler, the zone damper, the zone control board or the thermostat. The building adds another layer, because a garage attic full of stored boxes or a foam-insulated attic can quietly choke the return air. Airflow gets checked at the unit and at the zone, not just at the thermostat.",
       "faqs": [
         {
           "q": "Why do you check the return air in the garage attic?",
@@ -241,7 +241,7 @@
       "faqs": [
         {
           "q": "My outdoor unit hums but the compressor never starts. What is wrong?",
-          "a": "That points at the contactor, the run capacitor or the compressor windings rather than at the coil. The fan will often still spin because it has its own circuit. The technician who takes the job tests the capacitor and the contactor first, because they are the inexpensive parts to change and they fail in this heat."
+          "a": "That points at the contactor, the run capacitor or the compressor windings rather than at the coil. The fan will often still spin because it has its own circuit. The capacitor and the contactor get tested first, because they are the inexpensive parts to change and they fail in this heat."
         },
         {
           "q": "How do I know the condenser coil is packed with debris?",
@@ -267,7 +267,7 @@
       "_faqsNote": "6 FAQs. At least two reference a real local condition."
     },
     "compressor-repair": {
-      "intro": "Everything in the system depends on the pump at its center, and when that pump fails the whole house feels it. Some compressors can be rebuilt. Some make the outdoor unit worth replacing. The technician who takes the job will say which one this is before you commit to anything, and will say what killed it.",
+      "intro": "Everything in the system depends on the pump at its center, and when that pump fails the whole house feels it. Some compressors can be rebuilt. Some make the outdoor unit worth replacing. Which one this is, and what killed it, gets said before you commit to anything.",
       "localNote": "The load on these systems is heavy and the summer power is not dependable. A master-planned house from 2000 onward carries the second floor and the bonus room on the same equipment, and the outdoor unit sits outside for months in humidity that never really drops. The older streets around Falcon Point have put a lot more run hours on their compressors than the newer lots along the Grand Parkway corridor.",
       "faqs": [
         {

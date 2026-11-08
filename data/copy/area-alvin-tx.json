@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Alvin has a lot of housing from the 1980s that has been running on whatever maintenance money was available, and it sits inside the salt belt that runs along the upper Texas coast. That combination is the reason so many calls out here are about equipment that has reached the end of its useful life all at once.",
   "localAngle": "The equipment in this part of Brazoria County often went in during the 1980s and was never serviced the way it should have been, and that short history shows up now. Salt in the air eats the coil and the cabinet base, a neglected coil starves the refrigerant side, and a system that was never cleaned up runs hot from the first hot week of the year. Coastal oak drops more debris onto these units than most homeowners realize, because the units sit in the shade where nobody looks at them. Salt plus deferred maintenance plus shade is the local failure pattern, and it hits older systems hardest.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "When an older Alvin unit quits in July, it is usually not a small thing. The house heats up within the hour and the system will not come back on its own. The HVAC company we connect you with covers Brazoria County, so the request goes to the technician who takes the job.",
+      "intro": "When an older Alvin unit quits in July, it is usually not a small thing. The house heats up within the hour and the system will not come back on its own. We send the request to a company that covers Brazoria County, and the fault gets worked on site.",
       "localNote": "The units out here that fail in the heat are mostly 1980s equipment that never got a cleaning, sitting in salt air in the shade of a mature oak. The compressor has been running hot for years. When it finally locks out, the fault is usually on the high side of the system: a dirty coil, a refrigerant charge that has drifted low, or a capacitor that has cooked.",
       "faqs": [
         {
@@ -77,7 +77,7 @@
       "_faqsNote": "6 FAQs. Salt corrosion, the 1980s installs and the ERCOT summer supply carry the local weight."
     },
     "ac-not-cooling": {
-      "intro": "Blowing warm air out of the vents while the compressor is running is one of the more common calls in Alvin, and it is usually the outdoor coil rather than the gas. The company that covers this area checks airflow on the condenser before anyone goes near the refrigerant line.",
+      "intro": "Blowing warm air out of the vents while the compressor is running is one of the more common calls in Alvin, and it is usually the outdoor coil rather than the gas. Airflow on the condenser gets checked before anyone goes near the refrigerant line.",
       "localNote": "The mechanism here is the coastal one: a coil that has salt crust on the fins and oak debris packed between them cannot reject heat, so the compressor runs and the house stays warm. A system that has never been cleaned up also tends to be low on charge for the same reason. The technician will distinguish between a dirty coil and a genuine refrigerant fault before recommending anything.",
       "faqs": [
         {
@@ -125,7 +125,7 @@
         },
         {
           "q": "Can someone come to my house in Alvin the same day and fix it?",
-          "a": "Often, and nobody can promise it. The company that covers this area runs a same day list across Brazoria County, so a request sent early in the morning has the best chance of landing that day, while one sent after lunch usually becomes the next morning. Alvin is not a short drive from the Houston side, and the calls that carry the most weight are the ones where a 1980s unit in salt air has gone down in the first hot week and the house is already uncomfortable with the humidity in this part of the county. What decides the outcome is the fault rather than the address. A contactor, a capacitor or a system that has lost its charge can be handled on one visit. A compressor or a coil change is a parts problem, and the part has to be on the truck before anyone starts. Calls where the house is too hot to sleep in are handled on a separate track, so saying which one it is when the request goes in is worth doing."
+          "a": "Often, and nobody can promise it. We send the request to a company that runs a same day list across Brazoria County, so a request sent early in the morning has the best chance of landing that day, while one sent after lunch usually becomes the next morning. Alvin is not a short drive from the Houston side, and the calls that carry the most weight are the ones where a 1980s unit in salt air has gone down in the first hot week and the house is already uncomfortable with the humidity in this part of the county. What decides the outcome is the fault rather than the address. A contactor, a capacitor or a system that has lost its charge can be handled on one visit. A compressor or a coil change is a parts problem, and the part has to be on the truck before anyone starts. Calls where the house is too hot to sleep in are handled on a separate track, so saying which one it is when the request goes in is worth doing."
         },
         {
           "q": "What actually moves the price of an AC repair?",
@@ -272,7 +272,7 @@
         },
         {
           "q": "My unit trips the breaker right after it starts. Is that the compressor?",
-          "a": "It might be, but it is not the first suspect. A compressor that locks trips the breaker instantly, and so does a shorted capacitor or a failing contactor. The technician who takes the job finds the cause with a meter and the breaker off, because guessing at this one is expensive."
+          "a": "It might be, but it is not the first suspect. A compressor that locks trips the breaker instantly, and so does a shorted capacitor or a failing contactor. The cause gets found with a meter and the breaker off, because guessing at this one is expensive."
         },
         {
           "q": "Why does the compressor fail hardest in the hottest weeks?",
@@ -325,7 +325,7 @@
       "_faqsNote": "6 FAQs. Attic heat, salt on the line set and the older refrigerant supply carry the local weight."
     },
     "refrigerant-recharge": {
-      "intro": "A recharge is a measurement job, not a canister and a guess. The technician who takes the job brings the charge to the weight on the nameplate and then reads superheat and subcooling at the outdoor unit. Those readings are what separate a system that is right from one that merely has enough gas to keep running.",
+      "intro": "A recharge is a measurement job, not a canister and a guess. The charge gets brought to the weight on the nameplate and then superheat and subcooling get read at the outdoor unit. Those readings are what separate a system that is right from one that merely has enough gas to keep running.",
       "localNote": "Alvin has a specific reason why the measurement matters more here than a quick top up. A system from the 1980s takes the older refrigerant, which is still available but no longer made for new equipment, and the correct weight has to be worked out against what the nameplate calls for rather than against what happens to be on the truck. Humidity loads this climate hard, and a system that is even a little under charge will not hold temperature through an August afternoon.",
       "faqs": [
         {
@@ -439,7 +439,7 @@
         },
         {
           "q": "Can the same visit that fixes the system install the thermostat?",
-          "a": "The technician who takes the job can usually do both, and it is worth asking for the thermostat work at the same visit as a repair. The wiring gets checked while the system is open, and a fault that looked like an equipment failure turns out to have been the thermostat all along."
+          "a": "The technician can usually do both, and it is worth asking for the thermostat work at the same visit as a repair. The wiring gets checked while the system is open, and a fault that looked like an equipment failure turns out to have been the thermostat all along."
         },
         {
           "q": "How much does it cost to install a thermostat?",

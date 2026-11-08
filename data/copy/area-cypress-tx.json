@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Cypress has the newest housing in the northwest corridor, and that changes the kind of AC work that happens here. The equipment is not old. The problems are more often about how the system was installed and designed, with tight ductwork and sealed attics that hold heat the ducts then have to push through.",
   "localAngle": "New construction in Cypress was built to current codes, and the codes are not always kind to the air moving through it. A sealed attic still sits in the same 130 to 140 degree range as every other attic in Houston, so ducts running through it arrive with less of their cooling than they left with. Many of these houses were framed for a plan that changed before the family moved in, and the system was sized to the plan rather than to the load. The result is a newer unit that runs constantly and never satisfies the thermostat, which looks like a fault and is often a design one.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "5 FAQs. Local conditions used: sealed attic duct temperatures, newer high-efficiency coil freezes, plan-based sizing, and no salt exposure inland.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "Emergency calls in Cypress tend to happen in the first hot stretch after a storm or a power interruption. Newer equipment with electronic controls does not always restart cleanly on its own. We pass the request to the HVAC company that covers the northwest corridor and let them work the fault directly.",
+      "intro": "Emergency calls in Cypress tend to happen in the first hot stretch after a storm or a power interruption. Newer equipment with electronic controls does not always restart cleanly on its own. We forward the request to an HVAC company that covers the northwest corridor, and they work the fault directly.",
       "localNote": "A house with modern equipment and a marginal power supply is a different failure profile from an old unit dying. After a brief outage the compressor can sit locked out waiting for a restart that never comes, and a system that has been running hard for an hour in a 130 degree attic needs the technician to check the contactor and the supply voltage. Cypress homes are new enough that a fault is wiring or controls before it is wear.",
       "faqs": [
         {
@@ -294,7 +294,7 @@
       "_faqsNote": "6 FAQs. Local: heat and humidity in the yard, oak and pine fouling the coil, 2000s equipment, fence-to-property-line access on small lots."
     },
     "refrigerant-leak-repair": {
-      "intro": "Refrigerant does not get used up, so a system that needs it added every season has somewhere it is escaping. Locating that spot, sealing it and restoring the charge are three separate jobs, and the one that matters is the first. The request goes to an HVAC company that covers the northwest corridor, and the technician starts by putting gauges on the system and looking for the loss.",
+      "intro": "Refrigerant does not get used up, so a system that needs it added every season has somewhere it is escaping. Locating that spot, sealing it and restoring the charge are three separate jobs, and the one that matters is the first. We put it in front of an HVAC company that covers the northwest corridor, and the technician starts by putting gauges on the system and looking for the loss.",
       "localNote": "Leaks in Cypress are rarely where the customer expects them to be. The line set runs from a cabinet in an attic that sits at 130 to 140 degrees down to a pad in a yard where oak and pine drop every spring, and the thermal cycling works those joints loose over a few seasons. The copper up in the attic is hot enough to find with the back of a hand. On newer installations the joints are the original ones from the build.",
       "faqs": [
         {
@@ -418,7 +418,7 @@
       "_faqsNote": "6 FAQs. Local: attic blower at 130 to 140 degrees, control board alongside a new motor, ERCOT interruptions mid-run, very high humidity."
     },
     "thermostat-installation": {
-      "intro": "Changing a thermostat is quick once the wiring is understood, and it is the most common way a system that works fine gets blamed on the equipment. Most thermostat calls turn out to be a wire set left over from an earlier install or a thermostat that was never set up to talk to the system properly. The request goes to an HVAC company that covers the northwest corridor for the swap.",
+      "intro": "Changing a thermostat is quick once the wiring is understood, and it is the most common way a system that works fine gets blamed on the equipment. Most thermostat calls turn out to be a wire set left over from an earlier install or a thermostat that was never set up to talk to the system properly. We forward the request to an HVAC company that covers the northwest corridor for the swap.",
       "localNote": "Photograph the wires before anything comes off, because the terminal labels rarely match what is actually connected. On a Cypress house built in the 2000s the existing thermostat may be a line voltage unit left by the builder, and a smart thermostat fitted to it later may have borrowed a wire the air handler never really had. There is also the reverse problem here: a house that was wired for the thermostat and later had a system installed that does not speak its language.",
       "faqs": [
         {

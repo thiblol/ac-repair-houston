@@ -6,7 +6,7 @@
   "_domainNote": "PLACEHOLDER. RFC 2606 reserved .example TLD, so it can never point at a real third party while the site is in staging. Set domain + origin here AND domainConfirmed to true once the real domain is purchased and DNS is pointed at the host. Every canonical, sitemap URL, og:url and schema @id is derived from origin, so this one value plus the two in data/config.json is the whole swap.",
   "positioning": {
     "type": "rank-and-rent lead generation, operator not yet assigned",
-    "weAre": "a free service that matches Houston-area AC problems with independent HVAC companies that cover that area",
+    "weAre": "the dispatch desk for AC service across Houston. We take a homeowner's description, check that a company covers their street, and put it in front of that company.",
     "weAreNot": "an AC repair contractor, and not a business with a physical location in any Houston-area city",
     "howWeMakeMoney": "HVAC companies we refer pay us a referral fee. The request is free to the homeowner.",
     "neverClaim": [
@@ -15,10 +15,18 @@
       "a review count, star rating, award or testimonial we cannot attribute",
       "years in business, jobs completed, installs performed, or a number of technicians",
       "a specific arrival time, price, or that anyone is standing by",
-      "a phone number we have not been given and verified"
+      "a phone number we have not been given and verified",
+      "a phone number that has not been marked verified in config"
     ]
   },
-  "disclosure": "AC Repair Houston is a free referral service. We are not an AC repair contractor. Your request is passed to independent HVAC companies that cover your area, and those companies pay us a referral fee.",
+  "disclosure": "AC Repair Houston is a free referral service. We are not an AC repair contractor. We pass your request to independent HVAC companies that cover your area, and those companies pay us a referral fee.",
+  "phone": {
+    "display": "(713) 555-0100",
+    "e164": "+17135550100",
+    "publish": true,
+    "verified": false,
+    "_note": "PLACEHOLDER. publish says whether a call button exists on the site at all. verified says whether the number is the real one. The number here is a call tracking line that forwards to a partner company, so it is owned by this site even though a contractor answers it. Set the real number and flip verified to true once it is live. The build refuses to treat a placeholder as verified, and prints a launch blocker while verified is false."
+  },
   "conversion": {
     "endpoint": "/api/leads",
     "status": "pending",

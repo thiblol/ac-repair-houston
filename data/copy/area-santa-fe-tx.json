@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Santa Fe sits on the south side of the metro, close to the bay and downwind of the industrial corridor. The summer air here carries salt and particulate at the same time, and the housing is a mix of 1970s homes and newer construction from the 1990s and 2000s.",
   "localAngle": "Two things make equipment work harder here than inland. The first is salt. Air off the Gulf leaves a film on condenser fins that insulates the coil and dulls the cabinets and fasteners below it. The second is dust from the industrial corridor to the south and west, which settles on the same coil and packs into the fins. Neither is obvious from the street. The housing adds a third factor, with 1970s systems running next to 2000s subdivisions, so the technician may be handling a twenty-year-old unit or a brand-new one never sized for the load it inherited. Coastal oak drops its leaves onto units that already work hard.",
   "commonCalls": [
@@ -47,7 +47,7 @@
   "services": {
     "emergency-ac-repair": {
       "intro": "Emergency calls here often trace back to the outdoor unit, because salt and industrial dust both attack the parts that make a system start. A corroded contactor or a wet electrical compartment is a common failure, and it tends to happen in the hottest weeks when the system is loaded hardest.",
-      "localNote": "The failure mode here is corrosion rather than wear. Salt and moisture get into the disconnect and the electrical compartment of the outdoor unit, and the contactor inside starts to arc and stick. A unit that ran through the winter without one problem can fail in the first week it is asked to cool a house in July. Tell the company we connect you with how old the unit is and how close it sits to the house.",
+      "localNote": "The failure mode here is corrosion rather than wear. Salt and moisture get into the disconnect and the electrical compartment of the outdoor unit, and the contactor inside starts to arc and stick. A unit that ran through the winter without one problem can fail in the first week it is asked to cool a house in July. Tell us how old the unit is and how close it sits to the house, and we pass both details on with the request.",
       "faqs": [
         {
           "q": "Why does my Santa Fe AC fail at the start of summer rather than mid-season?",
@@ -121,7 +121,7 @@
         },
         {
           "q": "Can someone get to my Santa Fe house today and fix it?",
-          "a": "It is a request rather than a promise, and the part decides more of it than the address does. The technician covering Harris County works a same day list, and something that reaches the company before midday stands a better chance of being taken the same day than something that arrives in the afternoon. South side geography matters as well. A house near the 45 and 146 interchange or off the 288 feeder road is a longer run than a street off FM 528, and the coastal weather concentrates the calls, because a wet week puts standing water in the same electrical compartments that the salt has been working on all year. A run capacitor or a contactor can usually be handled on one visit. A seized compressor, a pitted coil or a line set that has to be replaced means the part has to be sourced before anyone starts. Describe what the outdoor unit is doing and how old it is when the request goes in."
+          "a": "It is a request rather than a promise, and the part decides more of it than the address does. The technician covering Harris County works a same day list, and a request that reaches them before midday stands a better chance of being taken the same day than one that arrives in the afternoon. South side geography matters as well. A house near the 45 and 146 interchange or off the 288 feeder road is a longer run than a street off FM 528, and the coastal weather concentrates the calls, because a wet week puts standing water in the same electrical compartments that the salt has been working on all year. A run capacitor or a contactor can usually be handled on one visit. A seized compressor, a pitted coil or a line set that has to be replaced means the part has to be sourced before anyone starts. Describe what the outdoor unit is doing and how old it is when the request goes in."
         },
         {
           "q": "What sets the price of an AC repair in Santa Fe?",
@@ -144,7 +144,7 @@
       "faqs": [
         {
           "q": "Does a new AC unit in Santa Fe need special corrosion protection?",
-          "a": "It helps. Coastal-rated finishes, stainless hardware and a pad that drains and keeps the unit off the ground slow the salt down considerably compared with a standard unit set straight on a slab. Ask the company covering your area which parts of the system are coastal rated before you sign anything."
+          "a": "It helps. Coastal-rated finishes, stainless hardware and a pad that drains and keeps the unit off the ground slow the salt down considerably compared with a standard unit set straight on a slab. Ask the company we send the work to which parts of the system are coastal rated before you sign anything."
         },
         {
           "q": "How high off the ground should the outdoor unit sit?",
@@ -263,7 +263,7 @@
       "_faqsNote": "6 FAQs. Local: salt corrosion of cabinet and terminals, industrial corridor dust on the coil, coastal oak debris, low ground near the Brazos River basin."
     },
     "compressor-repair": {
-      "intro": "The compressor is the pump the whole system runs through, and a lockup leaves the house without the cooling it depends on for those months. Three calls get booked here: a pump that has seized, a unit that kicks on and gives up again a few minutes later, and one that refuses to start under load. The technician who takes the job establishes what killed it before anything is ordered, because that answer decides between a new compressor and a new system.",
+      "intro": "The compressor is the pump the whole system runs through, and a lockup leaves the house without the cooling it depends on for those months. Three calls get booked here: a pump that has seized, a unit that kicks on and gives up again a few minutes later, and one that refuses to start under load. The technician who comes out establishes what killed it before anything is ordered, because that answer decides between a new compressor and a new system.",
       "localNote": "Heat and salt together shorten the life of a compressor here. A condenser with dulled fins cannot reject heat, so the pump runs hot and the oil that lubricates its internals thins out. The systems on these blocks run from the 1970s to the 2000s, and a 1970s unit in this county may still be running a refrigerant nobody manufactures any more, which changes the arithmetic on the job before anyone turns a wrench.",
       "faqs": [
         {
@@ -294,7 +294,7 @@
       "_faqsNote": "6 FAQs. Local: salt-dulled coils running the pump hot, 1970s to 2000s equipment mix, discontinued refrigerant on older units, summer grid sags."
     },
     "refrigerant-leak-repair": {
-      "intro": "Refrigerant does not wear out, so a system that wants it every few months has a hole in it somewhere. Finding that hole, sealing it and restoring the charge are separate pieces of work, and only the first one makes the other two hold. The technician who takes the job clamps gauges on the system and looks for the loss before anything gets replaced.",
+      "intro": "Refrigerant does not wear out, so a system that wants it every few months has a hole in it somewhere. Finding that hole, sealing it and restoring the charge are separate pieces of work, and only the first one makes the other two hold. Whoever does the work clamps gauges on the system and looks for the loss before anything gets replaced.",
       "localNote": "Salt films the line insulation and keeps moisture sitting on the copper, so the fittings give way faster than they would inland, and the run between the outdoor unit and the air handler works through pressure swings every season with the attic sitting at 130 to 140 degrees above it. A 1970s house on a refrigerant nobody makes any more is a different job from a 2000s unit on the current type.",
       "faqs": [
         {

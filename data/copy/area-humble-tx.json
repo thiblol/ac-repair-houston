@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Humble sits at the north edge of the metro on the far side of the beltway, and most of the houses here came out of the 1970s and 1980s. The equipment in them was undersized when it went in and it is now well past the point where it should have been replaced. That combination is the reason for most calls out here.",
   "localAngle": "The story in Humble is not corrosion and it is not salt. It is capacity. Homes here were built on smaller budgets, with equipment that was undersized from the first day so the power bill stayed manageable. Twenty years of added insulation changes, more people and closed-off bedrooms have raised the load without changing the outdoor unit. So the compressor runs nearly flat out from early morning, the condenser never gets a break, and failure comes as a seized compressor or a tripped breaker rather than a gradual decline. The oaks around Fall Creek and Eagle Lake add the usual litter, but the size is the real defect.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "5 FAQs. Local conditions used: systems undersized from 1970s budgets, no salt exposure this far inland, humid corrosion, and the demand on older electrical services.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "A compressor that has seized on a permanently overworked system is the emergency call that comes out of Humble most often. We pass the request to the HVAC company that covers north Houston and let them work the fault on site. When the unit is this old and this loaded, the conversation needs to cover what happens next, not just what gets replaced today.",
+      "intro": "A compressor that has seized on a permanently overworked system is the emergency call that comes out of Humble most often. We hand the request to the HVAC company that covers north Houston, and they work the fault on site. When the unit is this old and this loaded, the conversation needs to cover what happens next, not just what gets replaced today.",
       "localNote": "An undersized system that has run flat out for twenty years leaves the compressor and the capacitor both carrying more heat than they were rated for. When the unit finally quits, the technician should check the supply circuit because these houses often sit on a panel that was never sized for a modern outdoor unit. A new load on an old panel is a different job from putting in a like-for-like condenser.",
       "faqs": [
         {

@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Friendswood grew up as a ranch-home suburb on land that was already full of oak when the first houses went in. The shade is generous and the lots are large, and the southern breeze brings a salt spray in off the bay that works on the outdoor equipment all year.",
   "localAngle": "The shade that makes a Friendswood backyard comfortable also keeps the condenser damp, and that pairing is the local problem. Oak leaf litter and catkins fall on the unit through the warm months and mat down into the fins, while salt in the southern air settles on the coil and the fasteners at the same time. The result is a system that looks clean from the fence, loses capacity over the season, and shows corrosion on the cabinet earlier than a comparable unit inland. The homes are 1970s through 2000s ranch plans, often enlarged later with a sunroom or an addition that nobody resized the system for.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "A bay breeze is not a cooling system, and when a Friendswood unit quits in the middle of a hot afternoon the house heats up quickly. The HVAC company we connect you with covers this area, so a request goes to the technician who takes the job.",
+      "intro": "A bay breeze is not a cooling system, and when a Friendswood unit quits in the middle of a hot afternoon the house heats up quickly. We hand it to the HVAC company that covers this area, and it reaches the technician who takes the job.",
       "localNote": "Most of the systems here went in during the 1970s and 1980s, and the ones that fail in the heat are usually failing on high head pressure with a salt-crusted coil. A condenser that cannot reject heat trips the compressor's own protection. Cleaning the coil and verifying the charge are the first two checks in that order.",
       "faqs": [
         {
@@ -201,7 +201,7 @@
       "_faqsNote": "6 FAQs. Local: recovering the older refrigerant and the new lines it forces, the coastal oak mat on a new condenser, an indoor side worth keeping against a corroded outdoor side."
     },
     "ac-maintenance": {
-      "intro": "Most of the systems on these ranch homes went in with the house or soon after it, so a check-up before the summer heat builds is usually worth more than a callout in the middle of it. Requests go to the HVAC company that covers this area, and the technician who takes the job checks the parts that fail quietly.",
+      "intro": "Most of the systems on these ranch homes went in with the house or soon after it, so a check-up before the summer heat builds is usually worth more than a callout in the middle of it. We send requests to the HVAC company that covers this area, and the technician who takes the job checks the parts that fail quietly.",
       "localNote": "Three things set the schedule here. Oak catkins and leaf litter pack into the outdoor coil through the spring, salt spray off the bay dulls the fins and corrodes the cabinet, and the humidity does not let up. Any of those turns a system that was fine in April into one that runs long and never quite settles by July.",
       "faqs": [
         {
@@ -232,7 +232,7 @@
       "_faqsNote": "6 FAQs. At least two reference a real local condition."
     },
     "condenser-repair": {
-      "intro": "The outdoor unit is where the heat actually leaves the property, and in Friendswood it also catches the oak debris, the salt and the shade in the same place. When that unit fails, the request goes to the HVAC company covering this area.",
+      "intro": "The outdoor unit is where the heat actually leaves the property, and in Friendswood it also catches the oak debris, the salt and the shade in the same place. When that unit fails, we send it on to the HVAC company covering this area.",
       "localNote": "Salt is what ages the outside of these units. The fins dull and pit, the cabinet rusts from the base upward, and the contactor and capacitor inside the compartment corrode long before anything mechanical gives out. A unit that hums but never starts on a block close to the bay is usually that corroded switch rather than a dead compressor.",
       "faqs": [
         {
@@ -263,7 +263,7 @@
       "_faqsNote": "6 FAQs. At least two reference a real local condition."
     },
     "compressor-repair": {
-      "intro": "The compressor is the pump that moves refrigerant through the system, and when it fails the whole house feels it at once. Requests for this work go to the HVAC company that covers Friendswood, and the technician who takes the job decides whether the pump can be saved or has to be replaced.",
+      "intro": "The compressor is the pump that moves refrigerant through the system, and when it fails the whole house feels it at once. We send requests for this work to the HVAC company that covers Friendswood, and the technician who takes the job decides whether the pump can be saved or has to be replaced.",
       "localNote": "The compressor sits at the hot end of the loop on a system that already has a fouled outdoor coil and a salt-corroded cabinet. A 1970s or 1980s unit that has been losing refrigerant for a few years has also lost some of the oil that lubricates the internals, and it does not take much running with no charge to seize it.",
       "faqs": [
         {
@@ -294,7 +294,7 @@
       "_faqsNote": "6 FAQs. At least two reference a real local condition."
     },
     "refrigerant-leak-repair": {
-      "intro": "A system that keeps needing refrigerant has a leak somewhere, and putting the gas back in without finding it treats the symptom and leaves the cause in place. Finding the leak, repairing it and restoring the charge are three separate jobs, and the request goes to the HVAC company covering this area.",
+      "intro": "A system that keeps needing refrigerant has a leak somewhere, and putting the gas back in without finding it treats the symptom and leaves the cause in place. Finding the leak, repairing it and restoring the charge are three separate jobs, and we send the request on to the HVAC company covering this area.",
       "localNote": "The line set on these ranch homes runs through an attic that sits at 130 to 140 degrees for months, and the heat cycling on a fitting is how a lot of these leaks begin. Outside, salt works on the flare joints and the copper near the unit. The refrigerant type on the nameplate matters too, because an older system has to be recovered rather than topped off.",
       "faqs": [
         {
@@ -387,7 +387,7 @@
       "_faqsNote": "6 FAQs. At least two reference a real local condition."
     },
     "blower-motor-repair": {
-      "intro": "The blower motor is what pushes air through the ducts, and when it goes the equipment is still in the house while the house gets nothing at all. In this humidity that is about as bad as having no system, which is why the request goes to the HVAC company covering Friendswood.",
+      "intro": "The blower motor is what pushes air through the ducts, and when it goes the equipment is still in the house while the house gets nothing at all. In this humidity that is about as bad as having no system, which is why we send the request on to the HVAC company covering Friendswood.",
       "localNote": "The motor on an attic unit in a Friendswood ranch is working in air that sits at 130 to 140 degrees, and that heat is what wears the bearings and hardens the capacitor. On homes from the 1970s and 1980s the air handler is old enough that the motor, the capacitor and the relay often go in the same visit rather than one at a time.",
       "faqs": [
         {
@@ -449,7 +449,7 @@
       "_faqsNote": "6 FAQs. At least two reference a real local condition."
     },
     "heat-pump-repair": {
-      "intro": "One outdoor unit doing both heating and cooling means one cabinet full of parts that can take out both sides of the system at the same time. Requests for heat pump work go to the HVAC company that covers Friendswood.",
+      "intro": "One outdoor unit doing both heating and cooling means one cabinet full of parts that can take out both sides of the system at the same time. We send requests for heat pump work to the HVAC company that covers Friendswood.",
       "localNote": "Heat pumps on these ranch homes are mostly in the 2000s builds and in the conversions of older houses rather than in the original 1970s plans. The cooling side carries the summer and the heat side carries a mild winter, which is exactly why the backup heat tends to end up running far more often than it should.",
       "faqs": [
         {

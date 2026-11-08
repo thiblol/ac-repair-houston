@@ -1,6 +1,6 @@
 {
-  "lastmod": "2026-11-07",
-  "intro": "Bellaire is one square mile of ranch houses built between the 1940s and the 1970s, and the air conditioning arrived at roughly the same time. Almost every unit on these small lots has now spent fifty summers in the same patch of ground, so a breakdown here is usually an old part giving out rather than a new design failing.",
+  "lastmod": "2026-11-08",
+  "intro": "Bellaire is one square mile of ranch houses built between the 1940s and the 1970s, and the air conditioning arrived at roughly the same time. Almost every unit on these small lots has now been through fifty summers or more in the same patch of ground, so a breakdown here is usually an old part giving out rather than a new design failing.",
   "localAngle": "Every block in Bellaire holds houses of the same vintage, so a technician sees the same equipment year after year. A 1950s ranch may still be cooling through a 1960s split system, with a coil sized for a smaller version of the house. The lots are small, so the outdoor unit sits close to a fence line under a canopy that keeps the ground damp. Nothing here sees salt air, but the humidity load is the same Gulf load the metro carries. When a system fails, the question is rarely which part broke. It is how many of the others are one week away.",
   "commonCalls": [
     "R-22 systems from the 1960s and 70s losing refrigerant, where the leak has to be found rather than topped off",
@@ -46,7 +46,7 @@
   "services": {
     "emergency-ac-repair": {
       "intro": "Most emergency calls here come from a system old enough to have a specific part fail, not from a modern unit with a control board fault. Capacitors, contactors and tired breakers on 1960s equipment are the usual starting point, and the diagnosis is faster if you can say whether the outdoor unit ran before it stopped.",
-      "localNote": "Equipment here is old enough that the failure points are predictable. A capacitor sitting unused through a mild winter often dies the first time the compressor is asked to start in May, and a panel from the 1950s can trip every time the system kicks on. The company we connect you with will want the age of the unit and the age of the panel before anyone sets out.",
+      "localNote": "Equipment here is old enough that the failure points are predictable. A capacitor sitting unused through a mild winter often dies the first time the compressor is asked to start in May, and a panel from the 1950s can trip every time the system kicks on. We send the age of the unit and the age of the panel with the request, since the company covering your street wants both before anyone sets out.",
       "faqs": [
         {
           "q": "What should I check before I call about an emergency in Bellaire?",
@@ -107,8 +107,8 @@
       "_faqsNote": "6 FAQs. Two are local: the humidity, undersized system and leaf-choked coil that together explain a unit running all day, and the 130 to 140F attic above a handler working in it. One covers what moves the cost, one is the honest dirty filter objection."
     },
     "ac-repair": {
-      "intro": "A repair call usually ends with a parts conversation, because the equipment is old enough that one failed part can bring up a list of near misses. The technician who takes the job needs to identify the unit by model and serial, and that information sits on the nameplate on the outdoor unit or the side of the air handler.",
-      "localNote": "The stock here is narrow. A 1960s or 1970s unit has been sitting on the same slab since the block was built, and discontinued parts for those lines are the difference between a same-day fix and a unit that has to be swapped out. Tell the company covering your area how old the system is before the visit. If it predates the R-22 phaseout, knowing that in advance saves a wasted trip.",
+      "intro": "A repair call usually ends with a parts conversation, because the equipment is old enough that one failed part can bring up a list of near misses. The technician who comes to the house needs to identify the unit by model and serial, and that information sits on the nameplate on the outdoor unit or the side of the air handler.",
+      "localNote": "The stock here is narrow. A 1960s or 1970s unit has been sitting on the same slab since the block was built, and discontinued parts for those lines are the difference between a same-day fix and a unit that has to be swapped out. Tell us how old the system is before the visit and we put it on the request. If it predates the R-22 phaseout, knowing that in advance saves a wasted trip.",
       "faqs": [
         {
           "q": "Where do I find the model number on my AC unit?",
@@ -231,7 +231,7 @@
       "_faqsNote": "6 FAQs. Two are local: the oak canopy and small lots that shape the visit, and the 1960s fixed orifice systems that never reach the setting. One covers what moves the cost."
     },
     "condenser-repair": {
-      "intro": "The condenser is the box outside, and this job stays out there with it: the fan motor, the run capacitor, the contactor, the condition of the coil and the state of the cabinet shell. A unit that hums without ever starting, or starts and shuts itself straight back off, is usually one of the first three. The technician who takes the job checks the electrical side before anything is opened up on the refrigerant side.",
+      "intro": "The condenser is the box outside, and this job stays out there with it: the fan motor, the run capacitor, the contactor, the condition of the coil and the state of the cabinet shell. A unit that hums without ever starting, or starts and shuts itself straight back off, is usually one of the first three. Whoever does the work checks the electrical side before anything is opened up on the refrigerant side.",
       "localNote": "In Bellaire the outdoor unit is often tucked into a side yard no wider than a car, hemmed in by a fence and a shared wall, with an oak overhead dropping leaves onto the coil face all spring. That cabinet has been sitting on damp ground since the 1960s, so the rust on the sheet metal comes from moisture and from water standing in the base pan, not from anything this inland part of Harris County gets on the air. A unit that cannot move air because it is boxed in has no margin when the temperature climbs.",
       "faqs": [
         {
@@ -293,8 +293,8 @@
       "_faqsNote": "6 FAQs. Two are local: the retrofitted ranch house where sizing and the fixed orifice matter, and the leaf-packed coil plus the summer dips on the 610 loop. One covers what moves the cost."
     },
     "refrigerant-leak-repair": {
-      "intro": "Finding the leak is the work. Recovering refrigerant, locating the escape, repairing it and putting the charge back are four distinct steps, and stopping after the last one means the same visit comes back in a few months. Whoever takes the job should be able to name which of those four the visit actually covered.",
-      "localNote": "The leak points in Bellaire are old ones. A line set installed when the house was framed in the 1940s or 1950s has joints that have been through fifty summers, and the run that reaches the attic passes through space sitting at 130 to 140F. The systems from the 1960s and 70s hold a refrigerant that is no longer produced for new equipment, so every visit on one of them depends on what can still be recovered from a shrinking supply.",
+      "intro": "Finding the leak is the work. Recovering refrigerant, locating the escape, repairing it and putting the charge back are four distinct steps, and stopping after the last one means the same visit comes back in a few months. Whoever does the visit should be able to name which of those four it actually covered.",
+      "localNote": "The leak points in Bellaire are old ones. A line set installed when the house was framed in the 1940s or 1950s has joints that have been through seventy summers or more, and the run that reaches the attic passes through space sitting at 130 to 140F. The systems from the 1960s and 70s hold a refrigerant that is no longer produced for new equipment, so every visit on one of them depends on what can still be recovered from a shrinking supply.",
       "faqs": [
         {
           "q": "How can I tell whether my AC is losing refrigerant?",
@@ -386,7 +386,7 @@
       "_faqsNote": "6 FAQs. Two are local: the heavy humidity and the attic at 130 to 140F leaving a frozen coil with nothing to thaw it, and the 1960s closet install with a marginal drain slope. One covers what moves the cost."
     },
     "blower-motor-repair": {
-      "intro": "The blower is what moves the air, so once the motor, the run capacitor or the relay gives out, the equipment is still there and the air is not. On a humid afternoon that is the same as having no cooling at all. Those three parts tend to go in pairs, and whoever takes the job checks the capacitor and the relay alongside the motor before anything is quoted.",
+      "intro": "The blower is what moves the air, so once the motor, the run capacitor or the relay gives out, the equipment is still there and the air is not. On a humid afternoon that is the same as having no cooling at all. Those three parts tend to go in pairs, and the company we send the work to checks the capacitor and the relay alongside the motor before anything is quoted.",
       "localNote": "Where the air handler lives is the local fact that matters. In these 1940s to 1970s ranch houses it is often in the attic or in a closet off the hallway, and an attic at 130 to 140F is where bearings cook and the capacitor runs hot. Air handlers of that vintage also used a belt driven fan rather than a direct shaft motor, and whether the replacement is a direct drive unit or the whole blower assembly changes what the job involves.",
       "faqs": [
         {
@@ -417,7 +417,7 @@
       "_faqsNote": "6 FAQs. Two are local: the attic or closet handler running at 130 to 140F, and the 1950s belt driven fan whose parts are not interchangeable with a modern motor. One covers what moves the cost."
     },
     "thermostat-installation": {
-      "intro": "A thermostat swap takes minutes when the wiring behind the plate matches what the new unit expects, and much longer when it does not. That is the usual case in Bellaire, because the thermostat on the wall may already have been changed twice and the wire set behind it fits neither of the manuals. Whoever takes the job identifies the wiring, matches the thermostat to the system, and proves both heating and cooling before leaving.",
+      "intro": "A thermostat swap takes minutes when the wiring behind the plate matches what the new unit expects, and much longer when it does not. That is the usual case in Bellaire, because the thermostat on the wall may already have been changed twice and the wire set behind it fits neither of the manuals. Whoever does the swap identifies the wiring, matches the thermostat to the system, and proves both heating and cooling before leaving.",
       "localNote": "A house framed between the 1940s and the 1970s may have had a mechanical dial fitted first, then a digital unit, then something else, and every one of those leaves a different set of wires behind the plate. On a small lot the air handler is often close by in a closet rather than a long attic run, which is the one thing that makes a retrofit cheap here. The summer supply inside the 610 loop is worth mentioning as well, because a thermostat that loses power loses the schedule with it.",
       "faqs": [
         {
@@ -448,7 +448,7 @@
       "_faqsNote": "6 FAQs. Two are local: the mechanical dial, digital and then something else wiring stack in a 1940s to 1970s ranch, and the small lot where the handler is close by in a closet. One covers what moves the cost."
     },
     "heat-pump-repair": {
-      "intro": "A single machine handling both jobs means a fault can take out heating and cooling together, or leave one side working while the other dies. The component that flips the direction of the refrigerant, the reversing valve, is the reason a heat pump can heat in July or cool in January. Whoever takes the job works out which side is failing before anything is replaced.",
+      "intro": "A single machine handling both jobs means a fault can take out heating and cooling together, or leave one side working while the other dies. The component that flips the direction of the refrigerant, the reversing valve, is the reason a heat pump can heat in July or cool in January. The technician on the call works out which side is failing before anything is replaced.",
       "localNote": "Heat pumps are newer than the housing in Bellaire. A square mile of ranch houses built between the 1940s and the 1970s mostly carries separate cooling equipment, and the heat pumps that do appear went in later, often onto ductwork that was laid for something else. The attic still matters, because at 130 to 140F the defrost cycle has less margin, and the supply inside the 610 loop dips during the summer peaks that leave a compressor working hard.",
       "faqs": [
         {

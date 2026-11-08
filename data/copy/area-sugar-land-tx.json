@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Sugar Land is full of two-storey houses on big lots, and the second floor is where the heat problems live. Upstairs bedrooms hit their setpoint late and sometimes never do it at all. Oak and pine litter collects on the outdoor units, and the Gulf humidity keeps everything damp for months on end.",
   "localAngle": "The cooling load here is stacked. With two full floors and a high ceiling in the living space, the system has to move air through more volume than a ranch of the same square footage. That is why duct design matters, and why a system that was fine when the ground floor was the only conditioned space starts short-cycling after a second-floor remodel. Ducts routed through an attic sitting at 130 to 140 degrees lose a good part of their air temperature before it reaches a vent. Oak and pine debris on the coil adds to it. There is no salt to fight here, only humidity and heat.",
   "commonCalls": [
@@ -40,13 +40,13 @@
     },
     {
       "q": "My AC runs all day and never catches up. What is going on?",
-      "a": "Three local factors stack up. The coil outside may be packed with pine needles and oak leaves. The system may be too small for the finished space above. And the attic heat means the air arrives warmer than it should. The technician who takes the job works through those in order, starting with the cheapest to check."
+      "a": "Three local factors stack up. The coil outside may be packed with pine needles and oak leaves. The system may be too small for the finished space above. And the attic heat means the air arrives warmer than it should. Those get worked through in order, starting with the cheapest to check."
     }
   ],
   "_faqsNote": "5 FAQs. Local conditions used: two-storey load, attic unit temperatures, pine and oak debris, and the absence of coastal salt inland.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "An upstairs that will not cool in a Fort Bend summer is an emergency even when the unit is technically still running. We pass the request to the company that covers your part of Fort Bend County and let them handle the fault on site. The first question is always whether the system can move enough air to cool a two-storey house at all.",
+      "intro": "An upstairs that will not cool in a Fort Bend summer is an emergency even when the unit is technically still running. We send the request to a company that covers your part of Fort Bend County and let them handle the fault on site. The first question is always whether the system can move enough air to cool a two-storey house at all.",
       "localNote": "Second-floor calls here need more than a quick condenser check. If the fault is a compressor that has locked down, the upstairs is going to climb while the technician works. If the fault is a blower motor in an attic unit, the whole house waits on it. Sugar Land's two-storey layouts mean the repair priority is usually the part that affects the most rooms, and the technician should say which that is before they start.",
       "faqs": [
         {
@@ -55,7 +55,7 @@
         },
         {
           "q": "What if the power is out at my Sugar Land house during a heat wave?",
-          "a": "Shut off the AC at the thermostat so the unit is not trying to restart on a dead supply, and leave the breaker off until power is restored and stable. When power comes back, the unit may sit in a lockout and need a reset at the outdoor unit. Tell the company you connect with that the power went out, because it changes what they check first."
+          "a": "Shut off the AC at the thermostat so the unit is not trying to restart on a dead supply, and leave the breaker off until power is restored and stable. When power comes back, the unit may sit in a lockout and need a reset at the outdoor unit. Tell the company we send the work to that the power went out, because it changes what they check first."
         },
         {
           "q": "The outdoor unit is silent but air is still blowing. What does that mean?",
@@ -108,7 +108,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-repair": {
-      "intro": "The systems in this part of Fort Bend County are mostly 1990s and 2000s installs, so faults show up as parts rather than as a dead machine. Capacitors, contactors, blower motors and leaking braze joints are the everyday list. We connect you with a company covering Fort Bend County so the diagnosis happens on your equipment, not from a symptom list.",
+      "intro": "The systems in this part of Fort Bend County are mostly 1990s and 2000s installs, so faults show up as parts rather than as a dead machine. Capacitors, contactors, blower motors and leaking braze joints are the everyday list. We send the request to a company covering Fort Bend County so the diagnosis happens on your equipment, not from a symptom list.",
       "localNote": "Homes here were built when two-stage systems were still rare and the outdoor unit was often set in a side yard where the fence traps moisture. Salt is not a factor inland. What does shorten equipment life is the damp and the leaf litter. A twenty-year-old condenser sitting in wet shade under oaks will corrode at the base and the connections long before the refrigerant side gives out.",
       "faqs": [
         {
@@ -139,7 +139,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-installation": {
-      "intro": "Installation work in Sugar Land tends to be second-floor additions and whole-home replacements in houses that were built with the ground floor in mind. The interesting part is the load: two storeys, high ceilings and a lot of glass for a climate this humid means the sizing has to come from a calculation. We connect you with an installer who covers the area.",
+      "intro": "Installation work in Sugar Land tends to be second-floor additions and whole-home replacements in houses that were built with the ground floor in mind. The interesting part is the load: two storeys, high ceilings and a lot of glass for a climate this humid means the sizing has to come from a calculation. We send the request to an installer who covers the area.",
       "localNote": "Most Sugar Land homes were designed for a family that used the ground floor and slept upstairs. That has changed. When the second floor gets finished properly, the load calculation changes, and a system sized for the old single-floor use no longer moves enough air on a humid July night. Duct design has to be redrawn too, not just the tonnage. Wider returns and properly sized transitions make more difference than the unit badge.",
       "faqs": [
         {
@@ -201,7 +201,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-maintenance": {
-      "intro": "Maintenance is a check-up on a system that is working, and the point is to find the small fault before it becomes a callout. Coil and filter condition, drain clearance, electrical readings and the load the system is carrying all get looked at. We route the request to the company that covers Fort Bend County so the visit happens on the actual equipment.",
+      "intro": "Maintenance is a check-up on a system that is working, and the point is to find the small fault before it becomes a callout. Coil and filter condition, drain clearance, electrical readings and the load the system is carrying all get looked at. We send the request to a company that covers Fort Bend County so the visit happens on the actual equipment.",
       "localNote": "Seasonal preparation starts earlier in this area because the humidity never lets up and the debris arrives on its own. A system that ran through a mild Fort Bend winter still has a coil packed with oak and pine by the first hot week, and a two-storey house puts the real load upstairs where the air sits. An attic unit draws return air at 130 to 140 degrees, so the visit checks what the thermostat cannot see.",
       "faqs": [
         {
@@ -387,7 +387,7 @@
       "_faqsNote": "6 FAQs. Local: attic return air temperature, two-storey duct runs, heavy condensate and pan drainage."
     },
     "blower-motor-repair": {
-      "intro": "The blower motor is what pushes air through the ducts, and in most of these houses it sits in the same cabinet as the evaporator coil. Grinding noise, no air at all, or one speed that works and one that does not are the three calls this page covers. The motor, the run capacitor and the relay are the parts that usually go.",
+      "intro": "The blower motor is what pushes air through the ducts, and in a Sugar Land house it usually sits in an attic running 130 to 140 degrees or in a closet off the second floor. No air at all, a grinding noise, and one speed that works while the other does not are the three calls this page covers. The motor, the run capacitor and the relay are the parts that usually go.",
       "localNote": "The unit is normally up in the attic or in a closet off the second floor, and in this part of Fort Bend County the attic is where the wear happens. Attics here sit at 130 to 140 degrees, and a blower motor already running hot has less margin for a bearing to go. When a motor in that heat fails, the capacitor beside it has usually been running hot for years as well.",
       "faqs": [
         {

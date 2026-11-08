@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "The Woodlands is the most heavily treed place this service covers, and that has two sides to it. Shade cuts the heat on the house, but the same trees drop enough pine needles and leaf litter to seal the outdoor coil in a matter of weeks. Damp shade also keeps the unit wet instead of letting it dry between rains.",
   "localAngle": "Everything in this area grows, and that includes the debris on the condenser. Pines and oaks over the streets through Grogan's Mill, Village Creek and Crown Castle drop year-round. Needles and fine litter mat together and block the coil face, which is how the unit ends up running continuously with no cooling. The canopy also keeps the unit in permanent shade, and shade plus Gulf humidity means the metal stays damp. Salt is not an issue this far inland. What matters here is airflow, drainage and how quickly the coil can dry after a storm.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "5 FAQs. Local conditions used: year-round pine and oak drop, damp shade keeping the unit wet, and the absence of salt inland in Montgomery County.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "When the system stops here in the middle of a hot afternoon, the house heats up faster than people expect because the humidity stays put. We pass the request to the HVAC company that covers Montgomery County and let them diagnose it on site. The technician needs to know whether the fan is running, whether the compressor is silent and whether the breaker held.",
+      "intro": "When the system stops here in the middle of a hot afternoon, the house heats up faster than people expect because the humidity stays put. We put it in front of the HVAC company that covers Montgomery County, and they diagnose it on site. The technician needs to know whether the fan is running, whether the compressor is silent and whether the breaker held.",
       "localNote": "In a wooded neighborhood the most common emergency is not a failure so much as a system that gave up because it could not cool itself. A coil packed with needles raises head pressure and the compressor trips on the high side. Once the technician clears the coil and reads the pressures, a lot of these calls end as a cleaning rather than a parts order. Ask whether the coil was the reason.",
       "faqs": [
         {
@@ -201,7 +201,7 @@
       "_faqsNote": "6 FAQs. Local: rusted base pans under the canopy, refrigerant recovery on 1980s systems, and a fouled coil on a damp shaded pad."
     },
     "ac-maintenance": {
-      "intro": "A tune-up is a check on a system that is working right now, looking for the fault that would otherwise turn into a callout in the middle of a hot week. We pass the request to the company that covers Montgomery County and the technician works on the equipment that is actually installed on your house. Coil and filter condition, electrical connections, drain flow and the refrigerant charge all get looked at while the unit is still running fine.",
+      "intro": "A tune-up is a check on a system that is working right now, looking for the fault that would otherwise turn into a callout in the middle of a hot week. We send it to the company that covers Montgomery County, and the technician works on the equipment that is actually installed on your house. Coil and filter condition, electrical connections, drain flow and the refrigerant charge all get looked at while the unit is still running fine.",
       "localNote": "The canopy decides the maintenance calendar here. Pine and oak litter mat on the condenser face quickly enough that a coil rinsed in February is fouled again by May, so the useful visit happens before the first real heat rather than after it. The attic side needs the same attention, because the air handler works in air running 130 to 140 degrees.",
       "faqs": [
         {
@@ -232,7 +232,7 @@
       "_faqsNote": "6 FAQs. Local: year-round canopy litter on the coil, attic air at 130 to 140F, humidity and the drain line."
     },
     "condenser-repair": {
-      "intro": "The condenser is the outdoor unit, the part that works hardest in the heat and takes the most weather. Fan motor, capacitor, contactor, coil condition and the cabinet shell are the jobs that live out here. We route the request to a company covering this area so the outdoor unit gets opened up on site rather than guessed at from the patio. A unit that hums but never starts is nearly always one of those parts.",
+      "intro": "The condenser is the outdoor unit, the part that works hardest in the heat and takes the most weather. Fan motor, capacitor, contactor, coil condition and the cabinet shell are the jobs that live out here. We send it to a company covering this area, so the outdoor unit gets opened up on site rather than guessed at from the patio. A unit that hums but never starts is nearly always one of those parts.",
       "localNote": "Outdoor units in this area spend their lives under trees. Pine needles and oak leaves pack the coil face, the canopy keeps the cabinet damp, and neither one dries out between storms, so corrosion starts in the base pan and around the electrical compartment. This is a long way inland, so none of it comes from salt. It is moisture and litter doing the work that bay spray does on the coast.",
       "faqs": [
         {
@@ -325,7 +325,7 @@
       "_faqsNote": "6 FAQs. Local: aged copper line set from the 1980s to 2000s, attic line runs at 130 to 140F, R-22 on the oldest homes, damp outdoor cabinets."
     },
     "refrigerant-recharge": {
-      "intro": "A recharge is a measured job, not a canister and a guess. The technician weighs in what the system is specified to hold, then reads the two temperatures that confirm the result landed where it should. We pass the request on to the company covering this area so the readings come off your system. That measurement is also what tells you whether the system is running as intended or hiding a larger fault.",
+      "intro": "A recharge is a measured job, not a canister and a guess. The technician weighs in what the system is specified to hold, then reads the two temperatures that confirm the result landed where it should. We send it on to the company covering this area, so the readings come off your system. That measurement is also what tells you whether the system is running as intended or hiding a larger fault.",
       "localNote": "Measuring the charge in this climate takes more care than in a dry one, because the humidity changes what the readings mean. A system short on refrigerant shows up here as a house that will not dry out the way it used to, and that gets blamed on the season rather than on the charge. Air at 130 to 140 degrees in the attic changes the readings again, so airflow gets checked before the numbers are trusted.",
       "faqs": [
         {
@@ -356,7 +356,7 @@
       "_faqsNote": "6 FAQs. Local: humidity shifting the superheat and subcooling readings, attic air at 130 to 140F, R-22 recovery on the oldest homes."
     },
     "evaporator-coil-repair": {
-      "intro": "The evaporator coil is the finned coil inside the air handler, and it is the part that actually makes the cold air. Cleaning it, dealing with the slime that grows on the fins, and replacing a coil that leaks are the work. We route the request to the company that covers Montgomery County so the coil and the air moving across it are looked at together. A coil that keeps freezing is a symptom of something else, and cleaning it on its own is not the fix.",
+      "intro": "The evaporator coil is the finned coil inside the air handler, and it is the part that actually makes the cold air. Cleaning it, dealing with the slime that grows on the fins, and replacing a coil that leaks are the work. We hand it to the company that covers Montgomery County, so the coil and the air moving across it are looked at together. A coil that keeps freezing is a symptom of something else, and cleaning it on its own is not the fix.",
       "localNote": "The indoor coil works hard here. An attic handler in these houses sits in air at 130 to 140 degrees, so the coil is already running colder than it wants to and ices at a lower load. Add very high humidity and a coil that stays wet for months of the year, and that is what grows the coating on the fins and fills the drain pan with water.",
       "faqs": [
         {
@@ -418,7 +418,7 @@
       "_faqsNote": "6 FAQs. Local: attic air at 130 to 140F, stored items blocking the unit, 1980s to 2000s housing and its wiring."
     },
     "thermostat-installation": {
-      "intro": "A thermostat change takes ten minutes on a system the new control was built for, and takes an afternoon on one where somebody else got there first. We pass the request to the company that covers Montgomery County so the swap happens on your equipment. This work covers putting a modern control in place of an old dial, adding a programmable or connected thermostat to a house that never had one, and sorting out which system the new unit can actually talk to.",
+      "intro": "A thermostat change takes ten minutes on a system the new control was built for, and takes an afternoon on one where somebody else got there first. We put the swap in front of the company that covers Montgomery County, so it happens on your equipment. This work covers putting a modern control in place of an old dial, adding a programmable or connected thermostat to a house that never had one, and sorting out which system the new unit can actually talk to.",
       "localNote": "Most of the controls in this neighborhood arrived with the house and were never chosen by anyone. Homes from the 1980s and 1990s got a mechanical dial, the 2000s houses got a first-generation programmable unit, and a good share of both have since been altered by an owner who did not label anything. The wire count behind the plate is the thing to check, and it usually does not match the diagram in the box.",
       "faqs": [
         {

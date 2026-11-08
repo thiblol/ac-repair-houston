@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "The downtown courthouse square in Richmond sits on ground that was a town centre before central air was normal in Fort Bend County. Around it is a wide spread of housing from the 1950s to the 2000s, and a large share of the systems out there are original installs from the 1980s and 90s that have had very little done to them.",
   "localAngle": "The equipment around Richmond is old in a way. It went in when the housing stock was smaller, when nobody was sealing a house as tightly, and when the sizing rules were looser. Gulf humidity has not changed, so the latent load on those units is well above what they were specified for, and they run long and hard to keep up. Many of those homes have an addition, a converted garage or a room off the back that was never on the original duct plan. Oak and pine litter on the outdoor units adds to it, and the attic in an uninsulated 1950s house does nothing to help.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "Emergency calls here tend to involve equipment that is old enough that a fault is a real breakdown rather than a nuisance. The HVAC company we connect you with covers Fort Bend County, so the request goes straight to the technician who takes the job.",
+      "intro": "Emergency calls here tend to involve equipment that is old enough that a fault is a real breakdown rather than a nuisance. We send the request to a company that already covers Fort Bend County, and the technician who comes out works from the symptoms you described.",
       "localNote": "The units that lock out on a July afternoon here were sized for a house with fewer rooms and drier air. Humidity pushes the load up until the compressor gives up, and a 1990s system with a decade of no service behind it has little margin left. The split that matters is between a charge problem and a compressor problem, because one is a part and the other is a conversation about replacing the system.",
       "faqs": [
         {
@@ -77,7 +77,7 @@
       "_faqsNote": "6 FAQs. Local: the humidity load on undersized 1980s and 90s units, ERCOT peak hour instability, and the damp inland climate these cabinets sit in."
     },
     "ac-not-cooling": {
-      "intro": "Warm air from a running system is the most common confusion out here, and the old equipment around Fort Bend makes it harder to sort out quickly. The company that covers this area checks airflow, charge and refrigerant type before recommending anything.",
+      "intro": "Warm air from a running system is the most common confusion out here, and the old equipment around Fort Bend makes it harder to sort out quickly. The company we send it to checks airflow, charge and refrigerant type before recommending anything.",
       "localNote": "A system from the 1980s loses charge slowly over a decade, and refrigerant that is not quite right shows up as a system that runs and runs without ever satisfying the thermostat. Add an attic full of oak and pine litter on the condenser and the unit is working against itself. The technician measures superheat and subcooling to decide whether the fault is gas, airflow or control.",
       "faqs": [
         {

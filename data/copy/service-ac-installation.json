@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Putting a cooling system into a house is an engineering job disguised as a delivery job, and most of the mistakes show up years later. The unit has to match the heat the building actually collects, the ductwork has to move enough air to feed it, and the electrical and drain have to be ready before the day of the install. The number quoted before a load calculation is done is a guess with a price attached, which is why the calculation comes first.",
   "whatHappens": [
     "Measures the home and runs a load calculation on it",
@@ -31,7 +31,7 @@
       "a": "Usually yes, but the addition changes the calculation for the whole house, not just the new space. The added square foot and whatever glass or wall material came with it change the heat load, so the calculation gets redone for the entire home. If the addition is above a garage, the return and supply path back to the air handler may need attention too."
     },
     {
-      "q": "What does the HVAC company need to know before installing",
+      "q": "What does the installer need to know before starting",
       "a": "The age and layout of the house, what is already there in terms of ductwork and electrical, and whether the existing setup is being replaced or added to for the first time. Any prior additions, garage conversions, or closed-off rooms change what the system has to move. Photos of the attic, the closet where the air handler sits, and the electrical panel speed this up a lot."
     }
   ],

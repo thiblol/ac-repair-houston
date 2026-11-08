@@ -199,6 +199,25 @@ if (!cfg.positioning || !Array.isArray(cfg.positioning.neverClaim) || !cfg.posit
   failures.push('config.positioning.neverClaim must be a non-empty list');
 }
 
+/* ---------- the phone ---------- */
+if (cfg.phone === undefined) {
+  failures.push('config.phone is required (publish, verified, display, e164)');
+} else {
+  if (typeof cfg.phone.publish !== 'boolean') failures.push('config.phone.publish must be a boolean');
+  if (typeof cfg.phone.verified !== 'boolean') failures.push('config.phone.verified must be a boolean');
+  if (cfg.phone.publish === true) {
+    if (!cfg.phone.e164 || !/^\+1\d{10}$/.test(cfg.phone.e164)) {
+      failures.push('config.phone.e164 must be +1 followed by ten digits when publish is true');
+    }
+    if (!cfg.phone.display || !String(cfg.phone.display).trim()) {
+      failures.push('config.phone.display is required when publish is true');
+    }
+    if (cfg.phone.verified !== true) {
+      notes.push('config.phone is published but not verified, so the number on the site is still a placeholder');
+    }
+  }
+}
+
 /* ---------- the brand appears in the disclosure ---------- */
 if (!cfg.disclosure.includes(cfg.brand)) {
   notes.push('config.disclosure does not mention the brand name');

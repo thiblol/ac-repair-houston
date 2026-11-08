@@ -1,6 +1,6 @@
 {
-  "lastmod": "2026-11-07",
-  "intro": "Air conditioners fail in a small number of repeating ways, and guessing at the cause is how a homeowner ends up paying twice for the same fault. A compressor that has stopped, a capacitor that has failed, a blower that draws too much current, a line that leaks, a drain that backs up: each one produces its own set of symptoms, and the symptoms are what a good diagnosis starts from. A request through this site reaches the HVAC company that covers your area, and that company sends a technician to find the fault before deciding what to replace. Most of the work is booked same day, because a system that runs but never catches up is a working problem that turns into an emergency if it is left.",
+  "lastmod": "2026-11-08",
+  "intro": "Air conditioners fail in a small number of repeating ways, and guessing at the cause is how a homeowner ends up paying twice for the same fault. A compressor that has stopped, a capacitor that has failed, a blower that draws too much current, a line that leaks, a drain that backs up: each one produces its own set of symptoms, and the symptoms are what a good diagnosis starts from. We send the request to a company that already works your area, and that company sends a technician to find the fault before deciding what to replace. Whether the visit happens the same day is for that company to decide, but a system that runs and never catches up is a working problem that turns into an emergency if it is left, so say that in the request.",
   "whatHappens": [
     "Asks what the system does and does not do before starting",
     "Checks the electrical side, the breaker and the disconnect first",
@@ -16,7 +16,7 @@
     },
     {
       "q": "Can someone come today to fix my AC",
-      "a": "Often, but nobody can promise it. Same-day slots across the Houston area fill during the morning, so a request sent early has the best chance of landing that day and one sent after lunch usually becomes tomorrow. What the HVAC company covering your area can do is look at the job list and tell you honestly whether there is room today or when the next opening is. Emergency calls, where the house is too hot to sleep in, are handled on a different track."
+      "a": "Often, but nobody can promise it. Same-day slots across the Houston area fill during the morning, so a request sent early has the best chance of landing that day and one sent after lunch usually becomes tomorrow. The company we send the request to can look at the job list and tell you honestly whether there is room today or when the next opening is. Emergency calls, where the house is too hot to sleep in, are handled on a different track."
     },
     {
       "q": "How do I know if my AC is really broken or just needs a filter",

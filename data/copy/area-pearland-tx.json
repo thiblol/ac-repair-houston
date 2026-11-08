@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Pearland has gone from ranch homes on old lots to dense subdivisions fast, and the cooling equipment is a mix of both eras. It sits close enough to the Gulf that salt starts dulling condenser fins, but not close enough for salt to be the whole story. Coastal oak litter is the constant background noise in this part of Brazoria County.",
   "localAngle": "Two generations of housing sit side by side in Pearland. The older blocks are 1990s ranches with single-storey layouts and original equipment. The new subdivisions are larger, taller and packed with coastal oak shade that drops acorns and catkins straight onto the units. Because the area sits close to the bay, the first thing salt does is dull the aluminum fins on the condenser, which lowers how much heat the coil can dump. Humidity does the rest, because every pound of water pulled out of the air has to be condensed somewhere. Salt is present here, but it is a slow damage, not a sudden failure.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "5 FAQs. Local conditions used: low coastal salt exposure, coastal oak catkin litter, the humidity load, and the 1990s versus 2010s housing split.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "Pearland homes get hot fast when the cooling stops, because the humidity stays on the meter with the system off. We hand the request to the HVAC company that covers your part of Brazoria County. The first steps are the same ones a technician takes anywhere: confirm the fan and compressor state, check the breaker, and find out whether the fault is electrical.",
+      "intro": "Pearland homes get hot fast when the cooling stops, because the humidity stays on the meter with the system off. We send the request to a company that works your part of Brazoria County. The first steps are the same ones a technician takes anywhere: confirm the fan and compressor state, check the breaker, and find out whether the fault is electrical.",
       "localNote": "Two things make a Brazoria County outage different from one further inland. The damp air means the house climbs faster than the thermostat suggests, and a coastal unit that has been sitting in salt air can fail without much warning when the compressor tries to pull down against a fouled coil. The technician should check refrigerant pressures and condenser cleanliness, not just reset the breaker and leave.",
       "faqs": [
         {
@@ -108,7 +108,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-repair": {
-      "intro": "Pearland repair work splits cleanly between two generations of equipment. The 1990s homes have original systems with R-22 and brittle lines, while the new construction has modern units, often still under a workmanship warranty, where the complaint is usually a sizing or duct problem rather than a broken part. We connect you with a company that covers Brazoria County.",
+      "intro": "Pearland repair work splits cleanly between two generations of equipment. The 1990s homes have original systems with R-22 and brittle lines, while the new construction has modern units, often still under a workmanship warranty, where the complaint is usually a sizing or duct problem rather than a broken part. We match the request to a company that covers Brazoria County.",
       "localNote": "On the older side of town the failures are predictable: aged capacitors, contactors pitted by humidity and condensers that have been running hard for twenty-five summers. On the newer side the complaint is performance, not breakdown, and it usually comes back to duct sizing in a house that was framed for a different layout. Two different repairs, two different conversations. Ask which one you are having.",
       "faqs": [
         {

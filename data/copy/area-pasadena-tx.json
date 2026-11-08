@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "A lot of the houses here were standing before the air conditioner became standard, and the equipment bolted to the side of many of them has been outside ever since. That age, plus the industrial air that drifts in off the Ship Channel, is why so many summer calls in this part of Harris County are about systems that will not hold their charge and cabinets that are going dull and rusting at the base.",
   "localAngle": "The oldest homes here were framed and shaded before anyone ran ductwork, and many got a system bolted on in the 1960s and never had another look. Air drifting off the Ship Channel refining corridor is dirtier than most, and it settles on condenser fins and screens, shortening the life of gear that was already old. Coastal oak adds its litter to the same units. Nothing fails here because of a bad install. It fails because the same box has been weathering for fifty years.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "Most emergency calls here land on the hottest afternoon of the week, when an old outdoor unit finally gives up under a load it was never sized for. The HVAC company we connect you with covers Pasadena and handles the request directly, so the work goes to the technician who takes the job.",
+      "intro": "Most emergency calls here land on the hottest afternoon of the week, when an old outdoor unit finally gives up under a load it was never sized for. We send the request to a company that covers Pasadena and let them handle it directly, with the work done on site.",
       "localNote": "The equipment in the older half of Pasadena is first-generation, often on a house that grew after the install. Those units were sized for fewer warm rooms and an attic with less insulation. When they lock out on a July afternoon, the fault is usually a charge, a capacitor or a compressor that has been cooking in refinery-side air for decades.",
       "faqs": [
         {
@@ -77,7 +77,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and two local ones: the tree canopy and the debris it drops, the age of the equipment, the ground it sits on, and the grid."
     },
     "ac-not-cooling": {
-      "intro": "Air moving but not cooling is the most confusing symptom a homeowner can describe, and it is common here because so much of the housing stock has older equipment running older refrigerants. The company that covers this area checks airflow, charge and refrigerant type before anyone talks about replacing anything.",
+      "intro": "Air moving but not cooling is the most confusing symptom a homeowner can describe, and it is common here because so much of the housing stock has older equipment running older refrigerants. Airflow, charge and refrigerant type get checked before anyone talks about replacing anything.",
       "localNote": "In Pasadena the usual reason a system runs and blows warm air is an old first-generation install that has lost its charge, combined with a condenser packed with oak litter and refinery dust. A dirty coil alone will not cause this. Low charge plus a coil that cannot shed heat will, and the unit runs nonstop without ever satisfying the thermostat.",
       "faqs": [
         {
@@ -325,7 +325,7 @@
       "_faqsNote": "6 FAQs. Local: 130 to 140F attic line runs, 1970s fittings, Ship Channel air, R-22 recovery."
     },
     "refrigerant-recharge": {
-      "intro": "A recharge is a measurement, not a refill. The technician weighs in the refrigerant the nameplate specifies and then reads superheat and subcooling, and those two numbers confirm the system is holding the charge it should rather than merely containing some. They also tell you when something else is wrong.",
+      "intro": "A recharge is a measurement, not a refill, and the nameplate on a 1970s Pasadena unit decides how the visit is done. The refrigerant the nameplate specifies gets weighed in and then superheat and subcooling get read, and those two numbers confirm the system is holding the charge it should rather than merely containing some. They also tell you when something else is wrong.",
       "localNote": "The refrigerant type on the nameplate decides what this visit is. Older equipment on these blocks is on R-22, which is no longer made for new systems and has to be recovered rather than vented, while newer sets run R-410A or R-454B. On a 1960s install the readings carry more weight, because a system can hold a correct charge and still be short of air when the ducts were sized for a smaller house that has since gained a sunroom or a converted garage.",
       "faqs": [
         {

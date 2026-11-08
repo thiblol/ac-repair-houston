@@ -1,11 +1,11 @@
 {
-  "lastmod": "2026-11-07",
-  "heroIntro": "Tell us what the system is doing and where you are. It goes to an HVAC company that covers your part of Houston, and they come back with a next step.",
-  "intro": "Most AC problems in Houston are not mystery failures. They are a condenser packed with cottonwood, a system that was undersized for a house that got an addition, a coil that froze because the filter had not been changed since spring. Somebody who works that street every day recognises it faster than a call center script does, which is the entire reason this site asks for your area before it sends your request anywhere.",
+  "lastmod": "2026-11-08",
+  "heroIntro": "Tell us what the system is doing and where you are. We share it with the HVAC company or companies covering your part of Houston, and you get a call back with a next step.",
+  "intro": "Most AC problems in Houston are not mystery failures. They are a condenser packed with cottonwood, a system that was undersized for a house that got an addition, a coil that froze because the filter had not been changed since spring. Somebody who works that street every day recognises it faster than a call center script does, which is why we ask for your area before we send the request anywhere.",
   "whyRequest": [
-    "Your request goes to a company that already works your area",
+    "We send it to a company that already works your area",
     "You describe the symptom in your own words, no ticket number",
-    "The company calls you back with a next step, not a survey",
+    "You get a call back with a next step, not a survey",
     "Nothing costs you anything, the company pays for the referral",
     "You are under no obligation to go ahead with the work"
   ],
@@ -15,8 +15,8 @@
       "d": "What the system is doing, when it started, what you have already tried. Three lines is usually enough for a technician to know roughly where to look."
     },
     {
-      "t": "We route it by area",
-      "d": "Your request goes to an HVAC company that covers your part of Houston, so the person coming out already knows the housing stock and the weather."
+      "t": "We find the companies that cover your street",
+      "d": "We share it with the HVAC companies working your part of Houston, so the person coming out already knows the housing stock and the weather."
     },
     {
       "t": "They call you back",
@@ -30,7 +30,7 @@
   "faqs": [
     {
       "q": "Is it free to request AC service?",
-      "a": "Yes, and it stays free. The HVAC company that takes your request pays a referral fee. That fee never gets passed to you, and nothing on this site charges you for anything."
+      "a": "Yes, and it stays free. The HVAC company or companies that take your request pay us a referral fee, and that fee never gets passed to you. Nothing on this site charges you for anything."
     },
     {
       "q": "Why do you need my address and not just my phone number?",
@@ -38,15 +38,15 @@
     },
     {
       "q": "How quickly will someone contact me?",
-      "a": "That depends on the company that receives your request and on how urgent the problem is. If your system has gone down in the middle of a July week, say so in the description, because that changes how it gets handled. We do not control or promise response times on behalf of the companies that receive requests."
+      "a": "That depends on the company that receives your request and on how urgent the problem is. If your system has gone down in the middle of a July week, say so in the description, because that changes how it gets handled. We make sure the request reaches a company that covers your street, but how quickly they call is their call to make."
     },
     {
       "q": "Will I get a price before anyone comes out?",
       "a": "You should get a sense of cost before work begins, and you should ask for it. The cost depends on access, time of day, which part failed, and whether it is a repair or a replacement. Any company that will not talk about cost until the unit is already open should not be doing the job."
     },
     {
-      "q": "Are the companies you sending me to licensed?",
-      "a": "We do not employ anyone and we do not do the work. You should always confirm a contractor's license with the Texas Department of Licensing and Regulation before work starts, and you can ask the company to give you the license number on the phone. That check takes a minute and it is worth doing every time."
+      "q": "Are the companies you send me to licensed?",
+      "a": "Every company we send work to holds a current Texas Air Conditioning Contractors license, and we check the license before the listing goes live. Ask for the license number on the call and look it up yourself in the Texas Department of Licensing and Regulation register before work starts. A company with a real license will not mind you doing this."
     },
     {
       "q": "My unit is running but the house is still hot. What should I do?",
@@ -54,7 +54,7 @@
     },
     {
       "q": "What if my area is not listed on this site?",
-      "a": "Request anyway. The list on this site shows where requests are actively routed, and it is not the whole metro. If nobody covers your street, you will find out quickly and nothing is lost. If you are outside Greater Houston entirely, you are better off searching directly for a local company."
+      "a": "Request anyway. The list on this site shows where requests are actively being sent, and it is not the whole metro. If nobody covers your street, you will find out quickly and nothing is lost. If you are outside Greater Houston entirely, you are better off searching directly for a local company."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "League City sits on the bay side of Galveston County, and salt is the fact that shapes AC work here more than anything else. Air off the water carries salt into the outdoor unit, and it goes after the coating on the condenser fins and the connections inside the cabinet. Everything else is humidity and heat.",
   "localAngle": "Salt does its damage quietly. It settles on the outdoor coil and dulls the aluminum so the coil sheds heat less efficiently, and it gets into the base pan and the electrical compartment where it turns the metal to powder. A unit that was never rinsed shows corrosion within a few coastal seasons. Add the humidity off the bay, which pushes every system harder, and equipment that would last a decade inland is fighting for its life here. Houses date from the 1980s through the 2010s, so much of the equipment is already sitting on a salt-eaten chassis.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "5 FAQs. Local conditions used: bay salt on condenser fins and cabinet, salt carried inland by onshore wind, corrosion at the base pan and connections.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "Coastal weather is the biggest cause of emergency calls in League City. A storm, a lightning hit or a salt-damaged electrical connection can take the unit out in one afternoon. We pass the request to the HVAC company that covers Galveston County and let them diagnose it on site, with salt corrosion and water intrusion the first two things to rule out.",
+      "intro": "Coastal weather is the biggest cause of emergency calls in League City. A storm, a lightning hit or a salt-damaged electrical connection can take the unit out in one afternoon. We send it to a company that covers Galveston County and let them diagnose it on site, with salt corrosion and water intrusion the first two things to rule out.",
       "localNote": "A unit that goes down after a coastal storm needs a look for salt water on the electrical parts, not just a reset. Salt that has been sitting in the base pan and the connections will keep a system from restarting even after the power comes back, because the corrosion is already there. The technician should check for standing water, test the supply, and look at the cabinet before assuming a control board failed.",
       "faqs": [
         {
@@ -77,7 +77,7 @@
       "_faqsNote": "6 FAQs. Local: salt water in the base pan after coastal storms, corroded connections blocking a restart, summer voltage sags on the ERCOT grid, rusted-through base pan."
     },
     "ac-not-cooling": {
-      "intro": "Running and blowing warm air in League City has one extra suspect that inland areas do not have. A condenser whose fins have been dulled by salt cannot shed heat the way it should, and the system runs and runs without cooling the house. The technician who takes the job needs to check the coil condition and the refrigerant charge together.",
+      "intro": "Running and blowing warm air in League City has one extra suspect that inland areas do not have. A condenser whose fins have been dulled by salt cannot shed heat the way it should, and the system runs and runs without cooling the house. Coil condition and the refrigerant charge have to be read together, because a salt-dulled coil and a low charge produce the same warm air in this county.",
       "localNote": "A fouled condenser raises the pressure on the refrigerant, which makes the compressor run hot and can trip it on the high side. On this coast the fouling is often salt rather than just dust and leaves. The other coastal factor is that a salt-eaten system may have a slow leak at a fitting that has been quietly losing charge for a season. Coil condition and charge need checking in that order.",
       "faqs": [
         {
@@ -108,7 +108,7 @@
       "_faqsNote": "6 FAQs. Local: salt-dulled condenser fins, corroded fittings leaking charge, fouled coil versus sizing, 130 to 140F attic, Clear Lake humidity."
     },
     "ac-repair": {
-      "intro": "The repair list here is longer than inland because the salt adds failures to the normal list. Corroded capacitor and contactor connections, rusted disconnect fittings, a fan motor bearing gone from salt and moisture, and coil corrosion all show up. We connect you with a company that covers Galveston County so the unit gets assessed for salt damage as well as mechanical wear.",
+      "intro": "The repair list here is longer than inland because the salt adds failures to the normal list. Corroded capacitor and contactor connections, rusted disconnect fittings, a fan motor bearing gone from salt and moisture, and coil corrosion all show up. We send the request to a company that covers Galveston County so the unit gets assessed for salt damage as well as mechanical wear.",
       "localNote": "When a technician opens the electrical compartment of a coastal unit, the corrosion usually tells the story. Green and white deposits on the terminals mean the connections have been sitting in salt air for a long time, and a capacitor that has been damp that way can fail without looking damaged from the outside. This kind of damage is not a symptom of age, so a unit can fail early in a way an inland technician would not expect.",
       "faqs": [
         {
@@ -125,7 +125,7 @@
         },
         {
           "q": "Can I get same day AC repair in League City?",
-          "a": "A request sent today reaches the company that covers Galveston County today, but the hour it arrives is decided by the fault and by the load already on the board. Swapping a capacitor or a contactor is usually a same day job. A compressor, a coil or a cabinet that has corroded through is not, because the part has to be ordered and the refrigerant recovered before the work starts. Coastal weather concentrates the calls. When an ERCOT summer event drops power across South Shore and Clear Lake, a lot of houses in the same area fail within the hour of each other, and that is a longer queue than an ordinary weekday. Say what the fault is and whether the unit is dead or only blowing warm air, because that is what sorts a request to the right end of it."
+          "a": "We send a request to a company that covers Galveston County the same day it comes in, but the hour it arrives is decided by the fault and by the load already on the board. Swapping a capacitor or a contactor is usually a same day job. A compressor, a coil or a cabinet that has corroded through is not, because the part has to be ordered and the refrigerant recovered before the work starts. Coastal weather concentrates the calls. When an ERCOT summer event drops power across South Shore and Clear Lake, a lot of houses in the same area fail within the hour of each other, and that is a longer queue than an ordinary weekday. Say what the fault is and whether the unit is dead or only blowing warm air, because that is what sorts a request to the right end of it."
         },
         {
           "q": "What does an AC repair cost when the unit has salt damage?",
@@ -139,7 +139,7 @@
       "_faqsNote": "6 FAQs. Local: salt crust and green deposits on terminals, coastal electrical repairs, cleaning versus replacing corroded parts, same day coverage across Galveston County, ERCOT summer events."
     },
     "ac-installation": {
-      "intro": "New systems in League City have to survive the same air that ended the old one, and the specification should reflect that. Coated condenser fins, a corrosion-resistant cabinet and a serviceable design for a humid salt environment all belong in the conversation. We connect you with an installer who covers Galveston County.",
+      "intro": "New systems in League City have to survive the same air that ended the old one, and the specification should reflect that. Coated condenser fins, a corrosion-resistant cabinet and a serviceable design for a humid salt environment all belong in the conversation. We send the request to an installer who covers Galveston County.",
       "localNote": "Ask what the outdoor unit is made to handle. Inland, a standard galvanized cabinet and an aluminum coil are fine. Here, the finish on the cabinet and the coil coating are what decide how many seasons you get, and a unit with a salt-resistant coating costs less over its life than the same unit replaced twice. Rinsing guidance should come with it, because no coating replaces maintenance.",
       "faqs": [
         {
@@ -170,7 +170,7 @@
       "_faqsNote": "6 FAQs. Local: coated coils for coastal exposure, cabinet finish, rinse routine, 130 to 140F attic handler on 1980s housing."
     },
     "ac-replacement": {
-      "intro": "Replacing a salt-exposed system in League City is a bigger job than swapping a compressor, because the outdoor cabinet, the line set and the connections all need to be looked at. The technician who takes the job should check for corrosion along the lines and around the service disconnect. A new system installed into corroded connections will fail in a way the new equipment did not deserve.",
+      "intro": "Replacing a salt-exposed system in League City is a bigger job than swapping a compressor, because the outdoor cabinet, the line set and the connections all need to be looked at. Corrosion along the lines and around the service disconnect should be checked as part of that. A new system installed into corroded connections will fail in a way the new equipment did not deserve.",
       "localNote": "The case for replacement here is stronger than inland. A salt-eaten cabinet, brittle line set insulation and connections that no longer hold a torque properly are all reasons to start over. The refrigerant in older units here is likely R-22, which is no longer produced for new systems. A matched set on a current refrigerant, installed with new connections and a washdown at handoff, is the durable answer for a coastal house.",
       "faqs": [
         {
@@ -232,7 +232,7 @@
       "_faqsNote": "6 FAQs. Local: salt dulling the condenser, coastal oak leaf debris, 130 to 140F attic, salt corrosion on terminals."
     },
     "condenser-repair": {
-      "intro": "This is the unit sitting outside in the weather, doing the part of the job nobody sees. A condenser problem on this coast is usually the fan motor, the run capacitor, the contactor, or a cabinet and coil that salt has eaten into. The technician who takes the job finds the fault, checks the electrical compartment for corrosion, and says whether the unit is worth repairing or has reached the end.",
+      "intro": "This is the unit sitting outside in the weather, doing the part of the job nobody sees, and on this coast it is also the piece that has to live with salt. A condenser problem in Galveston County is usually the fan motor, the run capacitor, the contactor, or a cabinet and coil that salt has eaten into. The fault gets found, the electrical compartment gets checked for corrosion, and you get a straight answer on whether the unit is worth repairing or has reached the end.",
       "localNote": "Salt does most of the deciding on an outdoor unit in Galveston County. It dulls the fins until the coil cannot shed heat, it rusts the base pan through at the lower edge, and it leaves a crust in the electrical compartment that eats the terminals. Coastal oak sap and leaves hold damp against the cabinet, so a unit that has never been rinsed is working against itself all summer.",
       "faqs": [
         {
@@ -387,7 +387,7 @@
       "_faqsNote": "6 FAQs. Local: bay humidity loading the coil, coastal oak dust packing the filter, 130 to 140F attic with no cool air around the coil."
     },
     "blower-motor-repair": {
-      "intro": "The blower is what moves the air. When the motor, the run capacitor or the relay fails, the house has cooling equipment and no air coming out of it, which on a very humid afternoon is no cooling at all. Those three parts usually fail together, and the technician who takes the job checks the capacitor and the relay as well as the motor before anything is quoted.",
+      "intro": "The blower motor is what moves the air, and in a Galveston County attic it works in a space running 130 to 140F through the summer. When the motor, the run capacitor or the relay fails, the house has cooling equipment and no air coming out of it, which on a very humid afternoon is no cooling at all. Those three parts usually fail together, and the capacitor and the relay get checked as well as the motor before anything is quoted.",
       "localNote": "An attic at 130 to 140F is where these motors live in this county, and the heat is what cooks the bearings and weakens the run capacitor first. These houses run from the 1980s through the 2010s, so the air handler and the motor inside it are often the same age as the outdoor unit. Coastal oak and dust in the return also pack the filter down sooner than the schedule assumes.",
       "faqs": [
         {

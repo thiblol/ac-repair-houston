@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "A lot of Spring houses were built in the 1970s for a smaller family and a smaller footprint, then finished off over the years. The oak canopy came with the land and it stayed. The result is a house that asks more of its cooling system every year than the one it was designed for.",
   "localAngle": "The sizing is the story here. A 1970s system was chosen when a home had fewer finished rooms, less glass and lower expectations of comfort. Closed-off bedrooms, a family room addition and a vaulted ceiling all raise the heat gain, and none of that changes the unit outside. So the same equipment that handled the house in the eighties runs near its limit in the middle of an August afternoon. The oak canopy adds shade, which helps, and a steady rain of leaves that blocks the condenser. The grid sags in the afternoon too, and a compressor at its limit has no margin for a bad power moment.",
   "commonCalls": [
@@ -46,7 +46,7 @@
   "_faqsNote": "5 FAQs. Local conditions used: 1970s sizing against a grown house, mature oak leaf fall, ERCOT afternoon dips, and closed-off upstairs rooms.",
   "services": {
     "emergency-ac-repair": {
-      "intro": "A Spring callout in the middle of a heat wave is usually about a house that cannot cool itself. We pass the request to the HVAC company that covers your part of Montgomery and Harris County and let them work the fault directly. Because the equipment is old and the house is loaded, the outcome depends as much on the power supply as on the parts.",
+      "intro": "A Spring callout in the middle of a heat wave is usually about a house that cannot cool itself. We send it to a company that covers your part of Montgomery and Harris County and let them work the fault directly. Because the equipment is old and the house is loaded, the outcome depends as much on the power supply as on the parts.",
       "localNote": "An undersized system running flat out during the ERCOT afternoon peak is exactly when the compressor is most likely to trip. The technician should verify the supply voltage at the outdoor unit before condemning the compressor, and check whether the coil under the oak is fouled. In this neighborhood the coil and the power are both suspects, and one of them is usually the cheaper to fix.",
       "faqs": [
         {
@@ -77,7 +77,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-not-cooling": {
-      "intro": "Blown air that stays warm is the most common complaint from Spring homeowners, and the diagnosis usually starts with airflow rather than gas. In homes that have been changed over the years, the ductwork and the space the unit occupies rarely match the way the house is used now. We connect you with a company that covers the area.",
+      "intro": "Blown air that stays warm is the most common complaint from Spring homeowners, and the diagnosis usually starts with airflow rather than gas. In homes that have been changed over the years, the ductwork and the space the unit occupies rarely match the way the house is used now. We hand the request to a company that covers the Spring area, and the work gets done on the equipment in your house rather than guessed at from a symptom.",
       "localNote": "A closed-off bedroom with no supply vent is the classic Spring version of this. The main system tries to cool a space it cannot reach, the static pressure climbs and the coil ices over. Then the thermostat reads room temperature because the vents near the thermostat are fine. The fix is a load calculation and possibly new or extended ductwork, not another cylinder of refrigerant.",
       "faqs": [
         {
@@ -108,7 +108,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-repair": {
-      "intro": "The equipment in these houses goes back to the 1970s, so the repair list is the old one: capacitors, contactors, blower motors, and R-22 systems that need refrigerant every few summers. We connect you with a company covering Montgomery and Harris County. Diagnosis before parts, especially on a system that has already had work done.",
+      "intro": "The equipment in these houses goes back to the 1970s, so the repair list is the old one: capacitors, contactors, blower motors, and R-22 systems that need refrigerant every few summers. We send the request to a company covering Montgomery and Harris County. Diagnosis before parts, especially on a system that has already had work done.",
       "localNote": "Old systems here were sized for less house, and they were also run hard for a long time. The compressor on a 1970s install has pulled a lot of hours against a coil that was never kept clean, and the result is leaks and failed contactors rather than a clean end. Two things are worth checking before replacing anything: what refrigerant the nameplate lists and whether the line set has been repaired before.",
       "faqs": [
         {
@@ -139,7 +139,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-installation": {
-      "intro": "Installations in Spring are usually replacements in older homes, and the sizing conversation is the whole job. The house has more finished space and more glass than it did when the original unit was chosen. We connect you with an installer who covers the area so the load calculation reflects the house as it stands now.",
+      "intro": "Installations in Spring are usually replacements in older homes, and the sizing conversation is the whole job. The house has more finished space and more glass than it did when the original unit was chosen. We send the request to an installer who covers the area so the load calculation reflects the house as it stands now.",
       "localNote": "The calculation has to describe the house today, not the floor plan from when it was framed. Finished bedrooms that were closed off, a family room addition and a vaulted ceiling all change the numbers. The oak canopy affects the answer too, since shade lowers the gain on one side of the house and the west sun still bakes the other. Those two facts pull in opposite directions and the calculation has to settle it.",
       "faqs": [
         {
@@ -170,7 +170,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-replacement": {
-      "intro": "Replacing the system in a Spring house usually means moving off a refrigerant that is no longer made and off a coil that has been in the attic for half a century. There is also the question of whether the old line set is worth keeping. We connect you with a company that covers the area so both questions get answered before the quote.",
+      "intro": "Replacing the system in a Spring house usually means moving off a refrigerant that is no longer made and off a coil that has been in the attic for half a century. There is also the question of whether the old line set is worth keeping. We send the request to a company that covers the area so both questions get answered before the quote.",
       "localNote": "The R-22 systems from the 1970s are the strongest case for replacement. The refrigerant is discontinued for new equipment, so a single leak repair on an old line set is expensive work on a system that still will not meet a house that has grown since it went in. Add a coil sitting in a 130 degree attic and the whole assembly has had a long life. A new matched set removes the question.",
       "faqs": [
         {
@@ -201,7 +201,7 @@
       "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-maintenance": {
-      "intro": "A maintenance visit in Spring is a check on a system that is working, scheduled before the worst of the heat rather than after something quits. Coil and filter condition, drain clearance, electrical readings and the load the unit carries all get looked at. We route the request to the company that covers Montgomery and Harris County so the visit happens on the equipment in your own yard.",
+      "intro": "A maintenance visit in Spring is a check on a system that is working, scheduled before the worst of the heat rather than after something quits. Coil and filter condition, drain clearance, electrical readings and the load the unit carries all get looked at. We send the request to a company that covers Montgomery and Harris County so the visit happens on the equipment in your own yard.",
       "localNote": "Two things set the timing here. The oak canopy over Spring homes drops a season of litter on the outdoor unit, so a coil that was clear in March is packed by June, and a packed coil is what pushes the system into long run times. The attic air handler on these houses sits at 130 to 140 degrees, where the motor and the capacitor carry more heat than the ratings on them were written for.",
       "faqs": [
         {
@@ -232,7 +232,7 @@
       "_faqsNote": "6 FAQs. Local: oak leaf drop on the coil before summer, 130 to 140 degree attic air handler, ERCOT afternoon strain, 1970s sizing against a house that grew."
     },
     "condenser-repair": {
-      "intro": "This page covers the outdoor unit only. Fan motor, run capacitor, contactor, coil condition, cabinet condition and the noise the box makes when it starts are what the technician who takes the job looks at. The compressor and the refrigerant side are separate jobs, and mixing them up is why a quote sometimes changes halfway through a visit.",
+      "intro": "This page covers the outdoor unit only, and in Spring that means the box sitting under the heavy oak canopy with a season of leaves on the coil. Fan motor, run capacitor, contactor, coil condition, cabinet condition and the noise the box makes when it starts are what get looked at on the unit itself. The compressor and the refrigerant side are separate jobs, and mixing them up is why a quote sometimes changes halfway through a visit.",
       "localNote": "The unit outside in Spring has three things working against it. The heavy oak canopy drops leaves that pack the coil face, the cabinet sweats through months of very high humidity until the base pan and the fasteners start to go, and the afternoon peak on the ERCOT grid sags exactly when the unit is trying hardest. Spring is inland, so what corrodes this cabinet is standing water and damp air rather than anything carried on the wind.",
       "faqs": [
         {
@@ -264,7 +264,7 @@
     },
     "compressor-repair": {
       "intro": "The compressor is the pump at the middle of the system, and its failure takes the whole house out of cooling. Seized, hard starting and short cycling are the three ways it presents. The other half of this job is the decision at the end, whether the pump can be replaced or the system has to go, and that turns on the age of the equipment and the refrigerant on the nameplate.",
-      "localNote": "Two things drive compressor failures on this street. A system sized in the 1970s for a smaller house now carries a load it was never meant to, so it runs long in extreme humidity with the condenser working hard to keep up with it. And the summer grid sags in the afternoon, and start-up is the moment a compressor with a tired contactor is most likely to fail.",
+      "localNote": "Two things drive compressor failures on this street. A system sized in the 1970s for a smaller house now carries a load it was never meant to, so it runs long in extreme humidity with the condenser working hard to keep up with it. And the summer grid sags in the afternoon, and the failure comes at start-up, on a compressor whose contactor has been tired for years.",
       "faqs": [
         {
           "q": "The fan spins and the unit hums but the compressor never runs. What does that mean?",
@@ -272,7 +272,7 @@
         },
         {
           "q": "Is my compressor failing, or is my system simply too small for the house?",
-          "a": "Both are worth checking, and the symptom looks the same from inside the house. A system that runs all day and never reaches setpoint may be short cycling on low refrigerant, or it may be carrying a load it was never sized for. A load calculation against the house as it stands now separates those, and it also tells you whether replacing the compressor would solve anything at all."
+          "a": "Both are worth checking, and the symptom looks the same from inside the house. A 1970s system that runs all day and never reaches setpoint might be short cycling on a low charge, or it might be carrying a load it was never sized for, because the house has gained finished rooms since the unit went in. A load calculation done against the house as it stands now is what separates those two, and it also tells you whether replacing the compressor would solve anything at all."
         },
         {
           "q": "Is it worth replacing just the compressor on my old system?",
@@ -315,7 +315,7 @@
         },
         {
           "q": "How much does a refrigerant leak repair cost?",
-          "a": "What moves it is where the leak is and what the refrigerant is. A fitting at the outdoor unit is a short job. A pinhole in a line set running through an attic above a finished ceiling takes longer to find, longer to reach and more to repair, and the access is usually the largest single cost on the visit. Ask whether the quote includes locating the leak or only repairing an already known point."
+          "a": "What moves it is where the leak is and what the refrigerant is. A fitting on the outdoor unit is a short visit. A pinhole in a 1970s line set running through an attic above a finished ceiling takes longer to find, longer to reach and more to repair, and the access is usually the largest single cost on the visit. Ask whether the quote includes locating the leak or only repairing an already known point."
         },
         {
           "q": "Is there any way to find the leak myself before calling?",

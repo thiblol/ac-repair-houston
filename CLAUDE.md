@@ -75,11 +75,12 @@ Read `docs/PROJECT-BRIEF.md` and `docs/HANDOFF.md` before changing anything.
 
 ## Never invent a fact about this business
 
-This site is a referral service with no operator, no premises, no phone number
-and no Google Business Profile. The build enforces this, and so must you.
+This site is a referral service with no operator, no premises and no Google
+Business Profile. It publishes one call tracking number that forwards to a
+partner company. The build enforces this, and so must you.
 
-- No phone number, not even a placeholder. Every call to action points at the
-  request form.
+- No phone number other than the one in `data/config.json`. It is a call
+  tracking line, so the copy must never imply a direct line to a contractor.
 - No street address, no map, no storefront, no `LocalBusiness` schema, no `geo`.
 - No review counts, star ratings, awards, job counts, years in business,
   response-time promises, or prices.
@@ -106,14 +107,18 @@ never invents a sentence.
 - No em dashes anywhere. No `$` followed by a digit.
 - Write like a technician explaining something to a homeowner whose house is
   too hot. Short sentences, concrete, no marketing voice.
+- "We" means the dispatch desk: taking the request, checking that a company
+  covers the street, passing it on, making sure somebody calls back. The
+  contractor stays third person, so never "our technician" or "our HVAC". See
+  `docs/COPY-BRIEF.md` for the full voice rules.
 
 ## The build gates are the point
 
 `npm test` must pass before anything ships. It runs the source checks, the copy
-audit self-test, and a clean build. The build fails on a missing copy file, a
-banned claim, a duplicated page, a local fact contradiction, a heading
-structure problem, a missing alt text, an undefined CSS class, an orphan page,
-or a dangling link.
+audit, a clean build, the SEO audit and the link audit. The build fails on a
+missing copy file, a banned claim, a duplicated page, a local fact
+contradiction, a heading structure problem, a missing alt text, an undefined
+CSS class, an orphan page, or a dangling link.
 
 Do not weaken a gate to make a build pass. Fix the copy.
 

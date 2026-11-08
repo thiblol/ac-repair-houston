@@ -4,7 +4,8 @@
 
 - Business and site name: AC Repair Houston
 - Operating status: rank-and-rent lead generation property. No operator is
-  assigned, no premises, no phone number, no Google Business Profile.
+  assigned, no premises, no Google Business Profile. One call tracking line
+  forwards to a partner company.
 - Primary service: AC repair (the pillar service)
 - Primary market: Houston, Texas (the pillar area)
 - Build mode: autopilot
@@ -55,7 +56,12 @@ La Porte, Dickinson, Baytown, Tomball.
 
 ## Lead routing
 
-- Phone status: none. No phone number is published anywhere.
+- Phone status: one call tracking line, configured under `phone` in
+  `data/config.json`. It is published in the header, the ribbon, the fixed
+  mobile bar, the request form and the `Organization` schema. It forwards to
+  a partner company. `phone.verified` is the gate: the build refuses to let a
+  placeholder be marked verified, and refuses any phone number in the built
+  HTML that is not the published one.
 - Form destination: `POST /api/leads`, currently in a pending state
 - Form fields: name, phone, email (optional), service area, service type, and
   a description of the problem
@@ -108,7 +114,8 @@ be claimed, and the build fails on any of it.
 
 - Never claim to be a licensed contractor without a real license number on
   file.
-- Never publish a fake, example, inactive, or competitor phone number.
+- Never publish a fake, example, inactive, or competitor phone number, and
+  never mark a placeholder number as verified.
 - Never publish an address, a map, a storefront, or a physical location.
 - Never invent reviews, ratings, awards, years in business, job counts, prices,
   or response times.
@@ -118,9 +125,11 @@ be claimed, and the build fails on any of it.
 
 ## Verification
 
-`npm test` runs the source checks, the copy audit self-test, and a clean build.
-The build itself enforces copy completeness, banned claims, shingle similarity
-between same-type pages, local fact consistency against each area's traits,
-heading structure, title and description lengths, canonical and social
-metadata, alt text on every image, CSS class coverage, and the internal link
-graph with zero orphans and zero dangling links.
+`npm test` runs the source checks, the copy audit, a clean build, the SEO
+audit and the link audit. The copy audit is the shingle similarity gate over
+every same-type pair of pages, and it is now wired into `npm test` rather
+than only being available as a separate command. The build itself enforces
+copy completeness, banned claims, local fact consistency against each area's
+traits, heading structure, title and description lengths, canonical and social
+metadata, alt text on every image, CSS class coverage, the phone number rules,
+and the internal link graph with zero orphans and zero dangling links.

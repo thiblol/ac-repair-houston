@@ -1,6 +1,6 @@
 {
-  "lastmod": "2026-11-07",
-  "intro": "Houston is the hardest cooling market in the country to buy a system for, and the same Gulf moisture that makes the city miserable is what breaks the equipment in it. Calls here cluster in a narrow band: a summer load that no 1980s split was sized for, outdoor units packed with cottonwood, and a grid that cuts power at the exact hour a house needs cooling. When something stops, the request goes to the independent HVAC companies that work Houston, and the fault gets diagnosed before anybody quotes a repair.",
+  "lastmod": "2026-11-08",
+  "intro": "Houston is the hardest cooling market in the country to buy a system for, and the same Gulf moisture that makes the city miserable is what breaks the equipment in it. Calls here cluster in a narrow band: a summer load that no 1980s split was sized for, outdoor units packed with cottonwood, and a grid that cuts power at the exact hour a house needs cooling. When something stops, we send it to the independent HVAC companies that work Houston, and the fault gets diagnosed before anybody quotes a repair.",
   "localAngle": "Houston runs on humidity. Gulf moisture puts a latent load on every system, so a unit that cools fine at nine in the morning falls behind by four in the afternoon. Housing spans 1920s Heights bungalows through modern builds in the 610 loop, and the outdoor pad often carries equipment three decades old and mismatched to the house around it. Cottonwood and mesquite mat a condenser in one season. Attics run 130 to 140 degrees. ERCOT sheds load at peak demand, right when cooling is needed. No coastal salt here. Freeze is the surprise: February 2021 and January 2024 both caught systems that were never built for it.",
   "commonCalls": [
     "A system that blows warm air while the outdoor unit runs nonstop. Usually low charge or a starved evaporator, made worse by Gulf humidity loading the coil every time it cycles.",
@@ -45,7 +45,7 @@
   ],
   "services": {
     "emergency-ac-repair": {
-      "intro": "A system that quits in the middle of a Houston July afternoon is an emergency because the humidity does not let up. Give the address and describe what the outdoor unit is actually doing, and the request goes to the HVAC company covering that part of the city. The technician who takes the job calls before setting out so you know what is coming.",
+      "intro": "A system that quits in the middle of a Houston July afternoon is an emergency because the humidity does not let up. Give the address and describe what the outdoor unit is actually doing. We send it to the HVAC company covering that part of the city. The technician who takes the job calls before setting out so you know what is coming.",
       "localNote": "ERCOT load conservation lands hardest on the hottest afternoons, so a breaker that trips during a heat wave is sometimes the grid rather than the equipment. The technician who takes your job checks the outdoor unit first, because a condenser matted with cottonwood trips on a supply cut that a clean unit rides through. Nights are the worst time to call. The whole city is failing at once.",
       "faqs": [
         {
@@ -76,7 +76,7 @@
       "_faqsNote": "6 FAQs. Two are local: ERCOT load conservation and the housing eras across the sixteen Houston neighborhoods. One covers what moves the price."
     },
     "ac-not-cooling": {
-      "intro": "Air that blows and stays warm means the system is running but not doing its job. Four causes account for most of it: low charge, a frozen indoor coil, a fouled condenser, or a unit that was undersized the day it went in. The request goes to the HVAC company covering your block, and the diagnosis starts with those four.",
+      "intro": "Air that blows and stays warm means the system is running but not doing its job. Four causes account for most of it: low charge, a frozen indoor coil, a fouled condenser, or a unit that was undersized the day it went in. We send it to the HVAC company covering your block, and the diagnosis starts with those four.",
       "localNote": "Gulf humidity makes this symptom lie here. A system low on refrigerant still feels like it is cooling, because the coil keeps pulling water out of the air, but it cannot pull enough to hold a house at 72 in the afternoon. A frozen coil in a 1920s Heights bungalow sits in an attic unit that never gets cool enough to defrost on its own, because the attic itself runs 130 to 140 degrees.",
       "faqs": [
         {
@@ -107,12 +107,12 @@
       "_faqsNote": "6 FAQs. Two are local: the latent load of Gulf humidity and the way the housing eras across the sixteen Houston neighborhoods change the duct layout and the load. One covers what moves the price."
     },
     "ac-repair": {
-      "intro": "This is the page for anyone in Houston with a system that has quit, is running badly, or has been limping along for a year. We are a referral service, so your request goes to independent HVAC companies that work Houston, and the technician who takes the job diagnoses the fault before anybody quotes a repair. Sending the request costs you nothing.",
+      "intro": "This is the page for anyone in Houston with a system that has quit, is running badly, or has been limping along for a year. We are a referral service, so we send your request to independent HVAC companies that work Houston, and the technician who takes the job diagnoses the fault before anybody quotes a repair. Sending the request costs you nothing.",
       "localNote": "The housing stock is why repair work here differs. A Heights bungalow from the 1920s may have had its original system replaced twice with units that never matched the ductwork, and a Sharpstown ranch from the 1970s may have a compressor that has been running the same refrigerant for thirty years. The water table means most homes sit on a slab with the air handler in the attic, so access and attic heat shape every repair.",
       "faqs": [
         {
           "q": "What actually happens when I send a request?",
-          "a": "We pass it to independent HVAC companies that cover the address you give us. They contact you and diagnose the system on site. We are not a contractor and we do not do the work ourselves, and the request is free to send."
+          "a": "We send it to independent HVAC companies that cover the address you give us. They contact you and diagnose the system on site. Every company we send work to holds a current Texas AC contractor's license, so ask for the number on the call and check it against the state register before work starts. Sending the request costs you nothing."
         },
         {
           "q": "My outdoor unit is in the attic and it is 135 degrees up there. Does that change the repair?",
@@ -124,7 +124,7 @@
         },
         {
           "q": "Can I get same-day AC repair in Houston?",
-          "a": "It is a request, not a promise, and nobody can promise a slot. The request goes to the independent HVAC companies covering the address you give, and how fast it moves depends on the day. Houston makes this harder than most cities because the failures cluster. When ERCOT calls for load conservation on a July afternoon, whole blocks go down together and the same-day requests stack up on the same desk. The mornings after a rough night are the worst. Ask in your request for the earliest availability, describe what the outdoor unit is actually doing, and say whether the air handler is in an attic, because a slab house with a 140 degree attic is a longer visit and the company schedules it that way."
+          "a": "It is a request, not a promise, and nobody can promise a slot. We send it to the independent HVAC companies covering the address you give, and how fast it moves depends on the day. Houston makes this harder than most cities because the failures cluster. When ERCOT calls for load conservation on a July afternoon, whole blocks go down together and the same-day requests stack up on the same desk. The mornings after a rough night are the worst. Ask in your request for the earliest availability, describe what the outdoor unit is actually doing, and say whether the air handler is in an attic, because a slab house with a 140 degree attic is a longer visit and the company schedules it that way."
         },
         {
           "q": "How much does AC repair cost in Houston?",
@@ -510,7 +510,7 @@
       "_faqsNote": "6 FAQs. Local: control wiring from every housing decade in Houston, line voltage controls in the 1920s stock, and ERCOT load conservation outages resetting smart thermostats."
     },
     "ductless-mini-split-installation": {
-      "intro": "Ductless mini splits solve the problem of a room that has no ductwork and no way to get any. They are the natural answer in Houston for a garage, a shop, a converted attic, or an older house that never had central air. The request goes to a company that covers your area, and they size the unit and place the heads.",
+      "intro": "Ductless mini splits solve the problem of a room that has no ductwork and no way to get any. They are the natural answer in Houston for a garage, a shop, a converted attic, or an older house that never had central air. We send it to a company that covers your area, and they size the unit and place the heads.",
       "localNote": "Two local facts push people toward ductless. The high water table means most homes sit on a slab with no basement and no attic space to run ducts, and the older houses in the Heights, Meyerland and Third Ward were built before central air was normal. Placement is the other factor: an outdoor unit on a west or south wall in July works far harder than the same unit on the north side.",
       "faqs": [
         {
@@ -616,7 +616,7 @@
         },
         {
           "q": "Do you handle commercial service in the Houston area?",
-          "a": "We are a referral service, so the request is passed to independent HVAC companies that cover commercial work in the metro. Buildings in the Energy Corridor, Downtown, and around the Port of Houston are all served by companies in that network."
+          "a": "We are a referral service, so we send the request to independent HVAC companies that cover commercial work in the metro. Buildings in the Energy Corridor, Downtown, and around the Port of Houston are all served by companies in that network."
         },
         {
           "q": "What drives the cost of a commercial service call?",

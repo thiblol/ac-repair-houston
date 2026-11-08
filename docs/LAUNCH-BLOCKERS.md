@@ -41,30 +41,49 @@ not-connected state and the submit button is disabled. That is correct for
 staging and completely wrong for a live site. A homeowner who cannot submit
 is a homeowner who calls someone else.
 
-## 3. Decide on a phone number
+## 3. Put the real call tracking number in place
 
-There is currently no phone number anywhere on the site, in the copy, or in the
-structured data. That is the correct default for a referral business that does
-not employ anyone, and it is why every call to action points at the form.
+There is one phone number on the site, and it is a call tracking line that
+forwards to a partner company. It lives in `data/config.json`:
 
-If a number is added later, these are the places it has to go:
+```json
+"phone": {
+  "display": "(713) 555-0100",
+  "e164": "+17135550100",
+  "publish": true,
+  "verified": false
+}
+```
 
-- [ ] `data/config.json`: add `phone` (display) and `phoneE164`, and add a
-      `phone.publish` flag set to `true`.
-- [ ] `src/templates.mjs`: the header CTA, the dispatch card, the ribbon and
-      the mobile call bar all currently render a form link. They need a
-      `tel:` branch.
-- [ ] `src/templates.mjs`, `orgSchema()`: `contactPoint` currently has no
-      `telephone` property. Add it only when the number is real and
-      controlled.
-- [ ] `data/copy/`: every page that says "free to request" or "no cost to
-      you" needs to reflect the new path.
-- [ ] Every service page's `intro` and `howPriced` copy assumes a form
-      request, not a call. That copy needs a rewrite, not a patch.
+The current value is a placeholder. The call button is built and wired
+everywhere it belongs: the sticky header, the emergency ribbon, the fixed
+mobile bar, the request form and the `Organization` schema. So the swap is
+two fields and one flag.
+
+- [ ] Buy the call tracking number. It has to forward to a partner company
+      that is actually taking work, because a call that rings nobody is worse
+      than no button at all.
+- [ ] Set `display` to the human-readable form and `e164` to `+1` followed by
+      ten digits.
+- [ ] Set `verified` to `true`.
+- [ ] Run `npm run build`. The build fails if the number is marked verified
+      while it still matches a placeholder pattern, and it fails if any phone
+      number or `tel:` link anywhere in the built HTML is not the one in the
+      config. Both of those are the point: they are what stops a placeholder
+      or an invented number reaching production.
+- [ ] Confirm the tracking provider records the source of the call, so a
+      call can be attributed to the page that produced it.
+- [ ] Confirm the number is answered. If nobody answers, the footer already
+      tells the visitor to use the request form instead, and the form is
+      live once item 2 is done.
 
 **Do not** publish a placeholder number, a 555 line, or a number belonging to
 an unrelated business. The build fails on invented contact details for a
 reason.
+
+**Also note:** the copy now claims that every company the site sends work to
+holds a current Texas Air Conditioning Contractors license. That claim is
+only true once item 8 below is done. Do not launch before it is.
 
 ## 4. The retired same-day URL set
 
@@ -146,10 +165,43 @@ imagery on an AC site.
 - [ ] Confirm each company has agreed to be identified as a referral partner
       and understands that the homeowner sees their name and contact details.
 
+### 8a. Decide how many companies receive a request
+
+This is still open. The business plan is to sell the leads now, and to rent the
+site out to a contractor later if the site reaches position one. The copy is
+written so that it stays honest either way, so this does not block the build,
+but it does need an answer before the site goes live.
+
+- [ ] Decide whether a request goes to **one company per area** (exclusive)
+      or to **several companies** (shared), or exclusive for urgent work and
+      shared for routine work.
+- [ ] If it is shared, the number of companies a homeowner can receive a call
+      from has to be set in the `/api/leads` handler, and the copy below has
+      to be revisited.
+- [ ] If it is exclusive, the routing in the handler has to guarantee it, or
+      the copy is wrong.
+
+**Why it matters.** The FTC Lead Generator Rule requires the site to disclose,
+before the consumer submits their information, that their details will be
+shared with seller(s), and to disclose if they may go to more than one. The
+copy currently says "the HVAC company or companies working your area", which
+is the conservative disclosure and is compliant under either model. It does
+not promise a count, so it does not have to change.
+
+The homepage also promises the homeowner a callback rather than a specific
+number of calls, and the buyer page says "We do not run an auction", meaning
+companies are selected for the area they cover and the work they take, not by
+who bids highest. If either of those stops being true, the copy is making a
+promise the site does not keep, and contractor relationships are the thing
+that breaks first.
+
+Exclusive per area prices higher per lead, keeps the callback promise true,
+and is the precondition for renting the site to that company later, because
+the contractor holding the territory is the natural tenant.
+
 ## 9. Sanity checks before going live
 
-- [ ] `npm test` passes: source checks, copy audit self-test, and a clean
-      build.
+- [ ] `npm test` passes: source checks, copy audit, and a clean build.
 - [ ] `npm run build` reports zero orphans, zero dangling links, and zero
       content violations.
 - [ ] Open the built site at a phone width and a desktop width and read it.

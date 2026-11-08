@@ -1,6 +1,6 @@
 {
-  "lastmod": "2026-11-07",
-  "intro": "A dead system in a hot house is not a comfort problem, it is a safety problem. Heat builds fast behind closed doors, and the people most at risk from that heat are the ones least able to get out of it. An emergency request goes to the HVAC company that covers your area, and the technician who takes the job is briefed on the symptoms before leaving the shop.",
+  "lastmod": "2026-11-08",
+  "intro": "A dead system in a hot house is not a comfort problem, it is a safety problem. Heat builds fast behind closed doors, and the people most at risk from that heat are the ones least able to get out of it. We send an emergency request to a company that covers your area, and the technician who comes out is briefed on the symptoms before leaving the shop.",
   "whatHappens": [
     "Asks what changed in the last day before touching anything",
     "Checks the breaker and the disconnect for a tripped circuit",
@@ -16,7 +16,7 @@
     },
     {
       "q": "Can someone come out tonight if my AC just died",
-      "a": "That depends on which HVAC companies are covering your area and what their call volume looks like right now. The request goes to the company that covers your area, and they tell you whether they can take the job tonight or when the next opening is. If it cannot be covered tonight, they will say so rather than leave you waiting."
+      "a": "That depends on which companies cover your area and what their call volume looks like right now. We send it to one of those companies, and they tell you whether they can take the job tonight or when the next opening is. If it cannot be covered tonight, they will say so rather than leave you waiting."
     },
     {
       "q": "Why did my AC stop working all of a sudden",

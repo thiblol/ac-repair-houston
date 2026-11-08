@@ -1,5 +1,5 @@
 {
-  "lastmod": "2026-11-07",
+  "lastmod": "2026-11-08",
   "intro": "Tomball is a former rail town with newer subdivisions spreading out around it, and the housing runs from the 1960s through houses built in the 2010s. The tree cover is the point here: heavy pine and oak over most of the town, which keeps the yards cooler and the condenser coils filthy.",
   "localAngle": "The canopy does two opposite things. It shades the house, which cuts the cooling load, and it carpets the outdoor unit with needles and leaf litter that pack the fins. A unit boxed in by pine shade also stays damp, and damp is enough to corrode a base pan over decades. There is a second effect that catches people in the newer subdivisions. The trees were planted when the land was empty, the system was sized for a bare lot, and now the lot is shaded, which is a good thing, except the system was sized for a hot one. Old and new share these streets.",
   "commonCalls": [
@@ -113,7 +113,7 @@
       "faqs": [
         {
           "q": "My AC is behind a fence in a wooded yard. Does that affect the cost?",
-          "a": "It affects the work. A technician who has to clear a path, move a gate panel or work around low branches spends time on access rather than on the repair. Telling the company covering your area about the route in advance means they can plan for it, and it is also worth knowing whether the gate can be left open for the visit."
+          "a": "It affects the work. A technician who has to clear a path, move a gate panel or work around low branches spends time on access rather than on the repair. Tell us about the route in advance and we pass it on, so they can plan for it, and it is also worth knowing whether the gate can be left open for the visit."
         },
         {
           "q": "How do I tell a technician how old my outdoor unit is?",
@@ -232,7 +232,7 @@
       "_faqsNote": "6 FAQs. Local: oak leaf drop on the coil, 130 to 140 degree attic handler, ERCOT afternoon dip, unserviced 1960s equipment by the depot."
     },
     "condenser-repair": {
-      "intro": "The condenser is the outdoor unit, and this job never goes inside the house. Fan motor, run capacitor, contactor, coil condition, cabinet condition, and the noise the cabinet makes when it starts are what the technician who takes the job looks at. The compressor and the refrigerant side are separate work, and that boundary is why a quote sometimes changes halfway through a visit.",
+      "intro": "The condenser is the outdoor unit, and this job never goes inside the house. Fan motor, run capacitor, contactor, coil condition, cabinet condition, and the noise the cabinet makes when it starts are what the technician on the visit looks at. The compressor and the refrigerant side are separate work, and that boundary is why a quote sometimes changes halfway through a visit.",
       "localNote": "Tomball is inland, so nothing outside here is being attacked by salt off the Gulf. The damage in this area comes from standing water and damp air. The outside cabinet sweats through long stretches of very high humidity until the base pan and the fasteners begin to go, the ground under the unit stays wet because the oak canopy holds the shade, and the yard collects litter that packs the fin face. A unit installed with clearance may have a shrub grown up around it since.",
       "faqs": [
         {
