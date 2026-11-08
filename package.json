@@ -12,7 +12,8 @@
     "audit:copy": "node src/audit-copy.mjs",
     "test": "node src/check.mjs && node src/audit-copy.mjs && npm run build && npm run audit:seo && npm run audit:links",
     "audit:seo": "node src/audit-seo.mjs",
-    "audit:links": "node src/audit-links.mjs"
+    "audit:links": "node src/audit-links.mjs",
+    "build-images": "node src/build-images.mjs"
   },
   "engines": {
     "node": ">=18"

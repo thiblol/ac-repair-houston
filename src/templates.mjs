@@ -252,15 +252,16 @@ function footer(cfg) {
    Width and height are always emitted so the box is reserved before the file
    lands: no layout shift on a slow connection, which is the whole audience.
    Alt text describes the SCENE. It never says "our technician": these are
-   illustrative diagrams, and this site does not employ anybody. */
+   photographs and diagrams of the work, and this site does not employ
+   anybody. */
 const IMG = {
-  'hero-condenser': { w: 1600, h: 900, sizes: [1600, 960, 640] },
-  'unit-anatomy': { w: 1200, h: 820, sizes: [1200, 800] },
-  'airflow': { w: 1200, h: 800, sizes: [1200, 800] },
-  'thermostat': { w: 900, h: 900, sizes: [900, 600] },
-  'gauges': { w: 1200, h: 800, sizes: [1200, 800] },
-  'coil-compare': { w: 1200, h: 700, sizes: [1200, 800] },
-  'houston-skyline': { w: 1600, h: 620, sizes: [1600, 960, 640] },
+  'ac-repair-near-me-houston': { w: 1600, h: 900, sizes: [1600, 960, 640] },
+  'ac-repair-houston-residential-street': { w: 1600, h: 620, sizes: [1600, 960, 640] },
+  'emergency-ac-repair-thermostat': { w: 900, h: 900, sizes: [900, 600] },
+  'ac-repair-refrigerant-gauges': { w: 1200, h: 800, sizes: [1200, 800] },
+  'ac-repair-unit-anatomy': { w: 1200, h: 820, sizes: [1200, 800] },
+  'ac-repair-airflow-diagram': { w: 1200, h: 800, sizes: [1200, 800] },
+  'ac-repair-coil-comparison': { w: 1200, h: 700, sizes: [1200, 800] },
 };
 
 export function img(name, alt, { sizes = '100vw', eager = false, cls = '' } = {}) {

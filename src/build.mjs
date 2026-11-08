@@ -165,7 +165,7 @@ const CRUMB_HOME = { name: 'Home', href: '/' };
   const crumbs = [];
   const body = `
 <section class="herofig">
-  ${img('hero-condenser', 'A residential air conditioning condenser unit beside a house, with warm air drawn in through the coil and cool air leaving the vents.', { sizes: '100vw', eager: true, cls: 'herofig__img' })}
+  ${img('ac-repair-near-me-houston', 'A residential air conditioning condenser unit on a concrete pad beside the side of a two-storey Houston home, with a mature live oak behind it.', { sizes: '100vw', eager: true, cls: 'herofig__img' })}
   <div class="wrap herofig__in">
     <span class="kicker">Houston AC repair and installation</span>
     <h1>AC repair near you, from technicians who work your street</h1>
@@ -220,7 +220,7 @@ const CRUMB_HOME = { name: 'Home', href: '/' };
 
 <section class="sec sec--ink"><div class="wrap">
   <div class="media-split">
-    <span class="shot">${img('unit-anatomy',
+    <span class="shot">${img('ac-repair-unit-anatomy',
       'Diagram of a split air conditioning system showing the outdoor condenser, refrigerant lines and the indoor evaporator unit.',
       { sizes: '(min-width: 56rem) 32rem, 100vw' })}</span>
     <div class="media-split__body">
@@ -260,7 +260,7 @@ const CRUMB_HOME = { name: 'Home', href: '/' };
 ${requestForm(cfg)}
 `;
   add('/', layout({
-    og: 'hero-condenser',
+    og: 'ac-repair-near-me-houston',
     cfg, path: '/', crumbs,
     title: 'AC Repair Near Me | Same-Day AC Service | AC Repair Houston',
     description: fitDescription(
@@ -329,9 +329,9 @@ ${parent || children.length ? `<section class="sec sec--paper"><div class="wrap"
 
 <section class="sec sec--paper"><div class="wrap">
   <div class="media-split media-split--flip">
-    <span class="shot">${img(s.tier === 'urgency' ? 'thermostat' : 'airflow',
+    <span class="shot">${img(s.tier === 'urgency' ? 'emergency-ac-repair-thermostat' : 'ac-repair-airflow-diagram',
       s.tier === 'urgency'
-        ? 'A wall-mounted digital thermostat showing a room temperature reading.'
+        ? 'A wall-mounted thermostat set to 72 degrees in a room reading 84 degrees, on the interior wall of a lived-in house.'
         : 'Diagram of air moving through a duct into a ceiling vent and across an evaporator coil.',
       { sizes: '(min-width: 56rem) 32rem, 100vw' })}</span>
     <div class="media-split__body">
@@ -365,7 +365,7 @@ ${offeredAreas.length ? `<section class="sec"><div class="wrap">
 ${requestForm(cfg, { heading: `Request ${s.name}`, service: s.name })}
 `;
   add(url.service(s), layout({
-    og: 'unit-anatomy',
+    og: 'ac-repair-unit-anatomy',
     cfg, path: url.service(s), crumbs,
     title: fitTitle(
       s.title || `${s.name} Near You | AC Repair Houston`,
@@ -403,7 +403,7 @@ ${requestForm(cfg, { heading: `Request ${s.name}`, service: s.name })}
 </div></section>
 ${requestForm(cfg)}`;
   add(url.services(), layout({
-    og: 'unit-anatomy',
+    og: 'ac-repair-unit-anatomy',
     cfg, path: url.services(), crumbs,
     title: `AC Services Houston | AC Repair Houston`,
     description: `Emergency and same-day AC repair, installation, replacement, refrigerant work, mini-splits and commercial HVAC across Houston. Free to request.`,
@@ -438,7 +438,7 @@ ${requestForm(cfg)}`;
 </div></section>
 ${requestForm(cfg)}`;
   add(url.areas(), layout({
-    og: 'houston-skyline',
+    og: 'ac-repair-houston-residential-street',
     cfg, path: url.areas(), crumbs,
     title: `AC Repair Service Areas | Houston and Greater Houston`,
     description: `AC repair across Houston and ${cities.length} Greater Houston cities, including Katy, Sugar Land, Pearland, The Woodlands, Spring and League City.`,
@@ -500,8 +500,8 @@ ${ct.neighborhoods?.length ? `<section class="sec"><div class="wrap">
 </div></section>` : ''}
 
 <section class="sec"><div class="wrap">
-  <span class="shot">${img('houston-skyline',
-    'The Houston skyline seen across the Ship Channel, with low buildings and a wide flat horizon under a hazy sky.',
+  <span class="shot">${img('ac-repair-houston-residential-street',
+    'A wide residential street in the Houston area, with low-slope roof ranch houses, a mature live oak over the lawn and overhead utility lines.',
     { sizes: '(min-width: 78rem) 74rem, 100vw' })}</span>
   <h2>Common AC repair calls in ${esc(ct.name)}</h2>
   <ul class="symptoms">${(c.commonCalls || []).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
@@ -519,7 +519,7 @@ ${ct.neighborhoods?.length ? `<section class="sec"><div class="wrap">
 ${requestForm(cfg, { heading: `Request AC service in ${ct.name}`, area: ct.name })}
 `;
   add(url.area(ct), layout({
-    og: 'houston-skyline',
+    og: 'ac-repair-houston-residential-street',
     cfg, path: url.area(ct), crumbs,
     title: fitTitle(
       `AC Repair Services in ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
@@ -613,7 +613,7 @@ ${requestForm(cfg, { heading: `Request AC service in ${ct.name}`, area: ct.name 
 ${requestForm(cfg, { heading: `Request ${s.name.toLowerCase()} in ${ct.name}`, area: ct.name, service: s.name })}
 `;
     add(url.areaService(ct, s), layout({
-    og: 'airflow',
+    og: 'ac-repair-airflow-diagram',
       cfg, path: url.areaService(ct, s), crumbs: cs,
       title: fitTitle(
         `${s.name} in ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
@@ -708,7 +708,7 @@ for (const n of pillar.areas) {
 ${requestForm(cfg, { heading: `Request AC service in ${n.name}`, area: pillar.name })}
 `;
   add(url.neighborhood(pillar, n), layout({
-    og: 'thermostat',
+    og: 'emergency-ac-repair-thermostat',
     cfg, path: url.neighborhood(pillar, n), crumbs: cs,
     title: ac.title, description: ac.description,
     jsonld: [
@@ -743,7 +743,7 @@ for (const [p, title, desc, file] of [
 </div></section>
 ${requestForm(cfg)}`;
   add(p, layout({ cfg, path: p, crumbs, title: `${title} | AC Repair Houston`, description: desc, navCurrent: p,
-    og: 'coil-compare',
+    og: 'ac-repair-coil-comparison',
     jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)], body }), { lastmod: c.lastmod, priority: '0.3', changefreq: 'yearly' });
 }
 
@@ -805,7 +805,7 @@ ${requestForm(cfg)}`;
 
 ${requestForm(cfg)}`;
   add(url.sitemap(), layout({
-    og: 'gauges',
+    og: 'ac-repair-refrigerant-gauges',
     cfg, path: url.sitemap(), crumbs,
     title: 'Sitemap | AC Repair Houston',
     description: `Every page on AC Repair Houston: all AC services, Houston and ${cities.length} Greater Houston cities, and Houston neighborhoods. One hop to anything on the site.`,
@@ -950,7 +950,7 @@ for (const pg of pages) {
 
 ${requestForm(cfg)}`;
   add('/404.html', layout({
-    og: 'coil-compare',
+    og: 'ac-repair-coil-comparison',
     cfg, path: '/404.html', crumbs,
     title: 'Page Not Found | AC Repair Houston',
     description: 'That page is not here. Find AC repair in Houston and the surrounding area, or send a request directly.',
@@ -1001,16 +1001,48 @@ for (const p of pages) {
    The lastmod on a URL is the date its copy file was last edited, not the
    date the build ran. A build date on every URL tells a crawler that
    everything changed every time, which is a signal worth ignoring, so it is
-   better to publish a date we can defend or to publish none at all. */
+   better to publish a date we can defend or to publish none at all.
+
+   Images are listed next to the page that uses them. The file name is the
+   only signal a crawler gets when it indexes the picture itself, so the
+   picture is published with its own name and its own caption rather than
+   being left to be found by crawling the page. The image list is read back
+   out of the rendered HTML, so it cannot drift away from what the page
+   actually shows. */
+const imageEntries = (p) => {
+  const seen = new Set();
+  const out = [];
+  const add = (loc, title) => {
+    if (!loc || seen.has(loc)) return;
+    seen.add(loc);
+    out.push(`    <image:image><image:loc>${cfg.origin}${loc}</image:loc>` +
+      `<image:title>${title}</image:title><image:caption>${title}</image:caption></image:image>`);
+  };
+  for (const m of p.html.matchAll(/<img[^>]+src="\/img\/([^"]+)"[^>]*alt="([^"]*)"/g)) {
+    add(`/img/${m[1]}`, m[2]);
+  }
+  /* The og card is a different file from the in-page image, but it is the
+     same picture. Listing both would put two indexable URLs on one picture,
+     so the card is published only on the pages that have no picture in the
+     body, which is where it is the only representation of that image. */
+  if (!seen.size) {
+    const og = p.html.match(/property="og:image" content="([^"]+)"/);
+    const title = (p.html.match(/<title>([^<]*)<\/title>/) || [])[1] || '';
+    if (og) add(og[1].replace(cfg.origin, ''), title);
+  }
+  return out;
+};
 const sitemapUrl = (p) => {
   const parts = [`  <url><loc>${cfg.origin}${p.path}</loc>`];
   if (p.lastmod) parts.push(`<lastmod>${p.lastmod}</lastmod>`);
   if (p.changefreq) parts.push(`<changefreq>${p.changefreq}</changefreq>`);
   if (p.priority) parts.push(`<priority>${p.priority}</priority>`);
+  const imgs = imageEntries(p);
+  if (imgs.length) parts.push(`\n${imgs.join('\n')}\n  `);
   return `${parts.join('')}</url>`;
 };
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'),
-  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
+  `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n` +
   pages.filter((p) => p.path !== '/404.html').map(sitemapUrl).join('\n') +
   `\n</urlset>\n`);
 fs.writeFileSync(path.join(OUT, 'robots.txt'),

@@ -35,8 +35,9 @@ src/
   templates.mjs      page structure only, no prose, no invented claims
   check.mjs          source and data checks
   audit-copy.mjs     shingle similarity audit, the doorway-page gate
-  build-images.mjs   renders src/svg/*.svg to responsive WebP
-  svg/               the original illustrations
+  build-images.mjs   renders src/svg/*.svg and src/img/*.jpg to responsive WebP
+  svg/               the original labelled illustrations
+  img/               the photographs
 public/              static assets copied verbatim into dist/
 dist/                build output, not committed
 ```
@@ -92,8 +93,8 @@ a full national page, and every area links to all of them.
 - Internal link architecture audit: `npm run audit:links`
 
 `sharp` is the only dependency and it is a build-time-only dependency: it
-renders the SVG illustrations to WebP. It is not required to serve the site or
-to run the generator against already-rendered images.
+renders the illustrations and the photographs to WebP. It is not required to
+serve the site or to run the generator against already-rendered images.
 
 ### Environment variables
 
@@ -222,15 +223,18 @@ reach production by accident.
 ## Remaining launch dependencies
 
 See `docs/LAUNCH-BLOCKERS.md`. In short: the domain, a working lead handler,
-signed partner companies, an analytics and consent decision, and real
-photography in place of the illustrations.
+signed partner companies, an analytics and consent decision, and more
+photography to replace the images that several pages share.
 
 ## Known limitations
 
-- **No photography.** The site ships original SVG illustrations, not
-  photographs. They are sharp at any size and cost almost nothing to load, but
-  they are diagrams rather than pictures of real work. Commissioning real
-  photographs is item 6 in the launch blockers.
+- **Photography is partial.** Four photographs and three labelled diagrams. The
+  photographs cover the home hero, the area pages and the urgency service
+  pages, which is where they earn their weight. The diagrams carry the
+  technical sections, where a photograph teaches less than a labelled
+  drawing does. One file serves many pages, so pages that share an image
+  share its file name too; `docs/IMAGE-AUDIT.md` lists every conflict and
+  the name each replacement should take.
 - **The phone number is still a placeholder.** The call button is built and
   wired everywhere it should be, but `data/config.json` carries
   `(713) 555-0100` until the real call tracking line is bought. The build

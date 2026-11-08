@@ -141,18 +141,37 @@ consumer-protection issue.
 
 ## 7. Photography
 
-The site ships original SVG illustrations rendered to WebP, not photographs.
-That is a deliberate choice: the reference material this project was built
-from carried plumbing photographs, and reusing them would put unrelated
-imagery on an AC site.
+The site now ships four photographs and three original SVG illustrations. The
+photographs live in `src/img/` and the diagrams in `src/svg/`, and
+`npm run build-images` renders both into `public/img/`.
 
-- [ ] Commission or shoot real photographs of AC work in Houston, and replace
-      `src/svg/*.svg` with them.
-- [ ] If you replace them, keep the same filenames and the same
-      `src/build-images.mjs` widths, or update `IMG` in `src/templates.mjs` to
-      match.
+| Slot | Source | Kind |
+| --- | --- | --- |
+| `ac-repair-near-me-houston` | `src/img/` | Photograph, the home hero and its social card |
+| `ac-repair-houston-residential-street` | `src/img/` | Photograph, every area page |
+| `emergency-ac-repair-thermostat` | `src/img/` | Photograph, the urgency service pages |
+| `ac-repair-refrigerant-gauges` | `src/img/` | Photograph, the sitemap social card |
+| `ac-repair-unit-anatomy` | `src/svg/` | Labelled diagram of a split system |
+| `ac-repair-airflow-diagram` | `src/svg/` | Labelled airflow diagram |
+| `ac-repair-coil-comparison` | `src/svg/` | Coil comparison diagram |
+
+The three diagrams stay diagrams. A photograph of a duct cannot do what the
+airflow diagram does, and replacing them with stock photography would make
+the site less informative.
+
+- [ ] Commission more photography to replace the shared images. One file
+      serves many pages, so the pages sharing a file currently share its file
+      name too. `docs/IMAGE-AUDIT.md` lists every conflict and the name each
+      replacement should take.
+- [ ] Keep shooting equipment, gauges, coils, ductwork and work in progress.
+      Do not shoot a person presented as this site's technician. This site
+      employs nobody, the LRA builder's rule is not to fabricate staff, and a
+      real identifiable person needs a model release.
+- [ ] Keep the equipment unbranded. The copy brief bans naming product
+      brands, so a legible badge on a condenser in a photograph is a problem
+      in the same way a brand name in a sentence is.
 - [ ] Write the alt text to describe the scene. Never write "our technician".
-      This site does not employ anyone, and the alt text is indexed.
+      Alt text is indexed, and the build fails on a missing alt.
 
 ## 8. Partner companies
 

@@ -124,10 +124,12 @@ limited to `Organization`, `Service`, `WebSite`, `FAQPage`, and
   work so it keeps its meaning.
 - Typography: Archivo Narrow for display, Archivo for body, DM Mono for labels.
   Self-hosted WOFF2, 59.7 KB total, no external font request.
-- Imagery: original SVG illustrations rendered to WebP. The reference material
-  this project was built from carried plumbing photography, which does not
-  belong on an AC site, and the reference pack itself advises commissioning
-  original imagery for a real client.
+- Imagery: four original photographs and three original SVG diagrams, rendered
+  to WebP. The photographs cover the home hero, the area pages and the urgency
+  service pages. The diagrams carry the technical sections, where a labelled
+  drawing teaches more than a photograph does. Every file name carries a
+  service term and a location or a descriptor, and every picture is listed in
+  the sitemap. See `docs/IMAGE-AUDIT.md`.
 - Domain: not purchased. The build uses `acrepairhouston.example`, an RFC 2606
   reserved name, so a half-finished site cannot point at a real third-party
   domain. One value in `data/config.json` controls every canonical, sitemap

@@ -25,11 +25,12 @@ Then open http://localhost:4173.
 | `npm run audit:copy` | Shingle similarity audit across all copy |
 | `npm run audit:seo` | Page by page SEO audit of the built site |
 | `npm run audit:links` | Internal link architecture audit |
+| `npm run build-images` | Render the illustrations and photographs to responsive WebP |
 | `npm test` | Check, copy audit, build, then the SEO and link audits |
 
-`npm run build-images` renders `src/svg/*.svg` to responsive WebP in
-`public/img/`, plus one 1200 by 630 JPEG per illustration for the social
-card. It only needs running when an illustration changes.
+`npm run build-images` renders `src/svg/*.svg` and `src/img/*.jpg` to
+responsive WebP in `public/img/`, plus one 1200 by 630 JPEG per image for the
+social card. It only needs running when an image changes.
 
 ## Taxonomy
 
