@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Montrose, Houston",
   "title": "AC Repair Montrose, Houston | AC Repair Houston",
   "description": "Houses from the 1920s through the 50s mixed with 60s and 70s builds and later infill, under a dense oak and pecan canopy on small lots.",
@@ -36,6 +37,15 @@
     {
       "q": "How much does the tree canopy affect a system here?",
       "a": "The canopy does two opposite things. It shades the house and cuts down on solar gain, which helps. It also drops leaves and catkins onto the coil through the spring and summer, which reduces the unit's ability to reject heat. Regular coil cleaning is the part that is easy to forget on a shaded block."
+    },
+    {
+      "q": "What decides what a repair costs on an older Montrose house?",
+      "a": "Access, equipment and scope. On a narrow lot the outdoor unit often sits in a side passage off Richmond Avenue or Westheimer Road that a person and a ladder have to fit through, and if the passage has to be cleared or the unit has to come out sideways, that is added time. A system installed when the house was framed may have parts that are hard to source, and a unit that can be repaired comes in below one that has to be replaced outright. The company that covers this area should itemize those instead of giving a single figure."
+    },
+    {
+      "q": "My cottage still has the original windows. Does that change the AC work?",
+      "a": "It changes the load more than the equipment. The cottages around Vanderbilt Street and West Alabama Street kept the glass they were framed with, and single pane on a 1920s or 1930s shell lets in far more heat than a modern window, with thin insulation behind it. No thermostat setting changes that. What it means for the work is that a ductless head serving that side of the house can beat one central system sized for the whole envelope, and the heat gain should be measured before any equipment is chosen."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Two added: one on what moves the cost of a repair here, one on the original glass and insulation in the older cottages. Three reference a real Montrose condition."
 }

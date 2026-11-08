@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "A recharge means bringing the refrigerant up to the amount the manufacturer specified for that system, and the only way to know if you got there is to measure it. Weights, temperatures and pressures tell the story. A hose hooked up and a bottle of gas is not a service, it is a guess, and a guess can leave a system short, overcharged, or running at the wrong pressures for the conditions outside.",
   "whatHappens": [
     "Weighs the refrigerant before it goes in and records the amount",
@@ -10,27 +11,27 @@
   "howPriced": "The charge itself is one variable, and the amount of refrigerant the system needs depends on its size and the refrigerant type it uses. Labor depends on access, time of day, and how much work it takes to get the readings in range. Whether the job ends as a simple recharge or turns into a repair of whatever was causing the wrong readings is the biggest driver of the total.",
   "faqs": [
     {
-      "q": "how much does it cost to recharge an AC",
+      "q": "How much does it cost to recharge an AC",
       "a": "The total depends on the refrigerant type, the amount your system takes, and the time on site. Older systems using R-22 are priced differently and handled under different rules than newer ones. If the readings show a leak or a failed part, that becomes separate work and gets quoted separately."
     },
     {
-      "q": "how do I know if my AC needs a recharge",
+      "q": "How do I know if my AC needs a recharge",
       "a": "You need readings, not a guess. Superheat and subcooling are measured at the outdoor unit while the system runs, and both have a target range for the outdoor temperature. If they are out of range the charge is wrong, and if they are in range and you are still not cooling, the problem is somewhere else entirely."
     },
     {
-      "q": "how do I know if the AC company actually charged my system",
+      "q": "How do I know if the AC company actually charged my system",
       "a": "Ask for the weight of the refrigerant that went in and the superheat and subcooling numbers they got at the end of the job. Those two things together are what a proper recharge is made of. If you get a pressure reading with no weight and no temperature figures, the charge was not verified."
     },
     {
-      "q": "will a recharge fix my AC if it is not cooling",
+      "q": "Will a recharge fix my AC if it is not cooling",
       "a": "Sometimes. If the system is simply low on gas and nothing else is wrong, adding the right amount fixes it. If the coil is dirty, the compressor is weak, the airflow is blocked or the gas is leaking out, the recharge will not help and the system will be short again shortly."
     },
     {
-      "q": "what is superheat and subcooling",
+      "q": "What is superheat and subcooling",
       "a": "They are temperature readings that tell you how much refrigerant is in the system and how the system is handling it. Superheat measures the gas leaving the outdoor coil. Subcooling measures the liquid leaving it. When both sit in the manufacturer range for the outdoor temperature, the charge is right and the system is working as designed."
     },
     {
-      "q": "can my AC be overcharged",
+      "q": "Can my AC be overcharged",
       "a": "Yes, and it is not a harmless mistake. Too much refrigerant raises the head pressure, makes the compressor work harder and can shut the system down in the hottest weather. It also causes a floodback, where liquid refrigerant tries to enter the compressor. A measured charge prevents it."
     }
   ],

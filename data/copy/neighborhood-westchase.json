@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Westchase, Houston",
   "title": "AC Repair Westchase, Houston | AC Repair Houston",
   "description": "Two-storey homes from the 70s through the 90s with vaulted ceilings and west-facing glass, where the cooling load sits upstairs and in the sun.",
@@ -36,6 +37,15 @@
     {
       "q": "What should I check before replacing a system in this neighborhood?",
       "a": "Check how the house was zoned and where the returns are. A two-storey from this era was often built with one handler for the lower floor and a second unit for the upper, and the two may be different ages now. Knowing that layout before the technician arrives makes the diagnosis much faster."
+    },
+    {
+      "q": "What makes a replacement cost more on a Westchase two-storey?",
+      "a": "Two storeys, vaulted ceilings and west glass all push the same way. A bigger system needs somewhere to put the extra capacity, and a cathedral ceiling does not give back the space a return or a supply plenum needs, so the work can mean opening up a wall or building a platform. The west side of the plan also loads the house in the afternoon, which is where the added capacity has to go. Around Timbergrove and Westpark Way the ceiling space in these two storey plans is tight, so the company that covers this area should look at the ceiling space and the glass before the price is put together."
+    },
+    {
+      "q": "My unit keeps stopping and starting every few minutes. What does that mean?",
+      "a": "That is short cycling, and it is a different fault from the one that makes a system run without stopping. A compressor that cycles too quickly never gets a long enough run to pull the moisture out of the house, so the air can feel clammy even when the thermostat is met. In the two storey homes off Westchase Drive and Gessner Drive the usual cause is a unit matched to a smaller version of the plan, or airflow too low for the capacity, and the vaulted and cathedral ceilings add volume the system has to fill. Settling it means checking the airflow and the sizing against the actual floor plan, not adding equipment."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Two added: one on what makes a replacement more expensive on a two storey house, one on short cycling with vaulted ceilings overhead. Four reference a real Westchase condition."
 }

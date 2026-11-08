@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "The downtown courthouse square in Richmond sits on ground that was a town centre before central air was normal in Fort Bend County. Around it is a wide spread of housing from the 1950s to the 2000s, and a large share of the systems out there are original installs from the 1980s and 90s that have had very little done to them.",
   "localAngle": "The equipment around Richmond is old in a way. It went in when the housing stock was smaller, when nobody was sealing a house as tightly, and when the sizing rules were looser. Gulf humidity has not changed, so the latent load on those units is well above what they were specified for, and they run long and hard to keep up. Many of those homes have an addition, a converted garage or a room off the back that was never on the original duct plan. Oak and pine litter on the outdoor units adds to it, and the attic in an uninsulated 1950s house does nothing to help.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "Is an outage related failure common here?",
           "a": "It happens in the hottest weeks when the grid cannot carry the load. A unit that stops during an outage and does not restart when the power returns is usually a lockout condition or a capacitor, not a refrigerant problem."
-        }
-      ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
-    },
-    "same-day-ac-repair": {
-      "intro": "The same-day calls around Richmond are frequently about a system that runs constantly and never quite gets there. That is a diagnostic question, and it can often be resolved in a single visit.",
-      "localNote": "These houses are old enough that a same-day visit commonly turns into several findings at once: a coil that has not been cleaned in years, an air filter that was never changed, a refrigerant charge that has drifted, and ductwork that does not reach the addition somebody built in the 1990s. The technician who takes the job sorts those into what is stopping it now and what is going to fail next.",
-      "faqs": [
-        {
-          "q": "How do I get same-day service in Richmond?",
-          "a": "Request it early. Same-day slots fill through the morning across the Houston area. Have the model number off the outdoor unit and a note of what the system does when it misbehaves, because that is what gets the diagnosis moving."
         },
         {
-          "q": "My unit runs constantly. Is that normal for an older system?",
-          "a": "It is common but not right. A system that never reaches the thermostat setting is working at its limit, and it will keep running until something gives out. There is usually a reason it cannot catch up, and it is findable."
+          "q": "What determines the cost of an emergency AC repair in Richmond?",
+          "a": "What moves it is the part that failed and whether the system is one of the 1980s and 90s installs still on refrigerant that is no longer made for new equipment. A relay or a capacitor is a small part and a short visit, while a compressor or a coil on an older unit is a longer job with more to it. Access matters too, because an outdoor unit wedged into a side yard in Fort Bend County is harder to open than one standing in the open. Ask for the scope of the visit in writing before the work starts."
         },
         {
-          "q": "Should I get a tune-up in the same visit?",
-          "a": "It makes sense to ask. If the technician is already in the attic and at the outdoor unit, checking the coil, the filter and the refrigerant is a small addition to the call. It also gives you a record of what the system looked like before it failed."
+          "q": "Will the fix hold, or am I calling again in a few weeks?",
+          "a": "That depends on what caused the failure, and nobody can promise it from the outside. A capacitor that died because the attic around it runs 130 to 140 degrees will find another weak part nearby while the heat and the age of the housing stay the same. A compressor that failed against a condenser packed with oak and pine litter will take the replacement with it unless the coil is cleaned and the airflow restored. Sometimes the honest answer from the technician is that the system has nothing left to give. Ask what caused it, not only what was replaced."
+        },
+        {
+          "q": "Why do so many Richmond systems break down in the same hot week of the summer?",
+          "a": "Three things line up here in July. The humidity is very high, so a unit sized for a drier house carries a heavier moisture load and runs much longer than it ever did. Much of the equipment on this housing is original from the 1980s and 90s with little service behind it, so small faults surface in the first real stretch of heat. The ERCOT supply across Fort Bend County also sags during the peak afternoon hours, and a compressor that was already working hard can be left locked out. It does not make the failures predictable to the day, but it explains the clustering."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: the humidity load on undersized 1980s and 90s units, ERCOT peak hour instability, and the damp inland climate these cabinets sit in."
     },
     "ac-not-cooling": {
       "intro": "Warm air from a running system is the most common confusion out here, and the old equipment around Fort Bend makes it harder to sort out quickly. The company that covers this area checks airflow, charge and refrigerant type before recommending anything.",
@@ -97,13 +91,25 @@
         {
           "q": "Why does the thermostat say the system is off?",
           "a": "Some older systems have low-voltage control wiring that gets brittle and intermittent, and some have a transformer that fails. The thermostat reads the switch, not the machine, so it can report off while the equipment is running."
+        },
+        {
+          "q": "What does a repair cost when the Richmond system runs but never cools the house?",
+          "a": "The figure moves with where the fault is and how hard it is to reach. A system that is low on charge because of a small leak in the line set is a different job from a compressor that has stopped moving heat, and a house with an air handler buried behind stored boxes in a 130 to 140 degree attic takes longer to open than one in a closet. Ask for the diagnosis and the price before the parts are ordered."
+        },
+        {
+          "q": "Should I just replace the whole system instead of paying for another repair?",
+          "a": "That is a fair question and it deserves a straight answer. If the outdoor unit is original, the indoor unit is the same age, and the ductwork still does not reach the addition at the back, then you are buying one part in a system that was never going to hold together. If the compressor is sound and the ductwork serves the house, a repair is the cheaper route. Nobody can tell you which from over the phone, but a technician who checks the indoor side and the duct plan can."
+        },
+        {
+          "q": "Does the oak and pine litter on my outdoor unit really matter that much?",
+          "a": "More than most people expect, and it is worse here than it looks. The trees around the older lots around the courthouse square drop year round, and debris packed against the fins keeps the coil from shedding heat, so the unit runs hotter and longer on every cycle. That shortens the life of the compressor and it pushes a marginal system closer to the point where it cannot hold temperature in July. Clearing the coil is a small job that changes how hard the rest of the system has to work."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: oak and pine debris loading the condenser, very high humidity against undersized original units, and the 130 to 140 degree attic that makes diagnosis slower."
     },
     "ac-repair": {
       "intro": "Richmond repair work is mostly about systems that have been in service for a very long time. The fault matters, but the condition of everything around the fault matters more, and that is what a good diagnosis is for.",
-      "localNote": "The common pattern here is an original install, on a house that has been modified, with a system that has never been properly maintained. An addition off the back changes the load, an old refrigerant type changes the parts story, and twenty-five years of coastal humidity changes the coil and the cabinet. Diagnosing the failure without looking at those three things leads to replacing parts in a system that was never going to hold up.",
+      "localNote": "The common pattern here is an original install, on a house that has been modified, with a system that has never been properly maintained. An addition off the back changes the load, an old refrigerant type changes the parts story, and twenty-five years of Gulf humidity changes the coil and the cabinet. Diagnosing the failure without looking at those three things leads to replacing parts in a system that was never going to hold up.",
       "faqs": [
         {
           "q": "Is it worth repairing a system from the early 1990s?",
@@ -116,9 +122,21 @@
         {
           "q": "How do I stop the same failure repeating?",
           "a": "Ask what caused the failure rather than what was replaced. A compressor that failed because the coil was packed will take the new compressor with it unless the coil gets cleaned."
+        },
+        {
+          "q": "Do I have to wait until next week if my Richmond AC breaks today?",
+          "a": "It depends on the fault and on the hour the request goes in, and no one can promise a slot. The technician who covers Fort Bend County works a same day list across a wide county, so a house off the Fort Bend Parkway or out past FM 723 is a longer run than one near the courthouse square, and something sent before the middle of the day stands a better chance of being taken that day than something sent later. The part decides the rest. A relay, a capacitor or a contactor is the kind of work that gets finished on the spot, while a compressor or a coil for a unit from the 1980s is a parts matter and the part has to be found first. Say in the request what the outdoor unit is doing, since that tells the technician what to load. A house too hot to sleep in is handled on a separate track, so it is worth saying which one it is."
+        },
+        {
+          "q": "What decides what an AC repair costs in Richmond?",
+          "a": "Three things, and none of them is the fault on its own. The first is access. An air handler in the attic of a 1950s house reaches 130 to 140 degrees and has to be reached through a hatch with stored boxes in the way, and an outdoor unit boxed in by a fence in a side yard takes longer to open than one standing in an open yard. The second is the refrigerant. A system from the 1990s still on R-22 has to be recovered under rules that a modern system does not, and that changes the visit. The third is the machine around the failed part, because a condenser packed with oak and pine litter or a cabinet corroded through at the base may need attention at the same time. Ask for the diagnosis and the price in writing before the parts are ordered."
+        },
+        {
+          "q": "If the compressor has gone, am I repairing something that was already on its way out?",
+          "a": "Sometimes that is exactly the honest question to ask. A compressor that failed because the coil was packed with oak and pine litter or because the cabinet let water into the electrical compartment was working in conditions that were killing it, and a new compressor dropped into the same system dies the same way. The answer lies in the indoor side too. On a lot of the housing around the courthouse square the air handler went in at the same time as the outdoor unit, so a compressor repair on the outside is putting a new part into an old machine. A technician who checks the whole install and tells you what is behind the failure is giving you the useful answer, and nobody can promise how long any repair lasts."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Carries the same-day intent that moved here when the standalone page was retired. Local: the Fort Bend County drive, the 130 to 140 degree attic and the 1980s and 90s equipment. One covers what moves the cost, one is the honest parts objection."
     },
     "ac-installation": {
       "intro": "There is a steady need for cooling systems in this part of Fort Bend, both in homes that have never had one and in the houses that need a second one. Sizing matters more here than most, because the humidity is doing extra work on the system.",
@@ -135,9 +153,21 @@
         {
           "q": "What about cooling a garage or a workshop?",
           "a": "A ductless head or a small dedicated unit handles a space like that better than extending the central system. It also avoids running the main ducts at full flow for a room that is only used sometimes."
+        },
+        {
+          "q": "How much does putting central air into a Richmond house cost?",
+          "a": "The house decides most of it, and the house is where these jobs get expensive. A place from the 1950s that never carried air conditioning at all needs supply and return runs built from scratch, and that is labour rather than hardware. A place that was cooled in the 1990s already has a duct plan, so the work is shorter. Other things that shift the figure: an original electrical panel that has to take a modern load, a crawl space where a slab would be easier, a low attic with joists too close together to run a large duct through, and the moisture load, which is heavy enough here that the equipment cannot be sized on temperature alone. Ask for the quote to split the labour from the equipment so you can see where the money went."
+        },
+        {
+          "q": "Is the ductwork going to be the reason a new system still underperforms?",
+          "a": "On many of the houses around the courthouse square it is. If the system was sized for the original footprint and then a bedroom, a sunroom or a converted garage was added without extending the ducts, the extra capacity has nowhere to go. A load calculation against the house as it stands today, along with a check on the static pressure in the existing ductwork, is what settles it. Nobody can promise the result in advance, but a technician who measures before quoting is doing the part that decides it."
+        },
+        {
+          "q": "Does the summer power supply matter when a new system goes in?",
+          "a": "It does, and it is worth asking about. The supply across this part of Fort Bend County sags and comes back during the peak afternoon hours of a July week, and on an older house the original electrical service may not have much headroom either. A good install accounts for the starting current a compressor draws and for the electrical service feeding it, and it should also address how the system behaves once the supply comes back. That is part of the plan rather than something to discover in the first heat wave with the system in the house."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: 1950s and 60s housing with no original ductwork, original electrical service, and the ERCOT summer supply on the Fort Bend grid. One covers what moves the cost, one is the honest ductwork objection."
     },
     "ac-replacement": {
       "intro": "When a system is original, on discontinued refrigerant and no longer reliable, the case for replacement gets clearer every year. The technician who inspects it can tell you whether the indoor side is worth keeping.",
@@ -154,9 +184,300 @@
         {
           "q": "Should the ductwork be redone at the same time?",
           "a": "If the house has been extended and the rooms are still not served properly, doing it together makes sense. If the ducts are original but the right size for the main house, they can stay. The technician can check the static pressure and tell you."
+        },
+        {
+          "q": "What decides the cost of a replacement system in Richmond?",
+          "a": "Two things dominate. The first is refrigerant. A system from the 1990s on R-22 has to be recovered and dealt with under rules that a modern system does not face, and that work is part of the visit rather than an extra. The second is the house around the equipment: an air handler in the attic of a 1950s house sitting in 130 to 140 degree air, original electrical service that may need work before a new load goes on it, and ductwork that has to reach an addition off the back. Ask for the quote to name the refrigerant and to separate the indoor side, the outdoor side and the ductwork, because a price that bundles those together is hard to compare against anything."
+        },
+        {
+          "q": "The unit is old but it still cools. Is a changeover really justified?",
+          "a": "Not always, and it deserves an honest answer rather than a sales one. A 1990s machine that runs and holds temperature can be the better economic choice, especially if the ductwork is sound and the cabinet is intact. The case for replacement gets stronger as the parts get harder to find, as the refrigerant supply tightens, and as the indoor unit ages alongside the outdoor one. What decides it is the condition of everything except the failed part, which is what an inspection is for."
+        },
+        {
+          "q": "Does the humidity here shorten the life of a new system?",
+          "a": "It changes what a new system has to do. A house in Fort Bend County has to remove water from the air as well as heat, and a system that was sized only on temperature will run long and leave the house damp. A new unit sized for the moisture load as well, with a duct plan that serves the rooms the house actually has now, has a much better chance of running well through an August. It also has to survive a summer supply that sags in the peak hours, so the electrical side of the install counts as much as the equipment choice."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: very high humidity and how it drives the sizing, the R-22 recovery on 1990s systems, the 130 to 140 degree attic, and the ERCOT summer supply. One covers what moves the cost, one is the honest worth-it objection."
+    },
+    "ac-maintenance": {
+      "intro": "The systems in Richmond that end up needing emergency work in July are usually the ones nobody has looked at since they went in. A service visit before the heat sets in finds the small fault while it is still an inexpensive part to replace, and there is a narrow window in this part of Fort Bend County to get it done.",
+      "localNote": "Two things make the spring visit worth more here. The first is the equipment itself, because a lot of the units around the courthouse square still date from the 1980s and 90s and were sized for houses with fewer rooms and drier air than this county has today. The second is the attic. In an older house that space can run 130 to 140 degrees, and an air handler working up there wears out faster than the same unit in a closet. Oak and pine drop year round, so the outdoor coil needs looking at on the same visit.",
+      "faqs": [
+        {
+          "q": "How much does an AC tune up cost in Richmond",
+          "a": "The figure moves with what the visit turns up and how the system is installed. A straightforward service on a unit sitting on a pad in an open side yard takes less time than one on a 1990s system buried in an attic behind a hallway, and parts availability for older equipment changes what the visit ends up costing. Ask for the scope before the work starts."
+        },
+        {
+          "q": "When is the best time to get the AC serviced?",
+          "a": "Before the first stretch of heat, so in late spring. Once the ERCOT grid is running hot here and demand-driven outages start appearing in the afternoon, a fouled condenser is already costing you every day. The useful window in this area is short."
+        },
+        {
+          "q": "What does a maintenance visit actually check?",
+          "a": "The filter and the coil, the capacitor, the drain line, the electrical connections and the refrigerant charge. None of those are visible from the return grille, which is why the visit is worth more than the filter you can change yourself."
+        },
+        {
+          "q": "My system was barely used last winter. Does it still need service?",
+          "a": "Yes, and that is when it matters most. A unit that sat idle through a mild winter can come out of it with a weak capacitor and a clogged drain, both of which show up as a callout in the first hot week. That pattern is common on the original installs still sitting in yards around the courthouse square."
+        },
+        {
+          "q": "Is the air handler in the attic a problem?",
+          "a": "It is a reason to service more often, not a reason to leave the unit alone. Air around 130 to 140 degrees shortens bearing life and keeps the capacitor hot. Moving stored items away from the housing on the same visit is worth doing."
+        },
+        {
+          "q": "Should I book a tune-up before a family gathering or a big weekend?",
+          "a": "If the system has not been looked at in a couple of years, yes. That is the kind of visit that finds a weak capacitor or a low charge before the hottest afternoon of the year rather than during it."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "condenser-repair": {
+      "intro": "The outdoor unit is the half of the system that sits in the weather and does the hot work. On Richmond systems the failures that bring a callout are the fan motor, the run capacitor and the contactor, with a coil packed from the trees above it behind most of them.",
+      "localNote": "Richmond is inland, so the corrosion on an older outdoor unit comes from age and humidity rather than salt. Paint on the cabinet fades, the base rusts through and the sheet metal starts to go. On top of that, lots with mature oaks and pines drop litter year round, so the fins pack and the unit runs hot in the middle of a July afternoon.",
+      "faqs": [
+        {
+          "q": "How much does condenser repair cost?",
+          "a": "It depends on which part failed and what the coil and cabinet look like. A capacitor is a small part, a fan motor is a bigger one, and a compressor is a different conversation entirely. Access moves the labour too, because a unit boxed in by a fence or a locked gate takes longer to get into than one in an open side yard."
+        },
+        {
+          "q": "The outdoor unit hums but the compressor never starts. What is wrong?",
+          "a": "Usually the contactor or the run capacitor. A hum means the control is calling for the unit and the compressor is not answering. A capacitor sitting in the sun under a tree also runs hotter than it should, so it fails more often on these lots."
+        },
+        {
+          "q": "What noise does a bad outdoor unit make?",
+          "a": "A rattling or scraping from the fan, a squeal from the motor bearings, or a hum with a click on the end of it. Rattling that starts when the fan comes on is often a loose panel or a bent blade. A grinding noise is a bearing going and it will not get better on its own."
+        },
+        {
+          "q": "Can I clean the outdoor coil myself?",
+          "a": "A soft brush and a gentle hose will clear loose litter. Leave the pressure washer alone, the jet folds the fins over and a folded fin blocks more air than the leaf did. While you are out there, check that the unit is level and that nothing has grown into the cage."
+        },
+        {
+          "q": "The cabinet on my outdoor unit looks rough. Does that matter?",
+          "a": "On units that went in in the 1980s and 90s it is usually past the point of being cosmetic. Metal that has corroded through near the base lets moisture into the electrical compartment, which is where the contactor and the capacitor live. That is worth looking at before you spend money on the repair itself."
+        },
+        {
+          "q": "Why does the unit only fail in the hottest part of the day?",
+          "a": "Heat builds through the morning and the system has no margin left by midafternoon. A dirty coil, a weak capacitor and a low charge all look the same from inside the house, so the cheap checks come first: coil, capacitor, contactor, then the refrigerant. Units near the Fort Bend Parkway also collect road dust on top of the leaf litter."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump in the system, and its failure is the point where an argument about one part turns into an argument about the whole machine. It can be seized, hard starting or short cycling, and each of those points at a different decision.",
+      "localNote": "The compressors in this part of Fort Bend County mostly came from the 1980s and 90s, and many are still on R-22, which is no longer made for new systems. A compressor on that refrigerant has fewer options than one on a modern charge, and the outdoor cabinet around it has been standing in the weather for the same thirty years.",
+      "faqs": [
+        {
+          "q": "Is it worth replacing the compressor or the whole system?",
+          "a": "Ask for both numbers, because the compressor is only part of the story. If the outdoor coil is packed with oak and pine, the drain is blocked and the ductwork was never extended to the addition, a new compressor is going into a system that was already losing. The indoor unit is usually the same age, and that is where the argument usually turns."
+        },
+        {
+          "q": "What does a seized compressor sound like?",
+          "a": "Nothing from the compressor itself. The outdoor unit runs the fan and the compressor stays silent, or the unit hums and never kicks in. That silence with a spinning fan is the tell, and it is what separates a seized compressor from a start problem."
+        },
+        {
+          "q": "What is hard starting?",
+          "a": "The compressor tries to pull in and bogs or trips instead of running up to speed. It shows as a clunk, a hum, and a breaker that trips the moment the system calls for cooling. A weak capacitor and low line voltage are the usual causes, and both are cheap to check before a compressor gets condemned."
+        },
+        {
+          "q": "Does the grid here affect the compressor?",
+          "a": "Yes, in the summer. ERCOT demand makes this area unstable during the hottest afternoon and early evening, and a compressor that barely starts is often found on a supply that sags when the compressor draws its surge current. The voltage at the unit is worth checking before anything is written off."
+        },
+        {
+          "q": "Why does the system run for a few minutes and then stop?",
+          "a": "That is short cycling. It is most often a system starved for air because the filter is packed or the coil is iced, or a system that is low on refrigerant. It can also be a weak capacitor that starts and then drops out. Running that way for a week is hard on the compressor."
+        },
+        {
+          "q": "Does the attic temperature affect the compressor?",
+          "a": "Not directly, since the compressor is outside. What the attic does is age the rest of the system, because the air handler, the blower and the control board sit in a space that can reach 130 to 140 degrees. When the compressor finally fails, the technician is often finding that the indoor side needs attention as well."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A system that needs refrigerant twice in a year has a leak, and topping it up without finding the leak buys a few weeks at a time. Finding the leak, repairing it and putting the charge back are three separate pieces of work, and the job is not finished until all three are done.",
+      "localNote": "The line set on an older house here runs through an attic that can sit at 130 to 140 degrees, and fittings and insulation take a beating from that heat over twenty years. The outdoor unit on a 1980s install has its own weak points, and the coil and the service valves are where an oil stain usually shows. The refrigerant type on the nameplate matters too, because an R-22 system cannot be charged with a modern refrigerant and the gas itself changes how the work is handled.",
+      "faqs": [
+        {
+          "q": "Is it cheaper to recharge than to find the leak?",
+          "a": "A recharge is cheaper per visit, and that is exactly the trap. It puts the system back on gas without addressing why it lost the gas, so the same call comes back and the total spent ends up higher than finding and repairing the leak once. Ask for the leak to be located, not just for the system to be charged."
+        },
+        {
+          "q": "How do you actually find a leak?",
+          "a": "An electronic sniffer along the line set, dye injected into the system, and a look at the places where oil collects. The oil is the giveaway, because refrigerant carries oil with it and the stain marks the path the gas took. It can take a while, because the smallest leaks are slow ones."
+        },
+        {
+          "q": "Where do leaks show up in Richmond?",
+          "a": "Most often where the line set runs through the attic, since that space runs 130 to 140 degrees and works on the joints and the insulation year after year. The second most common spot is the outdoor unit itself, at the coil or the service valves. Both are worth checking before anyone quotes a recharge."
+        },
+        {
+          "q": "Is it normal for the unit to need refrigerant every year?",
+          "a": "No. A system that loses gas every year has a leak that keeps moving, or a fitting that was never sealed properly. There are also systems that were charged low from the start, which is a different problem again, and that is why the technician looks at the charge history rather than just adding gas."
+        },
+        {
+          "q": "Does the type of refrigerant matter?",
+          "a": "It changes the work. The nameplate on the outdoor unit says which refrigerant the system takes, and a system on R-22 cannot be charged with a modern refrigerant and cannot be converted without replacing major parts. That refrigerant is also required by law to be recovered rather than released, and the recovery is part of what the visit costs."
+        },
+        {
+          "q": "Can I keep running the unit with a leak?",
+          "a": "Not for long. Low refrigerant leaves the compressor working without the lubrication it needs, and that can be the thing that kills a compressor on a system that was otherwise fine. On the units that went in around the courthouse square in the 1980s, that is worth avoiding."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement, not a canister and a guess. The technician weighs in what the nameplate calls for and reads superheat and subcooling to confirm the system is holding the right amount, and those readings are what tell you whether the cooling is done properly or is hiding a bigger fault.",
+      "localNote": "Two things make it worth having this work done properly in this part of Fort Bend County. Most of the original systems here still say R-22 on the nameplate, and that refrigerant is no longer produced for new equipment and has to be handled under recovery rules. The other is the moisture. Gulf humidity puts a heavy load on a system sized for a drier house, and an undercharged system in air like this loses cooling capacity before it fails.",
+      "faqs": [
+        {
+          "q": "What does a refrigerant recharge cost?",
+          "a": "It moves with the refrigerant type, the amount needed and whether gas has to be recovered first. A modern system is a different job from one running on a refrigerant that is no longer produced, because the recovery is regulated and the supply of the gas is limited. Ask what the visit includes before the work starts."
+        },
+        {
+          "q": "How do you know how much refrigerant my system needs?",
+          "a": "The nameplate on the outdoor unit lists the factory charge by weight, and on a lot of the units here that plate is weathered after thirty summers. The technician recovers what is in the system, weighs what goes back in and then reads the gauges to confirm it. On a system with a leak the readings will not settle, and that is the finding."
+        },
+        {
+          "q": "Why do you check superheat and subcooling?",
+          "a": "Because they describe how the refrigerant is behaving inside the system, not just how much is in it. A system with the correct weight by the scale can still be starving the coil or pushing a flood of liquid into the compressor. The charge and the two readings together are the whole diagnosis."
+        },
+        {
+          "q": "My new unit is not cooling the way it should. Why?",
+          "a": "A new system in this climate can be installed correctly and still disappoint, because it was sized on the heat of the house and the moisture in the air was treated as the smaller part of the calculation. Gulf humidity through a Fort Bend County summer is a large part of what the machine is actually doing. Measuring the charge and the readings shows whether the equipment is the problem."
+        },
+        {
+          "q": "Can I buy a canister of refrigerant and top it up myself?",
+          "a": "The gas itself is regulated, and topping up a system with an unknown charge is guesswork that can do damage. It also does nothing about a leak. On this kind of job the measuring is the work, not the filling."
+        },
+        {
+          "q": "Why did the behaviour change after it was serviced?",
+          "a": "Most often the system was topped off rather than brought to spec, or the vent set was changed while the charge was low. Either way the way to know is to have superheat and subcooling read and recorded, not to judge it by how the house feels."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The coil inside the air handler is where the cold is made and where the moisture comes out of the air. When it is dirty, iced or slimed, the house gets weak cooling, water on the ceiling and a smell nobody wants to explain.",
+      "localNote": "This is the part of the system the local humidity works hardest. The air here carries so much moisture that the indoor coil runs wet for a long stretch of every cycle, and a coil that stays wet grows a film on it. In an older house where the unit sits in an attic at 130 to 140 degrees, the air around the coil is hot enough that ice on it does not melt easily and a freeze has to be shut down to clear.",
+      "faqs": [
+        {
+          "q": "Should the coil be cleaned or replaced?",
+          "a": "Cleaning comes first, and the technician will say plainly if the coil is past cleaning. The bigger question is the unit around it, because on an indoor unit from the 1980s the coil is part of the cabinet assembly. Once you are replacing the coil you are often replacing the whole air handler, so it is worth asking what both options cost before deciding."
+        },
+        {
+          "q": "Why does the coil keep freezing?",
+          "a": "Because the air is not moving fast enough to carry the heat away, so the coil drops below freezing. Very high humidity makes it worse, since there is more moisture to condense on it. The usual causes are a packed filter, a return that got closed off during a remodel, or ducts that were never extended to an addition. Fixing the airflow is what stops the freeze coming back."
+        },
+        {
+          "q": "There is green or grey slime on the coil. What is it?",
+          "a": "That is microbial growth, and it needs moisture and warmth to take hold, which is exactly what a wet coil in this climate gives it. It is the source of the smell coming out of every vent. Cleaning the coil and clearing the drain stops it, and it returns if the coil keeps staying wet."
+        },
+        {
+          "q": "Water is dripping from the ceiling by the vent. Is the coil the problem?",
+          "a": "Not usually. That is the condensate pan overfilling or the drain line being blocked, and both are likelier than a hole in the coil. The pan, the float switch and the line need checking. A line packed with dust and insulation residue does that regularly."
+        },
+        {
+          "q": "What is the musty smell coming from the vents?",
+          "a": "It is almost always the coil and the drain area. The odour is added to the air by the moisture sitting on the coil and in the pan. Cleaning both clears the smell. If it comes back quickly, the airflow problem behind the wet coil is still there."
+        },
+        {
+          "q": "Our house was insulated after the AC went in. Could that be related?",
+          "a": "It can be. A house sealed up tight after the system was installed reduces the airflow the system was set up for, and a lot of the units around here were designed for houses that were not sealed the way they are now. Checked against the return grilles and the filter size, it shows up quickly."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower is what moves the air, and when it goes the house has cooling equipment in it and no air coming out of the vents. The motor is the part that carries the cost. The capacitor and the relay are the two small parts that usually go at the same time.",
+      "localNote": "Where the air handler sits matters here. In a Richmond house built before 1970 the unit is often up in the attic, and that space runs 130 to 140 degrees through the summer. A motor working in that heat runs its bearings and its capacitor hot. The original units from the 1980s and 90s also use older motor arrangements with simpler wiring than current ones, so a replacement on one of those is a different job from a replacement on a newer house.",
+      "faqs": [
+        {
+          "q": "How much does it cost to replace a blower motor?",
+          "a": "The motor is the main part of the figure, and what moves the total is the type of motor the unit uses and how hard it is to reach. A direct-drive motor on a current air handler is a straightforward swap, while a belt-driven unit from an 80s install can mean a different motor, a new belt and a pulley check. Ask what the quote covers."
+        },
+        {
+          "q": "The thermostat says the system is on but no air comes out. What is wrong?",
+          "a": "It could be the motor, the capacitor, the relay or a control board. If the unit is completely silent there is nothing moving. Switch it off rather than leaving it sit, because a motor drawing too much current will take the capacitor down with it."
+        },
+        {
+          "q": "What causes the grinding noise from the air handler?",
+          "a": "A bearing in the motor wearing out. It can run a while, but it will eventually seize. A seized motor drags the capacitor and the relay with it, so replacing the motor on its own while those two parts stay in place is how one failure turns into two."
+        },
+        {
+          "q": "The blower only runs on high speed. Why?",
+          "a": "That points at the relay or the control board rather than the motor. On older systems the low speed is switched through a relay that is a common failure. The parts are inexpensive, but the technician still needs to confirm which one is switching the speed."
+        },
+        {
+          "q": "Why do the motors fail faster here?",
+          "a": "The attic. An air handler in a space at 130 to 140 degrees has less cooling air around it than the same unit in a closet, and the motor and the capacitor both run hotter for longer. Checking that nothing is stored against the housing and that the unit has clearance is part of extending its life."
+        },
+        {
+          "q": "Does it matter whether the unit has a belt or is direct drive?",
+          "a": "It changes the work. A belt-driven blower from an 80s install has a belt, a pulley and a motor that can be changed separately, while a newer direct-drive motor is usually replaced as a complete assembly. Either way the capacitor and the relay go in at the same time."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "thermostat-installation": {
+      "intro": "A system that works properly on a thermostat that does not is a common waste, and most thermostat problems are wiring left behind by whoever installed the last one. Swapping the thermostat is quick once the wire set is understood, and it is worth doing in the same visit as any other work on the system.",
+      "localNote": "The housing here makes that more complicated. A Richmond house from the 1950s or 60s may have a thermostat on a line voltage control or a unit that was replaced twice, and the terminal labels on what is there rarely match what is actually connected to them. A smart thermostat also needs a common wire, and a great many of these older installations do not have one. It also has to be a thermostat the equipment can talk to, which on a heat pump is a different setting from a straight cooling system.",
+      "faqs": [
+        {
+          "q": "What does a thermostat installation cost?",
+          "a": "The thermostat itself is a small part of the figure, and the wire work is what moves the rest. A straight swap where the wires already match is quick. A job that needs a common wire run, a new baseboard or a control that is no longer made takes longer and needs a plan first. The photograph of the existing wires decides which one you are dealing with."
+        },
+        {
+          "q": "Can I swap the thermostat myself?",
+          "a": "Often, if the new one matches the system and you are comfortable with a screwdriver. Photograph every wire and note which terminal it was in before you remove anything. Do not force a wire into a labelled terminal it does not fit, because a miswire can damage the new unit."
+        },
+        {
+          "q": "Why does the system ignore the schedule?",
+          "a": "Commonly a delay or anti-swing feature left in the setup from the original install, or the thermostat is set to the wrong mode. It can also be a wiring problem where the schedule never reaches the equipment. In this area the wire set left over from an earlier install is the usual culprit."
+        },
+        {
+          "q": "My house is old. Will a smart thermostat work?",
+          "a": "Usually, but it depends on the wiring and on the system. Most homes around here going back to the 1950s and 60s do not have a common wire, so one has to be run, and that is the part that decides how big the job is. The equipment also has to be compatible with what the thermostat expects to see."
+        },
+        {
+          "q": "Does the humidity here matter for a thermostat?",
+          "a": "It does if the thermostat uses humidity to make decisions. With very high humidity through the Fort Bend County summer, a thermostat that reads moisture can hold the house tighter to the dew point than one that only reads temperature. Set that up wrong and it makes the system run constantly."
+        },
+        {
+          "q": "Should I add a thermostat to a room with no vent?",
+          "a": "A thermostat in a room with no air moving through it will not control anything. The system reads the temperature at the unit, not where the thermostat is. If the point is to control one room, that room needs a vent first, and a ductless head is often the better answer in a part of the house that was never on the duct plan."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump does both the heating and the cooling, so one fault can take out both and leave the house with nothing. The parts behind most calls are the reversing valve on the refrigerant side and the outdoor unit's ability to shed ice in warm weather.",
+      "localNote": "Heat pumps are not what most of the housing around the town centre of Richmond was built for, so the ones out there tend to be later additions to houses with ductwork designed for a different era. The climate here is also the harder case. With very high humidity the cooling side has a large moisture load to remove, and when it cannot keep up, ice builds on the outdoor unit instead of the house getting comfortable.",
+      "faqs": [
+        {
+          "q": "Is a heat pump worth repairing or should it be replaced?",
+          "a": "The outdoor unit carries most of the cost of a heat pump, so the compressor and the reversing valve are where the money sits. Ask for the age of the unit and the condition of the ductwork alongside the repair quote, because a heat pump moves a lot of air and older ductwork in a house here was never sized for that extra load. The indoor side and the backup heat strip are worth checking at the same time."
+        },
+        {
+          "q": "There is ice on the outdoor unit in the warm months. Is that normal?",
+          "a": "No. Ice on the outdoor unit when it is above freezing is a symptom, not a failed part. It points at a low charge, a dirty coil or a refrigerant restriction, and in very high humidity the coil has more moisture to shed than it can handle. Shut it down and let it thaw rather than running it into the ice."
+        },
+        {
+          "q": "Why does the backup heat run all the time?",
+          "a": "Because the heat pump is not reaching its temperature target, so the electric backup strips pick up the load. That usually means a low charge, a problem with the reversing valve, or a system whose ductwork cannot move enough air. It is also costly to run, and it is a good sign the heat pump side is the real fault."
+        },
+        {
+          "q": "The heat works but the cooling does not. Does that narrow it down?",
+          "a": "It narrows it to the refrigerant side and the reversing valve. If only cooling fails, that is where to look. If both fail together, the cause is more often the control board, a capacitor or the electrical supply. Getting that distinction right first saves a lot of diagnostic time."
+        },
+        {
+          "q": "Is a heat pump a good match for a house in this area?",
+          "a": "The cooling side does most of the work in this climate and the heat side gets used for a few weeks of the year. What decides it is the ductwork, because a heat pump moves a lot of air and the house has to be able to take it. On a house with an addition that was never on the duct plan, the answer is often that the air handler has to be matched to the system first."
+        },
+        {
+          "q": "What should I check before buying a heat pump here?",
+          "a": "The ductwork and the electrical service. Older houses around here often have original service panels, and a heat pump draws more current than a straight cooling system. Very high humidity through the Fort Bend County summer also means the unit needs the headroom to handle the moisture load, not just the temperature."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
     }
   }
 }

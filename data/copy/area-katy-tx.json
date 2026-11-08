@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Katy is mostly housing built after 2000, and a lot of those houses are large, west-facing and shaded by mature oaks. The sun loads the back of the house late in the afternoon, and the cottonwood and mesquite from those oaks fall straight down onto the outdoor units. On top of that, the ERCOT supply gets rough during the peak of a July evening, and a compressor working against a sagging voltage has nothing left in reserve.",
   "localAngle": "Most Katy stock was built after 2000 with west-facing elevation and high windows, so solar gain lands on the back of the house when outside air is still hot enough to cook. Shade is generous and that cuts attic temperature somewhat, but it also traps moisture around the outdoor coil. Cottonwood and mesquite litter falls straight down on units sitting under the oaks. The power supply also dips during the hottest stretch of the afternoon, and a struggling compressor on a sagging voltage will trip before it cools.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "Do oak leaves cause emergency calls?",
           "a": "Rarely on their own. Leaves make a system run long and work harder, which shows up as poor cooling rather than a shutdown. The emergencies in this area come from compressor lockouts on a weak supply during the afternoon peak."
-        }
-      ],
-      "_faqsNote": "3 FAQs. Local: ERCOT afternoon demand peak and voltage dips on the Katy side of the metro."
-    },
-    "same-day-ac-repair": {
-      "intro": "A Katy system that runs all day and never catches up is usually a coil and airflow problem, not a dead machine. The housing stock here is new enough that most breakdowns are wear items rather than age. Same-day visits usually mean clearing the condenser, checking the capacitor and confirming the charge, and noting the model and serial off the nameplate before you call so the right parts come on the first trip.",
-      "localNote": "Cottonwood and mesquite from the mature oaks along FM 723 and through Towne Lake and Bridgeland blanket the outdoor unit and block the coil face. A blocked coil makes the system run long and never reach setpoint, which is exactly how a same-day call starts. Clean the coil, clear the fins, and check the amp draw before assuming the system needs replacing.",
-      "faqs": [
-        {
-          "q": "Why is a morning request better for same-day AC work in Katy?",
-          "a": "Same-day work across Houston depends on where the technician already is that morning. Fort Bend and Harris County are long drives from many of the shops, so an afternoon request usually becomes a next-day appointment instead. Calling early gives the request the best chance of landing the same day."
         },
         {
-          "q": "What does a running-but-not-cooling system in Katy usually need?",
-          "a": "A coil clean and a filter change cover a surprising share of these calls. Then the technician reads the charge and the amp draw. If the system still will not hold setpoint with a clean coil and good airflow, the sizing becomes the subject of the visit."
+          "q": "What decides the price of an emergency AC visit in Katy?",
+          "a": "Three things move it: how long the diagnosis takes, whether the fault is a cheap part or a sealed one, and how hard the unit is to reach. A capacitor on a unit in open space is a short job. A compressor in a unit boxed in behind a fence line is a different afternoon. The number you are given after the diagnosis is the one that matters, and it should be given before the work starts."
         },
         {
-          "q": "Does my attic unit need attention too?",
-          "a": "If the air handler is up in the attic, the return air comes in at 130 to 140 degrees before it ever reaches the coil. A dirty filter or a kinked return in that space starves the coil the same way a blocked condenser starves it outside."
+          "q": "Will the technician check the power supply before ordering parts?",
+          "a": "It should, and this is worth asking about on the phone. Katy sits on ERCOT and the supply dips during the peak of a July afternoon, and a compressor that will not start against a sagging voltage gets blamed for a fault it does not have. Measuring the supply at the disconnect takes minutes and separates an electrical problem from a mechanical one, and it is the difference between replacing a part and replacing a part that was never the problem."
+        },
+        {
+          "q": "Why do Katy emergency calls cluster in the late afternoon?",
+          "a": "Two local things land at the same time. The west glass has been loading the back of the house since noon, so the indoor unit is working hard and the coil is close to freezing. Then the grid dips as demand peaks. A system that was already working against itself hits its limit in the same window, and the calls come in between four and seven in the evening."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: cottonwood and mesquite litter from the oaks, attic temperatures, and how a request gets scheduled."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and two local ones: the west-facing load, the oak and cottonwood litter, the ERCOT afternoon supply, and the age of the equipment."
     },
     "ac-not-cooling": {
       "intro": "Running and not cooling is the most common complaint from Katy homeowners, and the reason is usually visible from the yard. A west-facing two-storey gets a solar load the system was never sized to carry, and the indoor coil ices over while the blower keeps pushing warm air. Diagnosis starts with airflow and refrigerant readings, not with parts ordering.",
@@ -97,9 +91,21 @@
         {
           "q": "Is a bigger unit the answer to a house that will not cool?",
           "a": "Not usually. A unit that is too large for the duct system cycles short and never dehumidifies, which can feel worse. Airflow and coil condition get checked first, and the sizing question gets answered by a load calculation rather than by square footage."
+        },
+        {
+          "q": "How much does it cost to fix an AC that runs but does not cool?",
+          "a": "It depends on which of the two faults you have, and they cost very different amounts. A blocked filter or a fouled condenser is a service call. A frozen indoor coil caused by a refrigerant fault is a repair with parts. That is why the diagnosis comes before the quote: the symptom at the thermostat is identical in both cases, and only the readings tell them apart."
+        },
+        {
+          "q": "Does cleaning the condenser coil actually fix a system that is not cooling?",
+          "a": "Sometimes, and it is always worth doing before anything else. A condenser packed with oak litter cannot reject heat, so the system runs and runs without moving enough of it into the house. Clearing the coil can restore enough capacity on its own. If it does not, the fault is upstream or the charge is wrong, and the readings will say so."
+        },
+        {
+          "q": "Why does the problem show up worse in the west-facing homes?",
+          "a": "The back of the house takes the sun while the outdoor air is still too hot to help, and a west elevation adds to that for most of the afternoon. The system is asked to pull more heat out of the air than a comparable east-facing house, at the same time, with the same unit. In the subdivisions off the Katy Freeway, where the lots are wide and the glass is large, that margin is thin from the start."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: west-facing solar load, oak litter blocking the condenser, attic heat in the return air."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and two local ones: the west-facing load, the oak and cottonwood litter, the ERCOT afternoon supply, and the age of the equipment."
     },
     "ac-repair": {
       "intro": "Katy systems are young, so most repair work here is a component failure rather than a worn-out machine. The recurring list is a failed capacitor, a contactor that has pitted shut, a failed motor, and refrigerant leaks at old braze joints, so the diagnosis comes first and then the parts. We connect you with a company that covers the Katy area so the fault gets looked at on site rather than guessed at over the phone.",
@@ -116,9 +122,21 @@
         {
           "q": "My outdoor unit looks new but the system is not cooling. What now?",
           "a": "New equipment can still be installed badly. A blocked condenser, a reversed or undersized duct run and a clogged filter all show up on a unit that has only run a few summers. The technician checks the air path and the charge before concluding the unit is faulty."
+        },
+        {
+          "q": "How much does AC repair cost in Katy?",
+          "a": "The bill follows the fault, not the postcode. A capacitor or a contactor is a short visit with a cheap part. A compressor, a coil or a whole air handler is a different order of work. Access is the variable people forget: a unit in open space is not the same job as one squeezed behind a fence line or under a stairwell. Ask for the number after the diagnosis, not before, and ask for the replacement quote alongside the repair quote."
+        },
+        {
+          "q": "Why do Katy repairs often need a coil clean before the diagnosis is worth anything?",
+          "a": "Because the readings depend on it. Pressures are only meaningful against a clean condenser, and a fouled coil can make a healthy system look like a charge problem or a compressor problem. Under the mature oaks in Bridgeland and Heritage Ranch, the coil collects litter through the season, so the clean is part of getting an honest answer rather than a separate service call."
+        },
+        {
+          "q": "The technician says the compressor is bad. Should I get a second opinion?",
+          "a": "Ask what was found that points at the compressor rather than at the cause behind it. A compressor that fails on a system with a dirty coil or a neglected leak will take the replacement with it, and that is the expensive way to learn the same lesson twice. If the technician can tell you why the original compressor died, that answer is worth more than any guarantee."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: post-2000 housing stock, oak debris on the coil, and what a young-but-problem system means."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and two local ones: the west-facing load, the oak and cottonwood litter, the ERCOT afternoon supply, and the age of the equipment."
     },
     "ac-installation": {
       "intro": "Most installations in Katy go into homes that already have a system and are replacing it, or into a new build that never had one. The house matters more than the tonnage number. A west-facing two-storey in Bridgeland or Heritage Ranch needs a load calculation that accounts for the glass and the shading, and duct sizing that actually moves air upstairs.",
@@ -135,9 +153,21 @@
         {
           "q": "Can the condenser be set in the shade under the oaks?",
           "a": "Shade is good for the compressor, and the trees are a large part of why the yard feels cooler than the street. The tradeoff is litter. Set the unit where it gets airflow and can be cleaned, and keep the coil face clear of leaf fall."
+        },
+        {
+          "q": "What does an AC installation cost in Katy?",
+          "a": "The number moves with the work that is not the equipment: how much line set has to be run, whether the electrical service needs a panel change, whether the existing ductwork is being replaced or reused, and how the outdoor unit gets craned or carried into position. Two installs in the same neighbourhood can differ by a wide margin on those four things alone, which is why a load calculation and a written scope come before a price."
+        },
+        {
+          "q": "Does the Katy Freeway corridor change anything about an install?",
+          "a": "It changes when you service it. Traffic corridor dust and airborne particulates load a condenser faster than a yard away from the road, and a unit near the front of a lot on the Katy Freeway side collects more of it. Set the unit where the air is moving and keep it clear, and plan on a rinse more often than a unit half a mile back would need."
+        },
+        {
+          "q": "Is it worth adding a second zone while the system is being replaced?",
+          "a": "It is worth it when the house has a second floor or a bonus room that never holds temperature, because those are almost always duct and load problems rather than equipment problems. It is not worth it purely because the quote includes it. A second zone is only worth what it is worth if the rooms it serves were genuinely uncomfortable, not if the existing duct run was long."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: west-facing glass in newer builds, sealed attic temperatures, condenser placement under oaks."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and two local ones: the west-facing load, the oak and cottonwood litter, the ERCOT afternoon supply, and the age of the equipment."
     },
     "ac-replacement": {
       "intro": "When a Katy system needs replacing, it is usually because a failure costs more to fix than to swap, not because the house is old. Some of the units here are already approaching the end of their service life after two decades of Gulf humidity. Replacing is also the sensible call when the outdoor unit is rusted through on the side where the fence has been holding water.",
@@ -154,9 +184,300 @@
         {
           "q": "Does the climate here wear out a system faster?",
           "a": "Gulf humidity does more to a system than dry air would. The coil spends much of its life wet, the cabinet weeps and rust forms at the base, and the refrigerant side runs with a heavier moisture load than it would inland. Maintenance and a rinse twice a year extend the life of the outdoor unit."
+        },
+        {
+          "q": "What does it cost to replace an AC system in Katy?",
+          "a": "The cost is decided by three things: the capacity the house needs, whether the refrigerant on the old nameplate is a legacy type, and how much of the installation can be reused. A matched set on an existing slab with the same line set and a service upgrade is the least involved version. Changing the capacity, moving the outdoor unit, or switching refrigerant type all add work, and the quote should separate them so they can be compared."
+        },
+        {
+          "q": "Does the shade and the oak litter change what a replacement should be?",
+          "a": "The shade is good for the equipment and it is worth keeping the unit in it, but it also keeps moisture around the cabinet and the litter falls straight onto the coil. A replacement that keeps the same location should keep the same clearance and the same access, and a little attention to the coil twice a year will matter more to it than the brand on the badge."
+        },
+        {
+          "q": "Is a variable speed unit worth the extra money here?",
+          "a": "It is worth more in Katy than in a drier market, and the reason is the humidity. A single speed system cycles on and off, and every time it starts it works against a house that is already loaded with moisture. A variable speed unit holds a low steady output and pulls more moisture out of the air for the same electricity. Whether that pays for itself depends on how the house runs, so ask for the operating comparison rather than the sticker price."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: R-22 systems from the 2000s, humidity corrosion, and matching a new set to the house."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and two local ones: the west-facing load, the oak and cottonwood litter, the ERCOT afternoon supply, and the age of the equipment."
+    },
+    "ac-maintenance": {
+      "intro": "Maintenance is a scheduled visit, not a repair call, and in Katy it is worth booking before the summer rather than during it. A technician clears the outdoor coil, checks the filter and the airflow behind it, reads the pressures and the charge, and looks at the drain and the electrical connections. The point is to catch the small fault while it is still small, before it turns into a callout on a hot afternoon.",
+      "localNote": "Katy gives you a clean window for this work if you use it. Most of the equipment here went in with the house in the 2000s, so the machines are young, but they sit under mature oaks that drop cottonwood and mesquite through the spring and early summer, and the litter packs the coil face before the hot stretch arrives. The supply also gets rough across the metro on July afternoons, and a system checked in May has a clean coil and a known electrical condition going into that.",
+      "faqs": [
+        {
+          "q": "When should I get my Katy AC serviced?",
+          "a": "Before the first run of 90 degree days, not during them. Spring is the useful time here because the unit has been sitting through the wet season and the oaks have been dropping cottonwood and mesquite onto the coil. A visit in April or May means the coil is clean going into July."
+        },
+        {
+          "q": "Is maintenance worth it on a system that is only a few years old?",
+          "a": "Age is not the reason. The reason is that the parts which fail first on a Katy system are small parts sitting in heat and moisture, and a visit finds them before they take something bigger with them. The service is a scheduled, planned piece of work, which is a different thing from a callout on the hottest weekend of the year."
+        },
+        {
+          "q": "What does a maintenance visit actually check?",
+          "a": "The condenser coil and the cabinet, the capacitor and the contactor, the filter and the airflow through it, the drain line, the current draw on the compressor, and the refrigerant charge by superheat and subcooling. Almost none of that is visible from the return grille."
+        },
+        {
+          "q": "How does the attic affect a system in Katy?",
+          "a": "An air handler in a Katy attic works in 130 to 140 degree heat for months, and the motor and capacitor inside it wear faster there than the same parts would in a conditioned closet. It is worth having the area around the unit looked at while the system is open, and checking that stored boxes are not sitting against the housing."
+        },
+        {
+          "q": "Can I do any of this myself?",
+          "a": "Some of it. Clearing the litter off the condenser and changing the filter are homeowner jobs, and in Katy that matters because cottonwood and mesquite build up fast under the oaks. Everything else needs gauges and a meter, and refrigerant work has to be done by someone licensed to recover the gas."
+        },
+        {
+          "q": "My filter is new. Does that mean the system does not need a visit?",
+          "a": "No. The filter is one item on the list. A filter that has been changed recently says nothing about the charge, the electrical side or the drain, and a dirty filter is one of the most common causes of a freeze on the indoor coil. If a new filter changed nothing, the fault is somewhere else."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: cottonwood and mesquite drop under the oaks, the 130 to 140 degree attic, and the pre-summer window."
+    },
+    "condenser-repair": {
+      "intro": "The condenser is the outdoor unit, the box in the yard that does the work of dumping heat. Most calls on it come down to a fan motor, a capacitor, a contactor, or a coil that has packed itself with leaves. The technician who takes the job checks airflow and the electrical side first, because that is where the faults are.",
+      "localNote": "Katy units are mostly from the 2000s, so the cabinet is still sound and what wears out is electrical and the coil face. There is no salt to eat the metal this far inland, but there is a great deal of humidity and shade, and a unit sitting under a mature oak collects cottonwood and mesquite through the year. That combination explains a hum that stops short of a start and the rattling that shows up on a humid evening.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but nothing else happens. Is the compressor dead?",
+          "a": "Not usually. A hum with no compressor sound is normally the contactor trying to pull the compressor in, or a capacitor that has lost its charge. It can also be the supply itself dipping during an afternoon demand peak, so the voltage at the disconnect gets measured before a compressor is condemned. Capacitors fail in this heat routinely and they are the inexpensive part of the job."
+        },
+        {
+          "q": "What makes an outdoor unit noisy?",
+          "a": "Different noises mean different things. A rattle that comes and goes with the fan is a loose grille panel or a blade touching the coil. A grinding sound is the fan motor bearings. A buzz that stops the moment the compressor starts is the contactor. A hum that cycles on and off by itself is a fault upstream of the unit."
+        },
+        {
+          "q": "Does rust on the cabinet mean the unit has to be replaced?",
+          "a": "Not on its own. Katy sits inland, so the salt corrosion that ruins cabinets near the bay does not apply here. What you get instead is rust where the unit sweats condensate and where a fence line has been holding water against the base, and that develops slowly. It is worth a look, but a rusty base panel on its own is not a reason to replace a unit that still works."
+        },
+        {
+          "q": "Can I clean the condenser coil myself?",
+          "a": "Yes, and in Katy it is worth doing before the hot stretch. Litter under the oaks is cottonwood and mesquite, and it mats down into the fins and holds heat against the coil. Use a soft brush and a gentle hose. A pressure washer bends the fins, and bent fins cut off the airflow the unit needs to shed heat."
+        },
+        {
+          "q": "Why does the outdoor unit quit every summer afternoon?",
+          "a": "The unit has no margin left by midafternoon after building heat all day. A fouled coil, a failing capacitor and a weak charge all look identical from the thermostat. The coil gets checked first because it is the most common one here and it is the easiest thing to look at."
+        },
+        {
+          "q": "Is repairing the outdoor unit worth it, or should the whole system be replaced?",
+          "a": "It depends on what failed and what the rest of the system is. A capacitor and a contactor are small parts, and replacing them keeps a matched set together. A seized compressor or a coil that has been cleaned into bent fins is a different conversation, because a new outdoor unit has to match the indoor coil and the refrigerant on the existing system. That call gets made on site with the system in front of the technician."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: inland cabinet condition instead of salt, oak litter on the coil, and the ERCOT afternoon dip behind a humming unit."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump that moves the refrigerant, and when it fails the system goes quiet at once. Sometimes it can be rebuilt, and more often the honest answer is a replacement. The technician who takes the job finds out why it failed before anything is ordered, because whatever killed it will kill a new one too.",
+      "localNote": "On Katy systems the compressor tends to fail young rather than old. Most of the equipment here went in with the house in the 2000s, so age is not the story, heat is. A condenser packed with oak litter runs hot with no relief, and a supply that dips during a summer demand peak makes a tired compressor harder to start, which is how a lot of these units end.",
+      "faqs": [
+        {
+          "q": "Can a failed compressor be repaired or does it have to be replaced?",
+          "a": "A seized or burned compressor is a replacement job in most cases. Rebuilding is sometimes possible but rarely the sensible answer on a residential split, and the real risk is that the failure was not really a compressor failure. Whatever the decision, the cause has to be found first, because a new compressor on a dirty condenser will fail in the same summer."
+        },
+        {
+          "q": "The unit hums but the compressor never starts. What gets checked?",
+          "a": "The capacitor, the contactor and the windings, plus the voltage at the disconnect. An afternoon voltage dip during a demand peak can stop a compressor from starting on its own, so the supply gets measured before a part gets replaced. Capacitors fail in this heat routinely, and they are the inexpensive part of the repair."
+        },
+        {
+          "q": "What does it mean when the compressor is short cycling?",
+          "a": "The system is turning on and off faster than it should and the house never settles. It is often a pressure problem, either the charge is off or the outdoor coil is blocked and the unit is protecting itself. Short cycling works the contactor and the compressor hard, so it is worth getting looked at rather than letting it run all summer."
+        },
+        {
+          "q": "Should I replace the compressor or replace the whole system?",
+          "a": "If the compressor is the only failure and the rest of the system is sound, a compressor replacement can be the reasonable choice. If the same unit has already been repaired once, the line set is old, or the refrigerant on the nameplate is a type no longer produced for new equipment, replacing the set is usually cleaner. A new outdoor unit has to match the indoor coil and the refrigerant, so the two options are not the same job."
+        },
+        {
+          "q": "How long should a new compressor last in this climate?",
+          "a": "Long enough if the system stays clean and the supply holds. The killers are heat and restriction: a coil packed with cottonwood and mesquite, an attic unit sitting at 130 to 140 degrees, and a compressor that keeps trying to start into a sagging supply. Servicing the condenser twice a year takes that combination off the table."
+        },
+        {
+          "q": "Is it safe to keep running if the compressor is making a noise?",
+          "a": "Not if it is grinding or buzzing and then stopping. A compressor that is locked draws current, can trip the breaker, and can damage the contactor and the windings if it keeps trying to start. Turn the system off at the thermostat and leave the breaker off until the technician who takes the job has had a look at it."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 2000s equipment failing on heat rather than age, the ERCOT demand dip, and attic heat around the air handler."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A leak is the loss of the refrigerant, and topping the system up without finding the leak is a repair that comes back. The work splits into three parts: finding where the gas escaped, repairing that spot, and putting the charge back to the specification it should hold.",
+      "localNote": "The line sets in Katy run through attic space that holds 130 to 140 degrees for months, and that heat works on the joints and on the insulation around them. A length of line that is not insulated and is touching a truss eventually opens a pinhole. On systems that went in with the house in the early 2000s the refrigerant on the nameplate may also be the older kind that is no longer produced, which changes what the job involves.",
+      "faqs": [
+        {
+          "q": "How do I know my system has a leak?",
+          "a": "Look for the oil. Refrigerant carries oil with it, so the spot where the gas escaped is often marked by an oily film or a dark stain on the line set or the coil. A hissing sound near the outdoor unit, and a system that needs refrigerant again within a year of a service visit, point the same way."
+        },
+        {
+          "q": "Why do systems here seem to leak more?",
+          "a": "The line sets run through attic space that holds 130 to 140 degrees for much of the year, and that heat expands the metal and works the joints loose over time. There is also more moisture and more debris, and a coil that stays wet corrodes faster at the metal. The result is that pinholes and weak joints show up on systems that are not old yet."
+        },
+        {
+          "q": "Is topping off the refrigerant the same as fixing the leak?",
+          "a": "No, and it is the most expensive misunderstanding in this trade. A recharge on a leaking system buys a few weeks at best, and the gas that goes in is lost as well along with the recovery work that has to be done on the next visit. Ask for the leak to be located and repaired, and for the charge to be put back afterwards."
+        },
+        {
+          "q": "What does it mean if my outdoor unit says R-22 on the nameplate?",
+          "a": "It means the system uses the older refrigerant, which is no longer produced for new equipment. That changes what the job costs, because the gas has to be recovered and what goes in is priced higher than the newer kind. It also changes the decision about the system as a whole, since a leak in an R-22 unit is expensive to keep repairing."
+        },
+        {
+          "q": "Where do leaks usually show up on a Katy system?",
+          "a": "The braze joints and service valves at the outdoor unit, the lines where they pass through the attic, and the coil itself where it has been sitting wet. The oil mark is the fastest clue, so it is worth walking the line set in the attic and the base of the outdoor unit before anyone opens a panel."
+        },
+        {
+          "q": "Can the leak be in the indoor coil?",
+          "a": "Sometimes. A coil with a corroded pinhole is harder to repair than a fitting or a joint, and on some systems it means the coil is replaced, which is a much bigger job than finding a break in the line set. That is why the hunt covers the whole system instead of stopping at the first fitting that looks wet."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic line sets at 130 to 140 degrees, early-2000s refrigerant types, and where the oil mark shows up."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge means bringing the charge back to the number on the nameplate and confirming it with gauges, not filling a canister until the hose feels right. The technician who takes the job reads superheat and subcooling, and those two readings tell you whether the system is running properly or covering up something else.",
+      "localNote": "In Katy the numbers move more than they do in a dry climate. The condenser sits under an oak collecting cottonwood and mesquite, the air handler works in an attic at 130 to 140 degrees, and the supply is unreliable through the afternoon peak. Each of those changes what the charge should be, so the readings are taken with the system settled under those conditions rather than from a guess.",
+      "faqs": [
+        {
+          "q": "How do I know whether my system needs a recharge?",
+          "a": "Usually because something else said so. A low charge shows up as a system that runs without quite catching up, a line set that sweats heavily, and a compressor that keeps starting and stopping. The check itself is a measurement. Superheat and subcooling are read on the gauges and compared against the range for the refrigerant on the nameplate."
+        },
+        {
+          "q": "How much refrigerant does my system take?",
+          "a": "The amount is on the outdoor unit nameplate, along with the refrigerant type. The technician weighs what goes in rather than guessing, then takes the readings to confirm the result. That is the difference between a system that is correct and a system that is approximately correct and drifts out again."
+        },
+        {
+          "q": "My system is new and it is not cooling. Does it just need a charge?",
+          "a": "Sometimes, and it is worth checking, because a unit installed recently that never worked properly may have been charged wrong or never charged at all. It may also be a fault that has nothing to do with the charge: a fouled condenser, a restricted line set, a metering device that is stuck. On a house in Bridgeland or Towne Lake with a sealed attic, an installation error is common enough to check first."
+        },
+        {
+          "q": "What is the difference between superheat and subcooling?",
+          "a": "Superheat is how much hotter the gas is than its saturation temperature at the compressor outlet, and subcooling is how much colder the liquid is at the metering device. Both are numbers that only mean something next to the refrigerant type and the outside temperature. Together they show whether the system is moving the heat it is supposed to move."
+        },
+        {
+          "q": "Does the refrigerant type on the nameplate change the recharge?",
+          "a": "Yes. The two common types do not behave the same at the gauges and they are not interchangeable, so the readings mean something different for each. A system from the early 2000s may still hold the older kind, which is no longer produced for new equipment, and that has to be recovered rather than released."
+        },
+        {
+          "q": "Can I add refrigerant myself?",
+          "a": "No. It has to be weighed in, and the gas has to be recovered rather than released, which needs certification and equipment a homeowner does not have. Overcharging is easy to do by accident and it is hard on a compressor, so a system that is low is a job for someone with the gauges and the recovery machine."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: the wet and shaded condenser, the 130 to 140 degree attic, and sealed-attic installs around Bridgeland and Towne Lake."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The evaporator is the indoor coil, the part that takes the heat out of the air and turns the moisture in it into water. When it is dirty, iced or blocked it stops doing that job, and what the homeowner notices is a house that stays warm, a vent dripping, or air that smells musty.",
+      "localNote": "Humidity is why the indoor coil in Katy works harder than it looks. Very high humidity means the coil stays wet for long stretches, and wet fins grow slime and corrode faster than they would inland. The airflow side is the other half of it: an air handler in an attic at 130 to 140 degrees pulling air through a filter that was changed a while ago is how a freeze starts.",
+      "faqs": [
+        {
+          "q": "Why does the indoor coil keep freezing over?",
+          "a": "Three things, and they often come together. Restriction on the filter or in the duct, a low charge, and a thermostat set cold enough to pull the coil below freezing. The coil thaws, the water runs into the pan, and then it freezes again the next night. The technician who takes the job has to work out which of the three is doing it, because washing the coil and calling the job done is how it comes back inside a week."
+        },
+        {
+          "q": "What is the grey or green slime on my coil?",
+          "a": "That is microbial growth on wet metal, and the humidity in this area makes it appear fast. It does not wipe off, it needs a proper cleaner, and it comes back if the coil stays wet and the drain stays slow. The smell that travels with it is the same growth being pushed through the house with the air."
+        },
+        {
+          "q": "Why is there water sitting in the pan under the coil?",
+          "a": "The coil is meant to drip into that pan and the pan is meant to drain it away. Here the drain line collects dust and insulation residue, and in very high humidity the pan fills faster than the drain can clear it. A float switch shuts the system down when it overflows, which is why a dripping vent and a dead system are often the same problem."
+        },
+        {
+          "q": "Can the indoor coil be cleaned or does it have to be replaced?",
+          "a": "Cleaned, if the metal underneath is still sound. A coil with bent fins, a corroded hole, or freeze damage that has cracked the tubing is a different situation, and then the question is whether the system is worth that work. What moves the decision is what caused the freeze and whether that cause gets fixed. A new coil on a system that keeps freezing fails the same way."
+        },
+        {
+          "q": "My house smells musty when the air comes on. Is that the coil?",
+          "a": "Often it is. Moisture sitting on a dirty coil, a drain that is not clearing, and growth in the pan or the duct base all push that smell into every room. It can also be a duct problem in a sealed attic where the ductwork and the coil share the same space. A clean coil and a clear drain fix it most of the time, but the source has to be found or the smell returns inside a season."
+        },
+        {
+          "q": "How do I know if my airflow is the problem?",
+          "a": "Check behind the filter first. If the filter is dusty and the return path is tight, the coil is starved of air before anything else is wrong with the system. With the system running, a tissue held at the return should move easily. If it barely moves, the airflow is the fault to fix, and no amount of refrigerant will help."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: very high humidity on the coil, attic heat and return air, and the recurring freeze."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower motor is what moves air through the system, and without it the house has cooling equipment sitting idle. Motor, capacitor and relay are the parts involved, and the cheap ones usually go at the same time as the motor. A noise or a dead fan is worth looking at before it becomes no cooling at all.",
+      "localNote": "Katy puts the motor in a hard place. The air handler is usually in an attic running at 130 to 140 degrees, and the grease inside the motor bearings does not last as long at that temperature. The houses are also large and west-facing, so the blower gets asked for more airflow than it was sized for, and it ends up running continuously to keep up.",
+      "faqs": [
+        {
+          "q": "My blower is making a grinding or rasping noise. Can I keep using it?",
+          "a": "Not for long. That sound is a bearing going, and a bearing that has gone usually means the motor is running hot and drawing more current than it should. Left alone the motor can seize, and a seized motor takes the capacitor and the relay with it. Turn the system off and get it looked at."
+        },
+        {
+          "q": "The thermostat says the system is on but no air comes out. Is it the motor?",
+          "a": "It could be the motor, the capacitor, the relay or the control board, and those are checked in that order because the cheap ones fail first. If the system works on the fan setting but not on cooling, the fault is usually in the cooling call or the board rather than in the motor. Dead in both modes points to the motor and its capacitor together."
+        },
+        {
+          "q": "Why does the blower only run on high speed?",
+          "a": "The low speed is carried by the relay, and when the relay sticks or a board takes over the speeds the low setting drops out. That is usually a small part and a short job. Ask whether the replacement covers the relay and the capacitor, because on a motor of this age they tend to go at the same time."
+        },
+        {
+          "q": "Should the capacitor and relay be replaced with the motor?",
+          "a": "Usually yes. A motor that has been running hot has been cooking the capacitor next to it, and the relay is the cheapest part in the assembly. Replacing the motor and leaving the old capacitor in place is how a second visit happens a month later. Ask what the quote covers before it is agreed."
+        },
+        {
+          "q": "Why do blower motors fail so often around here?",
+          "a": "The heat. An air handler in an attic here sits at 130 to 140 degrees for months, and both the motor windings and the capacitor are built for a cooler environment than that. Dust adds to it, and a unit boxed in with stored belongings has even less cooling air around it. Clearing the space and improving the airflow buys the motor more life."
+        },
+        {
+          "q": "Can I use a box fan in the meantime?",
+          "a": "It moves air but it does not condition it, so the house stays hot even though the air moves. With the blower dead, the heating and cooling equipment in the house is doing nothing at all. It is worth getting the motor replaced rather than treating a fan as the solution."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: the 130 to 140 degree attic motor, and the large west-facing two-storey houses that keep the blower running."
+    },
+    "thermostat-installation": {
+      "intro": "A thermostat is the cheapest part of the system and the one the homeowner touches every day, so a mismatched wire set or a schedule that never runs shows up as equipment that never performs. Swapping one is quick once the wiring is understood, and it is worth doing in the same visit as other work on the system.",
+      "localNote": "Most Katy homes went in during the 2000s, so the existing thermostat is probably a programmable unit that has been reset to its factory settings or has a schedule nobody ever programmed. The humidity here is also unlike most of the country, and a thermostat that reads humidity and works to a comfort band holds the house tighter than one that only follows a number on a dial.",
+      "faqs": [
+        {
+          "q": "Can I replace my thermostat myself?",
+          "a": "Often yes, if the new one is compatible with the system and you are careful with it. Photograph every wire before anything comes off the wall and note the terminal labels, because the failure is nearly always in the wiring rather than in the thermostat. Do not force a wire into a terminal, and leave a breaker labelled wire the way it is."
+        },
+        {
+          "q": "What does it mean if the wires do not match the labels on the new thermostat?",
+          "a": "It means the previous install used a wire set the manual does not describe, which is common when a thermostat was swapped at some point in the life of the house. The labels are what the new thermostat expects, not what is actually connected behind the wall. Some combinations need an adapter, and the manual plus a photo of the existing wiring settles it."
+        },
+        {
+          "q": "Is a smart thermostat worth it in Katy?",
+          "a": "It can be, for the humidity as much as for the schedule. In this climate the comfort problem is often moisture rather than temperature, and a thermostat that reads humidity and works to a comfort band holds the house better than a fixed schedule. With ERCOT pricing, a model that holds the house tighter and lets the system recover between cycles is worth looking at. It needs a common wire, and it needs a system the thermostat actually supports."
+        },
+        {
+          "q": "My system ignores the thermostat schedule. Why?",
+          "a": "Either the thermostat is not really in control, or it is sitting in a mode that does not follow the schedule. A hold setting left over from installation, the wrong mode, or a wiring fault where the schedule never reaches the control board all look the same from inside the house. A delay or an anti-swing setting can also stretch the cycle until the numbers on the schedule are never reached."
+        },
+        {
+          "q": "Does the thermostat have to match the type of system?",
+          "a": "It has to match the equipment it is going to control. A heat pump needs a thermostat that understands heat pump mode and the backup heat, and a gas furnace may have a line voltage thermostat that a low voltage replacement will not work with at all. The equipment type on the label decides what can go on the wall, and a smart thermostat is no exception."
+        },
+        {
+          "q": "Should the thermostat be replaced when the system is?",
+          "a": "It is a good time, because the wiring gets checked and the new unit is on site anyway. An old thermostat left on a new system is one more thing that can stop the new equipment from running as it should, and including it costs very little next to the rest of the work."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 2000s thermostat stock, humidity sensing in a humid climate, and ERCOT pricing behind the schedule."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump does the heating and the cooling with one set of equipment, so a fault can take out both at once and the diagnosis starts with which mode failed. The parts involved are the reversing valve, the refrigerant charge, the outdoor coil, and the defrost controls that decide when the system changes over.",
+      "localNote": "Heat pumps are not the common choice in Katy, where the cooling side does the work for most of the year and the heating side runs for a few weeks. Where they are fitted, usually in newer houses, the summer fault is normally on the cooling side. A condenser packed with cottonwood and mesquite under the oaks starves the system of airflow, and that looks like a refrigerant problem when it is not one.",
+      "faqs": [
+        {
+          "q": "Why is there ice on my outdoor unit in July?",
+          "a": "Ice in the warm months means the system is not shedding heat properly. The usual causes are a low charge, a restricted metering device, or an outdoor coil that cannot move enough air, and in Katy the coil is the first suspect because the unit sits under oaks dropping cottonwood and mesquite onto it. Shut the system down and let it thaw before it is run again."
+        },
+        {
+          "q": "My backup heat runs all the time. What is wrong?",
+          "a": "The heat pump is not carrying the load, so the backup electric strips are picking up everything. That happens when the outdoor unit is dirty, the charge is wrong, or the system is stuck in a mode it cannot leave. Electric heat is expensive to run, and with ERCOT pricing the bill shows it. The fault underneath is worth finding rather than working around."
+        },
+        {
+          "q": "The cooling works but the heat does not. Does that narrow it down?",
+          "a": "It narrows it a lot. When only one mode fails, the reversing valve and the refrigerant side are where the fault usually sits. When both fail together, it is more often the control board, the contactor or the supply. That distinction saves a good deal of diagnostic time, so it is worth telling the technician which mode was working when the problem started."
+        },
+        {
+          "q": "Why will the system not switch from heating to cooling?",
+          "a": "The changeover is handled by the reversing valve and by the defrost logic on the board. A valve that is stuck, a board that is not getting the signal, or a system that is still finishing a defrost cycle will hold the mode it is in. A thermostat left in heat mode also keeps asking for heat, so the setting is checked before the equipment is."
+        },
+        {
+          "q": "Is a heat pump a good fit for a Katy house?",
+          "a": "The cooling side is what the house runs on for most of the year, and that is where a heat pump does well. The heating side is needed for a short stretch, so the savings there are small. Whether it makes sense comes down to the ductwork and the house itself, particularly the amount of west-facing glass on these larger two-storey homes. A load calculation and a look at the existing ductwork answer it better than a rule of thumb."
+        },
+        {
+          "q": "What does running the backup heat instead cost?",
+          "a": "Electric resistance heat is the most expensive way to warm a house, and in a Katy attic where the air handler already sits at 130 to 140 degrees it is working in conditions that make it worse. The cost depends on how many hours the strips run, which is why the underlying fault gets found instead of the thermostat simply being turned down."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: summer ice under the oaks, backup heat against ERCOT pricing, and west-facing two-storey loads."
     }
   }
 }

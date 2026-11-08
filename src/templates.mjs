@@ -30,9 +30,15 @@ export function fitDescription(...variants) {
   return String(variants[variants.length - 1]).trim();
 }
 
-/* ---------- shell ---------- */
-export function layout({ cfg, title, description, path, crumbs = [], body, jsonld = [], navCurrent }) {
+/* ---------- shell ----------
+   og picks the illustration for the social card. Facebook, X and LinkedIn
+   render JPEG and PNG in an og:image and ignore SVG and WebP, so every card
+   is the 1200 by 630 JPEG that build-images.mjs renders next to the WebP.
+   The card is one per page type rather than one per page, so the illustration
+   that best represents the page is what gets shared. */
+export function layout({ cfg, title, description, path, crumbs = [], body, jsonld = [], navCurrent, og = 'hero-condenser' }) {
   const canonical = cfg.origin + path;
+  const ogImage = `${cfg.origin}/img/${og}-og.jpg`;
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -45,11 +51,18 @@ export function layout({ cfg, title, description, path, crumbs = [], body, jsonl
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(description)}">
 <meta property="og:url" content="${canonical}">
-<meta property="og:image" content="${cfg.origin}/img/hero-condenser.svg">
-<meta property="og:image:width" content="1600">
-<meta property="og:image:height" content="900">
+<meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="${esc(cfg.brand)}">
+<meta property="og:image" content="${ogImage}">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${esc(title)}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${esc(title)}">
+<meta name="twitter:description" content="${esc(description)}">
+<meta name="twitter:image" content="${ogImage}">
+<meta name="twitter:image:alt" content="${esc(title)}">
 ${process.env.STAGING
   ? '<meta name="robots" content="noindex,nofollow">'
   : '<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">'}
@@ -195,9 +208,9 @@ function footer(cfg) {
   <div class="wrap">
     <div class="ftr__cols">
       ${col('Urgent', cfg._nav.urgency.map((s) => ({ href: url.service(s), label: s.name })))}
-      ${col('Popular services', cfg._nav.services.filter((s) => s.tier === 'core').slice(0, 8).map((s) => ({ href: url.service(s), label: s.name })))}
+      ${col('Popular services', [{ href: url.services(), label: 'All services' }, ...cfg._nav.services.filter((s) => s.tier === 'core').slice(0, 8).map((s) => ({ href: url.service(s), label: s.name }))])}
       ${col('Houston', [{ href: url.area(cfg._nav.pillar), label: `Houston, ${cfg._nav.pillar.stateAbbr}` }, ...cfg._nav.pillar.areas.slice(0, 7).map((n) => ({ href: url.neighborhood(cfg._nav.pillar, n), label: n.name }))])}
-      ${col('Service areas', cfg._nav.areas.map((c) => ({ href: url.area(c), label: `${c.name}, ${c.stateAbbr}` })))}
+      ${col('Service areas', [{ href: url.areas(), label: 'All service areas' }, ...cfg._nav.areas.map((c) => ({ href: url.area(c), label: `${c.name}, ${c.stateAbbr}` }))])}
     </div>
     <div class="disclosure">
       <strong>How this works.</strong> ${esc(cfg.disclosure)}

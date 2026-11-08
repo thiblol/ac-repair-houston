@@ -66,7 +66,33 @@ If a number is added later, these are the places it has to go:
 an unrelated business. The build fails on invented contact details for a
 reason.
 
-## 4. Google Business Profile
+## 4. The retired same-day URL set
+
+The `same-day-ac-repair` service was retired. Its search results were the same
+pages as the `ac-repair` results, which is the signal that two URLs are
+fighting over one query, so the intent was folded into the AC repair pages
+instead of standing on its own.
+
+The URLs that were dropped are:
+
+- `/services/same-day-ac-repair/`
+- `/service-areas/{city}/same-day-ac-repair/` for all 25 areas
+
+- [ ] If a staging or preview deployment of the earlier build exists
+      anywhere, add a 301 from each of those 26 paths to the matching
+      `/services/ac-repair/` page, and delete them from that deployment's
+      sitemap.
+- [ ] If no deployment of the earlier build exists, there is nothing to
+      redirect. The site has never run on a real domain, so these paths have
+      never been published and no external link can point at them.
+
+**Why:** a 301 is the right answer when something has to be preserved, and
+a 410 is the right answer when a page is gone on purpose. Neither is needed
+for a URL that was never live, and a 404 on a path that never existed is not
+an error worth logging. Do not add redirect rules "just in case" on a site
+with no inbound links: every permanent redirect is a tax on crawl budget.
+
+## 5. Google Business Profile
 
 A lead-generation referral property with no operator is **not eligible** for a
 Google Business Profile. Google treats online-only brands and lead-generation
@@ -84,7 +110,7 @@ agencies as ineligible for the service-area business model.
 get a listing suspended, and it puts the client on the wrong side of a
 consumer-protection issue.
 
-## 5. Analytics and consent
+## 6. Analytics and consent
 
 - [ ] Decide what is measured. Current plan is aggregate page and form
       analytics only, no advertising pixels, no cross-site tracking.
@@ -94,7 +120,7 @@ consumer-protection issue.
 - [ ] Do not load a third-party script before the consent decision, because
       loading it is itself the act that needs consent.
 
-## 6. Photography
+## 7. Photography
 
 The site ships original SVG illustrations rendered to WebP, not photographs.
 That is a deliberate choice: the reference material this project was built
@@ -109,7 +135,7 @@ imagery on an AC site.
 - [ ] Write the alt text to describe the scene. Never write "our technician".
       This site does not employ anyone, and the alt text is indexed.
 
-## 7. Partner companies
+## 8. Partner companies
 
 - [ ] Sign HVAC companies before the site takes requests. A ranked site with
       nobody to answer a request is worse than no site.
@@ -120,7 +146,7 @@ imagery on an AC site.
 - [ ] Confirm each company has agreed to be identified as a referral partner
       and understands that the homeowner sees their name and contact details.
 
-## 8. Sanity checks before going live
+## 9. Sanity checks before going live
 
 - [ ] `npm test` passes: source checks, copy audit self-test, and a clean
       build.

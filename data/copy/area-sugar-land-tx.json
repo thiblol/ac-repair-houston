@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Sugar Land is full of two-storey houses on big lots, and the second floor is where the heat problems live. Upstairs bedrooms hit their setpoint late and sometimes never do it at all. Oak and pine litter collects on the outdoor units, and the Gulf humidity keeps everything damp for months on end.",
   "localAngle": "The cooling load here is stacked. With two full floors and a high ceiling in the living space, the system has to move air through more volume than a ranch of the same square footage. That is why duct design matters, and why a system that was fine when the ground floor was the only conditioned space starts short-cycling after a second-floor remodel. Ducts routed through an attic sitting at 130 to 140 degrees lose a good part of their air temperature before it reaches a vent. Oak and pine debris on the coil adds to it. There is no salt to fight here, only humidity and heat.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "The outdoor unit is silent but air is still blowing. What does that mean?",
           "a": "The blower is running and the compressor is not. The system is moving room temperature air around the house with no cooling at all. Leave it running if you want the air movement, but it will not get cooler. That is a compressor, contactor or capacitor fault and it needs a technician."
-        }
-      ],
-      "_faqsNote": "3 FAQs. Local: stacked two-storey heat, attic air handler failure, and an ERCOT-era power interruption."
-    },
-    "same-day-ac-repair": {
-      "intro": "Most same-day work in Sugar Land is a system that runs and runs but never quite gets the house cool. That points at airflow, a dirty coil or a system that is too small for the floors it has to serve. The technician who takes the job should check static pressure and clean the coil before quoting a part.",
-      "localNote": "Pine needles are the local signature here. Sugar Land sits under mature pines and oaks, and the needles mat together into a blanket that seals the coil face. Fine at first, then the condenser runs hot and the compressor works overtime for very little cooling. A same-day visit that starts with a coil clean and a rinse of the coil pan can turn a running-not-cooling complaint into a system that hits setpoint.",
-      "faqs": [
-        {
-          "q": "Why is a morning request better for same-day AC work in Sugar Land?",
-          "a": "Same-day work depends on where the technician already is that morning, and Fort Bend County is a long drive from many of the shops. A request that arrives in the afternoon usually becomes a next-day appointment instead. Calling early gives the request the best chance of landing the same day."
         },
         {
-          "q": "What does a running-but-not-cooling system here usually need?",
-          "a": "The coil clean is the usual first step, because pine needles and oak leaves pack into the fins rather than sitting on top of them. After that the charge gets read and the amp draw checked. If the system still will not hold setpoint with a clean coil, the sizing question comes up and the visit gets longer."
+          "q": "How much does an emergency AC repair cost in Sugar Land?",
+          "a": "It follows the fault, the parts and the access. A capacitor or a contactor is a short visit with a cheap part. A compressor on a unit that has been working a two-storey load since the 1990s is a different order of work. The access is worth mentioning when you report it, because a unit in a fenced side yard takes longer to reach and to work on than one in open space."
         },
         {
-          "q": "Does the attic air handler need cleaning too?",
-          "a": "If the handler is in the attic, the return filter there handles air that has been at 130 to 140 degrees. It loads up faster than a filter in a conditioned closet, and a restricted return starves the coil the same way a blocked condenser starves it outside. The attic side gets looked at, not just the outdoor unit."
+          "q": "What should I have ready when I report an emergency in Sugar Land?",
+          "a": "Which floor is affected, whether the outdoor unit is running, whether the breaker held, and the model and age of the condenser. The floor tells you whether it is a rooftop or an attic blower fault, the running state narrows it further, and the age of the equipment decides which parts list gets loaded. Two-storey houses here fail upstairs more often than down, and saying so saves a trip."
+        },
+        {
+          "q": "Why do the upstairs calls here take longer to fix?",
+          "a": "Because the second floor is at the end of the duct run and the fault is often in the attic unit rather than at the condenser. The technician needs access to the air handler, which in these houses means the attic, and the attic is at 130 to 140 degrees in the afternoon. That access is what sets the pace, not the part."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: pine needle matting, attic return filters, and how a request gets scheduled in Fort Bend County."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-not-cooling": {
       "intro": "When the thermostat is set to 72 and the second floor sits in the 80s, the fault is usually in the air path, not the refrigerant. Sugar Land houses are large enough that a marginal system shows the weakness upstairs first. Checking airflow, coil condition and the refrigerant charge in that order usually finds it.",
@@ -97,9 +91,21 @@
         {
           "q": "Does a bigger unit fix an upstairs cooling problem?",
           "a": "Not on its own. If the duct system cannot move enough air, a larger unit makes the static pressure worse and the coil will freeze sooner. The duct design and the sizing have to be answered together. That is why the diagnosis comes before the quote here."
+        },
+        {
+          "q": "How much does it cost to fix an AC that runs but does not cool in Sugar Land?",
+          "a": "It depends on which of the faults you have, and the thermostat does not tell you. A blocked filter or a partly blocked coil is a service call. A duct run that has been closed off, or a system that was sized for the ground floor alone, is a bigger job. Readings of airflow and charge separate the two before anyone quotes, and on a two-storey house the airflow reading is the one that decides it."
+        },
+        {
+          "q": "Is the attic the reason the upstairs never cools?",
+          "a": "Often it is, and it is the local version of this problem. A trunk run that crosses an attic sitting at 130 to 140 degrees arrives with less of its cooling than it left with, and the rooms at the end of it are the ones that suffer. The duct run has to lose less temperature on the way, which is a design question rather than an equipment one."
+        },
+        {
+          "q": "Will a bigger unit fix an upstairs that stays hot?",
+          "a": "Not on its own, and it is the usual first suggestion and the usual wrong one. A unit that is too large for the duct run cycles short, never dehumidifies, and pushes the same amount of air through the same restricted path. The distribution has to be looked at first, because a bigger pump through a blocked pipe is a bigger problem."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: stacked duct runs, attic return air, and how a freeze reads as a refrigerant fault."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-repair": {
       "intro": "The systems in this part of Fort Bend County are mostly 1990s and 2000s installs, so faults show up as parts rather than as a dead machine. Capacitors, contactors, blower motors and leaking braze joints are the everyday list. We connect you with a company covering Fort Bend County so the diagnosis happens on your equipment, not from a symptom list.",
@@ -116,9 +122,21 @@
         {
           "q": "My outdoor unit is in a fenced side yard. Does that matter?",
           "a": "Two ways. A fence close to the unit restricts the airflow the condenser needs to dump heat, which makes it run longer and hotter. It also holds damp against the cabinet and the base pan, which is where the rust starts. The unit wants clearance and a way for the moisture to leave."
+        },
+        {
+          "q": "How much does AC repair cost in Sugar Land?",
+          "a": "The bill follows the fault, the parts and the access, and on a two-storey house the access is a real part of it. A capacitor or a contactor is a short visit with a cheap part. A compressor or an attic blower motor is a different order of work. The unit in a fenced side yard with a tight gate and a unit in open space are the same repair at different prices, and saying which you have saves an argument on the invoice."
+        },
+        {
+          "q": "Does the side yard really matter for the life of the unit?",
+          "a": "It matters for two reasons. The fence traps moisture, and the unit is working on the damp side of its cabinet all summer, which is how the base pan corrodes. And a unit that cannot be reached easily is a unit that does not get cleaned, because the coil behind a fence is the coil that gets skipped. Both are fixable at the time of the visit."
+        },
+        {
+          "q": "Why is a system in Sugar Land often R-22?",
+          "a": "Because the housing grew up around central air rather than being designed around it. These homes were built when two-stage systems were still rare and the outdoor unit was often set in a side yard where the fence traps moisture, and the systems that went in then are on the refrigerant that was being used then. Salt is not a factor inland, so what shortens the life here is the damp and the litter rather than the air."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: 1990s and 2000s housing stock, R-22 refrigerant, fenced side yard airflow and moisture."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-installation": {
       "intro": "Installation work in Sugar Land tends to be second-floor additions and whole-home replacements in houses that were built with the ground floor in mind. The interesting part is the load: two storeys, high ceilings and a lot of glass for a climate this humid means the sizing has to come from a calculation. We connect you with an installer who covers the area.",
@@ -135,9 +153,21 @@
         {
           "q": "What about finishing the upstairs and adding a room?",
           "a": "Every finished space upstairs changes the load, and the duct run often has to be extended or redrawn to reach it. Adding a bedroom above a garage in a house that already has a tight duct system sometimes calls for a second unit rather than a bigger one. The calculation answers that, not the square footage."
+        },
+        {
+          "q": "What does an AC installation cost in Sugar Land?",
+          "a": "The number moves with the work that is not the equipment: how much line set has to be run, whether the electrical service needs work, whether the ductwork is being redone or reused, and how the outdoor unit reaches its pad. On a two-storey house with a high ceiling in the living space the duct design is usually the larger share of the cost rather than the equipment, and a written scope is what makes two quotes comparable."
+        },
+        {
+          "q": "What changes when the upstairs gets finished properly and a room is added?",
+          "a": "The load, and the duct run with it. A system sized for the ground floor alone was never asked to move air through a second storey, and after the remodel the same unit is carrying a job it was not built for, which shows up as an upstairs that never holds temperature. The load calculation and the return path are worth revisiting before the equipment is chosen, because a bigger unit on the same ducts gives a colder house that is still uncomfortable."
+        },
+        {
+          "q": "Does a two storey house need a different system from a ranch of the same size?",
+          "a": "It does, and the difference is the volume of air rather than the square footage on the listing sheet. A house with two full floors and a high ceiling in the living space has to move air through more space than a ranch of the same floor area, and the system that moves it has to run longer at lower output to get the humidity out as well as the heat. That is what the duct design and the equipment have to be matched to."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: two-storey design, finished second floors, side yard condenser placement."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-replacement": {
       "intro": "Replacement comes up more here than in the newer parts of the metro because a lot of Sugar Land equipment is now in its late teens or twenties. The refrigerant type and the condition of the coil decide whether a swap makes sense. Getting the nameplate information before the quote keeps the scope from changing on install day.",
@@ -154,9 +184,300 @@
         {
           "q": "Does the humidity in Fort Bend County shorten the life of a system?",
           "a": "It does more to the equipment than dry air would. The coil runs wet for much of the summer, the cabinet weeps and the base pan rusts, and the refrigerant side carries a heavier moisture load than it would inland. Add leaf litter that holds damp against the coil and the outdoor unit needs a rinse a couple of times a season."
+        },
+        {
+          "q": "What does it cost to replace an AC system in Sugar Land?",
+          "a": "The cost is decided by the capacity the house needs, whether the refrigerant on the old nameplate is a legacy type, and how much of the installation can be reused. A twenty-year-old system on R-22 has a leak-prone line set and a coil that is no longer worth chasing, and replacing the outdoor section alone leaves a mismatch with the rest of the stack. A matched set is usually the cleaner path."
+        },
+        {
+          "q": "Is it worth replacing a system that still runs?",
+          "a": "It depends on what it is doing rather than whether it runs. A system that cools the ground floor and never holds the upstairs is not failing, it is undersized for the house as it is now used, and that is an argument for replacement that has nothing to do with the compressor. A system that holds setpoint on every floor and is fifteen years old is a different question entirely."
+        },
+        {
+          "q": "Does the damp side yard matter when a new system goes in?",
+          "a": "It does, and it is worth specifying a pad that drains and leaving room to get at the unit. A fence traps moisture against the cabinet and keeps the base pan wet, and a unit that cannot be reached easily is a unit that does not get cleaned. Salt is not a factor inland, so the damp and the leaf litter are what shorten the life of the outdoor unit here, and both are cheap to design out at the time of the install."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: R-22 systems from the 1990s and 2000s, Fort Bend humidity on the coil, and replacement scope."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
+    },
+    "ac-maintenance": {
+      "intro": "Maintenance is a check-up on a system that is working, and the point is to find the small fault before it becomes a callout. Coil and filter condition, drain clearance, electrical readings and the load the system is carrying all get looked at. We route the request to the company that covers Fort Bend County so the visit happens on the actual equipment.",
+      "localNote": "Seasonal preparation starts earlier in this area because the humidity never lets up and the debris arrives on its own. A system that ran through a mild Fort Bend winter still has a coil packed with oak and pine by the first hot week, and a two-storey house puts the real load upstairs where the air sits. An attic unit draws return air at 130 to 140 degrees, so the visit checks what the thermostat cannot see.",
+      "faqs": [
+        {
+          "q": "How often should I get my AC serviced in Sugar Land?",
+          "a": "Twice a year is the usual answer, and here the spring visit matters more than the autumn one. Oak and pine carpet the outdoor coil through the spring, and the first hot week is when the system discovers it. One visit a year in summer is a compromise that lets a fouled coil run hot for months."
+        },
+        {
+          "q": "Does a maintenance visit cost more than a repair call?",
+          "a": "A tune-up is priced for a set of checks, while a repair call is priced by what the fault turns out to be. What moves a repair bill is access, whether the part is still made, and how much refrigerant work is involved. A maintenance visit is often the cheaper way to find out which of those you are looking at."
+        },
+        {
+          "q": "My AC ran fine all winter, do I still need a tune-up?",
+          "a": "Probably, because the problems that develop here are not winter problems. The coil collects oak and pine leaves, the cabinet and base pan hold damp, and a system that has been idle since February has no way of telling you its capacitor is swelling. The visit is how that gets found before the first hot stretch."
+        },
+        {
+          "q": "What does an AC maintenance visit actually include?",
+          "a": "Coil and filter condition, condensate drain flow, electrical readings, refrigerant charge by measurement, and a look at the duct connections and the static pressure. In a two-storey house the technician also checks the vents upstairs, because that is where a problem shows up first."
+        },
+        {
+          "q": "Is it worth servicing before a summer heat wave when the power is unreliable?",
+          "a": "Yes, and it is worth saying that the power is unreliable when the request goes in. Summer grid instability can interrupt a unit mid-cycle, and the restart after that is what usually takes out a capacitor or a contactor. Checking the system before the stretch means a fault is more likely to be a worn part than a flicker."
+        },
+        {
+          "q": "What can I do between service visits to keep the system healthy?",
+          "a": "Change the filter on the schedule the filter itself asks for, and it will ask more often than you expect in this humidity. Rinse the outdoor coil with a low-pressure hose, never a high-pressure wand, because a hard jet bends the fins. Keep pine needles and leaves cleared away from the unit and the clearance around it open."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: oak and pine debris, summer grid instability, attic return air, two-storey load."
+    },
+    "condenser-repair": {
+      "intro": "The condenser is the outdoor unit, the cabinet that rejects heat into the air. Fan motor, run capacitor, contactor, coil condition and the cabinet shell are what this job covers. A unit that hums and never starts is nearly always one of those parts.",
+      "localNote": "The outdoor unit is where the weather gets to work here. Oak and pine pack the coil face, the cabinet sweats through months of heavy humidity, and the base pan starts rusting where it sits. Sugar Land is inland, so none of that corrosion is coastal salt. It is moisture, debris and heat that shorten the life of the box, and a fenced side yard makes the airflow problem worse.",
+      "faqs": [
+        {
+          "q": "The outdoor unit hums and never kicks in, what does that mean?",
+          "a": "Two parts cause that sound: the contactor, which closes to send power to the compressor, and the run capacitor, which gives the compressor the push it needs to start. A unit whose fan is not turning is almost always the capacitor. A meter check at the disconnect settles it in a minute."
+        },
+        {
+          "q": "How do I know if the condenser coil needs cleaning?",
+          "a": "Look at it. Oak and pine needles mat against the fins and hold damp against them, and a blocked coil face makes the unit run longer and hotter without cooling any faster. If you cannot see through the coil to the dark metal behind it, it needs cleaning before anything else is diagnosed."
+        },
+        {
+          "q": "Is a rusted outdoor cabinet worth repairing in Sugar Land?",
+          "a": "The rust that shows here is moisture rust, not the coastal corrosion found closer to the bay, and it starts at the base pan and the sheet metal seams. If the cabinet still holds its shape and the base has not gone through, the parts inside are fine and the coil is what matters. If the base has rusted through, the unit is sitting in water, and that ends the conversation about repair."
+        },
+        {
+          "q": "How much does a condenser repair cost?",
+          "a": "It depends on which part failed and whether that part is still made. A capacitor is a small part and a quick visit. A fan motor or a compressor is a larger job with more labour in it, and an outdoor unit in a fenced side yard takes longer to reach. Ask for the diagnosis and the parts cost separately so you can see which one you are paying for."
+        },
+        {
+          "q": "The outdoor unit gets noisy when it kicks on and then drops out, what is that?",
+          "a": "That is usually the contactor chattering because the capacitor cannot hold the closing coils energized, or the compressor is trying to start and failing. A fouled coil pushes the head pressure up and makes the compressor harder to start, which sounds the same from the patio. Cleaning the coil and then testing the electrical side tells you which one it is."
+        },
+        {
+          "q": "Does the outdoor unit need to be in the shade under the big oaks?",
+          "a": "Shade helps, but the trade is debris. Oak and pine fall on the coil no matter where the unit sits, and a unit under a dense canopy needs a rinse more often than one in open sun. The other thing to watch is clearance, because a fence or a shrub against the discharge side pushes the hot air back at the coil."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: oak and pine on the coil face, inland moisture rather than salt, fenced side yard airflow."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump that pushes refrigerant around the loop, and when it seizes the whole house loses cooling. Hard starting, short-cycling and a hum that never turns into a running compressor are the three symptoms this job is booked for. The decision at the end of it is whether the pump can be replaced or the system has to go.",
+      "localNote": "A two-storey Sugar Land house asks more of the compressor than a ranch of the same size. The system has to hold temperature upstairs where the heat sits, the condenser face may be fouled with oak and pine, and the unit upstairs takes in air at 130 to 140 degrees. That is a compressor running near the edge of what it can do, and edge compressors fail.",
+      "faqs": [
+        {
+          "q": "How do I know the compressor failed and it is not the capacitor?",
+          "a": "A seized compressor hums and never starts, or starts and trips its breaker within seconds. The capacitor can be tested with a meter in seconds, and a good one rules itself out. Testing the compressor means taking amperage readings with the system running under load, so that part happens on site."
+        },
+        {
+          "q": "Is a seized compressor worth replacing, or should I replace the whole system?",
+          "a": "The honest answer depends on what else is attached to the pump. A compressor is a sealed assembly, so a failure inside it is not something that gets patched, and the cost of the part is only part of the conversation. If the condenser, the line set and the coil are all the same age, replacing the pump alone buys a system that still has every other problem it had. The decision belongs after the diagnosis, not before."
+        },
+        {
+          "q": "Why does my compressor keep short-cycling in Sugar Land?",
+          "a": "Short-cycling means it starts, runs a short time and stops before it reaches temperature. In this climate the usual causes are a system that is oversized for the space, a dirty condenser coil, or a charge that is low. A blocked coil raises the head pressure and makes the compressor stop on its own overload, and the oak and pine on the coil face are enough to do that."
+        },
+        {
+          "q": "Can a power outage damage the compressor?",
+          "a": "It can, and that is a real risk in a summer where the grid is unstable. If power cuts out while the system is running, the compressor can be mid-cycle when it stops, and the surge when it restarts can take out the contactor or the control board. A unit that has been through an outage and then behaves oddly needs to be looked at, not just reset."
+        },
+        {
+          "q": "What causes a compressor to fail before it is old?",
+          "a": "Three things usually do it. A blocked coil makes the compressor run hot against a high head pressure. A charge that is low leaves it running without enough oil circulating. And a supply voltage that sags or spikes stresses the windings. The fouled condenser is the one that is easiest to prevent in a yard with oak and pine over the unit."
+        },
+        {
+          "q": "How long does a compressor normally last?",
+          "a": "It is tied to the hours it runs, and in this climate a compressor on a two-storey house runs more hours than the same pump on a small ranch. The units in the housing built from the mid-1990s onward are now in their late teens and twenties, so the age of the system is a fair question to ask before a part is ordered."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: two-storey load, oak and pine on the condenser, summer grid instability, R-22 systems from the 1990s."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A leak is a hole in the system, and refrigerant escapes through it. Finding the hole, repairing it and putting the refrigerant back are three separate jobs, and doing only the third one means the same call comes back a few months later.",
+      "localNote": "The usual leak points in Sugar Land are the line set and the connections at an outdoor unit that has spent years in damp air under oak and pine debris. Systems from the 1990s run R-22, and aged fittings on those lines weep. The nameplate on the outdoor unit names the refrigerant, and that single fact decides whether a leak repair is worth doing.",
+      "faqs": [
+        {
+          "q": "How do I know my AC is leaking refrigerant?",
+          "a": "Three signs together. The system runs constantly and never cools, the same unit needs refrigerant every few months, and there is an oily or dark stain on a line or at a fitting. Any one of those alone is not proof, but an oil mark on a line set is refrigerant and compressor oil escaping together, and it points at where to look."
+        },
+        {
+          "q": "Is it okay to just add refrigerant instead of fixing the leak?",
+          "a": "No, and the reason is simple. The refrigerant has to go somewhere, so a system that is losing it is losing it through a hole. Charging a leaking system buys a few weeks of cooling and then the technician comes back for the same visit, this time with more of the system opened up. Find the leak, then charge it."
+        },
+        {
+          "q": "What refrigerant does my Sugar Land system use?",
+          "a": "Read the nameplate on the outdoor unit. Most systems installed here before the mid-2010s run R-22, which is no longer produced for new systems, and the ones since then run a different refrigerant. That distinction changes what the leak repair involves, because refrigerant has to be recovered and handled under its own rules, and it changes whether the repair is worth doing."
+        },
+        {
+          "q": "Why is there an oily stain on my line set?",
+          "a": "Compressor oil travels with the refrigerant, so wherever both have escaped you get a mark. It collects where the escaping refrigerant pools, which on a horizontal run is the low point, and on a riser it is often at the fitting itself. The stain is the most useful piece of evidence a homeowner can hand the technician."
+        },
+        {
+          "q": "Why does my system need refrigerant every few months?",
+          "a": "That is a small, recurring leak, usually at a fitting or a section of aged line set rather than a single obvious hole. Small leaks are the ones that get ignored, and they turn an old R-22 system into one that cannot hold a charge. Repairs that work here find the leak and the reason for it, because an outdoor unit buried under oak and pine that also sits in damp air will find the next weak point on its own."
+        },
+        {
+          "q": "Is a leak repair on an older home more expensive?",
+          "a": "Often, and it is worth asking before the visit. Recovering and handling R-22 on an older system takes more time than the same job on a newer one. Access is harder too, in a two-storey house where the outdoor unit may sit in a tight side yard behind a fence. Two things you can do beforehand: note the refrigerant on the nameplate and photograph the area around the unit."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: R-22 systems from the 1990s, aged fittings in damp Fort Bend conditions, side yard access."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measured job. The technician weighs in the refrigerant the system is specified to hold and checks superheat and subcooling to confirm the numbers. Going by the gauge alone, or by the sound of the unit, is how a system ends up carrying too much or too little.",
+      "localNote": "The measurement matters more in this climate than in a dry one, because a Sugar Land system is fighting humidity as well as heat, and a wrong charge shows up as a house that will not dry out rather than as a house that will not cool. A two-storey house with an attic air handler makes the readings harder to interpret if the airflow is wrong, so the order is airflow first and charge second.",
+      "faqs": [
+        {
+          "q": "What do superheat and subcooling actually mean?",
+          "a": "They are two temperature readings taken at different points in the loop, and together they say whether the refrigerant is doing what it should. One shows how much hotter the gas is than it should be at the outdoor coil. The other shows how much colder the liquid is than it should be at the indoor coil. If either number is far out, the charge is not right."
+        },
+        {
+          "q": "My new AC was installed recently and it is not cooling as expected, what now?",
+          "a": "A unit that was charged by ear on install day is a common reason. The other possibility is that it is not a charge problem at all, and the fault is airflow: a dirty filter, a closed damper, or a unit that is oversized for a two-storey space and is short-cycling without dehumidifying. A measurement separates those two causes quickly."
+        },
+        {
+          "q": "How much refrigerant does my system take?",
+          "a": "Look for the factory charge listed on the outdoor unit nameplate. What goes in is weighed on a scale, and then superheat and subcooling are read to confirm the result is right rather than approximately right. Those two readings matter as much as the amount, because they are what prove the system is actually holding the charge."
+        },
+        {
+          "q": "Does a recharge cost the same on every system?",
+          "a": "No. A small system needs less refrigerant than a large one, and the refrigerant type changes the handling. A system on the older R-22 in a house built in the 1990s takes longer because of recovery. A heat pump needs its charge verified in both heating and cooling mode, so there is more measuring involved."
+        },
+        {
+          "q": "Why does my air conditioner need a refrigerant charge every single year?",
+          "a": "A system that holds its charge for a year and then loses it has a leak, and the annual service is not fixing anything. That is worth saying plainly, because a yearly recharge turns into a line item that hides a real fault. The same system can also look low on refrigerant when the fault is a partly blocked coil or a blower that has lost airflow."
+        },
+        {
+          "q": "Is refrigerant harder to hold in Sugar Land than in a dry climate?",
+          "a": "The charge leaks or holds the same either way, but this climate changes the rest of the job. The coil runs wet for months, and a low charge means the compressor does not get the oil it needs to stay lubricated. That is why a charge check here also looks at the condition of the oil and at the drier."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: humidity and dehumidification load, two-storey oversized systems, R-22 recovery on 1990s installs."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The evaporator coil is the finned coil inside the air handler, and it is where the chill in the air comes from. Cleaning it, treating the slime that grows on the fins, and replacing a coil that leaks are the work. A coil that keeps freezing is a symptom of something else, and cleaning it alone is not the fix.",
+      "localNote": "This coil takes a beating from the house it serves. In a two-storey Sugar Land home the air handler is usually in the attic space or in a closet off the second floor, and an attic unit draws return air at 130 to 140 degrees, which makes the coil colder and easier to ice. The humidity is heavy enough that the coil runs wet for most of the summer, and that is what grows the slime on the fins.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing over?",
+          "a": "Airflow first, almost every time. A clogged filter, a collapsed duct or a kinked return cuts the air moving over the coil, and then the coil drops below the dew point and ices. In a two-storey house the frozen section usually shows upstairs, because that is the end of the run. Cleaning the coil and calling it fixed buys a few weeks."
+        },
+        {
+          "q": "What is the grey or green slime on the indoor coil?",
+          "a": "Dust, lint and mould held together by condensation. In this humidity the coil is wet for most of the day, and that combination is what turns a dirty coil into a coated one. The coating insulates the coil, so the system has to run longer to deliver the same temperature at the thermostat."
+        },
+        {
+          "q": "Why is there standing water in the air handler pan?",
+          "a": "Yes. The pan gathers what the coil pulls from the incoming air, and it leaves through a drain line. Water sitting in the pan means the drain is slow, blocked or disconnected, and a float switch in some units shuts the whole system down when that happens. On an attic unit in a two-storey house, that water does not stay in the attic where you can see it."
+        },
+        {
+          "q": "Is the musty smell coming from the coil?",
+          "a": "Often, and the coil is a good place to start, but check the filter and the drain as well. A coil that has been wet and coated holds odour, and so does a pan that has had standing water in it. Cleaning without fixing the airflow leaves the smell back within weeks."
+        },
+        {
+          "q": "Should the coil be cleaned or replaced?",
+          "a": "A dirty coil can be cleaned, and that is worth doing before anyone talks about replacing anything. A coil with pinholes, a leak that has been repaired before, or corrosion across a section of the fins is a replacement. Ask for the condition of the coil to be described on the invoice, so you know which one you actually got."
+        },
+        {
+          "q": "Can I fix a frozen indoor coil myself?",
+          "a": "Turn the system off at the thermostat and let the coil thaw completely, which can take a few hours. Do not add refrigerant to a frozen coil, and do not put a hair dryer or a heat gun on it, because the metal moves and the tubing cracks. Once it is thawed, replace the filter and see how the system behaves before calling anyone."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic return air temperature, two-storey duct runs, heavy condensate and pan drainage."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower motor is what pushes air through the ducts, and in most of these houses it sits in the same cabinet as the evaporator coil. Grinding noise, no air at all, or one speed that works and one that does not are the three calls this page covers. The motor, the run capacitor and the relay are the parts that usually go.",
+      "localNote": "The unit is normally up in the attic or in a closet off the second floor, and in this part of Fort Bend County the attic is where the wear happens. Attics here sit at 130 to 140 degrees, and a blower motor already running hot has less margin for a bearing to go. When a motor in that heat fails, the capacitor beside it has usually been running hot for years as well.",
+      "faqs": [
+        {
+          "q": "My thermostat says it is on but nothing comes out of the vents, what is wrong?",
+          "a": "Four things, in the order the technician checks them: the filter, the breaker, the capacitor, then the motor itself. A seized blower is the last of those and the only one that needs a part, so the earlier checks are worth doing before a motor replacement gets booked."
+        },
+        {
+          "q": "What does a grinding or rasping noise from the air handler mean?",
+          "a": "The motor bearings. A shaft bearing wearing out makes a noise that changes with speed and can be heard from a closet or from the return upstairs. It gets worse over weeks rather than days, which is why it is worth acting on rather than getting used to. A motor that is grinding is also drawing more current and pulling its capacitor down with it."
+        },
+        {
+          "q": "Why does the motor and the capacitor fail at the same time?",
+          "a": "Because the capacitor is what lets a motor start. When a motor has been running hard, in a hot attic or behind a blocked filter, it draws more current, and that extra strain wears the capacitor too. They are replaced together for that reason, so if a quote lists a motor without a capacitor, ask about it."
+        },
+        {
+          "q": "Can I replace the blower motor myself to save money?",
+          "a": "The part is not the expensive part, the access is. In a two-storey home the air handler is often up in the attic or in a tight closet, and the work involves live circuits in a spot that is awkward to reach. The money is better spent on having the diagnosis confirmed first, because a motor is not the only thing that stops the air."
+        },
+        {
+          "q": "The fan runs on low speed but not on high, why?",
+          "a": "That points at the relay or the speed resistors rather than the motor itself, though a motor can also fail on one winding. It is a quick check once the panel is open. In an attic unit this is worth having looked at before the summer load doubles the run time."
+        },
+        {
+          "q": "How long does a blower motor last in Sugar Land?",
+          "a": "Less than the same motor in a milder climate, and the reason is the attic. Working at 130 to 140 degrees with the return air already hot, the motor runs at the top of its range for much of the day. The housing in this part of Fort Bend County dates from the mid-1990s onward, so many of these motors are already old enough to be near the end."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic temperature at 130 to 140F, two-storey closet and attic locations, 1990s onward housing."
+    },
+    "thermostat-installation": {
+      "intro": "A thermostat swap is a small job when the wiring behind the plate is what the new thermostat expects, and a longer one when it is not. Installation covers replacing an old mechanical dial, adding a programmable or smart thermostat, and working out what the existing system can actually be paired with.",
+      "localNote": "Most homes in this part of Fort Bend County went up between the mid-1990s and the 2010s, so the thermostat on the wall is often the one the builder fitted or something a previous owner half-swapped. The wire count behind the plate regularly does not match what the new thermostat expects. In a two-storey house the living room thermostat controls bedrooms the people upstairs never walk past, and that is where a badly placed thermostat does its damage.",
+      "faqs": [
+        {
+          "q": "How do I know if my thermostat wiring will work with a new thermostat?",
+          "a": "Photograph the wires before anything comes off the wall and note which ones go to which terminal. Most mismatches here are left by a previous install rather than by the equipment itself, and the housing in this part of Fort Bend County dates from the mid-1990s onward, so there are three decades of partial swaps to sort out. That photograph tells the technician what is waiting before they arrive, which is the difference between a short visit and a longer one."
+        },
+        {
+          "q": "Can a smart thermostat work with my existing air conditioner?",
+          "a": "Usually, but it depends on what the system is. A smart thermostat needs a compatible control and enough wires at the plate, and some models will not run a two-stage system properly. In a two-storey house the benefit also depends on where the sensor sits, because a thermostat on the cool downstairs wall reports a temperature the upstairs never feels."
+        },
+        {
+          "q": "My thermostat ignores the schedule I set, what should I check?",
+          "a": "Start with the mode switch. A thermostat left on heat through a summer day in Fort Bend County will ignore everything else. Then check that the schedule is actually saved and enabled, and that the batteries are fresh, because many thermostats lose the schedule when they lose power. If it still ignores the schedule, the control behind it is the likely cause."
+        },
+        {
+          "q": "Should the thermostat go upstairs or downstairs in a two-storey house?",
+          "a": "Usually where the people are, which in this housing is often the main floor living space. The upstairs bedrooms then get whatever the system delivers, and that is where the second floor heat problem shows up. A second thermostat on the upper level, or a system that can balance the two, is what actually solves that, and a thermostat swap on its own does not."
+        },
+        {
+          "q": "Is installing a thermostat expensive?",
+          "a": "The thermostat itself is the cheaper part of the job. What moves the cost is the wiring behind the plate and whether the system can be paired with it. A straight swap on a system that was built for it is quick. A retrofit onto a wiring set left over from a different install takes longer, and the technician needs to see the plate first to say which one it is."
+        },
+        {
+          "q": "Why does my new thermostat ask for a C wire when the old one did not?",
+          "a": "The old dial thermostat borrowed power from the system to run its contacts. A digital or smart thermostat needs its own constant supply, and the C wire is what carries it. Where no C wire is present, the installer has to run one back to the furnace or air handler, and that is where the extra time comes from."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 1990s to 2010s housing with builder-fitted thermostats, two-storey sensor placement, upstairs bedroom load."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump heats and cools with one outdoor unit, and the part that switches between the two jobs is the reversing valve. That is why a fault can leave a house with cooling in January or heating in July. Both the mode switch and the refrigerant side need checking.",
+      "localNote": "Heat pumps went into most of the houses built in this part of Fort Bend County between the mid-1990s and the 2010s, and they work harder here than in a dry climate. Cooling mode has to pull humidity out of the air as well as heat, and the attic unit still draws return air at 130 to 140 degrees. In the warm months an outdoor unit can ice up when the coil is starved for airflow or the charge is off.",
+      "faqs": [
+        {
+          "q": "Why is there ice on my heat pump in the summer?",
+          "a": "A heat pump melts frost off its outdoor coil in cold weather and in the early morning, and that melted water has to drain away. If the drain freezes or backs up, ice builds on the coil. In the warm months, ice on the unit usually means something else: a dirty coil face, low airflow across the coil, or a charge that is not right. Shutting it off and letting it thaw stops the symptom but not the cause."
+        },
+        {
+          "q": "My heat pump's backup heat runs all the time, why?",
+          "a": "The backup heat strip is the emergency heat, and it turns on when the heat pump cannot produce enough heat on its own. The reasons are the usual ones: the system is too small for the space, the charge is low, the outdoor coil is dirty, or the unit is going through long defrost cycles because of the frost drain problem. In a two-storey house where the load sits upstairs, that backup can run almost continuously and the bill follows it."
+        },
+        {
+          "q": "The heat pump will not change over from heating to cooling",
+          "a": "The thermostat calls for a mode and the reversing valve has to move the refrigerant flow to match. A valve that has failed keeps the system in one mode no matter what the thermostat asks for. If heating and cooling both fail at the same time, that points to the control or the electrical side instead. Saying which modes still work saves diagnostic time on the visit."
+        },
+        {
+          "q": "Is a heat pump worth repairing, or should I replace the system?",
+          "a": "It depends on the age, the refrigerant and what else has been done to it. A heat pump from the 1990s with a failing reversing valve is a hard repair on a system that may still run R-22, which is no longer produced for new equipment. A newer unit with a control fault is a different conversation. The technician should describe the fault and the age of the system before you decide."
+        },
+        {
+          "q": "Does the humidity in Fort Bend County make a heat pump work harder?",
+          "a": "Yes. In cooling mode the coil has to pull moisture out of the air, and very humid air means more condensation on the coil and a heavier load on the system. That also puts more water into the pan and the drain line. The heat pump is doing two jobs here instead of one, and it is worth having the coil and the drain checked as part of any service visit."
+        },
+        {
+          "q": "Why did my heat pump stop working after a power outage?",
+          "a": "A unit that loses power mid-cycle can end up in a lockout state and will not restart until it is reset at the outdoor unit or at the breaker. When the grid is unstable in the summer, that is a common sequence, and it looks like a dead system. Resetting it and watching what it does gives the technician the starting point."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heat pumps in 1990s to 2010s housing, R-22 age, summer grid lockouts, humidity and defrost load."
     }
   }
 }

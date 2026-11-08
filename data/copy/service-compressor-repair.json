@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "The compressor is the pump at the center of the sealed system. It squeezes the refrigerant and keeps it moving between the outdoor coil and the indoor coil, and nothing else in the system can work without it. A compressor usually does not die on its own. It is the last part to fail, after something else has been making it run wrong for months, and that is why the cause matters more than the part.",
   "whatHappens": [
     "Listens to the unit for the hum of the motor without the sound of the pump turning",
@@ -10,27 +11,27 @@
   "howPriced": "A compressor is one of the biggest single line items on any air conditioner, so cost depends on whether the pump is being replaced or the whole system is. The variables are the parts, the access to the unit, the time of day, and whether the coil and airflow problems that killed the first pump also have to be fixed. Replacing a compressor on a dirty coil means paying twice for the same fault.",
   "faqs": [
     {
-      "q": "how much does it cost to replace a compressor",
+      "q": "How much does it cost to replace a compressor",
       "a": "It is one of the more expensive repairs on an air conditioner because the pump itself is a costly part and the labor to swap it includes recovering the refrigerant first. The total moves depending on the type of refrigerant your system uses and whether other work has to be done at the same time. Ask for the pump cost and the labor cost to be listed separately."
     },
     {
-      "q": "my outside unit runs but no cold air is coming out",
+      "q": "My outside unit runs but no cold air is coming out",
       "a": "A running outdoor unit does not mean the compressor is pumping. The fan can be spinning while the pump is stopped, seized, or short of refrigerant and cycling badly. A technician checks the pump's sound, its draw and the pressures before deciding what is wrong."
     },
     {
-      "q": "why does my compressor keep failing",
+      "q": "Why does my compressor keep failing",
       "a": "Because whatever is wrong with the system is still there. A dirty condenser coil, a weak capacitor, low refrigerant and restricted airflow all make the pump work harder and hotter than it was designed to. It grinds out over years. The replacement fails the same way unless the underlying fault is found and corrected."
     },
     {
-      "q": "is it worth replacing the compressor or the whole unit",
+      "q": "Is it worth replacing the compressor or the whole unit",
       "a": "It depends on the age of the rest of the system and the condition of the coils and cabinet. If the compressor failed from a dirty coil or a bad capacitor, replacing the pump and fixing that fault can make sense on a younger unit. On an old system with rusted metal and weak airflow, a whole new unit is usually the better call."
     },
     {
-      "q": "can a new compressor fail the same way the old one did",
+      "q": "Can a new compressor fail the same way the old one did",
       "a": "Yes, if the cause was never found. A replacement pump dropped into a system with a fouled coil, a clogged filter or a failing capacitor will run hot and fail again, usually sooner than the first one did. That is why anyone replacing a compressor should be able to explain what killed the last one."
     },
     {
-      "q": "my AC keeps tripping the breaker right when it kicks on",
+      "q": "My AC keeps tripping the breaker right when it kicks on",
       "a": "A compressor that draws too much current, often a shorted winding, will trip the breaker every time it tries to start. That is the breaker doing its job. Do not keep resetting it and leaving the system on. Have it checked so the fault is found rather than covered up."
     }
   ],

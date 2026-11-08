@@ -1,7 +1,8 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Clear Lake, Houston",
   "title": "AC Repair Clear Lake, Houston | AC Repair Houston",
-  "description": "Tract houses and newer subdivisions on low bay land, where a flooded back yard puts the air handler and the condensate line in wet ground level space.",
+  "description": "Tract houses and newer subdivisions on low bay land, where a flooded back yard puts the outdoor unit and the condensate line in wet ground level space.",
   "intro": "Clear Lake is low ground, and low ground changes air conditioning. Much of this area sits a few feet above the bay with a water table close under the surface, so a heavy storm puts water in back yards and along the low side of the house, right where the equipment has to stay dry. The cooling problems here are less about how old the system is and more about where the system is sitting.",
   "localAngle": "The housing runs from 1960s and 70s ranch tracts through 80s and 90s subdivisions and into newer builds on the bay side. Roofs are asphalt shingle at a low pitch, so there is little attic space, and on the older ranches the air handler lives in a garage or a low closet off the utility room. The ground is the problem: sandy, close to the water table and slow to drain. After a storm the yard ponds, the pad under the outdoor unit sits in water, and the condensate line has nowhere to go but back into the pan.",
   "commonCalls": [
@@ -37,6 +38,15 @@
     {
       "q": "I live in one of the newer subdivisions. Do I have the same problems?",
       "a": "Not the same ones. Newer construction in this area means better duct sealing, a properly sized unit and equipment set above grade on a raised pad, so the common calls here are narrower. The persistent issue on new lots is fill dirt. Builders bring in soil that drains badly for the first few wet seasons, and that shows up as a yard that ponds or a slab edge that lets water sit against the foundation. If your system is new and performing, the odds are the problem is drainage rather than the machine."
+    },
+    {
+      "q": "My system was under water after a storm. Is it worth repairing or should I replace it?",
+      "a": "What decides it is how much of the electrical side was under water, not the visible damage. A cabinet that only had wet grass around it may need a contactor and a new disconnect, while a unit that took standing water into the base can have a motor that turns freely and a compressor that no longer holds a charge. Two things move the price of either path. The water has to be out of the cabinet before anyone opens it, and the cabinet has to be dried and cleaned out, because a wet motor that is switched back on is a motor that burns out. Getting a technician to look before switching anything on is the cheapest step here."
+    },
+    {
+      "q": "The ground under my outdoor unit looks like it has settled. Does that matter?",
+      "a": "It does, and it is a condition of this ground rather than of the equipment. The soil here is sandy, sits close to the water table and drains slowly, so a pad can drop out of level after a wet season, especially on a lot where fill dirt was brought in. A unit sitting off level pulls in air it has already warmed and can hold refrigerant oil where it does not belong, which shows up as a compressor that trips on the hottest afternoons. Leveling the unit and resetting the pad is a modest job, and the reason it gets quoted separately from the repair is that it needs new material and a fresh level rather than a wrench."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. The high water table, sandy slow draining soil, standing water in the yard and the raised pad on newer lots carry the local weight."
 }

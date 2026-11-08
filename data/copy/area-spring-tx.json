@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "A lot of Spring houses were built in the 1970s for a smaller family and a smaller footprint, then finished off over the years. The oak canopy came with the land and it stayed. The result is a house that asks more of its cooling system every year than the one it was designed for.",
   "localAngle": "The sizing is the story here. A 1970s system was chosen when a home had fewer finished rooms, less glass and lower expectations of comfort. Closed-off bedrooms, a family room addition and a vaulted ceiling all raise the heat gain, and none of that changes the unit outside. So the same equipment that handled the house in the eighties runs near its limit in the middle of an August afternoon. The oak canopy adds shade, which helps, and a steady rain of leaves that blocks the condenser. The grid sags in the afternoon too, and a compressor at its limit has no margin for a bad power moment.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "Should I turn the system off until someone comes?",
           "a": "If the unit is silent and the house is hot, yes. A compressor cycling against a fault or a locked rotor will burn out. If the system is still cooling and running normally, leave it alone. The technician can talk you through which of the two you have when you call."
-        }
-      ],
-      "_faqsNote": "3 FAQs. Local: undersized systems tripping on the ERCOT afternoon peak, coil fouling under the oaks."
-    },
-    "same-day-ac-repair": {
-      "intro": "Same-day work in Spring tends to involve a system that runs continuously without ever satisfying the thermostat, and the tree cover is usually a large part of why. The technician who takes the job should clean the condenser, check the refrigerant charge and then look at whether the system can move enough air for the finished space.",
-      "localNote": "Spring's mature oaks drop enough debris to cover a condenser in a season, and the shade they provide keeps that litter damp so it does not blow away. A blocked outdoor coil is the fastest way to turn an old system into a same-day call. Clear it, wash the fins, and check the charge. If it still cannot hold setpoint, the next question is sizing, because these houses grew after the systems went in.",
-      "faqs": [
-        {
-          "q": "Why does my Spring AC run all day and still not cool?",
-          "a": "The system has three things working against it: a condenser that is half buried in leaves, a house that grew after the equipment was installed, and a refrigerant charge that may have drifted over twenty summers. Clearing the coil is quick. If the system still cannot hold setpoint after that, the conversation moves to capacity, which is a different visit."
         },
         {
-          "q": "How often should I clear the leaves off the outdoor unit?",
-          "a": "Through the growing season, every few weeks is not too often if the unit sits under a big oak. The litter packs down and holds moisture against the fins, and it does not blow off on its own because of the shade. A soft brush and a gentle rinse keeps the coil face clear without touching the fins."
+          "q": "How much does an emergency AC repair cost in Spring?",
+          "a": "It follows the fault, the parts and the access. A capacitor or a contactor is a short visit with a cheap part. A compressor on a 1970s system that has been running against an undersized load for thirty years is a different order of work. Spring homes sit on decent lots, so the unit is usually easy to reach and the number is decided by the fault rather than by the drive."
         },
         {
-          "q": "My system was sized when the house was smaller. Does that matter now?",
-          "a": "It matters a great deal. The load calculation is done against the house as it is today, and the answer is often a larger unit than the one on the pad. It is also sometimes a second system for the upstairs rather than a bigger single one. The technician measures the actual load before either option is quoted."
+          "q": "Will the same fault come back a few weeks after a repair?",
+          "a": "Sometimes, and the question worth asking is what caused it rather than what was replaced. A compressor replaced without the airflow problem behind it will overheat again, and a low charge topped up without the leak being found will go low again. The explanation of the cause is what tells you whether the repair held, and it is the part worth checking against the readings on the invoice."
+        },
+        {
+          "q": "Why is the middle of the afternoon the worst time for the equipment here?",
+          "a": "Two local things land in the same window. A 1970s system sized for a house with fewer finished rooms is already carrying a load it was never given, and the ERCOT supply sags at the peak of the afternoon, and a compressor trying to start into a sagging supply is the moment it is most likely to let go. The technician checks the voltage at the outdoor unit before condemning the compressor."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: oak leaf fall on the condenser, houses grown past the original sizing, leaf clearing interval."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-not-cooling": {
       "intro": "Blown air that stays warm is the most common complaint from Spring homeowners, and the diagnosis usually starts with airflow rather than gas. In homes that have been changed over the years, the ductwork and the space the unit occupies rarely match the way the house is used now. We connect you with a company that covers the area.",
@@ -97,9 +91,21 @@
         {
           "q": "My indoor coil keeps freezing. What causes that?",
           "a": "Low airflow over the coil, and the summer load is what pushes it over the edge. A dirty filter, a long duct run, a closed-off return path and an attic at 130 to 140 degrees all contribute. Switch the system off at the thermostat and let the coil thaw before you try again. Turning the thermostat down makes the freeze worse."
+        },
+        {
+          "q": "How much does it cost to fix an AC that runs but does not cool in Spring?",
+          "a": "It depends on which of the faults you have, and the thermostat does not tell you. A blocked filter or a coil that has iced over is a service call. A duct run that is not reaching the rooms it is meant to serve is a bigger job, and on the older streets here that is the usual cause. Readings of airflow and charge separate the two before anyone quotes."
+        },
+        {
+          "q": "Will closing off the unused rooms actually lower the bill?",
+          "a": "It lowers the load on the equipment, and that is real. It does not lower the cost of the cooling you do want, and it leaves the closed rooms unconditioned, which in this humidity is its own problem. The more useful move is to find what the system is actually doing in the rooms that are uncomfortable and fix that, rather than turning the house down until the thermostat agrees with you."
+        },
+        {
+          "q": "Is the freezer burn on my attic pipes related to the frozen coil?",
+          "a": "They share a cause rather than being the same fault. Both come from the same thing, which is air moving where it should not. A restricted airflow over the indoor coil drops the coil temperature below freezing, and the same loss of airflow in the attic takes the temperature down there as well. Fixing the airflow fixes both, which is why the coil is checked before anything is added to the attic."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: closed-off upstairs bedrooms without vents, return path losses, attic heat on the coil."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-repair": {
       "intro": "The equipment in these houses goes back to the 1970s, so the repair list is the old one: capacitors, contactors, blower motors, and R-22 systems that need refrigerant every few summers. We connect you with a company covering Montgomery and Harris County. Diagnosis before parts, especially on a system that has already had work done.",
@@ -116,9 +122,21 @@
         {
           "q": "Why is there a puddle under my outdoor unit?",
           "a": "A small puddle in the right place is normal. The unit sheds water as it pulls moisture out of the air, and it drains from the base pan. A puddle in the wrong place, or one that never dries, means the drain is blocked. That is worth having cleared, because a blocked pan can cause the unit to shut down on the float switch."
+        },
+        {
+          "q": "How much does AC repair cost in Spring?",
+          "a": "The bill follows the fault and the condition of the equipment around it. A capacitor or a contactor is a short visit with a cheap part. A compressor, a coil or a whole air handler is a different order of work. On a 1970s system in this part of the county the deciding question is whether the ductwork it feeds is worth keeping, because a unit replaced into the same distribution gives the same comfort for the same money."
+        },
+        {
+          "q": "Is the puddle under my outdoor unit a leak or condensation?",
+          "a": "It is condensation more often than a leak, and the difference is worth knowing. A split system sheds the water the outdoor coil collects, and on a humid evening that runs off rather than evaporating. A puddle that never shrinks, or water that is oily rather than clear, is something else, and the technician checks the line set and the drain before anyone opens a valve."
+        },
+        {
+          "q": "How do I find out what refrigerant my old system uses?",
+          "a": "From the nameplate on the outdoor unit. It is a small plate on the side of the cabinet, usually the panel facing away from the house, and it carries the refrigerant type along with the model and serial numbers. A photograph of it is worth more than a description, because a 1970s system is most likely on R-22 and that changes the price of everything from the first visit."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: R-22 in 1970s installs, the repair versus replace question, condensate puddles under the unit."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-installation": {
       "intro": "Installations in Spring are usually replacements in older homes, and the sizing conversation is the whole job. The house has more finished space and more glass than it did when the original unit was chosen. We connect you with an installer who covers the area so the load calculation reflects the house as it stands now.",
@@ -135,9 +153,21 @@
         {
           "q": "Does the oak canopy affect the cooling load?",
           "a": "It does, and in two directions at once. The trees shade the north and east sides, which lowers the gain there. The west side still takes full afternoon sun with no shade at all. A calculation that only counts the average, or that ignores the west exposure, gets the capacity wrong for the rooms that matter most."
+        },
+        {
+          "q": "What does an AC installation cost in Spring?",
+          "a": "The number moves with the work that is not the equipment: how much line set has to be run, whether the electrical service needs work, whether the ductwork is being reused or redone, and how the outdoor unit reaches its pad. A written scope that separates the equipment from the installation is what makes two quotes comparable, and on a house that has been altered since it was framed that scope is usually the larger share of the number."
+        },
+        {
+          "q": "Should the closed-off bedrooms get their own ducts, or is a second system better?",
+          "a": "Extending the existing ducts is usually the better answer where the space allows it, because a second system costs more to run and more to install and it duplicates the equipment. It only stops making sense when the extension is longer than the run it is coming from, or when the bedrooms are over a garage and there is no practical route for the duct. The measurement of the existing run is what settles it."
+        },
+        {
+          "q": "How does the oak canopy change the load on a Spring house?",
+          "a": "It lowers it and it creates a new problem. The canopy shades the house, which cuts the heat gain, so a system sized for the lot as it was when it was sold is often larger than the house now needs. The shade also drops needles and litter onto the outdoor unit, and it keeps the coil damp, so the equipment works against the same air the house enjoys."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: 1970s floor plans against the current house, duct extension versus a second unit, oak shade and west exposure."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-replacement": {
       "intro": "Replacing the system in a Spring house usually means moving off a refrigerant that is no longer made and off a coil that has been in the attic for half a century. There is also the question of whether the old line set is worth keeping. We connect you with a company that covers the area so both questions get answered before the quote.",
@@ -154,9 +184,300 @@
         {
           "q": "Is a 1970s system worth repairing in the Houston humidity?",
           "a": "A single component repair on an otherwise sound unit is reasonable. The problem is the pattern. A system that has been repaired repeatedly in a humid climate is telling you the same thing each time. Note what the technician found and how long the repair is expected to last, because that history is what makes the next decision easier."
+        },
+        {
+          "q": "What does it cost to replace an AC system in Spring?",
+          "a": "The cost is decided by the capacity the house needs, whether the refrigerant on the old nameplate is a legacy type, and how much of the installation can be reused. A matched set with new lines on an existing pad is the cleanest version of the job. On a 1970s system the line set and the coil are usually worth replacing at the same time, because they have been through the same summers."
+        },
+        {
+          "q": "Does a 1970s system still have parts available?",
+          "a": "Some of them do, and that is the problem rather than the reassurance. A capacitor and a contactor for a 1970s model can usually be sourced, and a compressor for one can often be found, which means a system that is well past the point where it makes sense can still be repaired. The number to look at is what the same repair will cost in three years, not what it costs this month."
+        },
+        {
+          "q": "Can a 1970s system be recharged if it is low?",
+          "a": "It can be, but recharging is not a repair. The refrigerant gets recovered, the leak gets found and the system gets charged again, and those are three separate jobs with three separate prices. If the line set is the original one and it is going to leak again, the same money spent on a new line set and a matching system is money that is not spent twice."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: R-22 recharging in 1970s units, 1970s duct sizing, repair history in a humid climate."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
+    },
+    "ac-maintenance": {
+      "intro": "A maintenance visit in Spring is a check on a system that is working, scheduled before the worst of the heat rather than after something quits. Coil and filter condition, drain clearance, electrical readings and the load the unit carries all get looked at. We route the request to the company that covers Montgomery and Harris County so the visit happens on the equipment in your own yard.",
+      "localNote": "Two things set the timing here. The oak canopy over Spring homes drops a season of litter on the outdoor unit, so a coil that was clear in March is packed by June, and a packed coil is what pushes the system into long run times. The attic air handler on these houses sits at 130 to 140 degrees, where the motor and the capacitor carry more heat than the ratings on them were written for.",
+      "faqs": [
+        {
+          "q": "When should I get a tune-up in Spring?",
+          "a": "Before the first stretch of 90 degree days, not after. The oak leaves come down through the spring and early summer, so the outdoor coil is picking up debris right when the temperatures start to climb. A visit in May catches a packed coil and a tired capacitor while they are still small problems, and it happens before the system is running hard enough to show the symptoms."
+        },
+        {
+          "q": "My AC has not been serviced in years and it still cools. Does it still need a visit?",
+          "a": "It needs one if anything about the house has changed, and in most Spring homes something has. A new filter, a new thermostat or a room that got walled off all change the way the system runs, and none of those changes show up as a fault on their own. A system nobody has looked at is also a system where nobody knows what refrigerant it holds or what condition the coil is in."
+        },
+        {
+          "q": "How much does an AC tune-up cost?",
+          "a": "What moves the number is what the visit finds and how much of the work needs a part rather than a cleaning. A system that needs a filter, a coil rinse and a cleared drain is straightforward. One that needs a capacitor, a contactor or a refrigerant charge is a different job, and the quote should separate those. Ask what the visit covers and what it does not cover before agreeing to it."
+        },
+        {
+          "q": "Does the summer power supply affect whether my system needs service?",
+          "a": "It does, because the ERCOT grid across this part of Texas is strained on the hottest afternoons. A system already running long has no margin left when the supply dips in the late afternoon, and a compressor with a worn contactor is the part that gives up first. The technician reads the supply at the unit rather than judging the general condition of the block."
+        },
+        {
+          "q": "My outdoor unit sits under a big oak. Does the tree hurt it?",
+          "a": "It shades the unit, which helps, and it drops leaves on the coil, which does not. Oak litter packs the fin face and holds heat against the coil, and a packed coil makes the unit run long without cooling the house any better. The oaks around Spring carry enough canopy that this is not a one-tree situation. Keeping the clearance around the unit open and the face clean is most of what a homeowner here can do between visits."
+        },
+        {
+          "q": "Is maintenance worth it on a 1970s system in a house that has been added to?",
+          "a": "It is worth more here than on a newer install. A system sized for the house as it was framed already carries more than it was designed for, and the extra load lands on the condenser and the compressor. The visit is how you find out whether the sizing is the problem or whether a part has failed. You cannot correct the sizing without knowing the sizing is the issue."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: oak leaf drop on the coil before summer, 130 to 140 degree attic air handler, ERCOT afternoon strain, 1970s sizing against a house that grew."
+    },
+    "condenser-repair": {
+      "intro": "This page covers the outdoor unit only. Fan motor, run capacitor, contactor, coil condition, cabinet condition and the noise the box makes when it starts are what the technician who takes the job looks at. The compressor and the refrigerant side are separate jobs, and mixing them up is why a quote sometimes changes halfway through a visit.",
+      "localNote": "The unit outside in Spring has three things working against it. The heavy oak canopy drops leaves that pack the coil face, the cabinet sweats through months of very high humidity until the base pan and the fasteners start to go, and the afternoon peak on the ERCOT grid sags exactly when the unit is trying hardest. Spring is inland, so what corrodes this cabinet is standing water and damp air rather than anything carried on the wind.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but never starts. What is wrong?",
+          "a": "Usually the run capacitor or the contactor. A capacitor that has dried out will let the unit hum without the compressor ever engaging, and a contactor with burned contacts does the same thing. Both are small parts and both are worth checking before anyone decides the compressor is dead."
+        },
+        {
+          "q": "What should I listen for in my outdoor unit?",
+          "a": "A grinding or rasping noise is the fan motor bearings going. A buzz that stops when the compressor engages is usually the contactor, and rattling on start is often the fan blade catching the cabinet or debris in the pan. A hum with no compressor sound at all is a starting circuit problem. Describing the noise and when it happens tells the technician where to begin."
+        },
+        {
+          "q": "How much does condenser repair cost?",
+          "a": "The part decides most of it. A capacitor or a contactor is a short visit with a small parts list. A fan motor is more work because the assembly has to come apart, and a unit that needs a new coil face or a replacement outdoor section is a much bigger job than a repair. Ask whether the quote covers the part alone or the outdoor unit as a whole."
+        },
+        {
+          "q": "My outdoor unit is rusting at the base. Is that normal?",
+          "a": "Some surface rust is normal on an older box. What matters is whether it has reached the electrical compartment, the base pan or the fasteners holding the panels on. Spring is inland, so the moisture causing that is condensation and standing water in the pan rather than anything carried on the wind, and the fix is drainage and a sound cover rather than anything about the air outside."
+        },
+        {
+          "q": "Does the oak canopy over my outdoor unit shorten its life?",
+          "a": "It shortens the life of the coil rather than the box. The shade slows the unit down on the hottest days, which is worth something. The leaves are the problem, because a packed fin face raises the head pressure and the compressor works harder to push heat away. The oak canopy over Spring is heavy enough that most of these yards have a layer building up on the coil every season, so clearing it and leaving clearance around the unit is the part of maintenance you can do yourself."
+        },
+        {
+          "q": "Why does my condenser run fine in the morning and quit in the late afternoon?",
+          "a": "Heat builds through the day and the unit has less and less margin by the time the afternoon peak arrives. On top of that, the grid sags across this area in the late afternoon of a summer week, and a compressor that has to start during that dip is working against low voltage. The technician checks the supply at the unit and the condition of the coil before deciding the compressor has failed."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heavy oak canopy packing the coil, inland humidity rust on the cabinet, ERCOT afternoon dip at the peak."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump at the middle of the system, and its failure takes the whole house out of cooling. Seized, hard starting and short cycling are the three ways it presents. The other half of this job is the decision at the end, whether the pump can be replaced or the system has to go, and that turns on the age of the equipment and the refrigerant on the nameplate.",
+      "localNote": "Two things drive compressor failures on this street. A system sized in the 1970s for a smaller house now carries a load it was never meant to, so it runs long in extreme humidity with the condenser working hard to keep up with it. And the summer grid sags in the afternoon, and start-up is the moment a compressor with a tired contactor is most likely to fail.",
+      "faqs": [
+        {
+          "q": "The fan spins and the unit hums but the compressor never runs. What does that mean?",
+          "a": "The starting circuit is the first thing to check: run capacitor, contactor and the compressor windings themselves. A capacitor that has lost its charge will hum the unit without starting the motor, and that is the most common version of this call. The technician measures amps at the unit to tell a capacitor from a seized compressor before ordering either."
+        },
+        {
+          "q": "Is my compressor failing, or is my system simply too small for the house?",
+          "a": "Both are worth checking, and the symptom looks the same from inside the house. A system that runs all day and never reaches setpoint may be short cycling on low refrigerant, or it may be carrying a load it was never sized for. A load calculation against the house as it stands now separates those, and it also tells you whether replacing the compressor would solve anything at all."
+        },
+        {
+          "q": "Is it worth replacing just the compressor on my old system?",
+          "a": "Sometimes, and the deciding facts are on the nameplate and in the attic. A 1970s system in this neighborhood most likely holds R-22, which is no longer produced for new equipment, and the outdoor unit and coil around it are the same age as the pump. Putting a new compressor into an otherwise tired system buys time rather than settling the question. Ask what the rest of the equipment looks like before you commit."
+        },
+        {
+          "q": "How much does it cost to replace a compressor?",
+          "a": "The cost moves with the refrigerant and the condition of the unit it is going into. Recovering refrigerant and handling an old gas adds labor and material cost that a newer system does not carry. If the condenser needs work at the same time, that gets priced as well. Ask whether the quote assumes the rest of the outdoor unit is serviceable, because that assumption is what the number rests on."
+        },
+        {
+          "q": "Why does my compressor trip the breaker in the hottest part of the afternoon?",
+          "a": "The demand across the Houston area peaks in the late afternoon, and the service to the house dips with it. A compressor that has to start during a voltage dip can fail to start and trip the breaker, and an undersized system running flat out has no headroom left in it. The technician checks the supply voltage at the outdoor unit disconnect before calling the compressor dead, because replacing a pump that was never the fault costs the same and solves nothing."
+        },
+        {
+          "q": "My compressor has been running for days straight. Should I shut it off?",
+          "a": "If it is running and cooling, it is under strain rather than in immediate danger. If it is running and not cooling, it is cycling against a fault, and that is worth turning off at the thermostat so the motor is not burning itself up. Either way a compressor that has not shut off in days is telling you something, and it is worth having looked at."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 1970s undersized systems, R-22 on old installs, ERCOT afternoon dip during start-up."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A system that needs refrigerant every few months has a leak, and topping it up without finding the hole buys a few weeks. The work has three parts: locating where the gas is escaping, repairing that point, and then putting the charge back where the nameplate says it belongs. Ask which of the three the visit actually covered.",
+      "localNote": "Where the leaks live in Spring depends on where the equipment sits. Many of these houses have the air handler in an attic that reaches 130 to 140 degrees, and the line set running through it works on the joints and the insulation around them month after month. Copper out of a 1970s install has also been sitting in very high humidity for a very long time, and the fittings at the outdoor unit are the other usual place.",
+      "faqs": [
+        {
+          "q": "How do I know my system is losing refrigerant?",
+          "a": "Three signs give it away: air from the vents that is less cool than it should be, a unit that runs constantly without ever catching up, and any oily film or dark stain on the line set or the base of the outdoor unit. That oil comes out with the gas, and it is the clearest evidence there is. A hissing sound near the outdoor unit says the same thing in a different way."
+        },
+        {
+          "q": "Why does my system keep needing refrigerant every summer?",
+          "a": "Because the leak was never repaired, only topped up. Refrigerant does not wear out and it does not get used up, so a system that has lost its charge twice has a hole in it somewhere. Some of these houses have had a visit that added gas and left, and the next call comes back to the same place. Finding the leak is the job that ends the visits."
+        },
+        {
+          "q": "What refrigerant does my system use and how do I find out?",
+          "a": "The nameplate on the outdoor unit states it, along with the factory charge. A system installed in the 1970s in this neighborhood is almost certainly R-22, which is no longer produced for new systems but can still be recovered and handled for service work on an old unit. A newer system holds a different refrigerant entirely. Knowing which one before the visit keeps the quote from moving when the technician reaches the unit."
+        },
+        {
+          "q": "Does the attic heat cause refrigerant leaks?",
+          "a": "It works on them. A line set running through an attic at 130 to 140 degrees cycles between hot and cool all day, and that movement is what opens a fitting or a pinhole in the copper. Heat also attacks the foam insulation around the line, and once that is gone the bare metal takes on the moisture in the air around it. A line set routed through an attic is worth looking at during any leak visit."
+        },
+        {
+          "q": "How much does a refrigerant leak repair cost?",
+          "a": "What moves it is where the leak is and what the refrigerant is. A fitting at the outdoor unit is a short job. A pinhole in a line set running through an attic above a finished ceiling takes longer to find, longer to reach and more to repair, and the access is usually the largest single cost on the visit. Ask whether the quote includes locating the leak or only repairing an already known point."
+        },
+        {
+          "q": "Is there any way to find the leak myself before calling?",
+          "a": "You can find evidence of it. Look along the line set for an oily mark or a stain, especially near the outdoor unit and where the line enters the attic, and listen near the unit for a hiss. You cannot find the hole itself with any reliability, and the gas in the line is not something to handle. What you can do is point the technician at the stain and save the search time."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic line set at 130 to 140 degrees, 1970s copper, R-22 nameplate on old installs."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement, not a refill by guesswork. The technician weighs in the charge the nameplate specifies, then reads superheat and subcooling to confirm the system is holding what it should. Those two readings are what tell you whether the refrigerant is right, and they also show whether something else is wrong with the system.",
+      "localNote": "The climate here changes what a correct charge looks like in practice. The air in Spring carries a heavy moisture load, so a system with the right amount of refrigerant can still leave a humid house if the airflow is wrong or the unit is too small for the house. That is why the readings get interpreted against the equipment and the house, not against a number on a card.",
+      "faqs": [
+        {
+          "q": "What are superheat and subcooling?",
+          "a": "They are two measurements of how the refrigerant is behaving in the system. Superheat is how far the gas leaving the outdoor coil sits above its saturation temperature, and subcooling is how much heat the liquid leaving the indoor coil still carries. Together they confirm the charge is where the manufacturer wanted it, rather than approximately right."
+        },
+        {
+          "q": "How much refrigerant does my system need?",
+          "a": "The nameplate on the outdoor unit lists both the refrigerant type and the factory charge, and that is the number the technician works to. Adding gas by feel is how a system ends up overcharged, and an overcharged system can be harder to diagnose than an undercharged one because the gauges still look reasonable at first."
+        },
+        {
+          "q": "My new AC was installed a couple of months ago and it is not cooling the way it should. What now?",
+          "a": "Ask for the readings before anything gets added. A unit that has been running a few months and is not performing may have a charge that was never set correctly at installation, a factory charge that was never verified, or an airflow problem that shows up worse as the load climbs. The charge is the first thing to measure, but it is not automatically the thing that is wrong."
+        },
+        {
+          "q": "Why does the refrigerant on the nameplate matter?",
+          "a": "Because the two are not interchangeable and the old one is no longer being made. A 1970s system in this neighborhood most likely holds R-22, which is recovered and handled under different rules, and there is a limited supply of it left. It also changes what a leak repair costs and what a recharge costs, which is why the nameplate gets read before the work is quoted rather than after."
+        },
+        {
+          "q": "How much does a refrigerant recharge cost?",
+          "a": "The nameplate and the reading do. A recharge on a newer system is a straightforward service call. The same work on an older system holding a refrigerant that is no longer produced costs more in material and handling, and the recovery has to be documented. Ask for the charge amount, the readings, and whether the leak was checked."
+        },
+        {
+          "q": "Does the humidity in Spring change what a properly charged system should do?",
+          "a": "It does. In very humid air a system has to pull water out of the air as well as heat, and it can hold the temperature perfectly while the house stays muggy. If the readings are correct and the house is still sticky, the answer is airflow, sizing or ductwork rather than refrigerant. That is the value of measuring instead of topping off, because it tells you which problem you actually have."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heavy moisture load against a correctly charged system, R-22 on older installs, new unit not performing as expected."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The indoor coil is the finned coil in the air handler, and it is where the cold in the air comes from and where the moisture comes out. Cleaning it, treating the slime that grows on the fins and replacing a coil that leaks are three different jobs. A coil that keeps freezing is a symptom of something else, and cleaning it alone does not fix the cause.",
+      "localNote": "Two local conditions bear on this coil. The attic air handler on these houses sits at 130 to 140 degrees with no cool air around it to thaw a freeze, so a coil that ices in the afternoon stays iced until the system is switched off. And the very high humidity keeps the coil wet for most of the summer, which is what grows the grey film on the fins and keeps the drain working hard.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing over?",
+          "a": "Airflow across the coil, almost every time. A filter that has packed, a return path with boxes or furniture in the way, or duct runs that have been closed off drop the air volume over the fins, and the coil ices. A blocked drain can also let water back up onto the coil and freeze it. Cleaning a frozen coil without fixing the airflow means it freezes again the next hot afternoon."
+        },
+        {
+          "q": "What is the grey or green slime on the coil?",
+          "a": "It is biological growth on a permanently wet coil, and the humidity here makes it a fast job. It smells musty, it holds debris against the fins, and it reduces airflow that was already marginal. The coil needs cleaning and the drain needs to be clear, and if the filter or the pan is not dealt with at the same time, it grows back inside a season."
+        },
+        {
+          "q": "Why is there standing water in the pan under the air handler?",
+          "a": "The pan is catching condensate from the coil, and if the water does not drain away the drain line is blocked. In heavy humidity the pan can fill faster than a slow line can carry it, and a partly blocked line holds algae and insulation residue. Left alone, the pan can overflow onto the ceiling and the float switch can shut the system down. The line, the pan and the float switch all get checked."
+        },
+        {
+          "q": "The house smells musty as soon as the AC starts. Is that the coil?",
+          "a": "Usually yes, and it points at the coil and the drain needing attention rather than at the ductwork. The smell is the growth on the wet fins being blown into the house, and it gets worse the longer the system runs on a dirty coil. People often notice it first in the morning, when the system has been off all night with the moisture sitting there."
+        },
+        {
+          "q": "We closed off the upstairs bedrooms years ago. Does that affect the indoor coil?",
+          "a": "It can, and this is common in this part of Spring. The main system is now pushing air into spaces with no vent in them, which means it is losing the return path it was designed around, and the air that does come back travels a long way through a duct system sized for a smaller house. Lower airflow across the coil is what leads to icing and to a pan that will not drain."
+        },
+        {
+          "q": "How much does it cost to clean or replace an indoor coil?",
+          "a": "Cleaning is one job and replacing the coil is another, and access decides a lot of it. A coil in a closet is quick to reach. A coil in an attic above a finished ceiling, in a house where the air handler sits in a space with stored boxes around it, takes longer to get to. Ask what the quote assumes about access, because that assumption moves the number more than the part does."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic unit at 130 to 140 degrees with no air to thaw a freeze, humidity driving the slime, upstairs bedrooms closed off in 1970s to 2000s stock."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower motor is what moves the air through the house, and without it the cooling equipment is doing nothing. Grinding noise, no air at all, or one speed that works and one that does not are the three calls this covers. The motor, the run capacitor and the relay are the parts involved, and the two cheap ones usually go at the same time as the motor.",
+      "localNote": "Where the air handler lives is the story here. In a Spring attic at 130 to 140 degrees, a motor already running hot has almost no margin left before a bearing goes, and the capacitor beside it has been running hot for years alongside it. Stored boxes and holiday decorations pushed up against the housing cut the airflow that keeps all of it alive.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on but no air comes out. What is it?",
+          "a": "One of three things. The motor itself has failed, the run capacitor has failed, or the relay or control board that tells the motor to run has failed. The technician checks the capacitor and the relay first because they are the inexpensive parts and they are the usual answer. A motor that is hot to the touch after a short run is pulling too much current and should be switched off until someone looks at it."
+        },
+        {
+          "q": "What does a grinding or rasping noise from the air handler mean?",
+          "a": "It is a bearing going. A blower motor can run for a while after the noise starts, but it will eventually seize, and a seized motor takes the capacitor and the relay with it. That is why the sound gets taken seriously rather than waited out. In a Spring attic unit the noise carries down the ductwork and can sound like it is coming from a vent in another room."
+        },
+        {
+          "q": "Why does my blower only work on one speed?",
+          "a": "Usually the relay that switches the speed taps, or the control board, rather than the motor itself. On an older system those are inexpensive parts and they are the common failure. The other possibility is a motor with one winding gone, which is a motor replacement. Checking the speeds and the capacitor before parts are ordered is how the two get told apart."
+        },
+        {
+          "q": "Why do the motor and the capacitor fail at the same time?",
+          "a": "Because they are a pair. The capacitor is what gives the motor its start, and one that has weakened lets the motor draw locked rotor current on start-up. The motor runs hot as a result, the windings get damaged, and the capacitor takes the same heat. Replacing a motor and leaving the old capacitor in place means repeating the job a few summers later, so ask whether the capacitor and the relay are included."
+        },
+        {
+          "q": "How much does blower motor repair cost?",
+          "a": "The motor itself is a parts question and the access is a labor question. Reaching an air handler in a Spring attic means a ladder in a space at 130 to 140 degrees, and sometimes it means clearing stored property out of the way first. Ask what the quote includes for access, and whether the capacitor and relay are going in at the same time, because doing them together is cheaper than another visit later."
+        },
+        {
+          "q": "Does the attic heat shorten the life of the blower motor?",
+          "a": "It does, and these attics are the reason. Bearings need grease and heat cooks it out of them, and a capacitor is rated for a temperature a Spring attic does not stay under in July. A motor in that heat also runs longer because the system is working harder, and hours are what wear the windings. Clearing the stored boxes away from the housing and leaving the unit room to breathe is worth doing whether or not anything is broken yet."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 130 to 140 degree attic air handler, stored items against the housing cutting airflow, long run times on an undersized system."
+    },
+    "thermostat-installation": {
+      "intro": "A thermostat decides when the system runs and when it stops, so a good machine on a bad thermostat never performs the way it should. The job covers replacing an old mechanical dial, adding a programmable or smart thermostat, and working out what the existing system can actually be paired with. The wiring behind the plate is where most of these go sideways.",
+      "localNote": "The housing here runs from the 1970s to the 2000s, and each decade left its own wiring behind the plate. The older homes around Old Village Spring and Krog Street carry 1970s control wiring that a modern thermostat expects something different from, while the newer builds off the Grand Parkway and around The Legends have equipment that may not work with a thermostat from the last decade. A thermostat swapped twice in one house can sit on a wire set that matches neither manual.",
+      "faqs": [
+        {
+          "q": "Can I install a smart thermostat myself?",
+          "a": "Often, if the new thermostat is compatible with what the system has and you are comfortable with a screwdriver and a camera. Photograph the wires before anything comes off the wall and label what each one was connected to, because the terminal markings on the old thermostat frequently do not match the manual for the new one. Do not force a wire into a terminal that does not fit it."
+        },
+        {
+          "q": "My new thermostat ignores the schedule I programmed. Why?",
+          "a": "Most often the schedule is not the problem. The thermostat may be set to the wrong mode, an installer may have left a delay or an anti-swing feature in place, or the schedule is never reaching the equipment because of the wiring. Check the mode and the schedule settings first, then have the wire set checked against the manual for the thermostat you bought."
+        },
+        {
+          "q": "How do I know which thermostat will work with my system?",
+          "a": "By the equipment, not by the house. The heating and cooling equipment in the attic or on the side of the house has its own model number, and the thermostat has to be able to talk to it. A smart thermostat will usually ask for a common wire so it can call the system for heat or cool, and a lot of the control wiring on a 1970s Spring house does not have one. Check compatibility before buying rather than at the counter."
+        },
+        {
+          "q": "Why does my new thermostat ask for a C wire when the old one did not?",
+          "a": "Because the old thermostat was mechanical and needed no power of its own, and the new one does. The C wire carries power to the thermostat so it can hold a schedule and run a display. Where there is no common wire, the installer has to run one back to the equipment, and in a Spring house where the air handler is in an attic that is a longer run than the swap on the wall suggests."
+        },
+        {
+          "q": "How much does thermostat installation cost?",
+          "a": "A swap onto a wire set the new thermostat already fits is a short job with a small price on it. Adding a thermostat where one has never been, or running a common wire back to the equipment, is a different job, and the distance from the wall to the air handler decides part of it. Ask whether the quote includes the wiring work or only the new thermostat."
+        },
+        {
+          "q": "Is a smart thermostat worth it when the summer power is unreliable?",
+          "a": "On this grid it is more useful than it would be somewhere with a steady supply. The demand across the Houston area peaks in the late afternoon, and a thermostat that can be told to hold the house slightly warmer through that window and pull down once the demand passes gives you more control over when the system runs hardest. It still needs a working connection to the equipment, so the wiring has to be right first."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 1970s to 2000s wiring behind the plate, Old Village Spring and Krog Street against Grand Parkway and The Legends builds, ERCOT afternoon demand peak."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump does both heating and cooling with one outdoor unit, and the part that switches between the two jobs is the reversing valve. That is why a fault can leave a house with cooling in January or heating in July. Both the mode switch and the refrigerant side need checking before anything gets replaced.",
+      "localNote": "The heat pumps in Spring sit mostly in the newer 2000s housing rather than the 1970s stock, so they are the systems carrying backup heat strips that can run for weeks. The humid air puts a heavy load on the outdoor coil in heating mode, which is where the icing in the warm months comes from, and the summer grid sags at the hour the system is working hardest.",
+      "faqs": [
+        {
+          "q": "There is ice on my heat pump outdoor unit in July. What is wrong?",
+          "a": "In the warm months ice points at a low refrigerant charge, a reversing valve that is not shifting properly, or a system stuck in a mode it should not be in. Shut it down and let it thaw before running it again, because running into ice makes the damage worse. Ice in the winter can be a normal defrost cycle, so the season it happens in is the first thing to establish."
+        },
+        {
+          "q": "My backup heat runs all the time. Why?",
+          "a": "Something is stopping the system from getting heat out of the outdoor unit, and the backup strips are picking up the slack. That is expensive to run and it puts extra load on the outdoor coil. In Spring the usual causes are a charge that is off, a valve that is stuck, or a system left in the wrong mode since a power interruption on a grid that dips in the summer."
+        },
+        {
+          "q": "The system will not switch from heating to cooling. What causes that?",
+          "a": "The reversing valve, the mode control or a failure in the control board. The technician establishes whether the problem follows the mode before parts are ordered, because the valve and the board are both expensive and only one of them is usually at fault. A system that sits in one mode and refuses to move also needs the schedule and the call for heat or cool checked."
+        },
+        {
+          "q": "My heat pump heats fine but will not cool. What does that tell us?",
+          "a": "It narrows it considerably. If heating works and cooling does not, the reversing valve and the refrigerant side are where the fault sits. If both fail together, it is usually a control board or an electrical fault instead. That distinction saves a lot of diagnostic time, and in Spring the cooling side is the one that carries the house for most of the year, while the heat side matters for the short stretch at the end of it."
+        },
+        {
+          "q": "Is a heat pump a good fit for a Spring house?",
+          "a": "It depends on the house and the ductwork more than on the climate. A house framed in the 1970s and then added to may have a duct system that cannot carry the air a heat pump needs to distribute, and a system that has to back itself up with resistance heat for weeks is not saving anything. A load calculation and a look at the duct system tell you more than the label on the equipment, and the humid air here is the second half of the answer."
+        },
+        {
+          "q": "How much does heat pump repair cost?",
+          "a": "What moves it is the fault and whether the refrigerant side has to be opened up. A mode sensor or a control board is a different job from a reversing valve, and the valve needs the refrigerant recovered before the unit is opened. Ask whether the quote covers diagnosis on both sides of the system or only the part that was named when the visit was booked."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heat pumps in 2000s housing with backup strips, humid air loading the outdoor coil in heating mode, ERCOT sag at peak load."
     }
   }
 }

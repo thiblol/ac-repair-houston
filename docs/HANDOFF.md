@@ -50,13 +50,13 @@ place (`src/links.mjs`) so the graph is auditable rather than emergent.
 ```
 /                                    home
 /services/                           all services
-/services/{service}/                 21 service pages, location neutral
+/services/{service}/                 20 service pages, location neutral
 /service-areas/                      all areas
-/service-areas/houston-tx/           PILLAR AREA, all 21 services
-/service-areas/houston-tx/{service}/ Houston x service, 21 pages
+/service-areas/houston-tx/           PILLAR AREA, all 20 services
+/service-areas/houston-tx/{service}/ Houston x service, 20 pages
 /service-areas/houston-tx/neighborhoods/{name}/  16 Houston neighborhoods
 /service-areas/{city}/               24 Greater Houston municipalities
-/service-areas/{city}/{service}/     6 services per city, 144 pages
+/service-areas/{city}/{service}/     14 services per city, 336 pages
 /how-it-works/  /for-hvac-companies/  /privacy/  /terms/  /sitemap/
 ```
 
@@ -66,15 +66,16 @@ by real haversine distance. Every area x service page links to the same
 service in nearby areas and to its sibling services. The build fails on an
 orphan page or a dangling link, so the graph cannot rot.
 
-### Why cities get six services and Houston gets twenty-one
+### Why cities get fourteen services and Houston gets twenty
 
-Twenty-one services across forty-one areas is 861 pages, and near-identical
+Twenty services across twenty-five areas is 500 pages, and near-identical
 pages are what Google reads as a doorway network. Houston is the pillar market
-and carries the full set. Every other area carries the six services with real
-search demand and a genuine local angle: emergency repair, same-day repair,
-not-cooling diagnostics, repair, installation, and replacement. The remaining
-fifteen services still have a full national page, and every area links to all
-of them.
+and carries the full set. Every other area carries the fourteen services that
+a live search shows have dedicated pages of their own: emergency repair,
+not-cooling diagnostics, repair, installation, replacement, maintenance,
+condenser, compressor, refrigerant leak, refrigerant recharge, evaporator coil,
+blower motor, thermostat and heat pump. The remaining six services still have
+a full national page, and every area links to all of them.
 
 ## Build
 
@@ -85,8 +86,10 @@ of them.
   `http://localhost:4173` via `npx http-server`)
 - Production build command: `npm run build`
 - Output directory: `dist/`
-- Full check: `npm test` (source checks, copy audit self-test, clean build)
+- Full check: `npm test` (source checks, copy audit self-test, clean build, SEO audit, link audit)
 - Copy audit: `npm run audit:copy`
+- Page by page SEO audit of the built site: `npm run audit:seo`
+- Internal link architecture audit: `npm run audit:links`
 
 `sharp` is the only dependency and it is a build-time-only dependency: it
 renders the SVG illustrations to WebP. It is not required to serve the site or
@@ -154,23 +157,34 @@ explicit: never publish a fake, example, inactive, or competitor number.
 
 - [x] Source checks pass: service taxonomy, area data, copy file coverage,
       illustration references, config sanity
-- [x] Copy audit passes: 67 copy files producing 227 pages of prose, 2,430
+- [x] Copy audit passes: 66 copy files producing 417 pages of prose, 4,810
       same-type pairs compared, none over the 0.15 shingle similarity
       threshold, no em dashes, no invented prices, no banned
       first-person-contractor phrasing
-- [x] Build passes: 236 pages, zero orphan pages, zero dangling links, one
+- [x] Build passes: 426 pages, zero orphan pages, zero dangling links, one
       `h1` per page, no heading level jumps, title and description lengths in
       range, every image has alt text, every CSS class used is defined in the
       stylesheet
 - [x] Truth gate passes on every page: no phone number, no `tel:` link, no
       street address, no `LocalBusiness` schema, no `telephone`, no
       `aggregateRating`, no review markup, no claim of employing technicians
-- [x] Link graph: 18,675 internal links, median 14 inbound per page, every one
-      of the 235 indexable pages reachable from the home page, no orphans, no
+- [x] Link graph: 36,165 internal links, median 21 inbound per page, every one
+      of the 425 indexable pages reachable from the home page, no orphans, no
       thinly linked pages
-- [x] Every page's JSON-LD parses. Schema types are `Organization` (236),
-      `BreadcrumbList` (234), `Service` (227), `FAQPage` (228), `WebSite` (1)
-- [x] Sitemap contains all 235 indexable URLs and excludes the 404
+- [x] Every page's JSON-LD parses. Schema types are `Organization` (425),
+      `BreadcrumbList` (424), `Service` (417), `FAQPage` (418), `WebSite` (1)
+- [x] Sitemap contains all 425 indexable URLs and excludes the 404. Every URL
+      carries a `lastmod` taken from the date its copy file was last edited,
+      a priority and a changefreq. Three generated index pages carry no
+      lastmod because no copy file backs them
+- [x] Page by page SEO audit passes (`npm run audit:seo`): 425 distinct
+      titles, 425 distinct descriptions, 425 distinct `h1`s, every canonical
+      self-referential, every social card a working JPEG, every FAQ schema
+      matching the FAQs visible on the page
+- [x] Link architecture audit passes (`npm run audit:links`): every service
+      page links the area x service versions of itself, every area page links
+      every service it carries, every area x service page links the same
+      service in the other areas that carry it
 - [x] Desktop and mobile layouts inspected in a browser at 1440px and 390px
 - [x] Navigation, dropdowns, and the mobile menu tested
 - [x] Request form tested in both states: the pending state renders honestly

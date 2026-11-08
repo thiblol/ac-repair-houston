@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Jersey Village mixes 1950s through 1980s houses with apartment complexes sitting right next to them, and the cooling systems do not behave the same way. A single-family ranch with a ground pad and a 1960s split system is a different job from a shared rooftop unit feeding a stack of apartments through risers.",
   "localAngle": "The mix is what makes this place distinct. On the older single-family streets the equipment sits on a slab in the yard and the troubles are familiar: an undersized system from the 1960s, a filter rack that was never upgraded, a compressor that has run hard for fifteen summers. In the apartment complexes the machines are shared. One rooftop unit serves many tenants, so a single fault takes out a stack of apartments at once, and condensate drains run through the building as vertical risers. When something fails, who controls the equipment changes with it. A rooftop unit belongs to the building, a ground pad to the homeowner.",
   "commonCalls": [
@@ -36,9 +37,17 @@
     {
       "q": "My house was built in the 1960s. Should I expect to replace the AC soon?",
       "a": "Plan for it. Systems from that era are reaching the end of their service life and their parts are harder to source. Replacing a system on your own schedule is a lot easier than replacing it in the first week of a July heat wave, and the planning gives you time to compare properly."
+    },
+    {
+      "q": "What makes the apartment complexes here different from the single-family houses?",
+      "a": "The machines are shared, so one fault reaches many households at once and the reset happens at the roof unit rather than at a thermostat. A single rooftop unit serving a stack of apartments means one failure takes out a floor, and the work has to be scheduled around a building manager as well as around the weather. The single-family side of the neighborhood is the familiar version of the same calls, on equipment that is older."
+    },
+    {
+      "q": "How much does an AC repair cost in Jersey Village?",
+      "a": "It follows the fault, the parts and the access. On the single-family side the access is ordinary and the age of the equipment is the variable, so a capacitor or a contactor is a short visit with a cheap part while a compressor on a 1970s system is a different order of work. On the apartment side the logistics carry their own cost, because reaching a rooftop unit can involve a locked hatch, a building key and a manager who has to schedule the work."
     }
   ],
-  "_faqsNote": "4 FAQs. Two reference the local condition directly: the apartment complexes with shared rooftop equipment and vertical condensate risers, and the inland position that keeps salt spray out of the picture. The other two cover tenant escalation and the age of 1960s single-family equipment.",
+  "_faqsNote": "6 FAQs about this area specifically.",
   "services": {
     "emergency-ac-repair": {
       "intro": "Emergency work here splits between single-family breakdowns and apartment buildings where a shared unit has stopped. The apartment calls are the ones that move fastest, because the same fault is affecting every unit on that stack.",
@@ -51,24 +60,25 @@
         {
           "q": "My house AC stopped and the outdoor unit is silent. What do I check?",
           "a": "See if the indoor blower runs and whether the breaker holds, then note both answers before you call. On a 1960s house with an aged compressor, a failed capacitor or contactor is common and the technician will want to know whether the unit hums, clicks or stays completely dead."
-        }
-      ],
-      "_faqsNote": "2 FAQs. One on a shared rooftop unit taking out a whole floor, one on the two facts to check before reporting a dead outdoor unit."
-    },
-    "same-day-ac-repair": {
-      "intro": "A good share of the same-day calls here are not breakdowns at all. A system that works but never quite catches up, or an apartment unit that is a few degrees off because of how the air is balanced, gets booked rather than dispatched.",
-      "localNote": "Two patterns show up. In the 1960s and 70s houses the original system was often small for the house and the duct runs were added on as rooms changed, so the unit runs long and never settles. In the complexes, a resident's unit can be perfectly good while the building set point and the individual thermostat disagree, which sends people looking for an air conditioning fault that is really a controls problem.",
-      "faqs": [
-        {
-          "q": "My apartment is cooler than the rest of the building. Is the AC broken?",
-          "a": "Probably not. In a complex the building controls the central equipment and each resident has a thermostat that can be locked or set differently. If one unit blows colder than its neighbours, the difference is often in the controls or the return path rather than the cooling equipment itself."
         },
         {
-          "q": "Should I book a tune-up before summer in Jersey Village?",
-          "a": "It is worth it on systems that have never had attention, particularly on the 1960s and 70s houses where the filter rack was undersized from the start. A spring visit gets the coil cleaned, the filter changed and the electrical connections checked before the first hot stretch, when the same faults turn into emergency calls."
+          "q": "What ends up on the price of an emergency AC visit in Jersey Village?",
+          "a": "Four things move it, and the distance from the dispatcher is not one of them. Whether the fault is a part that rides on the truck or one that has to be sourced decides the labor. Whether the equipment is on the roof of an apartment building or on a pad in a yard changes the access, because a roof hatch, a building key and a manager's schedule all sit between the fault and the fix. The refrigerant in the unit decides whether old gas has to be recovered and handled, and that is a step of its own on the 1960s and 1970s equipment still working around here. Ask for labor and parts on separate lines so the two can be read apart."
+        },
+        {
+          "q": "My outdoor unit locks out and resets itself. Is that an emergency call or a repair I can schedule?",
+          "a": "It depends on why it is locking out, and there is no way to tell from the symptom alone. A unit that trips on a high pressure or a freeze fault and then holds for a few days is a scheduled repair with a deadline rather than a genuine emergency. A unit that trips again the moment it is reset is telling you the compressor, the charge or the airflow is at fault, and that gets looked at sooner. Describe what the unit does between the reset and the next trip, because that sequence is what the technician works from."
+        },
+        {
+          "q": "What makes the middle of a July afternoon the worst time for the equipment in Jersey Village?",
+          "a": "Three things stack up at once. The air in this part of Harris County carries a heavy moisture load, so the system is moving water out of the house as well as heat. The space the equipment sits in is already at its worst, whether that is an attic above a 1950s house or a plant space on an apartment roof, and the motor and the capacitor up there are running at the top of their range. And the supply sags during the afternoon peak, which is exactly when a compressor is pulling its hardest. Equipment that carried a mild June can be sitting on the edge by the third week of July."
+        },
+        {
+          "q": "What makes an apartment outage in Jersey Village harder to get fixed than a house?",
+          "a": "Three things sit in the way. The equipment belongs to the building, so the manager has to authorize the work before anyone opens a panel. The unit is on the roof, so the access is a hatch and a key and sometimes a ladder up a stairwell. And a fault on that unit affects every apartment it feeds, so the technician is arriving at a building problem rather than a home problem. On a house the same failure is a single visit with a single owner who can answer the door."
         }
       ],
-      "_faqsNote": "2 FAQs. One on a unit cooling differently inside an apartment complex, one on a pre-summer check on an old undersized system."
+      "_faqsNote": "6 FAQs. Local: shared rooftop equipment and the manager's authorization, the roof access, the moisture load and the afternoon supply sag in this part of Harris County."
     },
     "ac-not-cooling": {
       "intro": "Running but not cooling is the classic complaint in this neighborhood, and the answer usually is not a failed compressor. It is airflow, refrigerant, or a coil that has been scaled for thirty summers.",
@@ -81,9 +91,25 @@
         {
           "q": "The air is warm but the outdoor unit is running hard. Does that mean it is out of refrigerant?",
           "a": "Sometimes, but not always. Low refrigerant is one of several causes of a running system with no cooling. Restricted airflow, a dirty condenser and a failed blower motor all look similar from the thermostat. What separates them is what the technician finds on site, and that is why topping off the gas blind is a poor first move."
+        },
+        {
+          "q": "How much does it cost to fix an AC that runs but does not cool in Jersey Village?",
+          "a": "It depends on which of the faults you have, and the symptom at the thermostat does not tell you. A blocked filter or a fouled condenser is a service call. A system short cycling on charge is a repair with parts. Readings of airflow and charge separate the two before anyone quotes, and in the older single-family houses here the filter rack is often the start of the answer because it was never upgraded from the original thin filter."
+        },
+        {
+          "q": "Does the original filter rack explain why my house runs all the time?",
+          "a": "It often does. The rack that came with a 1960s house holds a thin filter, so the unit draws a restricted amount of air through the coil, and the coil is the thing that has to move all the heat. Restricted airflow over a cold coil is what turns a cooling problem into a freeze problem, and it is worth changing the filter first because it costs nothing and it answers the question one way or the other."
+        },
+        {
+          "q": "Is the blocked return grille in an apartment the same fault as a dirty filter?",
+          "a": "The same fault with a different cause. A return grille blocked by furniture or by a resident own filter does exactly what a clogged filter does, which is restrict the airflow over the coil. It is worth worth checking the return path before anything is charged, because on a shared unit one resident moving a sofa can change the performance for a whole stack of apartments, and the technician needs to see that to find it."
+        },
+        {
+          "q": "Does it matter that my filter rack came with the house?",
+          "a": "It matters more than people expect. The rack that went in with a 1960s house holds a thin filter, so the unit draws a restricted amount of air through the coil, and the coil is the part that has to move all the heat. Restricted airflow over a cold coil is what turns a cooling problem into a freeze problem, and replacing the rack is a small job compared with the rest of the chain."
         }
       ],
-      "_faqsNote": "2 FAQs. One on a unit running all afternoon without cycling, one on why warm air with a running outdoor unit is not a refrigerant diagnosis."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-repair": {
       "intro": "Repairing cooling in Jersey Village means being precise about whose equipment is on site. A ground pad in a front yard belongs to the homeowner. A packaged unit on a roof belongs to the building, and the work needs the property manager's sign-off before the panels are opened.",
@@ -96,9 +122,25 @@
         {
           "q": "How long does a typical single-family repair take in Jersey Village?",
           "a": "Most visits are a short diagnostic and a part swap, but an old unit can add time. A compressor or a capacitor on a 1960s system may need a coil or a line set checked at the same time, and parts for those models are not always on the truck. Giving the model number ahead of the visit is what shortens this."
+        },
+        {
+          "q": "How much does AC repair cost in Jersey Village?",
+          "a": "The bill follows the fault and the access. On the single-family side the access is ordinary and the age of the equipment is the variable, so a capacitor or a contactor is a short visit with a cheap part while a compressor on a 1970s system is a different order of work. On the apartment side the logistics carry their own cost, because reaching a rooftop unit can involve a locked roof hatch, a building key and a manager who has to schedule the work."
+        },
+        {
+          "q": "Why does the same fault take longer to fix in an apartment complex?",
+          "a": "Because the fault is rarely the hard part. A rooftop unit locked out on a high pressure or freeze fault needs the reset done at the roof unit rather than at a thermostat, and that means roof access, a key, and a manager who may have to approve the work at a time that suits the building. The diagnosis is usually quick. The logistics are what turn it into a longer job."
+        },
+        {
+          "q": "Who pays for the repair in a Jersey Village apartment?",
+          "a": "That is a question for the property manager rather than for the technician, and it is worth settling before the visit rather than on it. In most cases the building covers the cost of restoring the cooling and any tenant is dealing with the inconvenience of waiting for it. What matters for the homeowner is knowing who to call, and a manager with a service contract has a different route in than a tenant with a form."
+        },
+        {
+          "q": "Can a rooftop unit be reset from the apartment?",
+          "a": "Usually not, and that is worth knowing before the call. In the complexes the reset happens at the roof unit, not at a thermostat, and reaching the roof may mean a locked hatch, a building key and a manager who has to let the technician in. The tenant can confirm whether the unit is running, but the reset itself is a job for someone who can get to the equipment."
         }
       ],
-      "_faqsNote": "2 FAQs. One on responsibility for cooling in a complex, one on why giving the model number ahead of a visit shortens the job on an old system."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-installation": {
       "intro": "Installing cooling here looks different depending on whether the address is a house or a complex. A 1960s ranch may need its ductwork rebuilt to handle the load, while an apartment building needs a rooftop unit sized for a stack of units and a plan for keeping part of the building cooling during the changeout.",
@@ -111,9 +153,25 @@
         {
           "q": "How do apartment complexes replace a rooftop unit without leaving tenants in the heat?",
           "a": "By staging it. The new unit goes into place and is connected before the old one is disconnected, and rooms are switched over in groups rather than all at once. That planning is part of the job and belongs in the scope of the quote, along with who authorizes the work and when the roof access is available."
+        },
+        {
+          "q": "What does an AC installation cost in Jersey Village?",
+          "a": "The number moves with the work that is not the equipment. In the older houses the duct run and the return path are usually the larger share, because what is in the attic was sized for a smaller house. For the complexes the job involves working out where the unit sits on the roof, how the existing risers connect to it, and how the swap is staged. A written scope that separates the equipment from the installation is what makes two quotes comparable."
+        },
+        {
+          "q": "Is a ductless system a better fit for a Jersey Village house with no attic?",
+          "a": "It is worth pricing, and on a house with no practical place for ducts it may be the only option that does not mean opening up finished walls. The comparison is between a conventional system that has nowhere to run and a set of heads that cool the rooms that are actually used. What the two have in common is the load calculation, which does not change with the equipment."
+        },
+        {
+          "q": "What is different about installing AC in one of the apartment complexes?",
+          "a": "The unit is shared and the risers already exist, so the job is about working out which stack the unit serves and how the existing duct connects to it. There is no house to measure and no thermostat to hang, and the commissioning happens against the building rather than against one household. It is a different job from the same equipment."
+        },
+        {
+          "q": "Why does the age of the filter rack matter for a new install in a 1960s house?",
+          "a": "Because the rack is usually left in place and it is the thing that quietly restricts the airflow the new system depends on. A rack that holds a thin filter can be upgraded to a larger media filter, and on a system with a sealed or tight attic that difference in airflow is the difference between the unit holding setpoint and short cycling all afternoon."
         }
       ],
-      "_faqsNote": "2 FAQs. One on rebuilding ductwork for a 1960s ranch, one on staging a rooftop changeout so an apartment building stays partly cooled."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-replacement": {
       "intro": "Replacement in the apartment complexes is a planned project rather than a same-day fix, and the planning is the hard part. A packaged unit that serves twelve apartments has to be swapped with a sequence, and the building cannot afford to have half of it without cooling in August.",
@@ -126,9 +184,304 @@
         {
           "q": "Does replacing my home AC in Jersey Village mean replacing everything?",
           "a": "Not always. If the outdoor unit has failed but the coil, air handler and line set are newer and already use the current refrigerant, the condenser can sometimes be replaced on its own. If everything is the same age and the same refrigerant, replacing the stack avoids mixing components from different eras."
+        },
+        {
+          "q": "What does it cost to replace an AC system in Jersey Village?",
+          "a": "The cost is decided by the capacity the building or house needs, whether the refrigerant on the old nameplate is a legacy type, and how much of the installation can be reused. On the complexes the risers and the electrical supply are often original, and on the older houses the ductwork is the thing that usually has to be redone. The quote should separate the equipment from the installation so the versions can be compared."
+        },
+        {
+          "q": "Does replacing the outdoor unit on a Jersey Village house mean new ductwork?",
+          "a": "Only if the ductwork was never right to begin with. A house with a 1960s install usually has the whole original stack, and a new condenser on an old coil and an old air handler gives a mismatch in refrigerant, pressure and airflow design. The ductwork is worth measuring before the equipment is chosen, because a bigger unit on the same ducts gives a colder house that is still uncomfortable."
+        },
+        {
+          "q": "Why does the shared rooftop equipment change the replacement timeline for the complexes?",
+          "a": "Because one unit serves many households, so a failure is not one household problem but a building one, and it is handled as a scheduled job with tenants in it rather than a callout. The lead time on a shared unit is measured in weeks rather than in the time it takes to order a part, and the window for the switchover has to suit the building."
+        },
+        {
+          "q": "What refrigerant do the older Jersey Village systems run?",
+          "a": "The 1960s and 70s systems are likely on R-22, which is no longer produced for new equipment and is priced accordingly. That is worth knowing before anyone shops, because it changes the quote the moment the old unit comes off the slab. The nameplate on the outdoor unit says which refrigerant it is, and a photograph of it settles the question."
         }
       ],
-      "_faqsNote": "2 FAQs. One on planning rooftop replacement ahead of a fleet-wide failure, one on matching a replacement to the existing coil and refrigerant."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
+    },
+    "ac-maintenance": {
+      "intro": "Maintenance here is a check-up on equipment that has already been working hard through a humid spring, done before the July stretch rather than after it. The visit covers the condition of the coils, the filter, the drain and the wiring, and the technician sees all of it while the equipment is still running rather than after it has already quit.",
+      "localNote": "Jersey Village gives one maintenance job two different shapes. On the 1960s and 70s single-family streets the equipment sits on a slab in the yard, and the usual findings are a filter rack that was never upgraded and an outdoor unit collecting oak and pine under the trees. In the apartment complexes the same visit is on shared rooftop equipment, so cleaning a coil on that roof reaches every apartment on the stack at the same time.",
+      "faqs": [
+        {
+          "q": "When is the right time for a tune up in Jersey Village?",
+          "a": "Earlier than the first stretch of real heat, not once it has started. A machine that sat through a mild winter with a fouled coil and a swelling capacitor is already running short of margin, and a July visit means paying to diagnose a machine that has been struggling for weeks. Booking earlier gives the technician room to clean the coil and replace the parts that are about to fail."
+        },
+        {
+          "q": "My apartment building has one rooftop unit for the whole stack, does it get maintained the same way?",
+          "a": "Yes, and it has to, because the equipment is shared. A rooftop unit serving a dozen apartments needs the same coil cleaning, drain clearing and electrical checks as a yard unit, and the drain in those buildings runs as a vertical riser rather than a short line to the ground. Anything found on that unit affects every apartment it feeds, which is why the work tends to get scheduled in spring before the cooling season."
+        },
+        {
+          "q": "Does the attic heat in Jersey Village make a tune-up more important?",
+          "a": "Where the air handler lives matters here. In these houses it is often up in the attic, where the summer air sits at 130 to 140 degrees, and a motor working in that heat runs at the top of its range for months. A visit that checks the clearance around the housing and the condition of the parts above it is worth more than a filter change on its own."
+        },
+        {
+          "q": "What is actually on a maintenance visit?",
+          "a": "Filter size and condition, the outdoor coil, the indoor coil, whether the pan drains, the capacitor and the contactor for signs of wear, and the running current compared against what the unit is rated to draw. That last one catches things early, because current climbs well before a part visibly fails. A record of the readings also gives the next visit something to compare against."
+        },
+        {
+          "q": "My unit still cools the house, why bother with a tune-up?",
+          "a": "Because a running system hides small problems rather than proving there are none. Oak and pine fall through the spring and mat against the fins, the base pan holds damp for months, and a machine that has been idle since February gives no sign that its capacitor is swelling. Finding that in spring, before the hot weeks start, is the whole point of the visit."
+        },
+        {
+          "q": "What does it cost to have my AC tuned up?",
+          "a": "A tune-up is priced as the visit plus whatever small parts get put in, and the parts are usually filters, a capacitor, a contactor or a drain flush. What moves the number is how the technician gets to the equipment and how much of it has to be opened up, since a rooftop unit and a yard unit are not the same amount of work. Ask for the parts and the labor listed separately so you can see which one you are paying for."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the shared rooftop units in the complexes and the 130 to 140 degree attic. The rest cover timing, what a visit checks, the oak and pine fouling and what moves the price."
+    },
+    "condenser-repair": {
+      "intro": "The condenser is the box that sits outside and pushes the heat collected indoors out into the yard air. Repair work on it covers the parts inside that shell, the fan, the capacitor that gives the compressor its push, the switch that hands it power, the coil, and the metal around all of that. A unit that hums and refuses to start is almost always one of those rather than a mystery.",
+      "localNote": "The outdoor unit in Jersey Village is either on a slab in a front yard or on the roof of an apartment building, and that changes the job. A ground unit in this inland part of northwest Harris County collects oak and pine through the season and holds damp in the base pan, which is what works on the cabinet from the inside. A rooftop unit in the complexes gets the same humidity with no shade and no room around it for airflow.",
+      "faqs": [
+        {
+          "q": "Why does my outdoor unit hum and never start?",
+          "a": "Two parts cause that, and both are inexpensive. One closes the circuit that powers the compressor, and the other is the small cylinder that gives that compressor the shove to get going. A box that hums while the fan stays still points to the capacitor nine times out of ten. Both are read with a meter at the disconnect in a couple of minutes."
+        },
+        {
+          "q": "Does the outdoor unit on my apartment building need the same care as the one at my house?",
+          "a": "The equipment is the same kind, but the environment is not. A rooftop unit in this humidity has no shade, no wind break and a coil face that takes on everything the trees drop, and it is running to cool every apartment it serves rather than one house. A fault that brings it down takes out a whole stack of units at once, so a maintenance visit on a rooftop unit matters to more households than the same visit on a yard unit."
+        },
+        {
+          "q": "Why does my outdoor unit get loud before it stops?",
+          "a": "The noise is usually a fan blade that has worked loose or a bearing starting to go, and around here oak and pine drawn down into the cabinet shroud is often part of it. A knocking that comes and goes as the fan turns usually means a blade catching something inside the cabinet. A hum that cuts out the moment cooling is asked for is the electrical side instead, and the unit is shutting itself down because something is not switching over cleanly."
+        },
+        {
+          "q": "Can I rinse the outdoor coil myself before calling?",
+          "a": "A nylon brush and a garden hose at low pressure will shift most of what has landed on the fins, and doing it before the hot weeks is better than doing it in July when the system is already working. Skip the pressure washer entirely. A hard jet folds the fins over, and a flattened coil face pushes less heat away than it did before you touched it."
+        },
+        {
+          "q": "How much does condenser repair cost?",
+          "a": "The number follows the part that failed and whether that part is still manufactured. A failed capacitor or contactor is a small item on a short visit, while a fan motor or a rebuilt coil is a bigger order of work with far more labor in it. Access counts too, since a roof unit on an apartment building takes longer to reach and to work on than a box sitting in the open on a front pad."
+        },
+        {
+          "q": "My outdoor unit sits under oak and pine trees, how fast does the coil get dirty?",
+          "a": "Faster than most people expect. Oak and pine in this area drop through the spring and early summer, and the needles pack against the fins and hold damp there, so the coil can be matted within a few weeks of the season starting. A blocked coil face means the unit runs longer and hotter for the same cooling, and it works the compressor harder every hour it does. A brush and a hose twice a season is the cheap prevention."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the shared rooftop units against ground units, and the oak and pine litter matting the coil. The rest cover the hum, the noise, self cleaning and what moves the price."
+    },
+    "compressor-repair": {
+      "intro": "Everything in a cooling system depends on the pump at the heart of it, and when that pump is done the house loses its cold. A unit that seizes, one that will not hold a steady run, and one that will not even kick in are the failures this work covers. The end of the job is always a decision for the homeowner to make, and it turns on how old the rest of the equipment is and what refrigerant it uses.",
+      "localNote": "In Jersey Village these failures cluster in the older 1960s and 70s houses, where a system fitted to the space has been running at full tilt for two decades, and in the complexes, where one rooftop pump carries every apartment on a stack. The summer grid in this part of Harris County is not always steady, and a compressor doing its hardest work at start-up is exactly what a voltage dip interferes with.",
+      "faqs": [
+        {
+          "q": "Is a seized compressor worth rebuilding or does the whole unit go?",
+          "a": "Rebuilding a burned compressor is rarely the sensible route. What matters is what killed it and what else is the same age. If the condenser, the piping and the air handler are all original, a new pump goes into a system that is ready to fail again, and replacing the stack often costs less in the end. Ask what the rest of the equipment would need if the pump were new."
+        },
+        {
+          "q": "My compressor hums but never starts, what does that mean?",
+          "a": "That points to the start side rather than the pump itself. The capacitor gives the compressor its starting push and the contactor closes the circuit to it, and either one failing leaves you with a hum and no run. Windings that have burnt also sound like that until the machine is tested under load. The capacitor is the cheaper of the two parts, so it is the first one checked."
+        },
+        {
+          "q": "Why does my compressor keep turning on and off in a few minutes?",
+          "a": "That is short cycling, and the usual cause is a system that is too small for the load it carries, which is common on the 1960s houses here that went in with a unit that was marginal from the start. A blocked condenser coil raises the head pressure until the compressor shuts itself down, and a low charge does the same thing. Current draw and pressure readings separate the causes on site."
+        },
+        {
+          "q": "Does the unstable summer power here hurt compressors?",
+          "a": "It can. The grid in this area sags at exactly the hours a house needs cooling most, and a compressor does its hardest work at the moment it starts. A voltage dip during that start can keep a weak compressor from getting up to speed, and repeated hard starts shorten its life. Checked before a stretch of hot weather, a contactor with pitted contacts and a weakened capacitor are cheap to replace compared with a pump."
+        },
+        {
+          "q": "Is it worth replacing the compressor on an old house, or should I replace the whole system?",
+          "a": "On a Jersey Village house from the 1960s, weigh the whole system rather than the pump. If the outdoor unit, the line set and the air handler are all the same age, replacing one part leaves you one part away from the same outage. If the compressor died early while everything else is still good, replacing the pump alone can be right. The age on the nameplate and the service history answer this before anyone starts work."
+        },
+        {
+          "q": "What does a compressor replacement cost?",
+          "a": "The number is driven by how much of the system goes with the part and what refrigerant the unit takes. Replacing the pump alone on an otherwise sound system costs less than replacing the whole outdoor unit, and the refrigerant type on the nameplate affects what the work involves. Access is worth mentioning too, since a rooftop unit on an apartment building is a different amount of work than a ground unit. Get the quotes written out and compare them line by line."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the 1960s and 70s housing stock and the summer grid sags. The rest cover seized pumps, the hum, short cycling, replacement against rebuild and what moves the price."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A unit that keeps running short of gas is not low by accident, it is losing it. The work divides into three pieces that are worth asking about separately: tracking down where it is escaping, closing that opening, and then returning the charge to where it belongs. Only the third one leaves you with a bill that repeats.",
+      "localNote": "The leaks here are not in one place. In the older single-family houses the line set travels up through an attic where the summer air holds 130 to 140 degrees, and heat works the joints and the copper until a fitting weeps. In the apartment complexes the lines run as vertical risers and shared rooftop units, where one small leak affects a whole stack and the access is controlled by the property manager rather than the resident.",
+      "faqs": [
+        {
+          "q": "Where do I start when I think my AC is losing gas?",
+          "a": "Look for the mark before anyone arrives. Refrigerant carries compressor oil with it, so the escaping gas paints a dark oily streak on a line, a fitting or a coil. A hiss you cannot place is another sign. A small leak that has run for a year often shows nothing dramatic, so the search starts at the joints and at the places the line has been disturbed."
+        },
+        {
+          "q": "Why is my AC low on refrigerant again so soon?",
+          "a": "Because there is a leak somewhere and the gas is not being used up, it is leaving. A fitting that seeps a little at a time will empty a system faster than most owners notice, and topping it up repeatedly costs more than finding it once. On a shared rooftop unit in one of the complexes it is worse than that, because a slow leak there leaves the whole stack short of charge and the households below are the ones who report it."
+        },
+        {
+          "q": "Is it okay to just recharge the AC instead of fixing the leak?",
+          "a": "It works for a while and it hides the real fault. The refrigerant goes out through the same opening next month, and the technician comes back to the same house with more of the system opened up. Finding and repairing the leak is the part that ends the repetition, so it is worth asking whether the visit included a search for the opening and not just a gas top-up."
+        },
+        {
+          "q": "My AC is in the attic, is that where the leak is?",
+          "a": "Often it is. The attic in this area runs at 130 to 140 degrees through the summer, and a line set sitting in that heat expands and contracts with the temperature swing until a soldered joint or a fitting starts to weep. Where a length of pipe has no insulation around it and rests against a truss, it opens a pinhole over a few seasons. A closet or garage install has less of that movement, so the search starts in a different place."
+        },
+        {
+          "q": "What does it cost to repair a refrigerant leak?",
+          "a": "What moves it is how long the search takes and what the refrigerant type on the nameplate means for the work. A fitting beside the outdoor unit is a quick job. A pinhole in an attic line set on a house where the coil sits under the deck of a two story is a much longer visit. The refrigerant type changes the handling as well, because the older gas is a discontinued product with different recovery rules."
+        },
+        {
+          "q": "Can a refrigerant leak hurt the compressor?",
+          "a": "It can. The compressor needs refrigerant and oil to stay lubricated, and both leave together at the leak. A system that has been running low for months can wear the pump out, and then a leak repair is not the whole bill. Whether the pump took that damage can sometimes be checked before the decision is made, which is worth asking about if the system has been losing gas for a while."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the 130 to 140 degree attic where the line set runs, and the riser and rooftop layout in the complexes. The rest cover spotting the leak, why repeated charging repeats the visit, cost and compressor wear."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement, not a guess. The technician weighs the refrigerant the nameplate calls for, takes the superheat and subcooling readings where the lines meet the unit, and confirms the machine is holding what it should. Those numbers also tell you whether the gas was the problem or whether the fault is somewhere else.",
+      "localNote": "Jersey Village brings two different recharge situations to the same visit. On the older single-family streets the complaint is usually a system that has been low for months, where the question is whether the charge is short or the compressor has worn. In the complexes the equipment is shared, so a charge problem on a rooftop unit shows up as a whole stack of apartments running warm, and the readings matter to every unit on that stack rather than to one household.",
+      "faqs": [
+        {
+          "q": "How much refrigerant does my system take?",
+          "a": "For that exact model the factory charge is stamped on the data plate, and that is the figure the technician works from. The gas going in gets weighed, and what the system already holds comes off the gauges. The nameplate also names the refrigerant type, and that decides what can safely go in and how the old gas has to be handled."
+        },
+        {
+          "q": "What do superheat and subcooling actually measure?",
+          "a": "Two temperature readings, taken at opposite ends of the loop, that tell you how the refrigerant is performing. One measures the vapour leaving the outdoor coil against the temperature at which that vapour should condense. The other measures the liquid arriving at the indoor coil against the temperature at which it should start to boil. When either one is far off, the charge is not right, and the readings also show which way it is off."
+        },
+        {
+          "q": "The unit is only a month old and the house is still not cool, what is wrong?",
+          "a": "The readings come first, because a unit charged by ear on install day is common. If the charge measures correctly then the fault is somewhere else, and airflow is usually where it is: a filter packed on day one, a closed damper, or a system that is oversized for the space and short cycling without dehumidifying. A measurement separates the charge from the airflow in a few minutes."
+        },
+        {
+          "q": "Why does a shared rooftop unit need a different recharge approach?",
+          "a": "It does not need a different approach, but it has more people depending on the result. On an apartment building the outdoor unit feeds a stack of apartments through risers, and a charge that has drifted shows up as several households reporting warm air at once. Reading the charge at the roof tells the manager whether one unit is low or whether something is wrong with the whole system. Access and authorization come from the property manager."
+        },
+        {
+          "q": "Why does the refrigerant named on the nameplate matter?",
+          "a": "Because the type sets the pressures the system runs at and it cannot be mixed with another type. The older units on these streets run a refrigerant that has not been made for new equipment in years, and the newer units run a different one. Putting the wrong gas in is no way to save a visit. It damages the compressor, and the gas cannot be drawn back out of it afterwards. It also changes how the visit is handled, since recovering that older refrigerant is required by law."
+        },
+        {
+          "q": "What does it cost to recharge the refrigerant?",
+          "a": "The figure depends on the refrigerant type, the quantity involved, and whether the gas that comes out is recovered as part of the work. A system on the older refrigerant takes longer to work on than one on the current type, and that is worth knowing before the appointment. Ask for the readings written down, because a visit that ends with a number and no measurements is hard to judge later."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the shared rooftop unit serving a stack of apartments, and the older refrigerant in the neighborhood's older equipment. The rest cover the measurements, a new install, nameplate type and what moves the price."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The evaporator coil is the finned section inside the air handler, the part that makes the cold and where the moisture leaves the air. Washing it down, patching a leak in it and fitting a replacement are separate jobs, and the first question on any of them is why it fouled in the first place.",
+      "localNote": "Humidity is the story for this coil in Jersey Village. Air this heavy leaves the indoor coil wet for most of the day, and the older houses here were fitted with small filter racks that starve the coil of airflow, which is how a wet coil becomes a frozen one. In the complexes the coil sits in a shared unit serving a stack of apartments, and the same blockage takes down every apartment on that riser at once.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing up?",
+          "a": "Airflow is behind it more often than the coil metal is. A filter that was never changed, a collapsed duct run or a return grille blocked by furniture leaves the coil with too little air over it, and the surface drops under the dew point and ices over. Once that happens the airflow stops entirely and the system locks up. A coil that freezes again a week later has not been fixed."
+        },
+        {
+          "q": "What causes the green or grey coating on my indoor coil?",
+          "a": "Lint and dust bound together by condensation. The damp lingers on the fins most of the day in this humidity, and that combination turns a coil that is merely dirty into a coated one. A coating like that slows the heat leaving the coil, and the system runs longer before it reaches the same air temperature. It needs cleaning and a clear drain, or it comes back within a season."
+        },
+        {
+          "q": "Why does my attic unit freeze when the closet unit next door does not?",
+          "a": "The attic is the difference. Up there the air around the coil is 130 to 140 degrees and there is nothing cool to soften a freeze, so a coil that ices keeps icing until the system is switched off. A unit in a closet or the garage gets some of the cool air back and settles differently in the same weather. Add a filter rack that was never upgraded and the coil runs cold with too little air over it."
+        },
+        {
+          "q": "Why is my indoor unit pan holding water?",
+          "a": "The pan gathers the moisture the coil pulls out of the house air, and it drains away through a line. Water left sitting in that pan points at a drain that is slow, blocked or disconnected. In the apartment buildings here the drains run as vertical risers, and a blockage shows up as water coming through the ceiling of the unit below, sometimes floors down. In the houses the same backup appears at the vent or in the attic above."
+        },
+        {
+          "q": "Why does my home smell musty when the AC runs?",
+          "a": "The smell is the coil and the pan. A wet coil that has grown a coating holds odor and releases it the moment the fan starts, and a drain that is slow keeps water sitting in the pan long enough to add to it. Cleaning the coil without clearing the drain usually brings the smell back within weeks. Check the filter too, because a dirty filter is what makes the coil wet in the first place."
+        },
+        {
+          "q": "Is cleaning the evaporator coil worth it?",
+          "a": "Cleaning is a service call plus a coil cleaner, and it is worth trying before anyone talks about a new coil. Fitting a new coil is a different job, and on a unit where the housing, the pan and the blower are the same age the decision may end up being the whole air handler instead. Where the coil sits matters too, since an attic unit or a shared rooftop unit takes more labor to reach than a closet install."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the attic unit against the closet unit, and the vertical condensate risers in the complexes. The rest cover the freeze, the slime, standing water, the musty smell and cost."
+    },
+    "blower-motor-repair": {
+      "intro": "Air only reaches the rooms because a motor in the air handler spins a fan wheel. When that motor fails, the cooling equipment is still sitting there and the house gets nothing out of it. A fan that grinds, a system that blows nothing at all, or a unit that will not run on every speed are the complaints this job covers. The three pieces that carry the motor are what a visit looks at first.",
+      "localNote": "In these houses the motor spends much of the summer working hard. A handler up in an attic where the summer air holds 130 to 140 degrees runs the motor near the top of its range for months, and the motor on a system that was undersized from the start never gets a break. In the apartment complexes a blower failure is a building event, since the shared unit moves the air for every apartment on the stack.",
+      "faqs": [
+        {
+          "q": "My thermostat is calling for cooling but nothing blows, what is wrong?",
+          "a": "The filter, the breaker, the run capacitor, then the motor, in that order. A fan that is completely silent is most often the capacitor, which is the cheapest part on the system. In an apartment complex the same fault takes out the air for every unit on the stack at once, so it gets reported as a building outage rather than a house call, and the manager is the one who authorizes the work."
+        },
+        {
+          "q": "My attic unit is making a grinding noise, what does that mean?",
+          "a": "A bearing going, either on the motor or on the fan wheel. The fan will keep turning for a while, but a motor that eventually seizes takes both of those with it. Cut the power at the thermostat rather than listening to it through another summer. The noise travels further from an attic than from a closet, so it often sounds worse than the wear actually is."
+        },
+        {
+          "q": "Why does my blower run on one speed only?",
+          "a": "Usually it is the relay or the speed switches, and a motor that has lost one winding can look the same from the thermostat. Opening the panel settles it in a couple of minutes. On a unit sitting in an attic the relay is the part that takes the most heat and the most current, so it is often the first to go there."
+        },
+        {
+          "q": "Why do the blower motor and the capacitor go at the same time?",
+          "a": "The capacitor gives the motor the push to start. A motor that has run hot for years and pulled too much current wears the capacitor down with it, and it works the other way too, since a weak capacitor makes the motor fight to start and a motor that fights to start heats up. Fit a new motor and leave the old capacitor behind and the same fault comes back within months."
+        },
+        {
+          "q": "Is a whole new air handler the better call here?",
+          "a": "Sometimes that is the better call, and it depends on the age of the housing, the pan and the coil compared with the motor. A new motor fitted into a twenty year old housing may not survive the next hard summer. On a system that is undersized the blower is the part running all day, so the arithmetic is worth doing before anything gets ordered. The quote should cover the capacitor and the relay as well."
+        },
+        {
+          "q": "What does a blower motor repair cost?",
+          "a": "The part is rarely what sets the number. The number follows where the motor sits and how hard it is to reach, whether the relay and capacitor come with the work, and whether the cabinet it goes back into is worth keeping. An attic install reached through a tight crawl space costs more labor than the identical motor sitting in a closet."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the attic air handler running in 130 to 140 degree heat and the shared unit in the complexes. The rest cover silence, the grinding noise, one speed, motor and capacitor together and cost."
+    },
+    "thermostat-installation": {
+      "intro": "A thermostat is the part that decides when the equipment runs and when it shuts down, and a good machine on a bad one never performs the way it should. The work covers putting in a replacement for an old dial, adding a programmable or smart thermostat, and sorting out what the existing wiring will actually accept.",
+      "localNote": "The houses in Jersey Village span the 1950s to the 1980s with apartment complexes alongside, and every decade left its own idea of wiring behind the wall. A thermostat that has been swapped twice can sit on a wiring set that fits neither manual, and a 1960s house may have a line voltage system that a modern thermostat cannot drive at all. Placement matters as well, since a thermostat on a living room wall is making decisions for bedrooms nobody walks past.",
+      "faqs": [
+        {
+          "q": "Is swapping the thermostat a job I can do?",
+          "a": "Often, if the new thermostat suits the equipment and the wires behind the plate are what the manual expects. Most of the failures come down to a wire set that does not match, so photograph every wire and label it before you start, and never force a wire into a terminal it does not fit. If the existing control is line voltage, that is a different job and worth leaving alone."
+        },
+        {
+          "q": "My new thermostat will not follow the schedule, why?",
+          "a": "Most of the time it is sitting in the wrong mode, or the installer left a delay and anti-cycle feature switched on the day it went in and nobody ever turned it off. Less often the schedule never gets as far as the equipment, because the wire that carries the heat or cool call was never attached in the first place. Either way, the model number and the manual settle it quickly."
+        },
+        {
+          "q": "Which thermostat is right for my equipment?",
+          "a": "Compatibility comes down to the control voltage the system runs on, the wires at the plate and the equipment the thermostat talks to. A unit from the 1960s may run on line voltage, and a smart thermostat cannot do anything at all until it has a common wire and a dependable link back to the equipment. The label on the air handler and the wires on the wall answer it."
+        },
+        {
+          "q": "Is a smart thermostat worth it with this much moisture?",
+          "a": "Worth more here than somewhere dry, because it can read moisture as well as temperature and decide when to run on both. A schedule set to a fixed number lets the humidity build up around it. It still cannot cool a house that the equipment is too small for, and in these older houses the equipment often is too small. Check the wiring and the system first."
+        },
+        {
+          "q": "What is the C wire my new thermostat is asking for?",
+          "a": "A mechanical dial borrowed what little power it needed from the heating system, which was enough to hold a set of contacts closed. Anything electronic needs its own constant supply, and the common wire is the line that brings it. With nothing on the plate for that, a fresh conductor has to be fished through to the equipment, and that is where the extra time on the visit comes from."
+        },
+        {
+          "q": "What does it cost to have a thermostat fitted?",
+          "a": "The thermostat is the cheap part of the work. What moves the figure is whether the wiring on the wall has to be put right before anything else, whether the existing control is line voltage, and whether a smart thermostat has to be connected and programmed. On a house where the wiring came from three different decades, the correction is often the larger part of the job, and in an apartment complex the thermostat may be the building's rather than the resident's, which changes who pays for it."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the 1950s to 1980s housing stock with mixed wiring and the humidity that makes a smart thermostat worth more here. The rest cover doing it yourself, the schedule, compatibility, the C wire and cost."
+    },
+    "heat-pump-repair": {
+      "intro": "One outdoor unit here handles the heating and the cooling together, so a single fault can knock out the pair of them at once. Which direction the refrigerant runs comes down to the reversing valve, and a system that heats but will not cool usually points there. Backup heat running nonstop points somewhere else entirely.",
+      "localNote": "Heat pumps turn up in the remodelled houses and the newer buildings around FM 529 rather than in the original 1950s and 60s stock, so the calls here are mostly cooling calls with a heating problem attached. In this humidity the outdoor coil carries a heavy load in both directions, and ice on the unit in the warm months points at airflow or charge rather than at the cold. On the complexes a shared heat pump serves a whole stack of apartments.",
+      "faqs": [
+        {
+          "q": "Ice has built up on my heat pump outdoor unit, what is wrong?",
+          "a": "That is not normal, and running the system straight into the ice makes it worse. It points at a charge that is short, a charge that has stopped moving, or a reversing valve that is stuck part way, so cut the power and let the unit sit there until the ice is gone before you put it back into service. In a humid area like this the outdoor coil has no shade to help it, so airflow and the charge are the first two things looked at."
+        },
+        {
+          "q": "Heating is fine but there is no cooling, what does that tell us?",
+          "a": "Heating and cooling run through the same sealed system, so a fault that leaves one working and stops the other is nearly always in the direction control. The reversing valve is the part that flips the flow, and one that has failed will hold the system in a single mode whatever the thermostat asks for. If both sides stopped at once, the control board or the power supply is the more likely cause."
+        },
+        {
+          "q": "Why are my backup heat strips running constantly?",
+          "a": "The backup strips carry the whole load whenever the outdoor unit cannot deliver it, which is most visible on the coldest mornings following a warm week. It also turns up whenever the thermostat is calling for heat without a break. The technician checks the equipment and the schedule together, because a unit iced over in the warm months falls back to the strips every time it is called for heat, and the strips are the expensive part to run in this county."
+        },
+        {
+          "q": "The mode change on my heat pump is stuck, what causes that?",
+          "a": "The flow is redirected by the valve that flips it, and one that is stuck holds the system in a single mode. The changeover control in the thermostat can hold it there too, and so can a schedule somebody left on one setting. On a shared heat pump in one of the complexes the mode change affects every apartment on the stack, so it gets reported as a building problem and the manager authorizes the work."
+        },
+        {
+          "q": "Why does a heat pump in this area ice up in the warm months?",
+          "a": "Because the outdoor coil cannot shed what it is collecting. Ice on the unit when it is warm outside points at a charge that is short, a charge that has stopped moving, or a reversing valve that is stuck, and none of those clear themselves. In a humid climate the coil is also working with a heavy moisture load, so a marginal charge shows up as ice long before it shows up as a comfort problem."
+        },
+        {
+          "q": "What does a heat pump repair cost?",
+          "a": "The price follows which half of the system has failed, and that answer belongs before the quote. A fault on the refrigerant side means the valve and the charge are involved, while a control or electrical fault is a different kind of work entirely. The refrigerant type named on the nameplate changes the handling as well, and a heat pump needs its charge verified in both modes. A company that explains the diagnosis before quoting has done the diagnostic work."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the newer housing around FM 529 and the heavy moisture load that brings the ice in the warm months. The rest cover the reversing valve, backup heat, the mode change and cost."
     }
   }
 }

@@ -102,9 +102,9 @@ for (const f of needCopy) {
 
 /* each area file needs a services block covering the services that area
    actually gets a page for */
-const areaServicesFor = (area, limit = 6) => {
+const areaServicesFor = (area) => {
   if (area.fullServiceCoverage) return [...services].sort((a, b) => a.priority - b.priority);
-  return [...services].sort((a, b) => a.priority - b.priority).slice(0, limit);
+  return services.filter((s) => s.cityCoverage).sort((a, b) => a.priority - b.priority);
 };
 for (const a of areas) {
   const file = path.join(COPY_DIR, `area-${a.slug}.json`);
@@ -180,6 +180,11 @@ const templates = fs.readFileSync(path.join(ROOT, 'src/templates.mjs'), 'utf8');
 for (const m of templates.matchAll(/^\s*'([a-z0-9-]+)':\s*\{/gim)) {
   const name = m[1];
   if (!rendered.has(name)) failures.push(`illustration "${name}" is referenced by templates.mjs but was never rendered`);
+  /* the social card is a separate JPEG, because no platform renders SVG or
+     WebP in an og:image. A missing one is a broken share card, not a warning */
+  if (!fs.existsSync(path.join(ROOT, 'public/img', `${name}-og.jpg`))) {
+    failures.push(`illustration "${name}" has no social card (public/img/${name}-og.jpg)`);
+  }
 }
 
 /* ---------- config sanity ---------- */

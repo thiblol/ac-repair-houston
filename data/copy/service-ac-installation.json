@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Putting a cooling system into a house is an engineering job disguised as a delivery job, and most of the mistakes show up years later. The unit has to match the heat the building actually collects, the ductwork has to move enough air to feed it, and the electrical and drain have to be ready before the day of the install. The number quoted before a load calculation is done is a guess with a price attached, which is why the calculation comes first.",
   "whatHappens": [
     "Measures the home and runs a load calculation on it",
@@ -10,27 +11,27 @@
   "howPriced": "Four things set the price of a new installation: the equipment, the labor, the ductwork, and the site conditions. Equipment varies with size and efficiency rating. Labor depends on how far the outdoor unit is from the air handler and how difficult the line set route is, which is the same access question that comes up on repairs. Whether ductwork can be reused or has to be built out is often the single biggest swing in the total, and time of day matters less here than it does on a service call. Get the ductwork question answered before signing, because it is the one that can move the number after the work has started.",
   "faqs": [
     {
-      "q": "how much does a new ac installation cost",
+      "q": "How much does a new AC installation cost",
       "a": "The two questions that set the range are how big the system needs to be and whether the existing ductwork can carry it. Equipment, labor, and any ductwork or electrical work get added on top of that. A swap onto good existing ductwork in an open site is a much smaller job than a first-time install in a house with no returns, and the difference shows up in the quote."
     },
     {
-      "q": "how do I know what size air conditioner I need",
+      "q": "How do I know what size air conditioner I need",
       "a": "From a load calculation, not from square footage. The calculation accounts for the sun the house takes in, the insulation, the glass, the layout, and the heat the house generates from people and appliances. This matters because a unit that is too large cycles short and never pulls the moisture out, which feels like a system that barely works."
     },
     {
-      "q": "do I need to run new ductwork for a central ac install",
+      "q": "Do I need to run new ductwork for a central AC install",
       "a": "Sometimes, and that is worth knowing before anyone quotes. Existing ductwork can often be reused if it is the right size, undamaged, and has enough returns for the rooms being served. It cannot be reused if it is undersized, disconnected in places, or was built for a different system than the one going in. The air flow test during the site visit answers this."
     },
     {
-      "q": "how long does a full ac installation take",
+      "q": "How long does a full AC installation take",
       "a": "A straight replacement on an existing system is usually a day or less. A first-time installation with new ductwork, new electrical, and a fresh line set takes considerably longer, and outdoor work goes faster in certain weather conditions. The main thing that decides the schedule is how long it takes to get the equipment, so ordering early is the lever a homeowner actually controls."
     },
     {
-      "q": "can I install ac in a room that was added on",
+      "q": "Can I install AC in a room that was added on",
       "a": "Usually yes, but the addition changes the calculation for the whole house, not just the new space. The added square foot and whatever glass or wall material came with it change the heat load, so the calculation gets redone for the entire home. If the addition is above a garage, the return and supply path back to the air handler may need attention too."
     },
     {
-      "q": "what does the HVAC company need to know before installing",
+      "q": "What does the HVAC company need to know before installing",
       "a": "The age and layout of the house, what is already there in terms of ductwork and electrical, and whether the existing setup is being replaced or added to for the first time. Any prior additions, garage conversions, or closed-off rooms change what the system has to move. Photos of the attic, the closet where the air handler sits, and the electrical panel speed this up a lot."
     }
   ],

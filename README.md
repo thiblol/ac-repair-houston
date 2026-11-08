@@ -23,10 +23,13 @@ Then open http://localhost:4173.
 | `npm run dev` | Build, then serve `dist/` on port 4173 |
 | `npm run check` | Source and data checks (taxonomy, copy coverage, assets) |
 | `npm run audit:copy` | Shingle similarity audit across all copy |
-| `npm test` | Check, audit self-test, then a clean build |
+| `npm run audit:seo` | Page by page SEO audit of the built site |
+| `npm run audit:links` | Internal link architecture audit |
+| `npm test` | Check, copy audit self-test, build, then the SEO and link audits |
 
 `npm run build-images` renders `src/svg/*.svg` to responsive WebP in
-`public/img/`. It only needs running when an illustration changes.
+`public/img/`, plus one 1200 by 630 JPEG per illustration for the social
+card. It only needs running when an illustration changes.
 
 ## Taxonomy
 
@@ -35,24 +38,31 @@ other page hangs off those two.
 
 ```
 /                                    home
-/services/{service}/                 21 service pages, location neutral
-/service-areas/houston-tx/           PILLAR AREA, all 21 services
+/services/{service}/                 20 service pages, location neutral
+/service-areas/houston-tx/           PILLAR AREA, all 20 services
 /service-areas/houston-tx/{service}/ Houston x service
 /service-areas/houston-tx/neighborhoods/{name}/   16 Houston neighborhoods
 /service-areas/{city}/               24 Greater Houston municipalities
-/service-areas/{city}/{service}/     6 services per city
+/service-areas/{city}/{service}/     14 services per city
 ```
 
-Non-Houston areas carry six services rather than twenty-one. Twenty-one
-services across forty-one areas would be 861 pages of near-identical content,
-which is what Google reads as a doorway network. The build enforces this, and
-it enforces the opposite problem too: a page with no inbound internal link
-fails the build.
+Non-Houston areas carry the fourteen services that a live search shows have
+dedicated pages of their own, rather than all twenty. Twenty services across
+twenty-five areas would be 500 pages of near-identical content, which is what
+Google reads as a doorway network. The build enforces this, and it enforces the
+opposite problem too: a page with no inbound internal link fails the build.
 
 ## Editing
 
 **To change copy:** edit the matching file in `data/copy/`, then rebuild.
-Every page's prose lives in exactly one place.
+Every page's prose lives in exactly one place. `docs/COPY-BRIEF.md` is the
+house style for new copy: the voice, the claims the site may never make, and
+the local-fact rules each area's `traits` object imposes.
+
+**To record that a page changed:** set its `lastmod` field to the date you
+edited it. That date is what the sitemap publishes for the page. A build date
+on every URL tells a crawler that everything changed every time, which is a
+signal worth ignoring.
 
 **To add a service:** add an entry to `data/services.json`, create
 `data/copy/service-{slug}.json`, and add the service to the `services` block of
@@ -82,6 +92,17 @@ The build fails rather than shipping a broken site. It checks that:
 - every internal link resolves and every page has inbound links
 - every CSS class used in the HTML exists in the stylesheet
 - every image has alt text
+- every built page has one `h1`, a unique title and description in budget, a
+  self-referential canonical, a working social card, and an entry in the
+  sitemap
+
+The last group is checked by `src/audit-seo.mjs`, which walks `dist/` rather
+than the data, because the built output is what a crawler sees.
+
+`src/audit-links.mjs` checks the link architecture: that the homepage links
+every service, every area and every city, that the menu holds every service
+page, that the footer holds the area directory, and that a service page links
+the area x service versions of itself rather than the generic area pages.
 
 ## Before launch
 

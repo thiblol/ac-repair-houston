@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Bellaire is one square mile of ranch houses built between the 1940s and the 1970s, and the air conditioning arrived at roughly the same time. Almost every unit on these small lots has now spent fifty summers in the same patch of ground, so a breakdown here is usually an old part giving out rather than a new design failing.",
   "localAngle": "Every block in Bellaire holds houses of the same vintage, so a technician sees the same equipment year after year. A 1950s ranch may still be cooling through a 1960s split system, with a coil sized for a smaller version of the house. The lots are small, so the outdoor unit sits close to a fence line under a canopy that keeps the ground damp. Nothing here sees salt air, but the humidity load is the same Gulf load the metro carries. When a system fails, the question is rarely which part broke. It is how many of the others are one week away.",
   "commonCalls": [
@@ -54,24 +55,25 @@
         {
           "q": "Why would my AC stop on the hottest night of the year?",
           "a": "Old compressors draw more current and are likelier to trip under load. A 1960s system on a panel that also serves the range and the dryer can trip the moment the compressor pulls full load. The technician needs the panel age to know what to plan for before the visit."
-        }
-      ],
-      "_faqsNote": "2 FAQs. The first is about narrowing the fault down before a call, the second is about a 1950s panel on a 1960s system tripping under load on a peak night."
-    },
-    "same-day-ac-repair": {
-      "intro": "Not every call here is a breakdown. A lot of them are a system that has run for years without attention and now runs all day, or an outdoor unit buried under the oak leaves that dropped this spring.",
-      "localNote": "The oak canopy over these small lots drops enough litter to cover a condenser, and a blocked coil makes the unit run long and never reach setpoint. A 1950s system with undersized ductwork does the same thing. These calls get scheduled rather than dispatched, because the system still works, it just works badly.",
-      "faqs": [
-        {
-          "q": "How often should an old Bellaire unit be checked before summer?",
-          "a": "If the outdoor unit has not been serviced in a few years, a spring check earns its keep. It gets the coil cleaned, the filter changed and the electrical connections checked before the first hot stretch, which is when most of these calls turn into emergency work."
         },
         {
-          "q": "My AC runs constantly but the house stays warm. What should I do first?",
-          "a": "Start with the filter and the outdoor coil. A clogged filter and a choked condenser are the two cheap things that make a system run without cooling. If it behaves the same after both, the ductwork or the refrigerant is the next thing to look at."
+          "q": "How much does an emergency AC repair cost in Bellaire?",
+          "a": "What moves it is which part failed, whether that part still exists for a unit of that vintage, and whether the visit covers one job or two. A run capacitor or a contactor for a 1960s outdoor unit is a short visit with the part already on the truck. A coil, a compressor or a refrigerant issue means somebody has to come back once the part is in hand. Ask what the visit covers and what a second trip would add."
+        },
+        {
+          "q": "Will a repair on my old system actually hold, or will I be calling again in a few months?",
+          "a": "Nobody can promise how long a machine that old will last, and anybody who does is guessing. What separates a repair that holds from one that does not is whether the cause was removed or only the symptom was reset. A pitted contactor beside a failed capacitor is a different job from a contactor replaced on its own, and the second one is what brings the call back. Ask what caused the failure, not only what was replaced."
+        },
+        {
+          "q": "Do the oak leaves and the tight side yard make emergency failures more likely in Bellaire?",
+          "a": "They do, and it is the two conditions together rather than either one alone. An outdoor unit on a small lot often sits a few feet from a fence with an oak overhead, so the coil face collects leaf litter through the spring and the cabinet has less moving air around it than it was installed with. When the unit pulls full load on a humid afternoon it has no margin left and it trips or locks out. That combination is the local explanation for a lot of the August calls in this city."
+        },
+        {
+          "q": "Does the technician need to get into my side yard to fix the outdoor unit?",
+          "a": "On a Bellaire lot they usually do. The outdoor unit tends to sit in a side or back yard with a fence line and sometimes a gate between it and the drive, and the disconnect and the service valve are on that side of the fence. Clear a path and say so when the request goes in if a side gate is locked or does not open. Access that is harder than expected is one of the common reasons a repair visit runs longer than quoted."
         }
       ],
-      "_faqsNote": "2 FAQs. One on scheduling a spring check before the failure, one on the filter and coil as the first two cheap checks."
+      "_faqsNote": "6 FAQs. Two are local: the oak canopy and fenced side yard that produce August failures, and the tight access the technician has on a small lot. One covers what moves the cost, one answers honestly whether a repair holds."
     },
     "ac-not-cooling": {
       "intro": "Air moving but not cooling is the most common complaint from these ranch houses. The system runs, the vents push air, and the thermostat sits at 72 while the house stays in the 80s. The usual cause is old equipment working against a coil and duct system that was never generous to begin with.",
@@ -84,9 +86,25 @@
         {
           "q": "Should I keep lowering the thermostat if the air is only warm?",
           "a": "No. If the indoor coil is freezing, a lower setting makes the freeze worse and can shut the system down. Turn the system off at the thermostat, let the coil thaw, and try one cycle before you call."
+        },
+        {
+          "q": "What moves the price of fixing a Bellaire system that runs but never cools?",
+          "a": "Which side of the system turned out to be at fault. A blocked filter or a scaled coil is a cleaning job, while a low charge means the leak gets found and repaired, and on a unit from the 1960s the refrigerant has to be recovered and handled rather than topped off. Duct work to reach a closed-off bedroom is a separate line on the estimate."
+        },
+        {
+          "q": "Is it really the filter, or is something worse wrong with my Bellaire system?",
+          "a": "Often it is the filter, and that is worth checking before anybody charges for a visit. But a clean filter and a clean outdoor coil do not explain every warm house, and a technician who tests airflow and the charge before opening anything is the one who can tell you which it is. If the readings show a system low on refrigerant or a house losing air through ducts that were sized for fewer rooms, that is a different conversation."
+        },
+        {
+          "q": "Why does my Bellaire AC run all day and still never catch up?",
+          "a": "Three local things add up here. The humidity is heavy enough that the unit has to move a lot of moisture as well as heat, and many of these houses were framed for a smaller version of themselves, so a 1960s system with a fixed orifice was never matched to the finished floor plan. Add an outdoor unit on a small lot under an oak, collecting enough leaf litter through the spring to choke the coil face. Any one of those can be handled, but together they are what a Bellaire summer looks like."
+        },
+        {
+          "q": "Does the attic heat have anything to do with an AC that will not cool?",
+          "a": "It can. The attic over one of these ranch houses runs 130 to 140F in the summer, so an air handler up there works in an environment that never gives it a break. The motor runs hotter, the coil has less air to work with, and a frozen coil has nothing around it to thaw it. If the handler can be moved to a closet or a low space during the work, that changes what the technician is dealing with on the visit."
         }
       ],
-      "_faqsNote": "2 FAQs. One on room-to-room imbalance from retrofitted ductwork, one on why lowering the thermostat makes a frozen coil worse."
+      "_faqsNote": "6 FAQs. Two are local: the humidity, undersized system and leaf-choked coil that together explain a unit running all day, and the 130 to 140F attic above a handler working in it. One covers what moves the cost, one is the honest dirty filter objection."
     },
     "ac-repair": {
       "intro": "A repair call usually ends with a parts conversation, because the equipment is old enough that one failed part can bring up a list of near misses. The technician who takes the job needs to identify the unit by model and serial, and that information sits on the nameplate on the outdoor unit or the side of the air handler.",
@@ -99,9 +117,25 @@
         {
           "q": "Is it worth repairing a 1970s air conditioner in Bellaire?",
           "a": "Sometimes. The deciding factors are whether the parts still exist for that model and whether the coil, cabinet and lines are in better shape than the failed part. If the unit uses R-22, add the shrinking supply of that refrigerant to the list, because a recharge is a short-term answer."
+        },
+        {
+          "q": "Can I get same day AC repair in Bellaire?",
+          "a": "It depends on what failed and on when the request goes in. A square mile with the blocks close together is not a long drive, so distance is rarely what holds the visit up, and the part decides it. A run capacitor, a contactor or a breaker on a 1960s unit is a small part a technician can carry, and that is usually same day work. A compressor, a coil or a refrigerant problem on a machine that has been out of production for decades is a different answer, because the part has to be located first."
+        },
+        {
+          "q": "What does an AC repair cost in Bellaire?",
+          "a": "Nobody can price a repair before the unit is opened, and a figure offered before then is a guess. What moves the price is which part failed, whether a replacement part exists for a unit from the 1960s or 70s, and how many separate faults the visit turns up. Access counts as well, because an outdoor unit boxed into a narrow side yard behind a gate takes longer to reach than one standing on an open slab. Ask for the labor priced separately from the parts so you can see what the money bought."
+        },
+        {
+          "q": "Can a 1960s air conditioner still be repaired, or are the parts all gone?",
+          "a": "Some of them can be. Electrical parts such as capacitors, contactors and thermostats are made generically and fit older machines. The harder ones are the parts tied to a model line: a coil, a cabinet, a blower assembly, anything that depends on the refrigerant the unit holds. On a street here where the condenser, the coil and the air handler all went in together in the 1960s, one component being replaceable does not mean the others are."
+        },
+        {
+          "q": "Does the summer power supply around Bellaire affect how long a repair will hold?",
+          "a": "It can. This part of the metro runs on a supply that sags and comes back during the summer peak, and an interruption or a brownout catches the compressor and the control electronics at the moment they are most loaded. A contactor that closes dirty because the supply collapsed was set up to fail before the technician arrived, not because of the part that was replaced. It is also part of why a system can coast for years and then give out in the first stretch of real heat."
         }
       ],
-      "_faqsNote": "2 FAQs. One on finding the model number and serial without a service call, one on whether a 1970s unit with R-22 is worth repairing."
+      "_faqsNote": "6 FAQs. Two are local: the same day question built on the square mile and the age of the units, and the summer supply sagging on the 610 loop that can undo a good repair. One covers what moves the cost, one is the honest parts availability objection."
     },
     "ac-installation": {
       "intro": "When a house here needs new cooling, the constraint is the lot. The ranch houses on these blocks were built with narrow side yards and often no attic worth using, so where the outdoor unit goes decides the design more than the tonnage does.",
@@ -114,9 +148,25 @@
         {
           "q": "Do I need a load calculation for a new AC in Bellaire?",
           "a": "Yes, and the number on a sales sheet is not one. A 1950s ranch with single-pane windows, a west wall of glass and a low ceiling profile can need a different capacity than a similar house with new windows. Over-sizing is common in these older homes and causes short cycling."
+        },
+        {
+          "q": "What does a new AC installation cost in Bellaire?",
+          "a": "What moves it is how much of the old system can stay. Original ductwork in good shape is the largest thing you keep, and duct that has to be replaced or resized in a 1940s ranch can cost more than the equipment. A new line set, a new coil and a panel with enough amperage for a modern condensing unit all sit on the same page. Access on a small lot counts too, because carrying a unit through a side gate is a different job than setting one on a driveway."
+        },
+        {
+          "q": "Will a new system actually cool my house better, or is the ductwork the real problem?",
+          "a": "That depends on where the trouble is. If the unit is undersized or has lost capacity, new equipment helps. If the supply and return are undersized for the rooms they serve, a larger unit pushes the same narrow path harder and the far end of the house stays warm. A blower door test and a static pressure reading tell you which it is, and doing that measurement before anything is ordered is what keeps the money going to the right place."
+        },
+        {
+          "q": "Does the oak canopy on my Bellaire lot decide where the outdoor unit goes?",
+          "a": "It decides part of it, and the shade is not the deciding factor. Airflow around the coil matters more than direct sun on the cabinet, so a spot under dense oak can work if the unit still gets clear air on two sides and the ground drains away from the house. What the trees do cause is the litter. A unit set under a canopy starts spring with oak leaves packing the coil face, so the maintenance plan belongs in the conversation at the install, not after the first August failure."
+        },
+        {
+          "q": "Does the 130 to 140F attic matter when I am installing a new AC?",
+          "a": "It decides where the air handler goes. A handler in that space works the motor and the electronics harder than the same parts in a closet, and the coil has less cool air around it when it needs to drain. Some of these ranch houses have a closet off the hallway that will take the unit, and the return path changes when you move it there. The choice is easier to make during the install than to change afterwards."
         }
       ],
-      "_faqsNote": "2 FAQs. One on condenser clearance and drainage on a narrow lot, one on why a load calculation beats a tonnage number for 1950s ranch housing."
+      "_faqsNote": "6 FAQs. Two are local: the oak canopy that fills the coil face and the 130 to 140F attic that decides where the handler goes. One covers what moves the cost, one is the honest will new equipment actually help question."
     },
     "ac-replacement": {
       "intro": "Replacement makes more sense than repair when the outdoor unit is from the 1960s or 70s and the refrigerant inside it is R-22. That gas is no longer produced for new equipment, so every service visit that recharges an R-22 system depends on a shrinking supply.",
@@ -129,9 +179,304 @@
         {
           "q": "Do I need to replace the whole system or just the outdoor unit?",
           "a": "If the coil and air handler are the same age as the condenser and use the same refrigerant, replacing the whole stack avoids mixing components of different eras. If the indoor side is newer and already uses the current refrigerant, the outdoor unit can sometimes go alone. Have the technician check the coil and the line set before you decide."
+        },
+        {
+          "q": "What moves the cost of replacing an AC system in Bellaire?",
+          "a": "The scope is what moves it. One component or the whole stack changes the parts list and the labor, and a new refrigerant means new lines, which have to be routed from the outdoor unit to the handler. On a small lot that routing means working around fences and a house that was not framed for a mechanical closet. Then there is the panel, the drain, and whether the old equipment has to be recovered and hauled."
+        },
+        {
+          "q": "My old system still cools the house. Is replacing it really the right call?",
+          "a": "If it cools reliably and the parts are still available, repair is a fair answer and nobody should talk you out of it. What tips it toward replacement is refrigerant you can no longer obtain and a stack of parts that are all the same age, because each repair then replaces one component with something newer than everything around it. There is no guarantee either way. The useful question is what the next failure is likely to be, and a technician who has been in the house can tell you more than a brochure."
+        },
+        {
+          "q": "Does the humidity in Bellaire shorten the life of a replacement system?",
+          "a": "It changes what the system has to do, not how long it lasts. The air carries a lot of moisture here, so the coil has to pull water out of it as well as heat, and that is a harder job than the numbers on the capacity card suggest. A condenser that is too big for the rooms it serves cycles in short bursts, and a system that keeps cycling does not pull the moisture out of the air as well as one that runs steady. Matching the equipment to the load is what keeps a new system working in this climate for the long run."
+        },
+        {
+          "q": "How long should a new AC last on a Bellaire block?",
+          "a": "Nobody can put a number on that for a house and a climate, and the honest answer is that the outdoor unit decides most of it. On a square mile where the equipment is all roughly the same age, the deciding factors are the coil staying clean, the cabinet surviving the damp ground it sits on, the refrigerant staying available, and the supply behaving during a summer peak. Those four are within reach of the homeowner. The rest depends on the install and the panel."
         }
       ],
-      "_faqsNote": "2 FAQs. One on what R-22 means for the parts and the line set, one on replacing the whole stack versus the condenser alone."
+      "_faqsNote": "6 FAQs. Two are local: the Gulf humidity load on a replacement coil and the damp ground under the cabinet that decides how long the outdoor unit lasts. One covers what moves the cost, one is the honest working system objection."
+    },
+    "ac-maintenance": {
+      "intro": "A maintenance visit in Bellaire is a check on a system that sat unused since February and is about to meet the first stretch of real heat. The equipment on these blocks is nearly the same age as the house it cools, so the technician spends the visit on the filter, the coil condition, the drain line and the electrical parts with the unit still running.",
+      "localNote": "The square mile sets the conditions and the trees decide the rest. An oak canopy over a small lot drops litter against the outdoor coil, the cabinet sits on damp ground with little air moving around it, and the attic above runs 130 to 140F, so the motor and the capacitor up there age faster than the ones in a closet. A spring visit in Harris County is a quieter time to do this work than an August one.",
+      "faqs": [
+        {
+          "q": "When should I get a tune up in Bellaire?",
+          "a": "Before the first stretch of real heat, not after it. The system has been sitting since February and the outdoor unit has been collecting oak leaves under a canopy that drops steadily through the spring. Booking it for April or May means the coil is cleaned before the unit starts running long afternoons."
+        },
+        {
+          "q": "What does a maintenance visit in Bellaire actually cover?",
+          "a": "Filter and airflow first, then the state of the coil, whether the drain runs clear, the capacitor, the contactor, and how much current the pump pulls against what the nameplate calls for. That current reading is worth the most on its own, since it shows whether the compressor is labouring or coasting. On a fixed orifice system out of the 1960s the charge is also checked by measurement, since a unit like that can run all day and never reach the setting."
+        },
+        {
+          "q": "My AC has been in Bellaire since the 1960s, is maintenance still worth it?",
+          "a": "More so, not less. The faults that matter on a system that old are the ones that have not happened yet: a capacitor weakening in the heat, a contactor pitted from the last few summers, a slow drip in the pan. The visit finds them while the unit is still running. A system that cools today is cooling in spite of the parts that are on their way out."
+        },
+        {
+          "q": "Does living on a small lot in Bellaire change what gets checked?",
+          "a": "It does. The outdoor unit is often close to a fence line with a shared wall on the other side, so the airflow around the cabinet is narrower than the clearance the unit was installed with. Leaf litter collects in that gap and the hot discharge air pushes back at the coil. Access to the air handler matters as well, because in these ranch houses it may sit in a closet or in the attic."
+        },
+        {
+          "q": "What does an AC tune up cost in Bellaire?",
+          "a": "The figure turns on how much coil cleaning the unit needs, whether the capacitor and contactor have gone, and whether the refrigerant called for on the nameplate is a discontinued type. A maintenance visit is priced for the checks, not for the repair that might follow. Ask which faults were found and which were left for another day, so the two are not confused on the invoice."
+        },
+        {
+          "q": "What can I do between visits to keep the system running?",
+          "a": "Replace the filter on the interval printed on the frame, which in this humidity is shorter than most people assume. Keep oak leaves cleared off the unit and out of the gap around it. Wash the coil face down with a soft brush and a hose at tap pressure, and keep the unit level on its base."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the oak canopy and small lots that shape the visit, and the 1960s fixed orifice systems that never reach the setting. One covers what moves the cost."
+    },
+    "condenser-repair": {
+      "intro": "The condenser is the box outside, and this job stays out there with it: the fan motor, the run capacitor, the contactor, the condition of the coil and the state of the cabinet shell. A unit that hums without ever starting, or starts and shuts itself straight back off, is usually one of the first three. The technician who takes the job checks the electrical side before anything is opened up on the refrigerant side.",
+      "localNote": "In Bellaire the outdoor unit is often tucked into a side yard no wider than a car, hemmed in by a fence and a shared wall, with an oak overhead dropping leaves onto the coil face all spring. That cabinet has been sitting on damp ground since the 1960s, so the rust on the sheet metal comes from moisture and from water standing in the base pan, not from anything this inland part of Harris County gets on the air. A unit that cannot move air because it is boxed in has no margin when the temperature climbs.",
+      "faqs": [
+        {
+          "q": "My outdoor unit is humming but nothing happens, what is wrong with it?",
+          "a": "The hum is the contactor trying to close. That points to a failed run capacitor, a contactor with pitted contacts, or compressor windings that are gone, and a corroded terminal in the compartment causes the same thing. A voltage dip on the 610 loop during a summer peak can also hold the contactor from closing cleanly. The capacitor and the contactor get tested first because they are the inexpensive parts."
+        },
+        {
+          "q": "What does a failing outdoor unit sound like from the yard?",
+          "a": "Rattling inside the cabinet points at a sheet metal panel that has worked loose, or a blade striking the coil face. A sharper buzz that cuts out the instant cooling is called for is the contactor. A wail coming out of the top of the cabinet is the fan motor bearings. Each of those sounds sends the diagnosis toward a different part, so it is worth describing the noise rather than saying only that the unit is loud."
+        },
+        {
+          "q": "Is rust on the outdoor cabinet in Bellaire a sign the unit needs replacing?",
+          "a": "Not on its own. This area sits inland from the bay, so there is no salt spray on the fins. What appears instead is moisture rust, starting at the base pan corners and the sheet metal seams where water sits for months. Where the shell is still square and the pan has not rusted through, the parts inside it are usually sound. A base that has rotted through means the unit has been standing in water and the conversation changes."
+        },
+        {
+          "q": "Can I clean the outdoor coil myself?",
+          "a": "You can take surface lint off with a soft brush and a hose at tap pressure, and it is worth doing before the season starts. Do not aim a strong jet at the coil face. It presses the fins over and they stay folded, and a folded fin moves far less air than the one it replaced. Leave the electrical compartment and the disconnect alone."
+        },
+        {
+          "q": "Why does my outdoor unit quit in the middle of the hottest afternoon?",
+          "a": "It ran out of margin. A coil face packed with oak leaves cannot shed heat, a cabinet in a tight side yard has less clearance than it was installed with, and the compressor has no way to catch up. The same pattern shows up in August as a unit that works at nine in the morning and is dead by four."
+        },
+        {
+          "q": "What does condenser repair cost in Bellaire?",
+          "a": "The figure turns on which part failed and whether the cabinet and the coil are still worth saving. A capacitor on a sound cabinet is a short visit with small parts. A fan motor, a rebuilt coil or a cabinet that has rusted through is a different job. Ask for the diagnosis and the parts priced apart, so you can see which part of it is labor and which part is material."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the boxed-in side yard and the moisture rust that comes from damp ground rather than salt, and the leaf-packed coil losing margin on an August afternoon. One covers what moves the cost."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump that moves refrigerant, and when it stops the whole house loses cooling. A seized pump, one that short-cycles, and one that buzzes without ever catching are the calls this work covers. The call ends with a decision for the homeowner to make: swap the pump, or accept that the whole system has reached the end of its useful life.",
+      "localNote": "The compressor in a Bellaire ranch is often doing a job the equipment was never sized for. Central air went into these houses between the 1940s and the 1970s, sometimes into a frame that had already been altered, and the fixed orifice units of that era hold their charge differently than a modern metering device does. Add a condenser face packed with oak litter and a supply that dips when the load is heaviest, and you have the combination that shortens pump life here.",
+      "faqs": [
+        {
+          "q": "Can a seized compressor be rebuilt, or does the whole outdoor unit have to go?",
+          "a": "A pump that has seized is almost always replaced as a unit rather than rebuilt on the spot. The more useful answer is what caused the failure. A new pump dropped into a system with a fouled condenser, a low charge or a leaking line fails the same way within a season. Ask what the technician found before the pump came out."
+        },
+        {
+          "q": "Is the compressor short cycling because it is failing or because the unit is undersized?",
+          "a": "Both can look the same from the thermostat. A system that cannot hold temperature runs and restarts because it is chasing a load it was never matched to, and a worn compressor does it because it is losing capacity. Current draw and suction pressure separate the two on site, and in a house where central air was retrofitted into an altered frame the sizing is worth questioning."
+        },
+        {
+          "q": "The outdoor unit hums and the compressor never kicks in, why?",
+          "a": "Three things produce that, and they get checked in order: the contactor, the capacitor and the windings. The capacitor is the one that gives out most often. The summer supply on this part of the grid also dips at the hour the compressor is working hardest, and a dipped voltage keeps a contactor from closing cleanly. Each check takes a minute with a meter."
+        },
+        {
+          "q": "Is it worth putting a new compressor in a 1960s Bellaire system?",
+          "a": "Sometimes, and the deciding question is the age of everything around it. A 1960s outdoor unit in a 1960s house has a matching coil, a matching air handler and a refrigerant that no longer exists for new equipment. Replacing only the pump leaves all of that behind. The technician should describe the rest of the stack before the order is placed."
+        },
+        {
+          "q": "What kills compressors faster in Bellaire?",
+          "a": "Heat the unit cannot get rid of, oil it cannot keep, and a supply that sags. A condenser face matted with oak leaves runs the pump hot against a high head pressure, a system running low on refrigerant runs the pump without the oil it needs, and the summer peaks on the 610 loop make starting hard. Take the fouled coil away and the pump gets a longer life."
+        },
+        {
+          "q": "What does a compressor replacement cost in Bellaire?",
+          "a": "The figure turns on whether the pump alone goes in or the outdoor unit goes with it, what refrigerant the nameplate calls for, and whether the existing line set and service entrance can be left alone. A written quote that states the refrigerant and the electrical side is easy to set beside another. If the coil has to change too, that belongs in the same conversation."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the retrofitted ranch house where sizing and the fixed orifice matter, and the leaf-packed coil plus the summer dips on the 610 loop. One covers what moves the cost."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "Finding the leak is the work. Recovering refrigerant, locating the escape, repairing it and putting the charge back are four distinct steps, and stopping after the last one means the same visit comes back in a few months. Whoever takes the job should be able to name which of those four the visit actually covered.",
+      "localNote": "The leak points in Bellaire are old ones. A line set installed when the house was framed in the 1940s or 1950s has joints that have been through fifty summers, and the run that reaches the attic passes through space sitting at 130 to 140F. The systems from the 1960s and 70s hold a refrigerant that is no longer produced for new equipment, so every visit on one of them depends on what can still be recovered from a shrinking supply.",
+      "faqs": [
+        {
+          "q": "How can I tell whether my AC is losing refrigerant?",
+          "a": "Look for the evidence. An oily or dark mark near a line or a fitting is refrigerant and compressor oil escaping together, and it marks the spot. A hissing you cannot place, and a system that needs refrigerant every few months, point the same way. Any one of those on its own could be something else, but the stain is the cheapest detector a homeowner has."
+        },
+        {
+          "q": "Why does my Bellaire system keep needing refrigerant?",
+          "a": "Small recurring leaks, usually at an aged fitting or a stretch of line set from the 1960s, rather than one obvious hole. Those are the ones that get ignored, and they turn a system into one that cannot hold a charge at all. On an older unit the effect is sharper, because each service visit has less refrigerant to put back than the one before it."
+        },
+        {
+          "q": "Where does the leak usually turn out to be?",
+          "a": "Start at the outdoor end of the run, where the copper meets the fitting, and work inward from there. Beyond that the usual culprit is a length of line where the insulation has gone brittle and opened up, letting the metal underneath work loose. The indoor coil and the connections up in the attic come further down the list. On a unit wedged into a side yard the section nearest the wall is where damp has had the longest to sit."
+        },
+        {
+          "q": "Why not just recharge it and leave the leak where it is?",
+          "a": "No, and the reason is plain. There is nowhere for the gas to sit and nowhere for it to go, so a machine that keeps losing charge is escaping through an opening of some kind. A recharge on a leaking system buys a few weeks of comfort and then the visit comes back, this time with more of the system opened up. Recovering the gas, finding the leak, repairing it and charging are four separate steps, and it is fair to ask which ones were done."
+        },
+        {
+          "q": "Will a refrigerant leak hurt the compressor in my Bellaire house?",
+          "a": "It can. The oil rides along with the refrigerant and the pump needs both of them. A machine that has been running short for months can have a compressor worn from going without lubrication, which is why a leak search and a charge belong on the same visit rather than a year apart."
+        },
+        {
+          "q": "Does the refrigerant on my nameplate change the leak repair?",
+          "a": "Yes. Units from the 1960s and 70s in Bellaire mostly hold a refrigerant that is no longer made for new equipment, and a discontinued type has to be recovered and handled under rules of its own rather than simply topped up. Photograph the data plate on the outdoor unit before the visit. One photograph tells the company what it is dealing with and saves a wasted trip."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the 1940s to 1960s line joints and the attic run at 130 to 140F, and the shrinking supply of refrigerant for the systems of that era. One covers why a recharge is not a repair."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement, not a canister opened until the vents feel cold. The technician weighs in the amount the data plate calls for and reads superheat and subcooling to confirm the numbers land where they should. Those two readings also show whether the system is right or quietly hiding a leak, a fouled coil or a weak pump.",
+      "localNote": "The metering device decides how the readings should look, and Bellaire has plenty of systems with the older fixed orifice rather than a modern electronic expansion valve, where the same target numbers do not apply. A house that had central air retrofitted decades after it was framed can also carry a coil that never matched the load, so a correct charge on a system sized wrong still leaves the house warm.",
+      "faqs": [
+        {
+          "q": "What amount of refrigerant does my system need?",
+          "a": "The amount is stamped on the data plate on the outdoor unit, and that is the figure to hit. The technician weighs what goes in, subtracts what the system already held, and then takes readings at the lines to confirm the machine is carrying the right amount and not merely close to it. Those readings matter as much as the weight, because they prove the system is holding what it was given."
+        },
+        {
+          "q": "What are superheat and subcooling?",
+          "a": "Two temperature readings taken at different points in the system that describe how the refrigerant is doing its job. Between them they say whether the amount of refrigerant matches the job the system is being asked to handle. That is why a proper recharge involves instruments rather than a gauge on the side of a canister and a guess."
+        },
+        {
+          "q": "My system has a fixed orifice and the readings look different from a newer one, why?",
+          "a": "The metering device sets the target. A fixed orifice passes refrigerant at a set flow determined by the line size and the pressure difference, while a newer system meters what the coil actually asks for. The technician adjusts to the range that belongs to the device in the unit, and a system charged to the wrong range will not hold temperature no matter what it was given."
+        },
+        {
+          "q": "My new unit is not cooling as expected, what should be checked first?",
+          "a": "The readings, and then the airflow. A new system should reach the setting and hold it. If superheat and subcooling sit outside their range, the charge can be adjusted and it becomes clear what was wrong. If the readings are clean, the fault is usually airflow across the indoor coil or a system too large for the rooms it serves, and a charge would only hide it. In a Bellaire house that had central air added to an altered frame, that airflow question is worth asking about before the gas is touched."
+        },
+        {
+          "q": "Does the refrigerant named on the nameplate change the work?",
+          "a": "It sets the pressures, it sets what can safely go in, and it sets the handling. The 1960s and 70s units in Bellaire mostly run a refrigerant that no longer exists for new equipment, and the newer ones run something else entirely, and the two cannot be mixed. Putting the wrong one in is not a shortcut. It wrecks the pump and it cannot be drawn back out cleanly."
+        },
+        {
+          "q": "What does a refrigerant recharge cost in Bellaire?",
+          "a": "The figure turns on the type of refrigerant, whether the gas coming out has to be recovered and handled, and whether the leak is found during the same visit. A machine on a refrigerant that no longer exists for new equipment takes longer to service than one on the current type, and a machine that needs a second trip for a leak is going to cost a second trip. On a 1960s Bellaire house the old type is usually the answer, so the nameplate is worth reading before anyone quotes. Ask for the readings to be written down, because they are the record of the work."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the fixed orifice metering that changes the target readings on 1960s and 70s systems, and the retrofitted house where a right charge on a wrong size unit still leaves the house warm. One covers what moves the cost."
+    },
+    "evaporator-coil-repair": {
+      "intro": "Inside the air handler there is a finned coil that does two jobs at once, making the cold and pulling the moisture out of the air. Three kinds of work happen on it: a clean, treating whatever has grown on the fins, and swapping out a coil that leaks. A coil that keeps icing over is a symptom of something else entirely, and cleaning it alone is not the answer.",
+      "localNote": "The load on this coil in Bellaire is humidity and heat together. The air here is heavy with moisture, so the coil runs wet for months, and a filter packed with dust cuts the airflow across it, which is what lets the wet surface reach freezing. Where the air handler sits matters too. An attic at 130 to 140F gives a frozen coil no cool air to thaw it, and in these ranch houses the handler often sits in a closet off the hallway with the return grille in the middle of the floor plan.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing over?",
+          "a": "Airflow, nearly every time. A choked filter, a collapsed duct or a return grille pulling from one part of the house starves the coil of moving air, and the coil drops below freezing on the surface that should only be wet. Once the freeze takes hold the airflow stops and there is nothing to thaw it. A coil that is clean and still freezes the following week has not been fixed."
+        },
+        {
+          "q": "Why does my house smell musty when the cooling starts?",
+          "a": "That is growth sitting on a wet coil, and the humidity here makes it appear fast. The coil stays wet for most of the cooling season, dust holds onto it, and the smell rides along with the air. A clean coil and a running drain deal with it, but unless the filter keeps getting changed and the drain keeps running, it will be back inside a season."
+        },
+        {
+          "q": "There is water sitting in the pan under my indoor unit, is that a problem?",
+          "a": "Yes. That pan collects the water the coil has pulled out of the air, and the water normally leaves through a drain line. A pan holding water means that drain is slow, blocked or disconnected, and a float switch in many of these units shuts the whole system down when that happens. In a house this old the line was put in with a slope that barely worked, and that is where most of the trouble starts."
+        },
+        {
+          "q": "Does it matter that my air handler is in the attic?",
+          "a": "It does. The attic in Bellaire sits at 130 to 140F in the summer, so there is no cool air around the unit to melt a coil that has iced, and the motor and the capacitor up there run hotter than the same parts in a closet. The access is narrower as well. Whatever the technician finds, the question of what is making the freeze return still gets answered before the coil is cleaned."
+        },
+        {
+          "q": "My blower runs but the coil stays wet and the house will not dry out, why?",
+          "a": "That is a coil cold enough to pull moisture but not moving enough air to carry it off. The condensation has nowhere to go and the humidity stays in the house. The check is the airflow across the coil rather than the coil itself, and the answer is usually the filter, the return or the blower."
+        },
+        {
+          "q": "What does it cost in Bellaire to clean an evaporator coil, or to replace one?",
+          "a": "The figure turns on whether the coil gets cleaned or has to come out, how hard the unit is to reach in an attic or a closet, and whether the drain pan and the float switch need work. Cleaning a coil on a unit that is easy to reach takes a short visit. Swapping a coil that has been repaired once before is a different job, and on a 1960s air handler the state of the housing often decides between cleaning and replacement."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the heavy humidity and the attic at 130 to 140F leaving a frozen coil with nothing to thaw it, and the 1960s closet install with a marginal drain slope. One covers what moves the cost."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower is what moves the air, so once the motor, the run capacitor or the relay gives out, the equipment is still there and the air is not. On a humid afternoon that is the same as having no cooling at all. Those three parts tend to go in pairs, and whoever takes the job checks the capacitor and the relay alongside the motor before anything is quoted.",
+      "localNote": "Where the air handler lives is the local fact that matters. In these 1940s to 1970s ranch houses it is often in the attic or in a closet off the hallway, and an attic at 130 to 140F is where bearings cook and the capacitor runs hot. Air handlers of that vintage also used a belt driven fan rather than a direct shaft motor, and whether the replacement is a direct drive unit or the whole blower assembly changes what the job involves.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on and no air comes out of the vents, what is it?",
+          "a": "Motor, capacitor or the control board, and on a machine of this age the order of likelihood is exactly that. A fan with no sound at all usually means the capacitor, and that is also the cheapest part on the system. A fan that runs while the outdoor unit never starts points somewhere else entirely, so the blower is not the part at fault."
+        },
+        {
+          "q": "A grinding noise from the air handler, what does it mean?",
+          "a": "A bearing going on the motor or on the fan shaft. It changes with speed and it gets worse over weeks rather than days. A motor that is grinding also pulls more current than it should, and that is what drags the capacitor down with it. Switch it off rather than listening to it through another season."
+        },
+        {
+          "q": "The blower only comes on at the high setting, why?",
+          "a": "The relay, the fan speed switch or the control board is the usual answer rather than the motor, since the motor handles the higher output without complaint. On an old installation with a speed switch, that switch carries the current and it sees the heat. It is an inexpensive part and worth replacing while the motor is out."
+        },
+        {
+          "q": "Why do the motor and the capacitor usually fail at the same time?",
+          "a": "The run capacitor is what gives a motor its start push, so the two are linked. A motor running hot for years draws more current than the capacitor is built to supply, and a weak capacitor makes the motor start hard, which makes it run hot. Either one can go first and take the other with it. Replacing the motor on its own leaves half the job undone."
+        },
+        {
+          "q": "My blower is from the 1950s and the fan is belt driven, does that change the repair?",
+          "a": "It does. The 1950s handlers in these Bellaire ranch houses used a motor and a separate fan assembly on a belt, and those parts are not interchangeable with what goes on a modern machine. A retrofit to a direct shaft motor is one job and replacing the whole blower assembly is another, and the choice depends on the housing and the coil around it. Say the vintage of the unit when the request goes in, because it decides the parts before anyone arrives."
+        },
+        {
+          "q": "How much does blower motor repair cost in Bellaire?",
+          "a": "The figure turns on what has to be reached to get at the motor, whether the capacitor and the relay come with it, and whether the housing is in good enough shape to take a new motor. A 1940s or 1950s ranch on a small Bellaire lot often has the handler in an attic hatch with stored items stacked around the housing, and that labor is part of what the quote covers. Ask for all three of them to be priced as one line rather than one at a time."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the attic or closet handler running at 130 to 140F, and the 1950s belt driven fan whose parts are not interchangeable with a modern motor. One covers what moves the cost."
+    },
+    "thermostat-installation": {
+      "intro": "A thermostat swap takes minutes when the wiring behind the plate matches what the new unit expects, and much longer when it does not. That is the usual case in Bellaire, because the thermostat on the wall may already have been changed twice and the wire set behind it fits neither of the manuals. Whoever takes the job identifies the wiring, matches the thermostat to the system, and proves both heating and cooling before leaving.",
+      "localNote": "A house framed between the 1940s and the 1970s may have had a mechanical dial fitted first, then a digital unit, then something else, and every one of those leaves a different set of wires behind the plate. On a small lot the air handler is often close by in a closet rather than a long attic run, which is the one thing that makes a retrofit cheap here. The summer supply inside the 610 loop is worth mentioning as well, because a thermostat that loses power loses the schedule with it.",
+      "faqs": [
+        {
+          "q": "Can I replace the thermostat myself?",
+          "a": "Often, provided the new unit suits the equipment and you are comfortable with a screwdriver and a phone camera. What derails these jobs is a wire set the manual does not describe. Photograph and label every wire before the old unit comes off the wall, and never force a wire into a labelled terminal."
+        },
+        {
+          "q": "Why does a digital thermostat need a C wire when the old dial did not?",
+          "a": "An old dial thermostat took the little bit of power it needed from the same wires that told the equipment to run. A digital or smart unit needs a steady supply of its own, and the common wire is what carries it. Where the wire is missing it has to be run back to the equipment, and that run is the part of the job that decides how long the visit takes."
+        },
+        {
+          "q": "The schedule on my thermostat is ignored, what should I check?",
+          "a": "Look at the mode first. A thermostat left on heat through a warm stretch ignores everything else. Then check that the schedule is actually saved and turned on, and that the batteries are fresh, since many of them drop the schedule when the power goes. If it still ignores the schedule, the wiring behind the plate is the likely cause."
+        },
+        {
+          "q": "Will a smart thermostat work with my 1960s air conditioner?",
+          "a": "Only if the two match. The thermostat has to suit the system type and the number of stages the equipment runs, and a heat pump needs a unit with heat pump logic rather than a plain cooling model. A thermostat can also be newer than the equipment it sits on, which is fine, but the equipment has to be able to be told what to do. Say what system is in the house when the request goes in, because on these 1940s to 1970s ranches the answer is often that nobody documented it."
+        },
+        {
+          "q": "Where should the thermostat go in a Bellaire ranch house?",
+          "a": "Where the people are, and away from a window that gains the afternoon sun. A ranch house cools quickly once the air starts moving, so a thermostat placed by a west window reads a temperature the rest of the house never feels and calls for cooling that is not needed. In these houses the return grille is often in the middle of the floor plan, which is worth knowing when the thermostat is being placed."
+        },
+        {
+          "q": "How much does thermostat installation cost in Bellaire?",
+          "a": "The thermostat itself is the cheap part of the job. The figure turns on whether the wiring behind the plate has to be corrected first, whether a common wire has to be run to the air handler, and whether a smart unit needs to be connected and set up. A straight swap on a wire set that already matches takes very little time. A retrofit onto wiring left by a different installer takes longer, and on these Bellaire houses that is the more likely case."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the mechanical dial, digital and then something else wiring stack in a 1940s to 1970s ranch, and the small lot where the handler is close by in a closet. One covers what moves the cost."
+    },
+    "heat-pump-repair": {
+      "intro": "A single machine handling both jobs means a fault can take out heating and cooling together, or leave one side working while the other dies. The component that flips the direction of the refrigerant, the reversing valve, is the reason a heat pump can heat in July or cool in January. Whoever takes the job works out which side is failing before anything is replaced.",
+      "localNote": "Heat pumps are newer than the housing in Bellaire. A square mile of ranch houses built between the 1940s and the 1970s mostly carries separate cooling equipment, and the heat pumps that do appear went in later, often onto ductwork that was laid for something else. The attic still matters, because at 130 to 140F the defrost cycle has less margin, and the supply inside the 610 loop dips during the summer peaks that leave a compressor working hard.",
+      "faqs": [
+        {
+          "q": "There is ice on my heat pump outdoor unit in the warm months, is that normal?",
+          "a": "Ice that shows up in July or August is not something a heat pump should be doing. It usually means the charge is short, a line is pinched, or the reversing valve has stuck between positions, and an outdoor coil that cannot get air makes each of those worse. In Bellaire an outdoor unit sits under an oak on a lot too small to give it much clearance, so the coil face is often part of the problem. Turn the system off and give it time to thaw rather than running it back into the ice, and mention the puddle that comes off afterward when the technician arrives."
+        },
+        {
+          "q": "The heating works but the cooling does not, what does that tell us?",
+          "a": "It narrows the fault a long way. A machine that heats but will not cool usually has its fault in the reversing valve or the refrigerant side. One that fails in both directions at once points at the control board or the electrical supply instead. That distinction is what makes the diagnosis fast, and saying which modes still work saves time on the visit."
+        },
+        {
+          "q": "My heat pump is stuck in one mode and will not change over, what causes that?",
+          "a": "The reversing valve is the component that redirects the refrigerant, and one that is stuck leaves the system sitting in whichever mode it was in, whatever the thermostat asks for. It can also be the changeover control, or a schedule in the thermostat that was never changed. Reversing valves are not a weekend job."
+        },
+        {
+          "q": "Why does my backup heat run all the time?",
+          "a": "Because the heat pump side is not carrying the load. Electric strips take over the whole job when the outdoor unit cannot deliver, which shows up on the mild mornings after a warm week as much as on the cold ones. It also shows up when the thermostat calls for heat continuously, so both the equipment and the schedule get looked at. On a Bellaire ranch with a 1950s panel and no updated service, the strips are also drawing more than that panel was ever built to carry, and that is worth checking."
+        },
+        {
+          "q": "Does the humidity make a heat pump work harder?",
+          "a": "Yes. On the cooling side the coil has to pull moisture out of the air, and heavy moisture means more condensation on the coil and a bigger load on the system. That water has to drain away, and in the warm months the same outdoor coil has to shed heat while it does it. It is doing two jobs in this climate, and both the coil and the drain get checked on the visit."
+        },
+        {
+          "q": "Is a heat pump a good fit for a Bellaire ranch house?",
+          "a": "It can be, but most of these houses carry separate cooling and heating, so a heat pump means new equipment rather than a swap. The questions worth asking are what the ductwork looks like after fifty years, whether the panel can carry the load, and whether there is still space for an outdoor unit on a lot this small. What moves the cost of a repair is which side of the system the fault sits on and what the refrigerant on the nameplate says."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the heat pumps being newer than the 1940s to 1970s housing and the 130 to 140F attic leaving less defrost margin, and the summer dips on the 610 loop. One covers what moves the cost."
     }
   }
 }

@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "An air conditioner that runs but does not cool is one of the most misdiagnosed calls in this trade, because from the thermostat it looks like the system is working. The compressor may be turning while the system is starved of refrigerant, starved of airflow over a frozen coil, or waiting on a control that never lets it commit to a cycle. The difference matters, because topping off a system that has a leak or a dirty coil is not a repair, it is a postponement with an invoice. Diagnosis is the whole job on this page.",
   "whatHappens": [
     "Checks the filter and the airflow before anything else",
@@ -10,27 +11,27 @@
   "howPriced": "Diagnosis decides the bill on a not-cooling call, because the same symptom can end in a filter change, a coil cleaning, a leak repair, or a replacement. The variables that move the final number are access to the outdoor and indoor units, time of day, the parts the readings point to, and whether the equipment is worth repairing or the honest answer is a replacement. If the system is old and the fault is expensive, you get a straight comparison of both paths rather than one option presented as the only one.",
   "faqs": [
     {
-      "q": "why is my ac running but blowing warm air",
+      "q": "Why is my AC running but blowing warm air",
       "a": "The fan and the compressor can both be running while the system fails to move heat, which is why the thermostat still says it is cooling. Common causes are a low refrigerant charge, an evaporator coil frozen over from restricted airflow, a failing compressor that is not pumping, or a reversing and control problem. The readings separate those cases, and the readings are what the technician takes first."
     },
     {
-      "q": "do I just need to add freon to my ac",
+      "q": "Do I just need to add freon to my AC",
       "a": "If the system is low on refrigerant and holding it, maybe. If it has been losing refrigerant over months, adding gas treats the symptom and the system will be low again within weeks. A proper check is to recover the charge, verify how much should be there, and look for the leak before anything goes back in. That is the difference between a recharge and a repair."
     },
     {
-      "q": "how much does it cost to fix an ac that runs but does not cool",
+      "q": "How much does it cost to fix an AC that runs but does not cool",
       "a": "It ranges from a quick cleanup to a full replacement depending on what the readings show, so any number quoted before the diagnosis is only an estimate of the visit itself. The cost drivers are the parts involved, how long the diagnosis takes, how hard the equipment is to access, and whether the system is worth repairing at that age. The technician should give you the finding and the price for that finding before starting."
     },
     {
-      "q": "should I keep turning the thermostat down when the ac is not cooling",
+      "q": "Should I keep turning the thermostat down when the AC is not cooling",
       "a": "No. Lowering the setpoint does not make a system that is starved of refrigerant or airflow cool harder, and on a frozen coil it makes the freeze worse. Leave the thermostat alone and let the system run. If the coil is icing, turning the system off for a few hours lets it thaw, and then one clean test cycle tells you more than another hour of waiting."
     },
     {
-      "q": "my outdoor unit is running but the house is still hot, is the condenser broken",
+      "q": "My outdoor unit is running but the house is still hot, is the condenser broken",
       "a": "Not necessarily. The condenser being on means the compressor has been told to run, not that it is moving heat. Ice on the line set, a dirty coil, low charge, or a compressor that spins without pumping all produce a running unit and a warm house. It takes measurements to tell which one you have, which is why the diagnosis is the job and not a quick look."
     },
     {
-      "q": "can I fix an ac that runs but does not cool myself",
+      "q": "Can I fix an AC that runs but does not cool myself",
       "a": "You can rule out a few causes yourself. Change the filter, set the thermostat to fan only and confirm air moves, and check that the outdoor unit has not been shut off at a disconnect beside it. Past that, the diagnosis needs gauges and a leak detector. If the refrigerant is low, putting more in without finding the leak is how you get called back in a month."
     }
   ],

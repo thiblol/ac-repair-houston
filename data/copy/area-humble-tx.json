@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Humble sits at the north edge of the metro on the far side of the beltway, and most of the houses here came out of the 1970s and 1980s. The equipment in them was undersized when it went in and it is now well past the point where it should have been replaced. That combination is the reason for most calls out here.",
   "localAngle": "The story in Humble is not corrosion and it is not salt. It is capacity. Homes here were built on smaller budgets, with equipment that was undersized from the first day so the power bill stayed manageable. Twenty years of added insulation changes, more people and closed-off bedrooms have raised the load without changing the outdoor unit. So the compressor runs nearly flat out from early morning, the condenser never gets a break, and failure comes as a seized compressor or a tripped breaker rather than a gradual decline. The oaks around Fall Creek and Eagle Lake add the usual litter, but the size is the real defect.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "What should I do while I wait for a technician?",
           "a": "Set the thermostat to fan only so air moves through the house, and leave the breaker alone if it has tripped. If the outdoor unit is silent, do not keep cycling the system trying to restart it. Note what the unit does when it starts, because that observation shortens the diagnosis considerably."
-        }
-      ],
-      "_faqsNote": "3 FAQs. Local: seized compressors on undersized units, older electrical services in north Houston."
-    },
-    "same-day-ac-repair": {
-      "intro": "A Humble house that will not get down to setpoint in the afternoon is a capacity problem that usually needs more than a same-day visit. Some of these calls are simply a dirty coil, a clogged filter and an overworked compressor. The technician who takes the job needs to check airflow and amp draw, then be honest about whether more cooling can be found.",
-      "localNote": "The cheap fixes and the expensive ones are both common here. A condenser blocked with oak and pine litter, a filter that has not been touched in a year, and an outdoor unit sitting in the sun with no shade are all present in the same yard. Any one of them will make an undersized system look worse than it is. Cleaning the coil and changing the filter first tells you how much of the problem is actually capacity.",
-      "faqs": [
-        {
-          "q": "Is my Humble AC too small for my house?",
-          "a": "That is the question most of these visits end up answering. You can get a rough idea by watching how the system behaves in the afternoon heat. If it runs for hours without reaching setpoint, the capacity is the issue. A load calculation gives you the number and also shows whether the duct system can move the air that number requires."
         },
         {
-          "q": "How much does a dirty filter affect cooling?",
-          "a": "A lot more than most people expect. The filter sits in the return path, and a clogged one chokes the airflow over the indoor coil. The coil gets colder, moisture freezes on it, and the system blows warm air. On a marginal system the effect is dramatic. Changing the filter is the cheapest thing on the list and it should be done first."
+          "q": "What changes the price of an emergency AC repair in Humble?",
+          "a": "The fault decides most of it and the age of the equipment decides the rest. A failed capacitor or a pitted contactor on a unit with life left in it is a short visit with small parts. A seized compressor on 1970s stock means the part has to be located first, and if that unit holds a refrigerant that is no longer produced for new equipment, the recovery and handling of that gas is its own step in the job. Labour moves with how hard the outdoor unit is to reach and how much of it has to be opened up."
         },
         {
-          "q": "Should I add a second zone instead of replacing the system?",
-          "a": "It is a real option in some of these houses, especially where the finished space is spread over two floors and the duct run is long. It also leaves the undersized main system in place, which is the part causing the long run times. The load calculation and the duct layout decide whether zoning solves the problem or hides it."
+          "q": "Will an emergency repair on my old Humble unit actually hold through the summer?",
+          "a": "Sometimes, and the honest version depends on what failed. A capacitor and a contactor replaced on a system that is otherwise sound can hold for the rest of the season. A compressor that went on an outdoor unit that was undersized from the first day is a different answer, because that unit goes straight back to running flat out and it is the hardest working part of the system again by the next hot week. The load calculation is what tells you which kind of repair you are buying."
+        },
+        {
+          "q": "Does the summer power supply in Humble affect emergency AC calls?",
+          "a": "It does, and it is part of why so many of these calls land in the first hot week. The supply in this part of Harris County sags and comes back during the afternoon peak, and a contactor with pitted contacts does not close cleanly when the voltage dips. On a unit that was undersized from the start and has an attic sitting at 130 to 140 degrees above it, the compressor is also doing its hardest work at start-up, which is exactly when a voltage dip does the most harm. The supply and the capacitor get checked before anything else is replaced."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: undersized systems in north Houston housing, dirty filters on marginal units, zoning as an option."
+      "_faqsNote": "6 FAQs. Local: sealed compressors on 1970s undersized units, the 130 to 140F attic, and the summer supply sagging in this part of Harris County."
     },
     "ac-not-cooling": {
       "intro": "Running and blowing warm air in Humble is most often a system at the end of its useful life, being asked to do more than it ever did. The technician who takes the job needs to check the charge, the airflow and the compressor condition before deciding whether there is anything left worth fixing. It is a normal call in north Houston and a normal one to be given a clear answer.",
@@ -97,9 +91,21 @@
         {
           "q": "Can a bigger system fix an undersized one?",
           "a": "Only if the ductwork can handle the extra air. Simply dropping a larger outdoor unit onto an existing duct system makes the static pressure worse and the coil will freeze sooner. The unit and the duct design have to be sized together, which is why the load calculation includes the air path and not only the tonnage."
+        },
+        {
+          "q": "What decides what I pay to fix a Humble system that runs but never cools?",
+          "a": "What moves it is what is actually wrong and how many separate faults the visit turns up. A blocked return and a filter that was never changed are a short visit. A condenser packed with oak and pine from the trees around Fall Creek needs a coil clean, and that is mostly labor. A system short of refrigerant on 1970s stock also carries the recovery of an older refrigerant type, and that is a step of its own. If the unit turns out to be undersized, a repair buys a season rather than a fix, and the load calculation is what says so before any part gets quoted."
+        },
+        {
+          "q": "Is a repair worth it on a Humble unit that was undersized from the start?",
+          "a": "Sometimes the fault is a single part and the rest of the system is sound, and in that case the repair holds. If the unit has been short of capacity since it went in and has already had a compressor or a capacitor replaced once, a second failure is likely rather than unlucky, and the money is going into a machine that never had the capacity for the house as it is now. The load calculation separates those two cases, and it is worth having before the next failure instead of after it."
+        },
+        {
+          "q": "Does the attic heat above my Humble house make the cooling worse?",
+          "a": "It does when the air handler is up there. Through the summer the attic over these houses sits at 130 to 140 degrees, and a blower motor and a capacitor working in that heat run at the top of their range for months. A coil that gets cold enough to freeze has no cool air around it to thaw it, so it stays frozen until the system is switched off. A closet or garage location gets some conditioned air back and behaves differently in the same weather."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: short-cycling on undersized units, litter on the condenser, duct capacity limits."
+      "_faqsNote": "6 FAQs. Local: oak and pine fouling under the Fall Creek trees, the 130 to 140F attic above the handler, and short cycling on units that were undersized in the 1970s."
     },
     "ac-repair": {
       "intro": "The repair list in Humble is the same one found across the older parts of north Houston: aged capacitors, pitted contactors, failed blower motors and refrigerant leaks in old copper. The difference is that the machine underneath is already the wrong size for the house. We connect you with a company that covers north Houston so that gets said plainly.",
@@ -116,9 +122,21 @@
         {
           "q": "Is it normal for an old outdoor unit to be rusted?",
           "a": "Rust at the base pan is common this far north because of the humidity and the standing water, not because of salt. It matters more than it looks, because the same damp works on the electrical connections and the capacitor. When the base pan is wet and the connections are green, the electrical faults come back no matter how many capacitors you replace."
+        },
+        {
+          "q": "Can I get an AC repair in Humble on the same day I report it?",
+          "a": "It depends on the fault and on when the request goes in, and nobody can promise a slot. Humble sits north of Beltway 8, so a call here is already a longer run than a house inside the loop, and a report sent early in the morning has a better chance of landing that day than one sent after lunch. A capacitor, a contactor or a breaker on a 1970s system is small-part work a technician can carry. A compressor or a coil on a unit that old is a parts question, and the part has to be located before anyone starts. Say what the outdoor unit is doing when the report goes in, because that is what tells the company covering Humble whether a same-day visit is realistic."
+        },
+        {
+          "q": "How does the age of my Humble AC affect what a repair costs?",
+          "a": "It changes three things at once. The parts for a unit that went in during the 1970s are harder to source than the generic ones, so a failed capacitor is easy to replace and a failed coil or blower assembly may not be. The refrigerant on the nameplate decides whether old gas has to be recovered and how that part of the job is handled. And the labor moves with how much has to be opened up, because a cabinet that has stood in this humidity for thirty years comes apart with corrosion in the electrical compartment rather than cleanly. What moves the overall price is the fault, the parts, and whether the visit has to be repeated because something was not on the truck."
+        },
+        {
+          "q": "The technician says my Humble unit is undersized. Will a repair still help?",
+          "a": "It helps and it does not fix it, and the honest answer is both. A capacitor, a contactor or a charge gets the system cooling the way it was built to cool, which on a 1970s house was never quite enough. If the unit was undersized from the start, the load has only grown since, so the repair restores an older level of performance rather than a comfortable one. The load calculation is what separates a repair that holds from a repair that buys a month, and no company can promise which one this is before the unit is open."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: repeat repairs on undersized north Houston units, humidity corrosion in the base pan."
+      "_faqsNote": "6 FAQs. Local: the same-day question built on Humble sitting north of Beltway 8 and on the age of the 1970s stock, plus repeat repairs on units that were undersized and humidity corrosion in the base pan."
     },
     "ac-installation": {
       "intro": "Replacement installations in Humble are where the sizing conversation matters most. The house has changed more than the equipment has. We connect you with an installer who covers north Houston so the load calculation describes the home as it is, including the rooms that were finished later and the rooms that were closed off.",
@@ -135,9 +153,21 @@
         {
           "q": "Should I replace the ducts at the same time?",
           "a": "That depends on what the ducts are like. If the system has been running for thirty years with a filter change a year, the flex duct has probably sagged and the returns may be undersized. The technician measures the static pressure to find out. If the pressure is already high, a new unit on the old ducts will be short on air from day one."
+        },
+        {
+          "q": "What moves the price of a new AC installation in Humble?",
+          "a": "Three things, and none of them is the price tag on the equipment. The ductwork is the first, because flex runs that have sagged for three decades in a 1970s house need rebuilding before a new unit can move the air it is rated for. The electrical service is the second, since a panel installed for a much smaller load may need work before a modern outdoor unit goes on it. The third is the refrigerant in the old unit, which has to be recovered and handled properly, and that changes what the teardown involves. Ask for the quote to separate the equipment from the work around it, because that is the only way two quotes can be compared."
+        },
+        {
+          "q": "Is it a mistake to size a new system for the house as it is now rather than as it was built?",
+          "a": "No. The house changed and the equipment did not, which is the whole reason the old system runs flat out. A 1970s frame with a finished back bedroom, a converted garage and a closed-off room at the end of the hall holds more heat than the plan it was framed to, and the addition is exactly what the old unit was never matched to. The load calculation describes the house you live in, and the ductwork has to be able to deliver what it calls for. Sizing it back to the original floor plan just repeats the mistake the house already made once."
+        },
+        {
+          "q": "Does the summer power supply in Humble affect what I should install?",
+          "a": "It does, and the detail is worth raising before anything is ordered. The supply in this part of Harris County sags during the afternoon peak, and an outdoor unit does its hardest work at start-up. A new compressor on a panel that cannot deliver cleanly at that moment is starting hard on the first hot afternoon, and a contactor that closes on a collapsing voltage is a part that was already failing. The panel and the circuit get checked alongside the equipment, because that is the part of the job that cannot be changed after the unit is set down."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: 1970s framed homes with later additions, condenser siting on small lots, duct condition."
+      "_faqsNote": "6 FAQs. Local: 1970s framed homes with later additions, condenser siting on small lots, duct condition, and the summer supply sagging in this part of Harris County."
     },
     "ac-replacement": {
       "intro": "Humble is where replacement makes the most sense, because the equipment is old and undersized at the same time. The technician who takes the job should read the nameplate for the refrigerant, check the electrical panel and give you a load calculation for the house as it is now. That is three pieces of information you need before any quote means anything.",
@@ -154,9 +184,300 @@
         {
           "q": "Does the electrical panel need upgrading for a new AC?",
           "a": "Sometimes, and it depends on what the panel has and what the new equipment draws. A modern outdoor unit draws more at start-up than the one it replaces, and the service on a house from the 1970s was installed for a much smaller load. The technician checks the panel and the circuit before the equipment goes down, because that is the part that cannot be changed once the unit is set."
+        },
+        {
+          "q": "What moves the cost of replacing an AC system in Humble?",
+          "a": "The refrigerant on the old nameplate is the first thing, because the 1970s and 1980s stock in this part of Harris County mostly runs a gas that is no longer produced for new systems, and recovering it is part of the job rather than an extra on it. Whether the ducts and the air handler can stay depends on what thirty years of flex duct has done to them. And the electrical service decides whether anything can be connected without work first. None of that is visible on a price list, which is why a quote that names the refrigerant, the ductwork and the panel is a quote you can compare with another one."
+        },
+        {
+          "q": "Will replacing the system actually fix the problem, or will it fail the same way again?",
+          "a": "It fixes the problem when the problem was size. An undersized unit that ran flat out for twenty summers is what put the compressor and the capacitor where they are, so a system sized for the house as it is now ends that pattern instead of repeating it. It does not fix a problem that was never about capacity, and a replacement is not a substitute for checking the panel, the air path and the refrigerant. Nobody can promise the outcome before the equipment is open and the load calculation is done."
+        },
+        {
+          "q": "My old Humble unit has been running for twenty years. How long should a replacement last?",
+          "a": "That depends on what the old unit was doing, not on the calendar. A system that was undersized from the start and ran without stopping through every summer did not get a normal life, so its age is not a fair guide to how long a correctly sized system would have lasted. A unit installed on a proper load calculation, with ductwork that can carry the air and a panel that holds on a sagging supply, is a different piece of equipment running under different conditions. The maintenance history on the old unit is the useful number here, not the year it went in."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: undersized north Houston systems, R-22 in older stock, electrical service limits."
+      "_faqsNote": "6 FAQs. Local: undersized north Houston systems, R-22 in 1970s stock, electrical service limits, and what a replacement buys against the old summer pattern."
+    },
+    "ac-maintenance": {
+      "intro": "A maintenance visit is a check-up before the stretch of summer a Humble house has to get through, not a repair after something breaks. The technician who takes the job looks at the coil, the filter, the drain and the electrical parts while the system is still running. Most of what these visits turn up is small, and small is the entire point of doing it early.",
+      "localNote": "The same conditions that make Humble hard on this equipment are what make a spring visit worth booking. Oak and pine litter from the trees around Fall Creek and Eagle Lake packs against the outdoor coil, and an undersized system already runs nearly flat out to hold the house. The attic in many of these houses sits at 130 to 140 degrees, which is hard on the motor and the capacitor, and the summer power grid in this part of Harris County is not always steady.",
+      "faqs": [
+        {
+          "q": "When should I get a tune up in Humble?",
+          "a": "Before the first hot stretch, not after it. The system has been idle through a mild winter and the outdoor coil has collected a season of oak and pine litter in the meantime. A spring visit gives the technician time to clean the coil and catch a weak capacitor before a July afternoon."
+        },
+        {
+          "q": "What does an AC maintenance visit actually check?",
+          "a": "Filter and airflow first, then the coil condition, the drain line, the capacitor, the contactor and the current the compressor draws against its rating. The amperage reading is the one that tells the most, because it shows whether the compressor is working hard or not."
+        },
+        {
+          "q": "Does my AC really need maintenance if it still cools the house?",
+          "a": "It cools because the compressor has not failed yet, not because the system is healthy. On a unit that was undersized from the start in one of these 1970s houses, the small faults are what bring the large one forward."
+        },
+        {
+          "q": "Why does my AC run all day even before the worst heat of summer?",
+          "a": "Three things stack up here. The unit was undersized when it went in, the coil is packed with litter, and the attic above the house is already at 130 to 140 degrees. The system works flat out to hold the temperature and the compressor never gets a break."
+        },
+        {
+          "q": "Does the summer power supply in Humble affect the AC?",
+          "a": "It can. Voltage sags on the summer grid in this part of Harris County make a compressor hard to start, and a contactor that has pitted over the years will not close cleanly when the voltage dips. Checking the supply and the capacitor before the hottest weeks is cheaper than replacing a compressor in August."
+        },
+        {
+          "q": "How much does an AC tune up cost?",
+          "a": "The things that move it are how much the coil needs, whether the capacitor and contactor are worn out, and whether the refrigerant is a discontinued type. A maintenance visit is not priced by the repair that might follow it. Ask what was found and what was left alone."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: oak and pine litter, 1970s undersized units, attic at 130 to 140F, summer grid sags."
+    },
+    "condenser-repair": {
+      "intro": "The outdoor unit does the hardest work in a Humble summer and it is the part standing in the weather with oak and pine litter dropping on it. Condenser work covers the fan motor, the capacitor, the contactor, the coil and the cabinet. It is worth keeping separate from compressor work, because the two have different repairs and different costs.",
+      "localNote": "Humble is inland, so the corrosion on these cabinets comes from years of humidity and standing water in the base pan rather than from anything carried in on the air. The unit is also undersized for the house it serves, which means it runs hot with no margin, and the power on the summer grid in this part of Harris County sags at exactly the hour the unit is working hardest.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but will not start, what is wrong?",
+          "a": "The contactor or the capacitor is the usual answer, and a voltage sag on the summer grid can keep a contactor from closing cleanly. The fan motor is the third thing checked. A humming unit with no compressor sound is worth a technician visit rather than another reset."
+        },
+        {
+          "q": "What does a failing outdoor unit sound like?",
+          "a": "Rattling from the cabinet means a loose panel or a fan blade catching the coil. A buzzing that stops the moment cooling is called for points at the contactor. Grinding or squealing from the top of the unit is the fan motor bearings. Each noise sends the diagnosis somewhere different."
+        },
+        {
+          "q": "Is a rusty outdoor unit in Humble a sign that it needs replacing?",
+          "a": "No. Humble is far enough inland that the rust on these cabinets comes from humidity and standing water in the pan over many years rather than from coastal spray. It matters because the same damp reaches the electrical connections, but a corroded cabinet on an otherwise sound unit is not by itself a reason to replace the system."
+        },
+        {
+          "q": "Can I clean the condenser coil myself?",
+          "a": "Gently, yes, and it is worth doing before the season starts. Use a soft brush and a low-pressure hose. A pressure washer bends the fins, and once they are bent the coil holds less air than it did before you touched it."
+        },
+        {
+          "q": "Why does my outdoor unit stop working in the hottest part of the day?",
+          "a": "A unit that runs fine at nine in the morning and quits at four has run out of margin, which points at the coil first and the compressor second. The same pattern shows up here because the system was undersized from the start and the attic above it is already sitting at 130 to 140 degrees."
+        },
+        {
+          "q": "How much does condenser repair cost?",
+          "a": "What moves it is which part failed and whether the compressor behind it is still sound. A capacitor and a contactor are small parts on a long labor job. A fan motor and a cleaned or rebuilt coil is a different order of work, and if the compressor turns out to be weak then the condenser repair is not the whole conversation."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: inland humidity corrosion instead of spray, oak and pine fouling, attic heat, undersized unit."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump at the middle of the system, and when it fails everything downstream feels it. On a Humble house the question is rarely just how to fix this one part, because the outdoor unit was undersized when it went in and the summer it could not handle is part of why the compressor is damaged. The technician who takes the job explains which of those two problems the work is addressing.",
+      "localNote": "The failure pattern here is set by how the house is built, not by how it has been maintained. A system that ran at high load for years in extreme humidity with a coil packed with oak and pine litter keeps its compressor hot. When the power sags on the summer grid the compressor is also doing the hardest work at start-up, which is where hard starting usually shows up.",
+      "faqs": [
+        {
+          "q": "Can a seized compressor be rebuilt or does the unit have to be replaced?",
+          "a": "A seized or burned compressor is almost always a replacement rather than a rebuild. The more useful answer is what put it there, because a new compressor dropped into a system with a fouled coil and a low charge fails the same way. Asking what changed in the months before the failure usually finds it."
+        },
+        {
+          "q": "Is my compressor short cycling because it is failing or because it is too small?",
+          "a": "An undersized system short cycles because it cannot keep up with the load, and the compressor is working harder for it. A failing compressor short cycles because it is losing capacity. The two show differently on the readings, since current draw and pressure behave in different ways, and the technician who takes the job can separate them on site."
+        },
+        {
+          "q": "Why does my AC hum but the compressor never kicks in?",
+          "a": "A hum with no compressor sound points at the contactor, the capacitor or the windings, and the capacitor is the one that fails most often in this humidity. A voltage sag on the summer grid can also keep the contactor from closing cleanly. It is a short list of checks and each one is quick."
+        },
+        {
+          "q": "Is it worth replacing just the compressor on a 1970s unit in Humble?",
+          "a": "Sometimes, and the deciding number is the age of the unit rather than the age of the compressor. These houses were built on a 1970s budget and the equipment in them is twenty years past due. A compressor in an old undersized system is often the last part to fail, not the only one."
+        },
+        {
+          "q": "What kills compressors faster in Humble?",
+          "a": "Three conditions together. Extreme humidity with a coil that cannot shed heat because it is packed with oak and pine litter, a compressor running at high load because it was undersized, and power sags during the summer peaks that make starting hard. Take any one of those away and the compressor gets a longer life."
+        },
+        {
+          "q": "How much does it cost to replace a compressor?",
+          "a": "What moves the number is whether the compressor alone is being replaced or the outdoor unit with it, the refrigerant type listed on the nameplate, and whether the line set and the electrical service can stay as they are. A quote that names the refrigerant and the electrical side is a quote you can compare with others."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 1970s undersized systems, oak and pine fouled coil, summer voltage sags, nameplate refrigerant."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A system that needs refrigerant every few months has a leak, and topping it up without finding it buys a few months of comfort. The work splits into three parts: finding where the gas is escaping, repairing that point, and then putting the charge back where it belongs. The technician who takes the job should say which of the three the visit actually covered.",
+      "localNote": "The attic is where most of these leaks live in Humble. Line sets run through space that sits at 130 to 140 degrees for months, and that heat works on the joints and on the insulation around them. Humidity in this part of Harris County is high enough to work on the outdoor coil and on the copper where it is exposed, and the summer grid adds pressure swings on top of that.",
+      "faqs": [
+        {
+          "q": "How do I find out where my AC is leaking refrigerant?",
+          "a": "Look for the evidence before the technician does. An oily mark or a dark stain on a line or a coil is where the oil left with the gas. A hissing sound near the outdoor unit is another sign. Refrigerant carries oil with it, so a leak tends to paint its own marker."
+        },
+        {
+          "q": "Why does my system lose refrigerant over the summer?",
+          "a": "Heat does most of the work. The lines and joints expand and contract with the temperature swing, and the higher the pressure the more a weak joint gives. The attic sits at 130 to 140 degrees in Humble, so a line set running through it works harder than one tucked through a closet."
+        },
+        {
+          "q": "Is it cheaper to just recharge the system again?",
+          "a": "It costs less today and the same call comes back. The gas does not get used up, it leaves. If the leak is at a fitting near the compressor, a recharge buys months. If the leak is at the service valve, it buys days, and the refrigerant you paid for goes out through the same opening."
+        },
+        {
+          "q": "What refrigerant does my Humble air conditioner use?",
+          "a": "The outdoor unit nameplate lists it, and that is the answer every time. The 1970s and 1980s stock in Humble mostly ran R-22, which is no longer made for new equipment, while the 2000s homes generally run the newer type. The type changes the cost of the visit and what can be put back in."
+        },
+        {
+          "q": "Does a refrigerant leak damage the compressor?",
+          "a": "It can, because the oil travels with the refrigerant and the compressor needs both. A system that has been low for months can have a compressor worn from running without lubrication. That is why a leak search and a charge are done together rather than as a top-up."
+        },
+        {
+          "q": "Can a system with old refrigerant still be repaired?",
+          "a": "Yes, and the repair can be done. What changes is the cost and the availability of the gas. Recovering refrigerant is required by law, so the visit includes handling it properly, and a discontinued type has a different supply situation from the current one. Ask what the nameplate says before comparing one quote with another."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic at 130 to 140F, high humidity on exposed copper, R-22 in 1970s stock, nameplate."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement, not a refill. The technician who takes the job weighs in the charge the nameplate calls for, then reads superheat and subcooling to confirm the system is holding what it should. Those two readings are what separate a system that is right from one that merely feels cool.",
+      "localNote": "A recharge in Humble often happens on a unit that was just installed in one of the newer 2000s houses, where the complaint is that the system is not cooling the way it was supposed to. The readings also tell you whether an undersized outdoor unit is working as hard as it can and still losing ground, which is the answer most of these houses actually need.",
+      "faqs": [
+        {
+          "q": "How do you know how much refrigerant to put in?",
+          "a": "The outdoor unit nameplate carries the factory charge for that model. The technician weighs what goes in and then reads superheat and subcooling at the lines. If the readings do not match, the charge is adjusted until they do. Eyeballing a gauge is not a measurement."
+        },
+        {
+          "q": "My new AC was installed last month and it does not cool as well as expected",
+          "a": "A new system should reach the setpoint and hold it. If it does not, the readings show whether the charge is right and whether the airflow across the indoor coil is right, and those two checks account for most of the complaints on a fresh install in this climate. If the unit is correctly sized and the readings are clean, the answer is the load rather than the refrigerant."
+        },
+        {
+          "q": "Is my system overcharged or undercharged?",
+          "a": "Superheat and subcooling tell you, and they point in opposite directions. A system high on refrigerant can feel cold at the vent and still be starving the condenser, which shows as an outdoor unit running hot. A system low on refrigerant runs long and never holds the temperature."
+        },
+        {
+          "q": "Why does the refrigerant type on the nameplate matter for a recharge?",
+          "a": "The type sets the pressures and it sets what can safely go into the system. The 1970s and 1980s units in Humble mostly run R-22 and the newer ones run a different type, and the two do not mix. Putting the wrong one in is not a shortcut. It damages the compressor and it cannot be recovered back out."
+        },
+        {
+          "q": "Does a recharge fix an AC that is not cooling?",
+          "a": "It fixes the problem only when the charge is the problem. Fouled coils, clogged filters, a weak compressor and an undersized unit all produce the same complaint, and gas added to any of them does nothing except hide the fault and cost more. Readings come before any gas goes in."
+        },
+        {
+          "q": "How much does a refrigerant recharge cost?",
+          "a": "The number moves with the type of refrigerant, whether it was charged correctly last time, and whether the visit includes recovering the gas that comes out. A system on a discontinued refrigerant costs more to service than one on the current type, and an unrepaired leak adds a second visit to the same job."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 2000s housing installs, nameplate refrigerant types, undersized units losing ground, readings in humidity."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The indoor coil is where the cold is made and where the humidity comes out of the air. Cleaning it, repairing a leak in it, and replacing it are different jobs, and the first question is always why it fouled, because a coil that is dirty now will be dirty again within a season. The technician who takes the job works on the coil and the air path around it together.",
+      "localNote": "Humidity is the whole story for this coil. The air in this part of Harris County carries a heavy moisture load, so the coil runs wet, and a filter that is even part way clogged drops the airflow across it and the wet surface starts to freeze. An attic unit has no cool air around it to thaw a freeze, and the attic in Humble runs at 130 to 140 degrees.",
+      "faqs": [
+        {
+          "q": "Why does my AC freeze up and then stop cooling?",
+          "a": "The coil is icing over because the airflow across it is too low or the charge is short. The freeze cuts off the air, the air stops moving, and the coil cannot thaw. A clean coil that freezes again next week has not been fixed. Ask what is causing it to come back before anyone cleans anything."
+        },
+        {
+          "q": "What is the green or grey slime on my AC coil?",
+          "a": "That is microbial growth on a wet coil, and in this humidity it appears fast. It smells musty and it travels through the house with the air. The coil has to be cleaned and the drain has to run clear, otherwise it comes back within a season."
+        },
+        {
+          "q": "Why is there water sitting in the pan under my indoor unit?",
+          "a": "The coil is making more water than the drain line can carry, or the line is blocked. The drip line runs through a 130 to 140 degree attic, and the dust that settles on it and on the insulation is what packs the line. Left alone the water backs up and comes out of the vent or the ceiling."
+        },
+        {
+          "q": "Why does my house smell musty when the AC kicks on?",
+          "a": "The coil is wet and the growth on it is what you are smelling, and the smell gets stronger the longer the system runs on a dirty coil. A swampy smell in a humid climate often means the drain line is slow as well, so both get looked at in the same visit."
+        },
+        {
+          "q": "Is a coil in my attic unit in a worse spot than one in a closet?",
+          "a": "It is. The attic in Humble runs at 130 to 140 degrees, and a frozen coil up there has no cool air around it to thaw, so it stays frozen until the system is shut down. A closet or garage install gets some of the conditioned air back and behaves differently in the same weather."
+        },
+        {
+          "q": "How much does it cost to clean or replace an evaporator coil?",
+          "a": "Cleaning is a service call with labor and a coil cleaner. Replacing the coil is a different job, and often the coil is only one part of the unit, so the housing, the drain and the blower get checked at the same time. On a system in one of these older houses the state of the air handler is often what decides between cleaning and replacing."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heavy moisture load, attic at 130 to 140F with no cool air to thaw, drain line fouling."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower motor is what moves the air, and without it the house has cooling equipment it cannot use. A failed blower, a failed capacitor and a failed relay are the three things that come up, and the two cheap ones usually go at the same time as the motor. The technician who takes the job checks the motor and the parts that run it together.",
+      "localNote": "Where the air handler lives matters here. A lot of these north Houston houses have the unit in the attic, and the attic in Humble sits at 130 to 140 degrees in the summer. The motor runs hotter up there, the capacitor runs hotter with it, and stored boxes near the housing cut the airflow that keeps it alive. The blower also works longer in a house where the system is undersized and never stops.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on but no air is coming out, what is it?",
+          "a": "Motor, capacitor or the control board, in that order of likelihood on an older unit. If the fan is completely silent, the capacitor is the usual cause and it is the cheapest part on the system. If the fan runs and the compressor does not, that is a different fault entirely."
+        },
+        {
+          "q": "What does a grinding noise from the attic unit mean?",
+          "a": "A bearing going on the motor or the squirrel cage fan. It can run for a while, but a motor that seizes drags the capacitor and the relay with it. Switch it off and get it looked at rather than listening to it through another season."
+        },
+        {
+          "q": "Why does my blower only work on high speed?",
+          "a": "That points at the relay or the board rather than the motor itself. On a unit sitting in a hot attic the relay is the part that sees the most heat and carries the most current. It is an inexpensive part, but replacing it without the capacitor is how the same fault comes back."
+        },
+        {
+          "q": "Why do the motor and the capacitor fail together?",
+          "a": "The capacitor is what gives the motor its start push. When a motor has run hot and drawn too much current for years, it takes the capacitor with it. It works the other way as well, because a weak capacitor makes a motor start hard and a motor that struggles to start heats up and wears out. Replacing the motor without the capacitor leaves half the job undone."
+        },
+        {
+          "q": "How much does blower motor repair cost?",
+          "a": "What moves it is where the motor sits and what has to be reached to get at it, whether the relay and capacitor are included, and whether the air handler housing is in a condition worth putting a new motor in. An attic install with a tight crawl space and a housing that has corrosion costs more labor than the same motor in a closet."
+        },
+        {
+          "q": "Should I replace the whole air handler instead of just the motor?",
+          "a": "Sometimes it is the better call. If the housing, the drain pan and the coil are all the same age as the motor and the unit is twenty years old, a new motor in an old housing may not outlast the next hard summer. On an undersized system in one of these houses the blower is also the part running all day, so the calculation is worth doing before the motor is ordered."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic installs at 130 to 140F, stored items blocking airflow, blower running all day on undersized systems."
+    },
+    "thermostat-installation": {
+      "intro": "A thermostat is a small part of a system, but it decides when the system runs and when it stops, and a good machine on a bad thermostat never performs the way it should. Swapping one takes an hour once the wire set is understood, and the wire set is where most of these jobs go sideways. The technician who takes the job documents the existing wiring before anything comes off the wall.",
+      "localNote": "Humble homes span the 1970s to the 2000s, and each decade left its own wiring behind, so a thermostat that has been changed twice may sit on a wire set that matches neither manual. Along FM 1960 a lot of these houses have had equipment added over the years, and a smart thermostat fitted over a line voltage system will not work until the wiring is corrected. Humidity helps as well, since a thermostat that can read moisture can hold a house tighter to the dew point than a fixed schedule can.",
+      "faqs": [
+        {
+          "q": "Can I install a smart thermostat myself?",
+          "a": "Often yes, if the new thermostat matches the system and the wires are what the manual expects. The failures come from wire sets that do not match, so photograph and label everything before you start and do not force a wire into a labelled terminal. If the system runs on line voltage, that is a different job."
+        },
+        {
+          "q": "Why does my new thermostat ignore the schedule?",
+          "a": "Most often it is set to the wrong mode, or a delay and anti-cycle feature was left on from the day it was installed. Less often the schedule never reaches the equipment because the wire carrying the call for heat or cool was never connected to begin with. Either way the answer starts with the model number and the manual."
+        },
+        {
+          "q": "Do I need to replace my thermostat along with the AC?",
+          "a": "No, and replacing it will not fix a system that is undersized. A new thermostat makes the equipment run the way it was designed to run, which on a 1970s unit in Humble may mean it runs a great deal longer. It is worth doing alongside other work, but it is not a substitute for a load calculation."
+        },
+        {
+          "q": "How do I know which thermostat will work with my system?",
+          "a": "Compatibility comes down to the system voltage, the wiring it needs and the equipment it talks to. A unit from the 1970s may be line voltage with no low voltage control at all, and a smart thermostat needs a common wire and a dependable connection to the equipment. The model on the air handler label and the wires on the wall answer it."
+        },
+        {
+          "q": "How much does it cost to install a thermostat?",
+          "a": "The simple swap is a short visit. What moves the number is whether the wire set has to be corrected first, whether the existing thermostat is line voltage, and whether a smart thermostat needs to be connected and set up. On a house in Humble with wiring from three different decades the correction is sometimes the larger part of the job."
+        },
+        {
+          "q": "Is a smart thermostat worth it in this humidity?",
+          "a": "It is worth more here than in a dry climate, because it can use humidity as well as temperature to decide when to run, and a fixed schedule lets moisture build up around a set temperature. It still cannot make an undersized system cool the house. It controls the equipment better, it does not make the equipment larger."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 1970s to 2000s wire sets, FM 1960 retrofit housing, humidity control, undersized systems."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump does both heating and cooling with one outdoor unit, so a fault in one part can take out both. In Humble the cooling side carries the load for most of the year and the heating side matters for the short stretch at the end of it, which means most of the calls here are cooling calls with a heating problem attached. The technician who takes the job works out which side is failing before replacing anything.",
+      "localNote": "The heat pumps around here sit in the newer 2000s housing rather than the 1970s stock, and they are the systems most likely to carry backup heat strips that run for weeks. The humid air in this part of Harris County puts a heavy load on the outdoor coil in heating mode, which is where the icing in the warm months comes from, and the summer grid in Harris County sags at the time the system is working hardest.",
+      "faqs": [
+        {
+          "q": "There is ice on my heat pump outdoor unit in July, what is wrong?",
+          "a": "That is not normal. Ice in the warm months points at a low charge, a charge that is not moving, or a reversing valve stuck part way. Shut the system down and let it thaw before you run it again. Running it into the ice makes the damage worse, and the puddle afterward is worth mentioning to the technician."
+        },
+        {
+          "q": "Why does my backup heat run all the time?",
+          "a": "It is working because the heat pump side is not keeping up. The strips carry the whole load when the outdoor unit cannot deliver, which in this climate shows up on the coldest mornings after a warm week. It also shows up when the thermostat is calling for heat continuously, so both the equipment and the schedule get checked."
+        },
+        {
+          "q": "My heat pump heats but will not cool, what does that tell us?",
+          "a": "It narrows the fault a long way. When only cooling fails, the reversing valve and the refrigerant side are where the fault usually is. When both fail at once, the control board or the electrical supply is the more likely cause. That distinction is what makes the diagnosis quick."
+        },
+        {
+          "q": "The system will not switch from heating to cooling, what causes that?",
+          "a": "The reversing valve is the part that changes the direction of the refrigerant, and a valve that is stuck does exactly this. It can also be the changeover control in the thermostat, or a system held in one mode by a schedule nobody set. Reversing valves are not a weekend job."
+        },
+        {
+          "q": "Is a heat pump a good fit for a Humble house?",
+          "a": "It depends on the house rather than the town. The cooling side carries most of the load in this climate, so the question is whether the house needs more cooling than the 1970s system it was given and whether the duct system can handle it. In the 2000s housing here it is often a good match. In a small 1970s house on a tight budget it is worth calculating first."
+        },
+        {
+          "q": "How much does heat pump repair cost?",
+          "a": "What moves it is whether the fault is on the refrigerant side, where a reversing valve and a charge are involved, or on the electrical side, where a board or a contactor is. The refrigerant type on the nameplate changes the cost of the visit too, since a discontinued gas is handled differently. A company that explains which side of the system is at fault before quoting has done the diagnosis."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 2000s housing heat pumps, humid outdoor coil icing, summer grid sags, backup heat strips."
     }
   }
 }

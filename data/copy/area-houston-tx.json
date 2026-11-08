@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Houston is the hardest cooling market in the country to buy a system for, and the same Gulf moisture that makes the city miserable is what breaks the equipment in it. Calls here cluster in a narrow band: a summer load that no 1980s split was sized for, outdoor units packed with cottonwood, and a grid that cuts power at the exact hour a house needs cooling. When something stops, the request goes to the independent HVAC companies that work Houston, and the fault gets diagnosed before anybody quotes a repair.",
   "localAngle": "Houston runs on humidity. Gulf moisture puts a latent load on every system, so a unit that cools fine at nine in the morning falls behind by four in the afternoon. Housing spans 1920s Heights bungalows through modern builds in the 610 loop, and the outdoor pad often carries equipment three decades old and mismatched to the house around it. Cottonwood and mesquite mat a condenser in one season. Attics run 130 to 140 degrees. ERCOT sheds load at peak demand, right when cooling is needed. No coastal salt here. Freeze is the surprise: February 2021 and January 2024 both caught systems that were never built for it.",
   "commonCalls": [
@@ -58,26 +59,21 @@
         {
           "q": "The outdoor unit is hissing and there is ice on the line set. What is that?",
           "a": "That is usually refrigerant escaping at a fitting, and in Houston heat the pressure in the line is at its highest in the afternoon. If it happens in the warm months on a system that was fine through the winter, suspect the fittings and the line set rather than a failed part. It also means the system is about to lose the rest of its charge."
-        }
-      ]
-    },
-    "same-day-ac-repair": {
-      "intro": "Most same day calls are not breakdowns. They are systems still running but no longer keeping up, and in Houston that usually traces back to a fouled coil or a unit that lost charge a year ago. Send the request early and describe what the outdoor unit looks like from where you are standing.",
-      "localNote": "Summer here runs long enough that a same day slot is usually spent on the outdoor unit rather than the indoor one. Cottonwood and mesquite seeds pack the fins from April through July, and a condenser working ten degrees hotter than it should will not make the afternoon schedule. The technician who takes the job can often clear the coil and reset the system in one visit. Book in the morning. The heat is not waiting.",
-      "faqs": [
-        {
-          "q": "Can a condenser really get that dirty in one season?",
-          "a": "Cottonwood fluff and mesquite debris mat the fins fast once a tree is close to the unit. A blocked coil holds heat against the refrigerant, the compressor works harder, and the system runs longer for less cooling. Raking the pad and a soft brush on the fins does most of the work before anyone opens a panel."
         },
         {
-          "q": "My system runs all the time and never stops. Why does that need a same day visit?",
-          "a": "A system that never cycles off in this climate is usually short of refrigerant, short of airflow, or both. That is a repair rather than a tune up, and it is worth getting looked at before the unit quits entirely in the middle of August."
+          "q": "How much does an emergency AC visit cost?",
+          "a": "What moves it is the hour, the access and whether the part is on the truck. A call placed after dark on a July afternoon is priced differently from one placed at nine in the morning, and reaching an attic unit sitting in 130 degree air is a longer job than reaching a unit in a ground level closet. Ask what the diagnostic visit includes and what happens if the fault turns out to need a part that has to be ordered."
         },
         {
-          "q": "Is it worth booking same day service during a heat wave when the whole city is calling?",
-          "a": "If the unit has quit, yes. If it is running but struggling, book early in the day and get it looked at before the next heat wave rather than during one. The technician who takes your job can tell you from the symptom description whether it can wait a day."
+          "q": "Will this actually get fixed today, or am I paying for a visit and still without cooling?",
+          "a": "That depends on what is wrong and what the company carries. A failed capacitor, a tripped contactor, a blocked drain and a fouled coil are all single visit work, and so is a low charge on a system that holds it. A seized compressor, a failed coil in a unit running refrigerant that is no longer produced for new systems, and a fault inside ductwork above a slab are not, and on those the honest answer is that the diagnosis is the deliverable and the repair follows. Nobody can promise a same day repair on a fault that needs a part."
+        },
+        {
+          "q": "Does the part of Houston I live in change what happens on an emergency call?",
+          "a": "It changes the equipment the technician expects to find. Across the sixteen Houston neighborhoods the housing runs from 1920s bungalows to homes built in the 2010s, so in the Heights, Meyerland and Third Ward the same symptom often comes out of a system that has been on the pad since the eighties, while a house in the Energy Corridor or around Clear Lake is likely to have equipment that came out of the last decade. Older outdoor units here also sit under mature cottonwood and mesquite, so a fouled coil is common in the tree covered blocks. Give the address and the technician comes prepared for the era of the house."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Two are local: ERCOT load conservation and the housing eras across the sixteen Houston neighborhoods. One covers what moves the price."
     },
     "ac-not-cooling": {
       "intro": "Air that blows and stays warm means the system is running but not doing its job. Four causes account for most of it: low charge, a frozen indoor coil, a fouled condenser, or a unit that was undersized the day it went in. The request goes to the HVAC company covering your block, and the diagnosis starts with those four.",
@@ -94,8 +90,21 @@
         {
           "q": "Why does it cool in the morning and give up by four in the afternoon?",
           "a": "Morning air is drier and the load is lighter, so a marginal system keeps up. By midafternoon the outdoor temperature and the humidity have both climbed, and a system sized for a cooler climate or for a house before an addition started losing ground. That pattern points at charge or sizing rather than a failed part."
+        },
+        {
+          "q": "How much does it cost to fix an AC that blows warm air?",
+          "a": "The price turns on which of the causes it turns out to be, and that has to be found before anyone can quote it. A low charge on a system that holds it is the simplest job, a leak that has to be located and sealed is different again, and a weak compressor running an older refrigerant costs more to work on because parts for that refrigerant are harder to source. Access moves it as well, since a unit in an attic is a longer visit than one in a closet. Ask what the diagnostic visit includes and whether that cost is credited toward the repair."
+        },
+        {
+          "q": "Is it worth repairing a system that still cools a little, or am I just spending money on an old unit?",
+          "a": "Sometimes it is, and sometimes the same money would have bought something that lasts. A fault that is one part and one visit, on a unit still holding its charge and its pressure, is worth repairing. A unit that has needed refrigerant twice in two summers, or that has already had its compressor go once, is on the far side of that line. The honest answer comes from the diagnosis rather than the year on the nameplate, and it is fair to ask for that opinion before agreeing to any work."
+        },
+        {
+          "q": "My house is one of the older ones in Houston and the system has never cooled well. What does the age of the house have to do with it?",
+          "a": "A great deal. Houston housing runs from 1920s bungalows in the Heights to builds from the 2010s, and every era carries its own load and its own duct layout. A house framed before central air was normal often has returns in awkward places and ducts that were never sized for a modern system, and a later renovation that added a sunroom or a second floor left the original equipment undersized. Gulf humidity then puts a moisture load on the coil that a dry climate never sees, so a marginal system shows it in the afternoon. A manual load calculation on the house as it stands now is the only honest answer."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the latent load of Gulf humidity and the way the housing eras across the sixteen Houston neighborhoods change the duct layout and the load. One covers what moves the price."
     },
     "ac-repair": {
       "intro": "This is the page for anyone in Houston with a system that has quit, is running badly, or has been limping along for a year. We are a referral service, so your request goes to independent HVAC companies that work Houston, and the technician who takes the job diagnoses the fault before anybody quotes a repair. Sending the request costs you nothing.",
@@ -112,8 +121,21 @@
         {
           "q": "Should I repair a 25 year old unit or replace it?",
           "a": "It depends on what failed and what refrigerant is in it. Read the nameplate first. An R-22 unit from the 1990s is a different decision from a 2015 system, because R-22 is no longer produced for new systems and any leak work on it costs more."
+        },
+        {
+          "q": "Can I get same-day AC repair in Houston?",
+          "a": "It is a request, not a promise, and nobody can promise a slot. The request goes to the independent HVAC companies covering the address you give, and how fast it moves depends on the day. Houston makes this harder than most cities because the failures cluster. When ERCOT calls for load conservation on a July afternoon, whole blocks go down together and the same-day requests stack up on the same desk. The mornings after a rough night are the worst. Ask in your request for the earliest availability, describe what the outdoor unit is actually doing, and say whether the air handler is in an attic, because a slab house with a 140 degree attic is a longer visit and the company schedules it that way."
+        },
+        {
+          "q": "How much does AC repair cost in Houston?",
+          "a": "What moves it is the fault, the access and the refrigerant, and the fault is unknown until the unit is opened. A capacitor or a contactor is a short visit. A compressor, a coil, or a leak inside a line set running through a 130 degree attic is a long one, and refrigerant that is no longer produced for new systems makes any leak work on it more expensive because it has to be recovered rather than bought. What the company you send the request to should do is diagnose first and give you the price for the repair before the work starts, so you are choosing between a stated fix and a guess."
+        },
+        {
+          "q": "If I pay for this repair, will the system actually hold up through the summer or break down again next month?",
+          "a": "Sometimes, and it depends on whether the thing that killed the system gets dealt with. A compressor that failed because the condenser was matted with cottonwood and the unit was running 20 degrees over its rating will do it again on the new compressor if the coil is left dirty. A unit that was undersized for a house with an addition added in the 2000s will keep running long and short cycling regardless of the part that was replaced. The useful question is what caused the failure, and whether the answer includes the outdoor coil, the airflow and the load on the house, or only the failed part."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Carries the same-day intent that moved here when the standalone page was retired. Two are local: ERCOT load conservation and the heat wave failure clusters. One covers what moves the price."
     },
     "ac-installation": {
       "intro": "New systems in Houston need a load calculation done for the house as it stands now, not a tonnage number matched to square footage. Most systems going in are replacements, and most of those are homes that changed after the original install. The company we connect you with sizes it, places it, and handles the permit.",
@@ -130,8 +152,21 @@
         {
           "q": "Does the outdoor unit location matter here?",
           "a": "More than in most places. A condenser in afternoon sun on a west wall runs hotter than the same unit on the north side, and it has less room to shed heat when the air is already at 95 degrees. Shade and clearance change the numbers on the load calculation."
+        },
+        {
+          "q": "What decides the price of a new AC system?",
+          "a": "The size is the first thing, and the size comes from a calculation rather than a guess. After that it is how much of the house has to change to accept it. Reworked ductwork, a longer refrigerant line set, a panel that has to be brought up to the new load, a condenser that has to be carried up a stairwell because there is nowhere to put it on the pad. A slab house with the air handler in the attic is a harder install than a house with a closet and side yard space, and the quote should say which of those jobs it includes. Ask for the equipment and the labor broken out separately."
+        },
+        {
+          "q": "My neighbor has the same square footage and they went bigger. Should I just match them?",
+          "a": "No, because the neighbor's house is not your house. What sits in the sun, how much glass faces west, how shaded the yard is and how much of the attic has been opened up all change the load, and none of that shows up in a square footage comparison. A bigger unit on a house that did not need one short cycles, and a short cycling system cannot pull the moisture out of Gulf air, so the house ends up warm and damp. The calculation is cheap relative to the equipment and it is the only way to know."
+        },
+        {
+          "q": "Does the age of my Houston house change what a new system should be?",
+          "a": "It changes the install, and sometimes the answer. The high water table puts most Houston houses on a slab, so the equipment lives on the outside pad and the air handler lives in the attic, where the summer temperature sits at 130 to 140 degrees. That pushes the duct design toward the shortest runs possible and makes the attic a hostile place for a coil that has to freeze and defrost. Then there is the house itself, from a 1920s Heights bungalow with no attic space for a trunk line to a 2010s build with high efficiency glass and a tight envelope. Either way the calculation is done on the house as it stands now, including any addition put on later."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the slab and attic layout at 130 to 140F and the way the housing eras across the sixteen Houston neighborhoods change the load. One covers what moves the price."
     },
     "ac-replacement": {
       "intro": "Replacement is the right answer when the equipment is old enough that repairs buy a few more hot months, or when the refrigerant is discontinued. The first thing to establish is what is on the nameplate of the outdoor unit, because that decides a lot about the quote before anyone lifts a tool.",
@@ -148,8 +183,21 @@
         {
           "q": "Will a new system handle the humidity better?",
           "a": "A properly sized system with a clean coil and the right charge pulls more moisture out of Gulf air. An oversized unit does the opposite, because it short cycles and stops before the moisture is out. That is one of the most common reasons a new install still leaves the house muggy."
+        },
+        {
+          "q": "What actually moves the price of a replacement?",
+          "a": "The size of the system the calculation calls for, and how much of the house has to be torn up to accept it. New ductwork in an attic, a new line set run to a different part of the lot, a panel upgrade because the old one cannot carry the load, and the disposal of the old outdoor unit all sit on the same quote. Recovering the old refrigerant is another line, and on a system running R-22 it costs more because that refrigerant cannot be bought new. Ask whether the quote includes the electrical work, because a replacement that needs a new panel is not the same job as one that does not."
+        },
+        {
+          "q": "Is it a waste to replace a unit that is only fifteen years old?",
+          "a": "It depends on what happened to it. A fifteen year old system that has never been cleaned, never had its coil washed and sits under a cottonwood tree may have a shorter useful life than its age suggests, and a fifteen year old system that has been serviced every spring and holds its charge is a different case entirely. The variables that matter are the condition of the coil and the condenser, the refrigerant, and whether the house grew around the equipment. Nobody can promise a service life, so the comparison worth making is the remaining working life against the cost of the failure you are trying to avoid."
+        },
+        {
+          "q": "Why do so many Houston houses need a system replaced rather than repaired?",
+          "a": "Because the equipment outlived the house it was sized for. A large share of the outdoor units on Houston pads came out of the 1980s and 1990s, and the houses around them kept changing. A 1990s ranch that took on a sunroom, a garage conversion or a second story in the 2000s was carrying more load than the unit on the pad was ever sized for, so the compressor has been working at its limit for years. Attics running 130 to 140 degrees shorten what is left of the motor and capacitor. Add the tree cover, where cottonwood and mesquite litter keeps the condenser from shedding heat, and the failure pattern writes itself."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the R-22 pads from the 1980s and 1990s and the houses that grew around their equipment. One covers what moves the price."
     },
     "ac-maintenance": {
       "intro": "Maintenance is the cheapest thing you can do for a system that runs eleven months in this climate. A tune up before the hottest stretch catches a dirty coil, a weak capacitor, and a filter that has been starving the airflow all year. Book it in spring, before the first hot week.",
@@ -166,8 +214,21 @@
         {
           "q": "Does the attic change the maintenance schedule?",
           "a": "It does. An air handler sitting in an attic at 130 to 140 degrees works harder than the same unit in a closet, so the motor and capacitor wear faster. It is worth checking that stored boxes are not blocking the unit and that the attic has ventilation."
+        },
+        {
+          "q": "What does a tune up in Houston actually cost?",
+          "a": "The figure turns on how much cleaning the unit needs, whether the work is one visit or two, and what has to be reached to do it. An outdoor unit under a cottonwood canopy takes longer to clean than one on an open lot, and a condensate line that has to be traced back through an attic is a different job from one that clears at the outdoor end. Ask whether the visit covers a coil wash, a refrigerant check by measurement, a drain clear and a capacitor test, and what is billed separately if something else is found. The same visit on a 1985 system with a dirty coil and a weak contactor is not priced like a visit on a unit that was serviced last year."
+        },
+        {
+          "q": "Is maintenance really necessary on a system that has never given me a problem?",
+          "a": "Mostly it is, because the faults that end a system in July are the ones that were there quietly all spring. A capacitor does not fail on the day the compressor stops, it weakens over months and the heat finishes the job. A drain line does not clog in an afternoon. A coil packed with cottonwood and mesquite does not stop pulling air, it just gets less margin as the temperature climbs. The honest framing is that maintenance does not make a system immortal, it moves the failure from a peak afternoon to a planned visit, when the fix costs less and the house is still habitable."
+        },
+        {
+          "q": "My air handler is in the attic and it is 140 degrees up there. Is a tune up even worth doing in that heat?",
+          "a": "It is worth more there, not less, and the visit is worth scheduling before June rather than during a heat wave. A slab house with the air handler in the attic means every part of the air side of the system is working in air that sits at 130 to 140 degrees, so the motor, the capacitor and the control electronics all see more heat than the same parts in a closet. That heat is also what makes a frozen coil in a Gulf humidity load more likely, because the attic has no cool air around it to thaw anything. The technician needs somewhere safe to work, so an attic visit takes longer to set up, and the same conditions are the reason the service is worth booking before the system is already struggling."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Two are local: the attic at 130 to 140F on slab houses and the cottonwood and mesquite litter under a mature canopy. One covers what moves the price."
     },
     "condenser-repair": {
       "intro": "The outdoor unit does the hardest work in a Houston summer, and it is the part sitting in the weather, in the dust, under whatever the tree above it drops. Most condenser problems come down to three things: a coil packed with debris, a compressor that has overheated, or a fan motor or capacitor gone bad.",
@@ -184,8 +245,21 @@
         {
           "q": "Should I put a cover on the outdoor unit in winter?",
           "a": "No. A cover traps moisture against the cabinet and the coil, and the February 2021 freeze was hard enough without adding a damp cabinet to the problem. Leave it clear and let it breathe."
+        },
+        {
+          "q": "Is it worth repairing the condenser or replacing the whole outdoor unit?",
+          "a": "What moves the comparison is what failed, what the cabinet and coil look like underneath it, and whether the compressor survived. A fouled coil on an otherwise sound unit is a cleaning job, while a coil and cabinet that have been chewed up by heat and time are usually part of a replacement decision. The refrigerant on the nameplate moves it too, since a 1990s Houston unit on R-22 costs more to service than a modern one. Ask for the diagnosis and the reasoning behind a repair against a replacement in writing before anything is committed."
+        },
+        {
+          "q": "Will cleaning the coil actually fix it, or will it fail again in a month?",
+          "a": "Cleaning restores airflow, and airflow is often the whole reason the unit was running hot. It is not a promise, and nobody can promise the unit will hold through another July. If the compressor has been cooking behind a packed coil, cleaning the coil does not bring that back. Debris returns too, because cottonwood and mesquite drop steadily from spring through fall, so a unit under a mature tree can mat again inside a single season. Ask what was found on the compressor and what would have to change for the same failure not to repeat."
+        },
+        {
+          "q": "Is the tree over my outdoor unit part of the problem?",
+          "a": "It can be, and it is one of the first things to look at here. Cottonwood and mesquite litter packs the fins, holds heat against the coil and keeps the coil wet longer than it should be. How much it matters depends on the lot. Under a mature canopy in the Heights, River Oaks or Meyerland the unit has less sun and less moving air than it needs. On an open lot along Beltway 8 the same tree problem arrives as afternoon sun on a west side, with the same result by July. Trimming, relocating the unit or shading it are all options the technician can put a price on."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: cottonwood and mesquite litter on the coil, the Heights and River Oaks canopy against open Beltway 8 lots, R-22 on 1990s Houston units."
     },
     "compressor-repair": {
       "intro": "The compressor is the pump at the center of the system, and when it goes, everything downstream feels it. Sometimes it can be rebuilt, sometimes the unit is scrap and the answer is a replacement. The technician who takes your job will say which one before you commit, and will explain what killed it.",
@@ -202,8 +276,21 @@
         {
           "q": "My compressor has been running nonstop for a week. Is that dangerous?",
           "a": "It is a strain on the system and on the electricity bill, and it shortens the life of the compressor. Get it looked at rather than letting it run until something gives way in the middle of a July afternoon."
+        },
+        {
+          "q": "What moves the price of a compressor job?",
+          "a": "Three things sit at the top. The refrigerant on the nameplate is the first, because an R-22 system from the 1980s or 1990s costs more to open than a unit running the current standard, and the recovery has to be handled a certain way. The second is access, since reaching an outdoor unit boxed in between a fence and a side yard takes longer than reaching one on an open pad, and a unit against a west wall on a lot off Westheimer is running hotter and harder than one with shade. The third is whether the compressor is being replaced on its own or as part of a larger decision about the unit. Ask for the fault to be identified and the reason for each line of the quote."
+        },
+        {
+          "q": "If I replace the compressor, will it fail again next summer?",
+          "a": "That depends on what killed the first one, and nobody can promise a new compressor will outlive the conditions that took the old one. A compressor that ran itself to death behind a matted condenser coil is the common story here, and if the coil, the charge and the airflow are not corrected at the same time, a replacement starts the same clock. A unit that is old enough that the coil and the line set are the same age as the compressor is a different question from a fault on a younger system, and the answer should say which one you have."
+        },
+        {
+          "q": "Why does the compressor keep quitting during the hottest part of the afternoon?",
+          "a": "Two local conditions stack up on it. ERCOT calls for load conservation on the peak-demand afternoons, so power to the block is cut and restored repeatedly, and a compressor that tries to start into a sagging supply draws hard and trips. In between those events the condenser is working against a coil packed with cottonwood and mesquite litter, running the compressor hot with no relief. Check with the neighbors about whether their power went out at the same time, because that separates the grid from the equipment."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: ERCOT afternoon load shed restarting compressors, cottonwood and mesquite matting the condenser, west exposure on Houston yards."
     },
     "refrigerant-leak-repair": {
       "intro": "A system that keeps needing refrigerant has a leak, and a recharge without a leak repair is a bill with a date on it. The work splits into three parts: finding the leak, repairing it, and putting the charge back where it belongs. Ask for all three and the repair holds.",
@@ -220,8 +307,21 @@
         {
           "q": "Is the refrigerant itself the problem?",
           "a": "No. Refrigerant is not used up, it leaks out. Any system that needs more than a top up over a couple of years has a leak somewhere, and finding it is the work that matters. Recovering refrigerant is required by law, so the paperwork should show that it was handled properly."
+        },
+        {
+          "q": "What moves the price of a leak repair?",
+          "a": "Where the leak is and what has to be opened to reach it. A fitting at the outdoor unit is a short job, while a pinhole in a line run buried in a slab or chased through a chase wall is a long one. The refrigerant matters as well, because recovering and handling R-22 from an older Houston system costs more than the current standard. On the older Heights and Third Ward houses the line set often runs through a space that was never meant to be opened, and that access is priced into the work."
+        },
+        {
+          "q": "Is it a waste of money to find a leak when I might just replace the whole system?",
+          "a": "Sometimes the leak is the argument for replacement, and the technician who takes the job should say so plainly rather than selling a repair. If the coil is rusted through, the compressor has already failed once and the line set is original, patching it buys a short reprieve on a system that was already at the end. If the outdoor unit is sound and only one fitting is weeping, the repair is the cheaper answer and the sensible one. The honest version of this conversation includes hearing which of those you are in."
+        },
+        {
+          "q": "Why do most of the leaks in my area turn out to be in the attic?",
+          "a": "Because that is where the line runs in most Houston houses. The high water table means most homes sit on a slab with no basement, so the air handler and much of the line set live in the attic, where the air sits at 130 to 140 degrees for months. Copper in that space works its joints hard through the thermal cycling, and an uninsulated section touching a truss can open a pinhole over enough cycles. The technician is also working in metal hot enough to burn bare skin, and that shows up in how the visit is priced."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: attic line sets at 130 to 140F, slab construction with no basement, R-22 recovery cost on the Heights and Third Ward houses."
     },
     "refrigerant-recharge": {
       "intro": "A recharge means measuring the charge and confirming the system holds it, not weighing in a canister and leaving. The technician who takes your job reads superheat and subcooling, and those numbers tell you whether the system is running correctly or masking a bigger fault.",
@@ -238,8 +338,21 @@
         {
           "q": "Can a recharge fix a system that is not cooling?",
           "a": "Only if low refrigerant is the whole problem. If the coil is dirty, the compressor is weak or the gas is leaking out, adding more only makes the leak worse and the bill bigger."
+        },
+        {
+          "q": "What moves the price of a recharge?",
+          "a": "The refrigerant and the time on site. Recovering the charge that is already in the system is part of the job, and it is more involved on an R-22 unit than on one running the current standard, where the gas is easier to source and the paperwork is simpler. The other half is access, since an outdoor unit in a back yard behind a fence is a longer job than one on an open side pad. A job that ends at the gauge without a written superheat and subcooling reading is a top off, not a recharge."
+        },
+        {
+          "q": "Will a recharge make my old system good again?",
+          "a": "No, and anyone who says yes is selling you a canister. A recharge restores the charge the system was designed to hold, which is meaningful when the compressor, the coil and the airflow are still right. If the unit has a weak compressor or a condenser matted with cottonwood and mesquite, the gas goes in and comes back out through the same weak spot. On a Houston system from the 1990s, the readings after the work matter more than the gas that went in, because they tell you what the system is really doing."
+        },
+        {
+          "q": "Does the humidity change what a proper charge looks like?",
+          "a": "It changes what the readings mean. Gulf moisture loads the coil so heavily that a system with everything else in order still has to work hard to keep up, and a slightly low charge shows up here as a house that never dries out rather than as a house that never cools. Superheat and subcooling read differently in that load than they would in dry air, which is why the measurement has to be taken while the system is actually working. Ask for the numbers and the conditions they were taken under."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: Gulf humidity shifting what superheat and subcooling mean, R-22 recovery on 1990s units, attic line runs on slab houses."
     },
     "evaporator-coil-repair": {
       "intro": "The indoor coil is the part that actually makes the cold air, and it is where the humidity comes out of the air. A dirty or iced coil gives you weak cooling, water dripping, and a smell nobody can place. Cleaning and repair here are about airflow as much as about the coil metal itself.",
@@ -256,8 +369,21 @@
         {
           "q": "There is green or grey slime on the coil. What is that?",
           "a": "That is microbial growth on a wet coil, and the humidity here makes it happen fast. It smells musty and it travels with the air. The coil needs cleaning and the drain needs to be clear, or it grows back within a season."
+        },
+        {
+          "q": "What moves the price of a coil cleaning or repair?",
+          "a": "Access and the extent of the damage. A coil in a ground level closet on a 2010s house in Clear Lake is a short job, while the same coil in an attic unit on a 1920s Heights bungalow means a climb into air at 130 to 140 degrees and working around stored boxes. Whether the coil only needs cleaning or has to be replaced is the second half of it. A chemically cleaned coil that gets back to full airflow is not the same job as a coil with a corroded tube that has to be swapped."
+        },
+        {
+          "q": "My coil has been cleaned twice this year and the problem keeps coming back. Is cleaning the wrong fix?",
+          "a": "Often it is. A coil that ices and drains again is not a dirty coil problem, it is an airflow or charge problem that cleaning cannot reach, and a third clean buys the same few weeks. The ductwork on a 1920s Heights house may simply be too small for the unit somebody replaced it with, in which case no amount of cleaning changes the outcome. Ask what the airflow across the coil was measured at, and what is actually causing the icing to come back."
+        },
+        {
+          "q": "Why does my indoor coil keep freezing even though I changed the filter?",
+          "a": "Because the filter is rarely the whole airflow problem. In a Houston attic the handler sits in air at 130 to 140 degrees with no cool air around it, so there is nothing to melt the ice once it forms, and the coil stays frozen until the system shuts down. Gulf humidity puts more moisture on the fins than the coil can carry, so any restriction anywhere in the return path tips it into freezing. A 1920s house with undersized ductwork can choke the coil even with a brand new filter in place, while a 2010s build in the Energy Corridor with ductwork sized for the equipment usually freezes for a different reason, such as the charge."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: attic handler at 130 to 140F with no melt, 1920s Heights ductwork against 2010s Energy Corridor builds, Gulf humidity on the fins."
     },
     "blower-motor-repair": {
       "intro": "The blower is what moves the air. When it fails you still have cooling equipment in the house and no air coming out of it, which in this climate is as bad as no cooling at all. Motor, capacitor and relay are the three parts involved, and the cheap ones usually go at the same time as the motor.",
@@ -274,8 +400,21 @@
         {
           "q": "My blower is suddenly very loud. Can I keep using it?",
           "a": "A rasping or grinding noise is a bearing going. It can run a while, but it will eventually seize, and a seized motor drags the capacitor and the relay with it. Replace it before the whole assembly goes."
+        },
+        {
+          "q": "What moves the price of a blower motor job?",
+          "a": "Where the handler lives and what goes in with the motor. An attic unit means climbing into air at 130 to 140 degrees and working in a space that may have stored boxes around the housing, which is a different job from a closet on the ground floor of a newer house in Clear Lake. The parts count is the second driver, since a motor on its own is a different visit from a motor with a new capacitor and relay. The third is the housing era, because a control board on a 1920s installation in the Heights may not be the board that came with it."
+        },
+        {
+          "q": "Is it worth replacing a blower motor on a system that is twenty years old?",
+          "a": "Often it is, and the reason is that a blower motor is not usually the part that has worn out the whole system. If the compressor, the coil and the charge are still good, then the motor is what is stopping the air, and replacing it is a reasonable way to keep a working system in service. But there is no guarantee attached to it, and nobody can promise the rest of the unit will follow. On an attic handler in Houston the motor has been running at the top of its range for years, so the parts around it deserve looking at before the decision is made on the motor alone."
+        },
+        {
+          "q": "Does the attic heat shorten the life of a blower motor?",
+          "a": "It does, and it is the main reason these fail here. A motor running in an attic at 130 to 140 degrees with a warm return is running near the top of its range for most of the day, and the bearings take the punishment. The capacitor beside it is running hot at the same time, which is why the two tend to go together. Freeing the space around the housing and getting cooler air to the unit is the cheapest thing that extends its life, and it costs nothing."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: attic handler at 130 to 140F working near its limit, the capacitor failing alongside the motor, 1920s Heights and 2010s Clear Lake housing."
     },
     "hvac-electrical-repair": {
       "intro": "Electrical faults do not care what the refrigerant level is, and a breaker that trips on an AC unit is not something to keep resetting. The technician who takes your job brings a meter and checks the capacitor, the contactor, the disconnect and the wiring at the unit. It is the one category where the age of the house changes everything.",
@@ -292,8 +431,21 @@
         {
           "q": "My house has old wiring. Does that affect the AC?",
           "a": "It can. The amperage the system needs has to be supported by the circuit and the panel, and old service entrances may not have the capacity. If you are adding a system or have had an addition, the panel should be checked before the equipment goes in."
+        },
+        {
+          "q": "What moves the price of an electrical repair?",
+          "a": "Where the fault sits and how much of the run has to be opened to reach it. A capacitor and a contactor at the outdoor unit are a short job. A corroded disconnect, a failed breaker or a wiring run that was added badly in a 1970s remodel is a much longer one, and the panel capacity decides whether a new circuit is part of it at all. Access sets the rest, since an attic handler at 130 to 140 degrees is harder to work in than one in a closet. Ask for the diagnosis in writing before the work is scoped."
+        },
+        {
+          "q": "Does ERCOT's summer load shedding cause electrical faults on the AC?",
+          "a": "It causes the conditions for them rather than the fault itself. When ERCOT calls for load conservation, supply voltage sags and the power to your block goes out and comes back, and a compressor that tries to start into a low supply draws hard and can trip. Repeated interruptions over a season also age a contactor and a capacitor, so a unit that survives the summer on unstable power is closer to failing than one on a clean circuit. Ask whether the breaker tripped on its own or when the block lost power, because that separates the two."
+        },
+        {
+          "q": "Is a dedicated circuit enough, or will the breaker trip again next summer?",
+          "a": "A dedicated circuit is enough only if the service entrance behind it can carry the load, and that is the part worth checking first. A Heights bungalow with a panel and service from the middle of the last century may have the amperage on hand and simply need the circuit run. A house whose service was sized when it had one room unit cannot take on the load of a system that went in later, and a new circuit off an undersized service trips again under a July compressor. The technician who takes your job should look at the panel before anything is quoted, because that is what decides whether the job holds. There is no guarantee on a circuit that was never sized for the equipment behind it."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: service panels from the 1920s to the 2010s, ERCOT load shed sags, attic heat on the capacitor, a Heights bungalow panel against a 2010s build."
     },
     "condensate-drain-repair": {
       "intro": "Air conditioning in Houston pulls a lot of water out of the air, and all of it has to go somewhere. A blocked drain line shows up as water in the attic, water at the base of the air handler, or a puddle under the outdoor unit that is not rain. Clearing it is simple work, and it needs doing before the pan float switch shuts the system down.",
@@ -310,8 +462,21 @@
         {
           "q": "My system shut itself off and there is a warning light. What happened?",
           "a": "The float switch in the pan likely tripped because the drain was blocked. That is the system protecting itself, and it is doing you a favor compared with a wet attic. Clear the drain and reset it. If it trips again straight away, there is a bigger problem with the pan or the coil."
+        },
+        {
+          "q": "What decides what a condensate drain repair costs?",
+          "a": "The length of the run and how hard it is to reach. A short line to an outlet in the side yard is a quick job. A line buried through a slab or lost under landscaping in a 1920s Heights bungalow takes longer to trace and to clear, and whether the pan and float switch need replacing moves it further. Whether the blockage is a mat of dried debris or a crushed joint also decides."
+        },
+        {
+          "q": "Can I clear the drain with a garden hose and skip the visit?",
+          "a": "Sometimes that is all it is. Most of these blockages start as a mat of cottonwood and mesquite debris at the outdoor end of the line, and flushing from the outlet clears it. If the line has almost no fall, if the pan was crushed when the unit was replaced, or if the coil is icing and putting more water into the pan than the pan was built to hold, it will come back. Clearing the plug is not the same as fixing the reason it formed."
+        },
+        {
+          "q": "Why does this keep coming back on a Houston house?",
+          "a": "Gulf air carries far more water than dry air does, so the system makes more condensate in every hour it runs than the same equipment would upstate. The pan in an attic running 130 to 140 degrees loses water to evaporation quickly enough that the float switch can trip on a pan that is not really full, and cottonwood and mesquite matting the outlet puts the plug straight back. That combination is the standard Houston version of this problem."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: Gulf latent load on pan volume, pan evaporation in a 130 to 140 degree attic, slab homes on a high water table, and cottonwood at the outdoor outlet."
     },
     "thermostat-installation": {
       "intro": "A good system on a bad thermostat will never perform the way it should, and most thermostat problems are wiring left over from a previous install. Swapping the thermostat is quick once the wire set is understood, and it is worth doing alongside any other work on the system.",
@@ -328,8 +493,21 @@
         {
           "q": "The system ignores the schedule. Why?",
           "a": "Usually the thermostat has a delay or an anti-swing feature left over from installation, or it is set to the wrong mode. It can also be a wiring problem where the schedule never reaches the board at all, which is common in houses where an earlier installer used a wire set the manual does not describe."
+        },
+        {
+          "q": "What decides what a thermostat installation costs?",
+          "a": "What is behind the wall plate. A unit going onto a wire set that already matches what the new thermostat expects is a short job. What moves it up is a house carrying control wiring from three different decades, an existing line voltage control that has to be replaced with low voltage gear, or a common wire that has to be fished back to an air handler sitting in an attic. Whether the equipment can be paired with the new thermostat at all is the other half of the answer."
+        },
+        {
+          "q": "Will a new thermostat actually fix a system that is still blowing warm air?",
+          "a": "On its own, no, and it is worth being straight about that. The thermostat decides when the system runs and how hard it runs, so a faulty one can make working equipment look broken and can keep the house humid by never letting a full cycle finish. But if the coil is fouled, the charge is low, or the unit was sized for the house before an addition went on, a new control will not change what the air is doing. Swapping it is a reasonable way to rule out one cause, not a way to fix a cooling fault."
+        },
+        {
+          "q": "Does the way the Houston grid behaves in summer affect a smart thermostat?",
+          "a": "More than it does in most places. During a load conservation call ERCOT asks the grid to shed demand, and a controlled outage can take a whole block down, so a thermostat that loses power can come back in a hold state with its schedule gone and wait for someone to reset it. When the supply returns, every outdoor unit on the street re-energises at once, and that is when contactors and capacitors tend to give up. After an outage, check that the schedule survived before assuming the system is at fault."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: control wiring from every housing decade in Houston, line voltage controls in the 1920s stock, and ERCOT load conservation outages resetting smart thermostats."
     },
     "ductless-mini-split-installation": {
       "intro": "Ductless mini splits solve the problem of a room that has no ductwork and no way to get any. They are the natural answer in Houston for a garage, a shop, a converted attic, or an older house that never had central air. The request goes to a company that covers your area, and they size the unit and place the heads.",
@@ -346,8 +524,21 @@
         {
           "q": "Can a mini split be added to a house that already has central air?",
           "a": "It can, to handle the part of the house the central system does not cover well. In Houston that usually means an addition, a sunroom, or an upstairs space that sits in the sun all afternoon. Running both at once is possible but worth thinking about before it goes in."
+        },
+        {
+          "q": "How much does a ductless mini split installation cost?",
+          "a": "What moves it is how many heads the house needs, how far the line set has to run to each one, and what the walls are made of on the way. A single head over a garage is one job. A whole house with four heads is a different one, and a 1920s Heights bungalow with plaster walls and no attic space is harder to route than a 2010s build on the same street. The line set length and the electrical run to the heads are the two line items that move the price, not the brand of the unit."
+        },
+        {
+          "q": "Will ductless actually cool the whole house, or just the room with the head?",
+          "a": "It can cool the whole house, but only if the heads are sized and placed against the actual load rather than the square footage. A head that is too small runs constantly and never catches up, and several small heads on a large west facing wall leave the family room short every afternoon. That is a sizing failure, not a ductless failure, and a load calculation that counts the glass and the sun exposure is what separates the two."
+        },
+        {
+          "q": "My neighborhood is full of the same houses but the neighbors did ductless and I am being quoted central. What is going on?",
+          "a": "Houston runs from 1920s Heights cottages to 2010s builds along the 610 loop, and the two ends of that range want different answers. The older houses in Third Ward, Meyerland and the older parts of Sharpstown were framed without a basement and often without attic space, so ductless is the honest answer for the rooms that were never served. A newer house near Clear Lake or in the Energy Corridor may have a dedicated return path and a slab that accepts a conventional system more cheaply. The neighborhoods share a climate, not a floor plan, and the framing era is what decides."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: slab and high water table, 1920s stock with no duct runs against 2010s builds, west facing glass, and outdoor placement on a west wall."
     },
     "ductless-mini-split-repair": {
       "intro": "When the head is the only cooling in the room, a mini split fault is an emergency for that room. The error code on the head tells the technician where to start, and most calls turn out to be a filter, a drain line or a dirty coil on the outdoor unit.",
@@ -364,8 +555,21 @@
         {
           "q": "Is a mini split worth repairing?",
           "a": "Most of the time yes. The common faults are a fan motor, a sensor, a drain line or a failed board, and the outdoor unit on a mini split is usually newer than the central equipment it replaced. Ask what the repair covers before the board goes."
+        },
+        {
+          "q": "What determines what a mini split repair costs?",
+          "a": "Where the fault sits. A clogged filter or a blocked drain in a head is a short visit with no parts beyond what is on the truck. A failed board in the head is more, and it depends on whether the board is available in the equipment it was fitted to. Anything on the refrigerant side means the lines come apart, and that is a different job again. Access matters too, since a head above a second storey landing or an outdoor unit boxed in by a fence is harder to work on than one on an open patio."
+        },
+        {
+          "q": "If the outdoor unit is dead, is the whole mini split dead?",
+          "a": "Sometimes, and it is worth separating the two halves before anything gets ordered. If the head shows an error code when the outdoor unit is switched off, the fault is at the outdoor end and the head is fine. If the outdoor unit runs and the head still complains, the head or its wiring is where to look. A head and an outdoor unit are separate pieces of equipment with separate ages, so the newer one is often the working half of a system the older half has abandoned."
+        },
+        {
+          "q": "My mini split head is in the garage and the garage gets hotter than the house. Does that change anything?",
+          "a": "It does, and it is a common Houston arrangement because the slab house leaves an attached garage as the one space with no cooling. A head working in a garage that can climb well past the outdoor temperature in the afternoon has less margin than the same head inside the house, and the refrigerant has to work against that to pull heat out of the metal of the car. The head also collects more dust there than it would in a finished room, so the filter fills faster. Treating it as a garage space and sizing it accordingly is what keeps it from running itself into a fault."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: unconditioned garages on slab houses, Gulf moisture load on the head coil, cottonwood on the outdoor unit, and January 2024 freeze damage."
     },
     "heat-pump-repair": {
       "intro": "A heat pump does both jobs, so a fault can take out heating and cooling at the same time. In Houston the heat side matters for a few weeks of winter and the cooling side matters for about eight months, so most heat pump calls here are cooling calls with a heating problem attached.",
@@ -382,8 +586,21 @@
         {
           "q": "Is a heat pump a good fit for a Houston house?",
           "a": "The cooling side does most of the work here and the heating side gets used for a handful of weeks. What matters more is whether the existing ductwork is in good shape and whether the house has a lot of west facing glass. The economics depend on the system being replaced."
+        },
+        {
+          "q": "What moves the cost of a heat pump repair?",
+          "a": "Which half of the equipment the fault sits in, and how the outdoor unit is reached. A failed capacitor or a control board is a contained visit with the refrigerant untouched. Work on the refrigerant side means recovering the charge, and on an older system that charge is a harder and more expensive thing to handle. Access changes it too, since a unit squeezed between a fence and a side yard in an older Houston neighborhood is a longer job than one on an open pad."
+        },
+        {
+          "q": "Will repairing a heat pump actually fix the problem, or am I buying another summer of trouble?",
+          "a": "Nobody can promise that, and the honest answer depends on what failed. A sensor or a capacitor on a unit with a sound coil is a real fix. A refrigerant circuit fault on a system whose outdoor coil has been running hard for years is a repair that buys time, and the better comparison is with the cost of replacing the equipment. What settles it is knowing the age of the unit, the refrigerant named on the nameplate and the condition of the coil, all of which the technician can read before you commit to anything."
+        },
+        {
+          "q": "My heat pump was installed after the January 2024 freeze. Why does it keep having trouble?",
+          "a": "The freeze exposed how badly this climate is served by equipment built for freeze. The January 2024 freeze and the February 2021 freeze both left systems that had been sitting in uninsulated space or a carport with damaged line sets and a failed outdoor unit. Some of those came back from the freeze and ran badly rather than failing outright, which is the harder fault to diagnose because the house still gets some cooling. If your system went through either freeze, saying so on the call saves a technician from chasing a symptom that started with weather damage."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: heat pumps are uncommon in Houston housing, freeze damage from 2021 and 2024, latent load on the cooling side, and tight side yard access in older neighborhoods."
     },
     "commercial-ac-repair": {
       "intro": "Commercial systems in Houston have a clock running on them. A packaged rooftop unit that shuts down in July affects every tenant, a chiller that is off by a few degrees affects a whole floor, and a year of deferred filter changes can read as a failed compressor.",
@@ -400,8 +617,21 @@
         {
           "q": "Do you handle commercial service in the Houston area?",
           "a": "We are a referral service, so the request is passed to independent HVAC companies that cover commercial work in the metro. Buildings in the Energy Corridor, Downtown, and around the Port of Houston are all served by companies in that network."
+        },
+        {
+          "q": "What drives the cost of a commercial service call?",
+          "a": "The scale of the system and how quickly it has to be back. A single rooftop unit on one tenant floor is a different job from a chiller plant or a cooling tower, and the tower side brings water treatment, strainers and pumping into the visit. After hours work on a Friday night in July carries a different cost than a scheduled morning call, and access matters as much as anything, since a unit on a roof deck or a plant room in a building downtown means lift access and a longer setup. Size, timing and access are the three things that move the number."
+        },
+        {
+          "q": "Is it worth switching a commercial system off during a peak demand period, or should we run it hard?",
+          "a": "That is a real tradeoff and it depends on the equipment and the building. During ERCOT load conservation calls, controlled outages and demand response events can take a site offline whether the equipment wants it or not, so a plant that cannot handle an abrupt stop and start can do more harm than a short shutdown. A facility with a chiller plant and a cooling tower can sometimes stage its own equipment down through a demand response window. A single packaged rooftop on one tenant floor has less room to stage anything. The honest answer comes from the plant's own controls and its service history, not from a rule of thumb."
+        },
+        {
+          "q": "Our building near the Ship Channel runs equipment from several different manufacturers. Is that a problem?",
+          "a": "It complicates the repair, it does not make it impossible. A building that has been fitted out over decades may have a packaged rooftop from one maker, a chiller from another and a cooling tower from a third, and each has its own parts supply and its own access points. It also means the parts on a shelf may belong to equipment that was replaced years ago and left on the books. A company that has worked the same building before will know which unit is which, and that history is worth putting on the request before anyone starts opening things."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: latent load on towers and chillers, ERCOT demand response windows, mixed manufacturer plant near the Ship Channel, and roof access downtown and in the Energy Corridor."
     },
     "ac-cleaning": {
       "intro": "A dirty coil is the cheapest performance loss in the whole system and the easiest one to fix. Cleaning the outdoor coil, checking the indoor coil, clearing the drain and changing the filter will take a limping system back to working order. It is the one service call worth booking ahead of the heat.",
@@ -418,8 +648,21 @@
         {
           "q": "Should I clean the coil myself or have it done?",
           "a": "A gentle hose and a soft brush on the outdoor coil will clear surface lint, and it is worth doing in the spring. Never use a pressure washer, the fins bend and the coil ends up worse. A chemical clean on the indoor coil and a proper rinse on the outdoor coil is technician work."
+        },
+        {
+          "q": "What moves the price of a coil cleaning?",
+          "a": "What condition the coil is in and what has to be reached to clean it. A unit under a mature canopy along Memorial Drive or Westheimer collects cottonwood and mesquite faster than one on an open corner, and a coil with a season of that on it takes a full rinse and a chemical treatment on the indoor side rather than a quick spray. The attic air handler on a slab house adds a second coil to deal with and a floor to work on. The drain line gets flushed on the same visit, and whether it is straightforward to reach decides how long that takes. A filter change and a system check come with it, and how many units the house has is worth asking about when the visit is booked."
+        },
+        {
+          "q": "Is this the same as air duct cleaning?",
+          "a": "No, and it is worth being clear about that. This job is the coil cleaning: the outdoor coil rinsed and treated, the indoor coil checked and cleaned, the condensate drain cleared and the filter changed. Air duct cleaning is a different job on a different part of the system, the ductwork itself, and it is not part of this visit. If the complaint is dust blowing out of the registers or a smell that follows the air, that is a ductwork question and it needs a different answer than a dirty coil."
+        },
+        {
+          "q": "My house is in one of the older Houston neighborhoods and the outdoor unit sits under a big tree. How often does the coil need cleaning?",
+          "a": "More often than in a part of the city with fewer trees over the equipment. Cottonwood and mesquite drop steadily from spring through fall rather than all in one storm, and a unit under a mature canopy can be matted inside a season while a unit on an open corner in Briar Forest or Sharpstown stays clear much longer. The sixteen Houston neighborhoods have their own housing eras and their own tree cover, so a house in the Heights or River Oaks and a house in the Energy Corridor do not have the same cleaning calendar. The pollen and the film Gulf humidity leaves on the fins matter as much as the debris, and both build up faster than most people expect."
         }
-      ]
+      ],
+      "_faqsNote": "6 FAQs. Local: cottonwood and mesquite drop rate by neighborhood canopy, humidity film and pollen on the fins, and coil cleaning distinguished from duct cleaning."
     }
   }
 }

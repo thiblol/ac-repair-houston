@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Cypress has the newest housing in the northwest corridor, and that changes the kind of AC work that happens here. The equipment is not old. The problems are more often about how the system was installed and designed, with tight ductwork and sealed attics that hold heat the ducts then have to push through.",
   "localAngle": "New construction in Cypress was built to current codes, and the codes are not always kind to the air moving through it. A sealed attic still sits in the same 130 to 140 degree range as every other attic in Houston, so ducts running through it arrive with less of their cooling than they left with. Many of these houses were framed for a plan that changed before the family moved in, and the system was sized to the plan rather than to the load. The result is a newer unit that runs constantly and never satisfies the thermostat, which looks like a fault and is often a design one.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "Why does my system stop cooling in the late afternoon?",
           "a": "In this corridor it is usually the load rather than a failure. A west-facing elevation in the afternoon sun, a house that was sized before it was furnished and duct runs sitting in a hot attic all push the system past what it can do by the middle of the afternoon. The technician checks the coil and the charge and then looks at the sizing."
-        }
-      ],
-      "_faqsNote": "3 FAQs. Local: lockout after a power interruption, new-build electrical connections, afternoon load on a sized-to-plan system."
-    },
-    "same-day-ac-repair": {
-      "intro": "Same-day work in Cypress is mostly about performance on newer systems rather than breakdowns on old ones. A unit that runs constantly and never satisfies the thermostat usually has an airflow problem or a design problem, and the technician who takes the job needs to measure static pressure rather than guess. Filter changes and coil cleaning are often part of it.",
-      "localNote": "Start with the return and the filter. Newer homes in the northwest corridor have tight return paths and multi-level filters, and a restricted return starves the coil. The other local factor is the attic, where 130 to 140 degrees surrounds every duct run and quietly raises the temperature of the air before it reaches a register. Both are quick to check and neither is what most people suspect.",
-      "faqs": [
-        {
-          "q": "How often should I change the filter in my Cypress home?",
-          "a": "Every month is a fair default, and every three months if it is a high-efficiency pleated filter. A clogged filter is the most common reason a system that was fine becomes a same-day call, because it chokes the return and the coil ices over. Check the airflow arrow on the filter housing and follow whatever the filter itself says."
         },
         {
-          "q": "Is my new system too small for the house?",
-          "a": "It can be, and it is common in new construction. The unit was sized from a plan before the house was finished, and the finished house has more glass, more insulation and more heat gain than the plan assumed. The technician measures the actual load and the actual airflow before recommending anything, because a bigger unit on a marginal duct system is not the fix."
+          "q": "What should I expect to pay for an emergency AC call in Cypress?",
+          "a": "The figure cannot be set before the unit is open, so what matters is what the fault turns out to be. A contactor, a run capacitor or a control that needs resetting after an outage is a short visit. A compressor, a coil or an inverter module is a different order of work, and a module on newer equipment may have to be ordered before anyone starts. Where the outdoor unit sits also counts, and in the newer subdivisions off the Grand Parkway and along FM 1960 a unit can be tight against a fence, which adds time to the visit itself. Ask whether the quote covers the finished work or the diagnosis alone, and what happens if the part is not in hand."
         },
         {
-          "q": "Can the attic ducts be insulated?",
-          "a": "Yes, and it is worth doing if the ducts run through a hot space. Radiant barrier or proper duct wrap on the supply runs keeps the air from picking up as much heat on the way to the rooms. It does not replace a properly sized duct run, and it does not fix a return path that is too small."
+          "q": "Will a repair on a Cypress system actually hold, or will the same fault come back?",
+          "a": "It depends on whether the failure was a part or a design. A capacitor that died on a unit that ran fine last week is a part problem, and the repair holds. A system that locked itself out because it was starved of air, or because the load was always more than the unit could move, will do it again with a fresh part fitted into the same setup. Newer equipment keeps a fault history that usually says why it stopped, so ask for that to be read out rather than cleared away. Nobody can promise a repair holds through a summer, and the honest question is what caused the shutdown."
+        },
+        {
+          "q": "Does the sealed attic in a new Cypress home make an emergency call take longer?",
+          "a": "It can, and it is worth mentioning when the request goes in. The air handler in these newer builds sits in a sealed attic running 130 to 140 degrees, so the motor and the control electronics are already working hot, and the technician has limited room and limited light around the unit. Most of the diagnosis on a system like this happens up there rather than at the pad, so clearing the hatch and moving stored items out of the way turns a long check into a quick one. Houses in this corridor built in the last twenty years also carry less service history than the age of the equipment would suggest, which is why the fault code matters so much."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: tight return paths in new builds, attic duct heat gain, plan-based sizing in the northwest corridor."
+      "_faqsNote": "6 FAQs. Local: sealed attic access and heat on new-build equipment, lockout after a power interruption, afternoon load on a sized-to-plan system."
     },
     "ac-not-cooling": {
       "intro": "Warm air from a running system is not automatically a refrigerant problem, and in Cypress a large share of those calls turn out to be airflow. Newer high-efficiency systems with a dehumidification stage can freeze the indoor coil when the airflow is marginal. The technician who takes the job needs to check the static pressure and the coil before anything is added to the system.",
@@ -97,9 +91,21 @@
         {
           "q": "Is it normal for the air from the vents to feel warm?",
           "a": "In a new build with ducts running through a sealed attic, mildly warm air at the registers is common. The air loses temperature in the attic before it reaches the room. That is a duct design and insulation issue rather than a fault, and the fix is in the attic rather than at the unit."
+        },
+        {
+          "q": "Why do two quotes for the same not-cooling job differ so much in Cypress?",
+          "a": "Because a quote is built on an assumption about the cause, and two technicians can assume different causes. A filter that was never changed and a coil packed with litter are a short visit. A system that is low on charge needs the leak located before the charge means anything, and that is a different job with the line set open. Correcting the airflow on a house whose ducts were sized for the plan rather than the finished rooms is the biggest of the three, because the duct design has to be corrected rather than a part swapped. Ask for the airflow and charge readings to appear on the invoice, because a quote that does not state the cause cannot be compared against another quote."
+        },
+        {
+          "q": "Will a larger unit fix a Cypress house that runs but does not cool?",
+          "a": "Not on its own, and on a house with a marginal duct system it makes the problem worse. A unit that is too large for the duct run cycles short and never dehumidifies, so the house stays muggy and the power bill goes up. Airflow is measured across the house first, because a load problem and a distribution problem need opposite answers, and a house that was sized before it was furnished usually has both at once."
+        },
+        {
+          "q": "Do the oaks and pines around a Cypress home stop the outdoor unit from cooling?",
+          "a": "They can, and it is the first thing to look at on a lot like this. The coil face is where the heat leaves the property, and a mat of oak litter and catkins packed into the fins stops air moving across them. The humidity makes it worse rather than better, because the litter holds damp and the coil never dries out between cycles. On the newer subdivisions the trees are still filling in, so the shade that helps the house also collects more debris every spring. A gentle rinse and a soft brush clears a lot of it, and if the house still will not hold temperature afterwards, the problem is somewhere other than the coil face."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: dehumidification-stage freezes in newer builds, warm air from attic ducts, static pressure diagnosis."
+      "_faqsNote": "6 FAQs. Local: oak and pine debris packing the coil face in very high humidity, sealed attic duct gain, high-efficiency freeze on marginal airflow."
     },
     "ac-repair": {
       "intro": "Newer equipment fails differently. Electronics, inverters, contactors and control boards take the place of the simple components that used to fail, and a fault can be a wiring problem from the original install rather than a worn part. We connect you with a company that covers the northwest corridor so the diagnosis is done on your equipment, with the codes read off the unit.",
@@ -116,9 +122,21 @@
         {
           "q": "Why does my Cypress AC need repairs so soon after it was installed?",
           "a": "New does not mean correctly installed. The common problems are a duct run that is too small for the airflow the unit moves, a return path that is restricted by the finished interior, a system sized from the plan rather than the load, and connections that were made before the power was checked. Most of these are installation issues rather than equipment failures."
+        },
+        {
+          "q": "Could a technician be at my Cypress house the same day?",
+          "a": "Sometimes, and nobody can promise it. What decides it is the fault and the time of day the request arrives, and on this newer equipment the fault is often something that can be read straight off the unit rather than diagnosed over two visits. A contactor, a capacitor or a control that needs clearing after an outage is a same-day job. A module or a compressor is a parts question, and the part has to be on the truck before anyone starts. The distance matters too. The northwest corridor runs out past FM 1960 toward the Grand Parkway, so a house at the far end of it is a longer run than one near Highway 6 and Cypresswood, and a request that lands after lunch is behind everything already booked. Say whether anyone in the house can get through the night, because that goes to the front of the list."
+        },
+        {
+          "q": "What sets the price of a repair on a Cypress house?",
+          "a": "Two things, and the second one is where the money usually goes. The fault decides the parts, and a control board or a compressor on newer equipment carries a very different cost from a capacitor on the same house. Then there is the work itself. A system in a Cypress attic is in a sealed space running 130 to 140 degrees, so reaching the air handler is slower than the same job in a closet, and a unit set against a fence takes longer to open than one with clearance around it. Ask for the price after the fault has been identified, and ask for the replacement figure at the same time so the two decisions can be compared."
+        },
+        {
+          "q": "The technician says the fault is in the ductwork, not the equipment. Can that be fixed?",
+          "a": "It can, and on these newer houses it is often the right fix rather than a symptom. A return path closed off by the finished interior, a trunk run sized for a plan that changed before the family moved in, or a filter swapped for a finer grade than the design assumed all look identical from the thermostat and all get corrected rather than replaced. The static pressure reading taken before and after the work is what shows whether the correction held. If the ducts are simply too small for the unit that was installed, then a bigger outdoor unit on the same ducts does not help, and the conversation becomes about capacity and distribution together. Nobody can promise the outcome before the measurements are taken."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: error codes on newer equipment, builder workmanship warranties, new-build installation faults."
+      "_faqsNote": "6 FAQs. Same-day intent sits here with the retired standalone page. Local: error codes and fault history on newer equipment, builder workmanship warranty, distance across the northwest corridor, sealed attic work."
     },
     "ac-installation": {
       "intro": "Installation in Cypress falls into two groups. New construction where the system is sized before the house is finished and needs correcting, and replacements in homes that have had a garage converted or a room added. We connect you with an installer who covers the area, and the load calculation has to describe the finished house, which is rarely the same as the plan.",
@@ -135,9 +153,21 @@
         {
           "q": "Where should the condenser go in a new build?",
           "a": "Out of direct afternoon sun if the lot allows, with clearance on the coil face, on ground that drains and away from the windows. Around the northwest corridor the trees are young in the newer sections, so a spot that looks shaded now may be in full sun in ten years. The unit also needs to be reachable for the coil clean it will need twice a season."
+        },
+        {
+          "q": "What determines the price of installing AC in a Cypress home?",
+          "a": "The work around the equipment, not the equipment itself. A system going into a house that already has ductwork and a service that can carry it is one job. A new build where the trunk and return have to be designed around the finished rooms is another, and on this housing the ducts have to be planned for the attic they run through rather than added on after the unit is chosen. The line set length, whether a pad has to be built, and whether anything on the electrical service needs touching all sit on the same page. Ask for a quote that separates what you are buying from what has to be built around it, because two quotes for different scopes cannot be compared."
+        },
+        {
+          "q": "Is a bigger unit the answer for a west-facing two storey in Cypress?",
+          "a": "No, and it is the most common sizing mistake here. Sizing from square footage alone gives a number that is wrong for a house with a vaulted ceiling, west glass and a second floor over the garage. The load calculation looks at the heat gain through the glass and the roof, and the duct design is what decides whether the air actually reaches the upstairs. The calculation has to describe the finished house, because the plan the builder drew is not the house the family lives in."
+        },
+        {
+          "q": "What does a sealed attic do to a duct run?",
+          "a": "It takes the temperature out of the air before the air gets where it is going. A well-insulated attic holds its heat, and a trunk run crossing it loses cooling temperature on the way to the far rooms. The duct design has to account for that, which means the return path and the trunk sizing get worked into the plan rather than added on after the unit is chosen. It is also the reason a second floor can stay warm in a house where the unit is new."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: finished-house load calculation, vaulted ceilings in new builds, condenser siting in the northwest corridor."
+      "_faqsNote": "6 FAQs. Local: duct run heat gain in a sealed attic, west-facing two storey sizing, work around the equipment rather than the equipment."
     },
     "ac-replacement": {
       "intro": "Replacing a system in a Cypress home often means replacing a unit that is not that old but was never right for the finished house. A larger unit with properly sized ducts fixes what a bigger compressor alone would not. We connect you with a company that covers the northwest corridor so the replacement is designed rather than swapped in.",
@@ -154,9 +184,300 @@
         {
           "q": "Should the replacement come with new ductwork?",
           "a": "Only if the existing ductwork cannot deliver the air the new system needs. The technician measures the static pressure to find out. If it is already high, the new unit will be short on air from the first day, and the money is better spent on the ducts than on a larger condenser."
+        },
+        {
+          "q": "What does it cost to replace an AC system in Cypress?",
+          "a": "It follows the capacity the finished house needs, what happens to the refrigerant on the old nameplate, and how much of what is installed can stay. Putting a new outdoor unit on an existing pad with a usable line set is the simplest version of this job. Changing the capacity, moving the unit to a different part of the lot, or replacing the air handler as well each add work, and the quote should separate those lines so the versions can be compared. On the newer homes here the ductwork is usually the deciding item, because a system sized to the plan needs the air path corrected at the same time."
+        },
+        {
+          "q": "Does replacing the condenser on its own make sense in Cypress?",
+          "a": "Only if the indoor side is recent and the ductwork is sound. A new condenser on an old coil and an old air handler gives a mismatch in refrigerant, pressure and airflow design, so the system runs harder than either half and still underperforms. If the house already had a distribution problem, replacing the outdoor unit repeats the problem with newer equipment. The honest comparison is a matched set on a corrected air path against another matched set, not against the cheapest outdoor unit on the list."
+        },
+        {
+          "q": "Does the summer power supply affect what a replacement system should be in Cypress?",
+          "a": "It should, and it is worth asking. A system installed in the last few years here has electronic controls and a compressor that is sensitive to voltage, and on this grid the brief interruptions in the hottest weeks come around often enough that several houses on one street can lose power together. How the equipment comes back from one of those events is a reasonable question to put to the company installing it, along with where the disconnect sits and whether the panel has the spare capacity the new load needs. It is not a reason to avoid a replacement, but it is a reason to have the recovery behaviour explained rather than discovered on the first hot afternoon."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: replacing a mismatched new-build system, oversizing and humidity, static pressure in newer duct runs."
+      "_faqsNote": "6 FAQs. Local: new-build electronics and how they recover from a grid interruption, mismatched condenser and handler, ductwork as the deciding item."
+    },
+    "ac-maintenance": {
+      "intro": "New equipment and no service history is a normal state for a Cypress home built in the last twenty years. A tune-up before the hottest stretch is where the small faults get found, the ones that turn into a callout in July: a fouled outdoor coil, a filter that got missed, a weak capacitor, a drain line packed with dust. None of that is a repair. It is the visit that finds the fault while it is still small.",
+      "localNote": "Cypress has the newest housing in the northwest corridor, so most systems here are still inside the period where a builder workmanship warranty could apply. That changes what a maintenance visit is for. It is not about age. It is about the conditions: an attic space sealed at 130 to 140 degrees, oak and pine dropping onto the outdoor coil through a spring, and an ERCOT grid that interrupts on the hottest afternoons. Ask what the visit covered and what it found, in writing.",
+      "faqs": [
+        {
+          "q": "When should I schedule a tune up for my Cypress home?",
+          "a": "Before the first run of 90 degree days, which in this corridor usually means the second half of spring. A visit in the middle of July is a diagnosis of a system that has already been working hard for weeks. Booking earlier also means the technician has time to order a part if the visit finds one."
+        },
+        {
+          "q": "My AC is only a few years old. Does it still need maintenance?",
+          "a": "Yes, and more so than people expect on a sealed attic installation. The motor, the capacitor and the drain all work harder in an attic sitting at 130 to 140 degrees, and the outdoor coil collects oak and pine drop every season no matter how new the unit is. Newness protects the electronics. It does not protect the airflow."
+        },
+        {
+          "q": "What does a maintenance visit actually cover?",
+          "a": "Coil condition on both ends, the filter and the filter housing, the drain line, the electrical connections, the capacitor, and a reading of the charge and the operating temperatures. Some of that you can see yourself and some you cannot. The written list of what was checked and what was found is what makes the visit worth booking, and it is what you compare against the next one."
+        },
+        {
+          "q": "Is it worth doing the outdoor coil myself instead of paying for a visit?",
+          "a": "Cleaning the outdoor coil is something you can do, with a gentle hose and a soft brush, and on a lot with oak and pine overhead that is worth doing twice a season. The parts that need a technician are the electrical side and the refrigerant side. If a clean coil and a new filter do not change the symptom, the money is better spent on the visit than on more filters."
+        },
+        {
+          "q": "Does the summer power interruptions make maintenance more important here?",
+          "a": "In one way, yes. On this grid the brief outages in the hottest weeks are routine, and a system that trips and then sits in lockout is a different problem from a system with a worn part. A spring visit checks the electrical connections and the capacitor before the load gets heavy and before something sits in that locked state again."
+        },
+        {
+          "q": "How much does a tune up cost?",
+          "a": "The cost moves with what the visit turns up and how hard the unit is to reach. A condenser on an open pad costs less to service than one wedged between a fence and the property line with a long line set to get to. Ask for the visit fee, ask what is included in it, and ask what would change the number if something needs replacing while the unit is already open."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic heat in a sealed attic space, oak and pine drop, ERCOT summer interruptions, tight side-yard access."
+    },
+    "condenser-repair": {
+      "intro": "The outdoor unit in Cypress takes the weather, the debris and the heat while the house carries on without it. Most faults on the outdoor side are the fan motor, the capacitor, the contactor, or a coil that has packed itself with oak and pine litter. The technician who takes the job works from the outside in, and the sound the unit is making tells them where to start.",
+      "localNote": "Cypress sits inland in Harris County, so the outdoor unit here does not get the salt that shortens coil life near the bay. What it gets instead is a suburban lot with oak and pine overhead, a summer sky that sits near the same high ambient as everywhere else in Greater Houston, and a backyard where the unit was often set into a narrow space between the fence and the property line. That last one decides how long the job takes.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but the compressor never starts. What is wrong?",
+          "a": "Usually the contactor or the run capacitor. A humming outdoor unit means the fan motor is spinning with the compressor circuit open, and capacitors fail in heat. Both are the inexpensive parts. The technician checks the supply voltage and the contactor rather than assuming, because a hum from a unit that has lost a contactor and a hum from a unit with a bad capacitor get fixed in different ways."
+        },
+        {
+          "q": "What noise from the outdoor unit means it needs service?",
+          "a": "A rattling or scraping fan, a grinding that travels around the cabinet, or a bang at the moment it starts. A rattle on startup that fades is often a fan blade or a loose panel. A bang that repeats every cycle points at the contactor or the compressor mounts. The sound narrows it down before any panel comes off, which is worth something on a unit tucked behind a fence."
+        },
+        {
+          "q": "My condenser coil is full of leaves. Can I clean it myself?",
+          "a": "You can get a lot off with a garden hose on a gentle setting and a soft brush, and on a Cypress lot with oak and pine that is worth doing a couple of times a year. Do not use a pressure wand. It bends the fins, and bent fins cut off the airflow you were trying to restore. If the fins are already bent, the unit needs a chemical clean and a fin comb."
+        },
+        {
+          "q": "Does an outdoor unit in Cypress really need the cabinet checked for rust?",
+          "a": "Cypress is inland, so there is no salt eating the cabinet the way there is closer to the bay. What does happen on a newer unit is paint damage and corrosion where a mower has clipped it or a hose has been thrown against the base, and bare steel pits at those spots fast in this damp. It is the coastal towns where that check is an annual argument."
+        },
+        {
+          "q": "My unit got loud right after a storm. What should I check?",
+          "a": "Look for debris on the fan blade and check that the unit is still sitting level on its pad. A unit knocked out of level makes the fan rub against the cabinet. Also confirm the breaker held and the unit restarted, because on this grid a system that trips and stays locked out makes no sound at all until somebody clears it."
+        },
+        {
+          "q": "Is it cheaper to repair the outdoor unit or replace it?",
+          "a": "It depends on what failed. A capacitor, a contactor or a fan motor on a unit with a sound cabinet and a working coil is a straightforward repair. A corroded coil with a burned compressor on an old unit is not, and at that point the money is better spent on the replacement. Ask what the technician found and what the reasoning was before agreeing to either one."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: oak and pine debris, inland with no salt corrosion, ERCOT lockout after a storm, units set between fence and property line."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump that moves refrigerant around the loop, and when it locks up the whole system feels it. A hard start, a short cycle and a silent compressor are all symptoms of the same general failure, and the honest question is whether this unit gets a new compressor or a new system. That answer comes after the technician has established what killed the first one.",
+      "localNote": "Cypress has the newest housing in the northwest corridor, so a compressor failure here is usually not about age. It is about heat. The outdoor unit works in a yard at full sun with very high humidity, and a compressor sitting behind a fouled coil runs hot with no relief. On equipment from the 2000s the internals may be perfectly sound and the cooling around them is the problem, and a new compressor on the same setup fails the same way a season later.",
+      "faqs": [
+        {
+          "q": "My compressor has been running nonstop for a week. Is that dangerous?",
+          "a": "It is a strain on the compressor, on the electrical bill and on everything else in the system. A compressor that never stops is usually not making full pressure, so it is running hard and delivering less. Get it looked at rather than letting it run until something gives out on the hottest afternoon of the year."
+        },
+        {
+          "q": "Can a failed compressor be repaired or does it have to be replaced?",
+          "a": "Sometimes the contactor or the winding can be addressed without replacing the whole pump. A seized or internally broken compressor is a replacement. The part that matters is why it failed, because a new compressor on a system with a dirty coil and a low charge will be in the same condition a season later."
+        },
+        {
+          "q": "My unit hums but the compressor never kicks in. Is that the compressor?",
+          "a": "Rarely, and that is the useful thing to know. A hum with no compressor sound points at the contactor, the capacitor or the control, which are the inexpensive parts, and the technician checks those before anyone starts pulling a compressor. A compressor that is genuinely seized usually sounds different, more like a load or a knock than a clean hum."
+        },
+        {
+          "q": "Should I replace the compressor or replace the whole system?",
+          "a": "It comes down to the age of the unit and the condition of everything attached to it. On a system with a clean coil, sound airflow and healthy ductwork, a compressor replacement is defensible. If the unit has a history of overheating and a marginal duct system, the compressor was the last thing to fail rather than the first, and replacing it alone sets the same conversation up again next summer. Ask what the technician found and what it means for the rest of the system."
+        },
+        {
+          "q": "Does a Cypress summer make compressor failures more likely?",
+          "a": "Yes. The heat and the very high humidity put the outdoor unit at its limits, and a condenser packed with oak and pine drop makes the compressor run hotter than it was built for. A system with a clean coil and clear airflow last considerably longer here for that reason alone, and that is where a lot of the maintenance money in this climate goes."
+        },
+        {
+          "q": "What does a compressor replacement cost?",
+          "a": "The price moves with what has to be recovered, how the failed compressor came apart, and what else the technician finds while the unit is open. It also moves with access. A unit wedged between a fence and the property line in a Cypress subdivision costs more to reach than one on an open pad, so ask for the labor broken out from the parts."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heat and humidity in the yard, oak and pine fouling the coil, 2000s equipment, fence-to-property-line access on small lots."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "Refrigerant does not get used up, so a system that needs it added every season has somewhere it is escaping. Locating that spot, sealing it and restoring the charge are three separate jobs, and the one that matters is the first. The request goes to an HVAC company that covers the northwest corridor, and the technician starts by putting gauges on the system and looking for the loss.",
+      "localNote": "Leaks in Cypress are rarely where the customer expects them to be. The line set runs from a cabinet in an attic that sits at 130 to 140 degrees down to a pad in a yard where oak and pine drop every spring, and the thermal cycling works those joints loose over a few seasons. The copper up in the attic is hot enough to find with the back of a hand. On newer installations the joints are the original ones from the build.",
+      "faqs": [
+        {
+          "q": "How do I know it is a leak and not just a bad install?",
+          "a": "An oily mark or a dark stain near a line or a coil, a hissing sound near the outdoor unit, and a system that wants refrigerant within a year of being installed or serviced. That last one is usually a fitting that never seated properly. On a newer Cypress installation the technician starts at the joints made at install rather than at the factory ones."
+        },
+        {
+          "q": "What does refrigerant oil on the pipe mean?",
+          "a": "The compressor oil circulates with the refrigerant, and where the refrigerant escapes the oil comes out with it. That oily residue is the mark a leak leaves, and it points at the spot instead of guessing at it. It usually shows up on the pipe near the unit or at a fitting, and it is easier to see on a dry day than on a wet one."
+        },
+        {
+          "q": "Why does it matter that the leak gets found rather than just recharging?",
+          "a": "A recharge on a leaking system buys a few months. The pressure the compressor needs is what opens the weak point wider, so the same call comes back at a worse time. Finding and sealing the leak is what makes the charge hold, and it is the difference between one service visit and a repeat in the same season."
+        },
+        {
+          "q": "Why does my system seem to lose refrigerant in the hottest weeks?",
+          "a": "The system is running longer and working harder, so the pressures in the lines climb and the weak point carries more of the load. The peak of July and August is when a slow pinhole that opened over a mild winter finally announces itself. It is also the best time to watch it, because the technician can see the charge move while the unit is working under load."
+        },
+        {
+          "q": "Does the refrigerant type on the nameplate change the leak repair?",
+          "a": "It changes the paperwork and the cost rather than the diagnosis. The type on the outdoor unit nameplate decides how much can be recovered and what may legally be put back in. On a Cypress house built in the 2000s the type is the current one, so this is rarely an issue here. An older system on a refrigerant that is no longer produced is a different conversation."
+        },
+        {
+          "q": "What should I ask for on the invoice?",
+          "a": "Ask that recovering the refrigerant, repairing the leak and restoring the charge are listed as separate items. That way you can see which part was actually done rather than a single line for the visit. It matters more when the refrigerant is a type that has to be recovered and reclaimed rather than vented, because that handling has a cost attached to it."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: line sets running through a 130 to 140 degree attic, original build joints on newer homes, peak July and August pressure, 2000s refrigerant type."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement, not a canister and a guess. Superheat and subcooling tell you whether the charge is right and whether the system is actually working, and those two readings are what turn a visit into a diagnosis. On a new Cypress installation a unit that is not cooling as expected is often reading something other than what the nameplate calls for.",
+      "localNote": "Two conditions in Cypress decide how much a recharge can tell you. The humidity is high enough that a system with a perfect charge and poor airflow will still leave the house muggy, so the readings only mean something when they are read alongside the air movement. And the equipment here is new enough that a low charge usually means a fitting that opened rather than a system that has run for fifteen years. Read the nameplate before anything else.",
+      "faqs": [
+        {
+          "q": "How much refrigerant does my system need?",
+          "a": "The amount is on the outdoor unit nameplate along with the factory charge for that model. A technician weighs what goes in and then reads superheat and subcooling to confirm the system is holding it. Guessing the amount from pressure alone is not the same as measuring the charge, and the two get confused constantly when a system is behaving badly."
+        },
+        {
+          "q": "My new system was installed last year and it does not cool like my neighbor's. Why would it need a recharge?",
+          "a": "On a new installation that is worth checking rather than assuming. The unit may have been charged light at the factory, or a fitting may have opened up in the first season. A new Cypress system can also be short on air rather than short on refrigerant, and the readings tell those two apart. Recharging a system that is low on air hides the real fault."
+        },
+        {
+          "q": "Can a recharge fix an AC that is not cooling?",
+          "a": "Only when the charge is the whole problem. If the coil is fouled, the airflow is short, the compressor is weak or the gas is escaping through a fitting, adding more only delays the next visit and can make a weak system run hotter. The measurements exist precisely to answer that question, which is why they belong on the invoice."
+        },
+        {
+          "q": "What do superheat and subcooling actually tell me?",
+          "a": "Superheat is how much warmer the refrigerant is than the point it should be boiling at, and subcooling is how much colder it is than the point it should be condensing at. Between them they say whether the amount of refrigerant in the system and the air moving over it are in balance. A system reading fine on one and badly off on the other has a specific fault, not a vague one."
+        },
+        {
+          "q": "Does the refrigerant type on my nameplate matter for a recharge?",
+          "a": "More than most people expect. The type printed on the outdoor unit nameplate is the only refrigerant that can go into it, and mixing two types in one system causes real damage. On a Cypress house from the 2000s the type is the current one and the job is straightforward. An older system on a refrigerant that is no longer produced is a different conversation, because there is less of it to recover."
+        },
+        {
+          "q": "Why does the price of a recharge vary so much between companies?",
+          "a": "Because the price moves with the work that has to happen before any refrigerant goes in: recovering the existing gas, finding out whether the system is holding what it has, and getting to the unit at all. Some of that is the refrigerant type and some of it is access. Ask for the visit to include a written reading of superheat and subcooling, because a quote without those numbers is a guess."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: very high humidity reading against a marginal charge, 2000s equipment and refrigerant type, nameplate charge on new installations."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The indoor coil is where the moisture leaves the air and where the cold is made. When it is fouled, iced over or blocked, what you notice is water sitting in the drain pan, a house that stays muggy at a comfortable temperature, and a smell nobody can place. Cleaning it is straightforward. Working out why it keeps coming back is the part that needs a technician.",
+      "localNote": "The coil in a Cypress house is usually in an attic that reaches 130 to 140 degrees, or in a closet where the return air comes back warm from the rooms it just cooled. Both are harder on a coil than the original design assumed. Newer high-efficiency systems in this corridor run a dehumidification stage that pulls the coil below the dew point on purpose, so a coil with marginal airflow behind the filter will freeze rather than drip. The humidity outside means more water for the pan to carry.",
+      "faqs": [
+        {
+          "q": "My indoor coil keeps freezing. What actually causes that?",
+          "a": "Airflow and refrigerant, not the coil metal. A high-efficiency system dehumidifies by running the coil below the dew point, and if the airflow over the fins is marginal the coil goes below freezing instead. The freeze cuts airflow, which makes it freeze harder. Ask what the static pressure is and what the charge reads, because adding refrigerant to a system that is short on air makes it worse."
+        },
+        {
+          "q": "There is green or grey slime on the coil. What is it and will cleaning fix it?",
+          "a": "That is microbial growth on a wet coil, and in very high humidity it develops fast and smells musty through the whole house. Cleaning the coil and clearing the drain stops it. If the coil stays wet because the airflow is short or the pan is not draining, it comes back within a season, which is usually when people think the cleaning did not work."
+        },
+        {
+          "q": "Why is there water sitting in the pan under my air handler?",
+          "a": "The coil is condensing more water than the drain line can carry, so it backs up into the pan, and the float switch may already have shut the system down to protect the house. The drain gets cleared and the pan and float switch get checked while the technician is up there. The coil gets looked at too, because a pan that fills is usually a symptom rather than the fault."
+        },
+        {
+          "q": "My system blows cold air but the house is still muggy. Why?",
+          "a": "Cooling and dehumidifying are two different jobs, and a system that reaches temperature quickly can do the first and skip the second. It comes down to the airflow over the coil and how long the coil is allowed to run. In Cypress, where the humidity stays very high for most of the year, the coil has to run long enough to pull the moisture out, and if it hits setpoint and shuts off first the moisture stays in the house."
+        },
+        {
+          "q": "How much airflow does the coil actually need?",
+          "a": "Enough to move the volume the system is rated for through the filter and the coil, which the technician measures as static pressure rather than guessing. On a newer Cypress build with a tight return path, the filter itself can be the restriction. A filter swapped to a higher efficiency grade without anyone checking the pressure drop is a common cause of a coil that will not drain properly."
+        },
+        {
+          "q": "Is the indoor coil something I can clean myself?",
+          "a": "The outdoor coil, yes, with a gentle hose and a soft brush. The indoor coil needs the air handler opened, and opening it badly can push dirt into the ducts where it is a bigger problem than the one you started with. If the smell is the main complaint, the drain line and the coil both need attention, and a technician can say which one is producing it."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic and closet coil locations, dehumidification-stage freezes on high-efficiency systems, very high humidity and pan loading, tight return paths on new builds."
+    },
+    "blower-motor-repair": {
+      "intro": "Air moves through the house because of the blower motor, and when it fails the equipment is still there with nothing coming out of the registers. The motor, the capacitor and the relay are the parts involved, and the two cheap ones tend to go at the same time as the motor. On most systems this is a contained repair with a clear answer.",
+      "localNote": "The blower in a Cypress house is usually in the attic with everything else, sitting in a space that reaches 130 to 140 degrees where the motor is already working hard. Newer housing means a newer motor with a control board next to it, so a fault on the board can present as a motor that will not run. The sealed attic and the very high humidity are the same as everywhere else in Greater Houston, and the grid here interrupts in the middle of a run often enough that the controls get checked too.",
+      "faqs": [
+        {
+          "q": "The thermostat says the AC is on but nothing blows. Is that the motor?",
+          "a": "It could be the motor, the capacitor or the control board, and those three get tested in that order because the two cheap parts fail more often than the motor does. If the unit runs and the air is warm, the fault is somewhere else entirely. Switch it off and get it looked at rather than running a motor that is dragging."
+        },
+        {
+          "q": "My blower is making a grinding noise. Can I keep using it?",
+          "a": "Not for long. That sound is a bearing going, and a bearing that is failing will eventually seize the motor. When the motor seizes it drags the capacitor and the relay with it, which turns one repair into three. In a Cypress attic at 130 to 140 degrees the motor is already working in conditions that shorten its life, so the noise is worth acting on early."
+        },
+        {
+          "q": "The blower only runs on high speed and not on low. What is wrong?",
+          "a": "That points at the relay or the control board rather than the motor itself, and sometimes at the thermostat asking for a speed the system cannot deliver. On a newer installation it can also be a communication fault between the thermostat and the board. Ask what the replacement covers, because the relay and the capacitor are the parts that usually go together."
+        },
+        {
+          "q": "Why do the motor and the capacitor fail together?",
+          "a": "A motor that is dragging, or a capacitor that has gone bad, pushes hard on the other one. A failing capacitor stops the motor from starting cleanly, the motor sits and draws current it should not, and the heat from that damages the capacitor further. They are also both cheap and both near the end of their lives at about the same time, so replacing the motor alone usually means a second visit a year later."
+        },
+        {
+          "q": "How long does a blower motor repair take?",
+          "a": "The swap itself is not long. The time goes into getting the unit open, working out whether the motor or the control caused the failure, and getting the replacement to the site. What moves the cost is access and the electrical condition of the system rather than the motor. Ask whether the capacitor and the relay are included before the work starts, not after."
+        },
+        {
+          "q": "Does a new Cypress home need blower work as often as an older one?",
+          "a": "Less often, since the blower is new and the filter system was designed rather than adapted. But the conditions are the same as everywhere else in Greater Houston: very high humidity, a sealed attic at 130 to 140 degrees where the unit lives, and an ERCOT grid that interrupts in the middle of a run. When the motor does go on a newer system, the control board and the thermostat are worth looking at at the same time."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic blower at 130 to 140 degrees, control board alongside a new motor, ERCOT interruptions mid-run, very high humidity."
+    },
+    "thermostat-installation": {
+      "intro": "Changing a thermostat is quick once the wiring is understood, and it is the most common way a system that works fine gets blamed on the equipment. Most thermostat calls turn out to be a wire set left over from an earlier install or a thermostat that was never set up to talk to the system properly. The request goes to an HVAC company that covers the northwest corridor for the swap.",
+      "localNote": "Photograph the wires before anything comes off, because the terminal labels rarely match what is actually connected. On a Cypress house built in the 2000s the existing thermostat may be a line voltage unit left by the builder, and a smart thermostat fitted to it later may have borrowed a wire the air handler never really had. There is also the reverse problem here: a house that was wired for the thermostat and later had a system installed that does not speak its language.",
+      "faqs": [
+        {
+          "q": "Can I replace the thermostat myself?",
+          "a": "Often, if the new one matches the system and you are comfortable with a screwdriver. Photograph the existing wires before anything comes off and note which terminal each one goes to. The failures come from a wire set that does not match what the manual expects, and forcing a wire into a labelled terminal is how a cheap part turns into a service call."
+        },
+        {
+          "q": "My smart thermostat will not connect to the system. What is wrong?",
+          "a": "Usually the wiring. A smart thermostat needs a common wire to power the unit, and on a system where that wire was never run an installer may have borrowed one that does not always do the job. On a Cypress house from the 2000s the system usually has what it needs, but the same symptom on an older unit is a wiring problem rather than a thermostat problem."
+        },
+        {
+          "q": "The thermostat ignores the schedule I set. Why?",
+          "a": "It is often in the wrong mode, or it has a delay and an anti-swing feature left over from installation. A schedule is a request to the equipment, and the equipment has to be able to receive it. If the system does not follow the schedule, the wiring between the thermostat and the board is the thing to check, because the instruction never arrives."
+        },
+        {
+          "q": "Is a smart thermostat worth it in a climate this humid?",
+          "a": "It helps more here than in a dry climate, because a thermostat that reads humidity can hold the house closer to the dew point instead of only to a temperature number. A set temperature on its own lets moisture build up around it. It does need a working connection to the system and a common wire, and it does not rescue a system that is short on airflow."
+        },
+        {
+          "q": "How much does it cost to install a thermostat?",
+          "a": "The cost moves with what the wiring needs. A straight swap on a system with the right wire set is quick. Changing from an old line voltage thermostat, or running a common wire where there is none, is more involved. Ask for the wiring work to be itemized apart from the thermostat, and ask that the installer confirm the system actually followed the schedule before leaving."
+        },
+        {
+          "q": "Will a new thermostat fix a system that never reaches the setpoint?",
+          "a": "Sometimes, and it is worth knowing which. A thermostat stuck in a permanent hold or calling for less than full stage will hold the system short of the setpoint no matter how well the equipment is performing. On a Cypress home with marginal ductwork the thermostat is often the innocent party and the airflow is the cause. The diagnostic tells the two apart before a part gets replaced."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: builder-installed line voltage thermostats in 2000s homes, borrowed common wire on smart upgrades, marginal ductwork behind the setpoint complaint."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump does both jobs in one set of equipment, so a fault can take out heating and cooling together. The part that decides which way the refrigerant flows is the reversing valve, and that is where most heat pump work starts. In Cypress the cooling side carries the load for most of the year, so the calls that come out of the northwest corridor are mostly cooling complaints with a heating problem attached.",
+      "localNote": "The heat pumps in Cypress are mostly newer systems going into houses that were not designed around them, and the newer housing here means the ones that exist are still early in their lives. The trouble is not the cold. A reversing valve that does not shift all the way leaves the system in heating mode in July, ice builds on the outdoor unit, and the house gets warm air while the humidity outside is very high and the coil has that much more moisture to pull out of the air.",
+      "faqs": [
+        {
+          "q": "My heat pump has ice on the outdoor unit in July. Is that normal?",
+          "a": "No. Ice on the outdoor unit in the warm months points at a low charge, a reversing valve that is not shifting fully, or an airflow problem. Shut it down and let it thaw before it is run back into the ice. The technician reads the charge and checks which mode the system is actually running in, and those two readings tell the three possibilities apart."
+        },
+        {
+          "q": "The heat works but the cooling does not. Does that narrow it down?",
+          "a": "It narrows it a lot. When only cooling fails, the reversing valve and the refrigerant side are the likely places. When both fail together it is usually a control board or a power problem. In Cypress a grid interruption during a mode change can leave a system stuck, so the supply voltage and the controls get checked early."
+        },
+        {
+          "q": "Why does the backup heat run all the time?",
+          "a": "Because the heat pump is not carrying the load and the electric strips are making up the difference, which costs a great deal more to run and puts extra hours on the strips. Causes run from a low charge to a reversing valve that has failed to a system sized for a load it cannot meet. A strip running constantly is a symptom worth diagnosing properly rather than a setting to change."
+        },
+        {
+          "q": "My system will not switch from heating to cooling. What does that mean?",
+          "a": "It points at the reversing valve or at the controls that command it. The valve is a valve, driven by a small solenoid that changes the direction of flow through the system. When it sticks part way the system can run in the wrong mode, and in this climate that means warm air at the registers in July and ice building on the outdoor unit."
+        },
+        {
+          "q": "Is a heat pump a good fit for a Cypress home?",
+          "a": "For the cooling side, yes, and it is efficient in a climate like this. The question is the ductwork and the load. A heat pump moves a large volume of air to deliver heat, so a marginal return path on a newer Cypress build makes it work far harder than it should and pull the power bill up with it. The load calculation and the duct check decide whether it fits the house."
+        },
+        {
+          "q": "Can the cooling side and the heating side be repaired separately?",
+          "a": "In practice they share the refrigerant circuit and the reversing valve, so a fault on one side is often on both. A separate repair is possible on the electric backup heat, which is normally resistance strips or a separate furnace, and that is worth checking if the heat pump side turns out to be the problem. Ask for the two to be costed apart when the quote comes."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heat pumps in newer 2000s-onward Cypress housing, ERCOT interruption during a mode change, very high humidity and icing, marginal return paths."
     }
   }
 }

@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Third Ward, Houston",
   "title": "AC Repair Third Ward, Houston | AC Repair Houston",
   "description": "Cottages and infill on narrow lots with almost no shade, where the sun loads the walls and the equipment has been patched for decades.",
@@ -36,6 +37,15 @@
     {
       "q": "Does a narrow lot leave room for a proper central system?",
       "a": "It leaves less room, but it is workable. Options usually include a compact rooftop or side yard condenser, a line set routed through an existing chase, or ductless heads on a room by room basis when there is no attic worth running duct through. The constraint on these older cottages is space for the equipment and the path to it, so the layout has to be walked before anything gets quoted."
+    },
+    {
+      "q": "Why is the same repair priced differently from one block to the next in Third Ward?",
+      "a": "What is behind the wall changes what the work involves. A house framed in the 1930s with hollow block walls holds its temperature differently from a 1960s infill whose cooling was added on top of a lighter shell, and the duct runs in the two do not fail the same way. A second system added years later brings its own parts and its own age into the job, and the review process on blocks that carry historic designation changes the calendar too. So the quote moves with the house, not with the street."
+    },
+    {
+      "q": "My attic is nearly as hot as the outside. Does that affect the cooling?",
+      "a": "It does, and it is the part of these houses that is hardest to see. The attics over the older cottages between Jefferson Street and Milby Street are thinly insulated, so on a clear afternoon the air up there is close to outdoor temperature, and the air handler tucked into a low closet has to pull its return air through that heat before a single room gets cold. Any duct run passing through it works against the system the whole way. Where the attic space allows it, adding insulation and sealing the duct is the least expensive improvement available, and where it does not, the sizing calculation has to account for that gain."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Two added: one on why the same repair prices differently block to block, one on the heat sitting in a thinly insulated attic above the air handler. Five reference a real Third Ward condition."
 }

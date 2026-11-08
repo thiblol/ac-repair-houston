@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Manvel is a town that grew over the top of older Brazoria land, so the housing runs from 1980s ranch homes on original lots to brand new subdivisions on the far side of TX-288. All of it sits close enough to the Gulf that salt is already part of the maintenance routine, including on the newest houses.",
   "localAngle": "The salt is the thing to understand about Manvel. It is not a coastal village, but the air coming in off the Gulf reaches it, and a condenser that has never been rinsed picks up a crust on the fins that you cannot see from the sidewalk. The older half of the housing has the deferred maintenance story you would expect from Brazoria County in the 1980s. The newer subdivisions have no such history, but they have coastal oak, which sheds onto a unit that sits in the shade and never dries out.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "Is it normal for a new subdivision home to have AC trouble?",
           "a": "It should not, so if the equipment is nearly new, the first question is whether it was installed correctly: the charge, the line set, the duct sizing and the airflow clearance around the unit. That is worth checking before anything is blamed on the weather."
-        }
-      ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
-    },
-    "same-day-ac-repair": {
-      "intro": "Most same-day requests around Manvel are about a system that is working but not working well. The afternoon calls here are often coil and refrigerant work on units that have gone a long time without attention.",
-      "localNote": "Because Manvel has both old Brazoria housing and new subdivisions, a same-day visit can turn into very different work depending on the street. On an older lot it may be a leak search on a 1990s R-22 system. On a new street it may be a new unit with a charge or airflow problem. The technician who takes the job brings the gauges and the meter for both.",
-      "faqs": [
-        {
-          "q": "How do I get same-day service in Manvel?",
-          "a": "Request it early in the day and give the model number from the unit label. Same-day slots fill fast in the Houston area, and a morning request has a much better chance of being met than an afternoon one."
         },
         {
-          "q": "What should I write down before the visit?",
-          "a": "What the system does, not what you think is wrong. Does the fan run, does the outdoor unit start, does the breaker hold. Also the model number and the year. Those notes shorten the diagnosis and keep the visit from turning into guesswork."
+          "q": "What does an emergency repair cost out here in Manvel?",
+          "a": "The price follows the fault and how far the technician has to drive, and both of those are different on this side of the county than they are inland. A failed capacitor or contactor on a unit with a sound cabinet is a short visit. Corrosion across the terminals, a seized compressor or a system that needs refrigerant recovered is a different job, and that difference should appear in the estimate before anything is opened. Ask for the scope in writing."
         },
         {
-          "q": "Can a coil clean fix a system that is barely cooling?",
-          "a": "Sometimes, especially on a newer unit in the first few seasons. On an older system with a low charge and a leak, the clean helps but does not finish the job."
+          "q": "Is it worth paying to fix a system that is twenty five years old?",
+          "a": "It depends on the condition of the metal rather than the number of years. A unit on an original Brazoria lot with a rusted base pan, a cabinet eaten at the corners and fittings that have been weeping for seasons is not worth a large repair. A unit with sound sheet metal and one failed electrical part is. Nobody can promise which of those you have until the cabinet is open, so it is reasonable to ask what the visit found before you agree to the work."
+        },
+        {
+          "q": "Why does the AC keep going down on our street off TX-288?",
+          "a": "In the newer subdivisions the equipment is young but it sits in the same salt-laden air as the rest of Brazoria County, and coastal oak stands over half the lots. Salt crust and oak litter together blanket the outdoor coil, the condenser cannot reject heat, the head pressure climbs and the compressor shuts itself down in the middle of a July afternoon. Oak sap and wet leaves also hold damp against the cabinet base where the electrical connections are, which is why some of these units fail on the electrical side rather than the cooling side. Clearing the coil and washing the base down is what a maintenance visit out here is for."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: coastal oak and salt crust driving the shutdowns, corrosion at the cabinet base, older Brazoria lot units, TX-288 subdivision equipment."
     },
     "ac-not-cooling": {
       "intro": "A system that blows warm air and keeps running is the classic complaint out here, and in this part of Brazoria County the first thing to check is the outdoor coil. The company that covers this area will look at the condenser before deciding it is a refrigerant problem.",
@@ -97,9 +91,21 @@
         {
           "q": "What if cleaning the coil does not fix it?",
           "a": "Then the fault is on the refrigerant or compressor side, and it needs a technician with gauges to measure it. A recharge without diagnosing the cause is the same call again in a few months."
+        },
+        {
+          "q": "What does it cost to sort out an AC that blows warm air?",
+          "a": "The price follows what the readings show, not what the symptom looks like from the living room. A system that is simply low on refrigerant and one whose compressor cannot move heat both present as warm air, and they are very different jobs. Whether the gas has to be recovered and put back, whether a leak was located and sealed, and how difficult the outdoor unit is to reach all land in the total. Get the diagnosis first, because the diagnosis is what sets the number."
+        },
+        {
+          "q": "Will cleaning the condenser actually solve it, or just buy me a season?",
+          "a": "Honest answer: it solves the problem when the fouled coil is the problem, and buys a season when something else is also going on. If the fins are packed with oak litter and salt, cleaning them restores the unit to what it was designed to do. If there is a slow leak or a compressor that is losing capacity, the same warm air comes back once the weather turns hot again. A technician should be able to say which of those you have after the coil is clean and the gauges are on, and a straight answer on that is worth more than a guarantee nobody can make."
+        },
+        {
+          "q": "Our ranch house off Highway 6 was added to over the years. Is that why it will not cool?",
+          "a": "It is often a big part of it. On the older Brazoria lots the original house was built for a smaller family and a smaller load, and the square footage and the glass went up while the equipment stayed where it was. A system that was correctly sized for the original house is now carrying a load it was never matched to, and it gets there by running long, which shows up as weak cooling and a unit that never quite catches up. The attic makes it worse, since a handler sitting in 130 to 140F has less margin for cooling itself. A load calculation against the house as it is now is what settles whether this is a sizing problem or a service problem."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: oak and salt litter on the coil, added-on load on older Brazoria lots, 130 to 140F attic handler, TX-288 area equipment."
     },
     "ac-repair": {
       "intro": "Repairs in this area need the diagnosis done properly, because the outdoor unit's condition changes what the numbers mean. A salt-affected condenser and a clean one do not behave the same under load.",
@@ -116,9 +122,21 @@
         {
           "q": "Why does a corroded unit keep having different faults?",
           "a": "Salt corrodes several things at once: the coil, the cabinet, the wiring and the connections. Fixing the one that failed today does not change the others. That is the argument for replacing an old unit rather than repairing it piece by piece."
+        },
+        {
+          "q": "Can I get an AC repair visit on the same day in Manvel?",
+          "a": "It depends on what failed and where the technician starts from. Manvel stretches out along TX-288 and FM 1128, and a company coming up from Pearland or Alvin has to cover that ground before anyone reaches a front door, so an afternoon request can turn into an evening one. The fault decides more of it than the distance does. A failed run capacitor or a pitted contactor is usually handled on the first trip, while a compressor, a scaled coil or a cabinet eaten through at the base needs a part ordered and the refrigerant recovered first. Salt adds its own delay here, because a pitted fitting often turns up during the visit and means a second trip for the part. Describe what the unit is doing and the company covering Brazoria County will tell you what the day looks like."
+        },
+        {
+          "q": "How much does an AC repair cost in Manvel?",
+          "a": "It is not priced by the hour alone. What moves the total is how many separate things have failed on the outdoor unit, whether refrigerant has to be recovered and the lines opened, and whether the cabinet and coil are still sound enough to justify new parts on them. On a system that has never been serviced on an original Brazoria lot, salt corrosion usually turns up on the terminals and the base pan at the same time as the original complaint, and a technician who opens the cabinet reports all of it rather than only the part that stopped the fan. Ask for the scope in writing before anything gets ordered."
+        },
+        {
+          "q": "Will the repair actually fix it, or am I buying a stopgap?",
+          "a": "Sometimes a repair is the real fix and sometimes it buys a season, and the difference is what sits behind the failure. A failed capacitor on a clean unit with a sound coil is a fix. The same part on a unit with a scaled condenser and pitted lines is a stopgap, because the compressor behind it is still working against a coil that cannot reject heat. Any technician can tell you which of those you have once the cabinet is open, and nobody can promise a repair holds for good. The useful question is what has to change for this to be the last visit, and that matters more here than inland, because a cabinet sitting in salt air and a line set running through an attic at 130 to 140F keep working against whatever was just replaced."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: TX-288 and FM 1128 travel for same day work, salt corrosion found alongside the first fault, outdoor unit on a Brazoria lot with no service history."
     },
     "ac-installation": {
       "intro": "New construction and replacements both come through here, and the salt environment changes how the outdoor unit should be set up. Where the unit sits and what it is made of decide how it ages.",
@@ -135,9 +153,21 @@
         {
           "q": "Should I get the attic or the slab checked first?",
           "a": "On an older house, the duct route and the attic access come first. On a new build, the return air path and the electrical service for the outdoor unit come first. The technician will tell you which condition your house is in."
+        },
+        {
+          "q": "What determines the price of a new AC install in Manvel?",
+          "a": "Whether the existing ductwork can stay, whether the line set has to be replaced, and how far the crew has to travel all count. A house on an original Brazoria lot that has been added to over the years often needs its return path reworked and its electrical service checked for a new outdoor breaker, and both are work you cannot see on a sales sheet. The refrigerant matters too, since taking a system off the older type and onto a current one means new lines and new fittings. Ask for the quote to separate the equipment from the labour around it, and you can see what you are paying for."
+        },
+        {
+          "q": "Is a coastal grade outdoor unit worth the extra money here?",
+          "a": "On the new streets off TX-288 it is a fair question to ask, because the salt reaches those houses the same as it reaches anywhere else in Brazoria County. A cabinet finish and a coil coating that resist salt will hold up longer than a standard unit on the same pad, and the rinse routine is still required on top of it. The honest way to decide is to compare what the upgrade costs against what the same money would buy in ductwork or a properly sized system, because on a house with a heavy load the equipment efficiency is not the part that fixes the cooling. Nobody can promise how many seasons any unit will last in this air."
+        },
+        {
+          "q": "Does the salt reach the new subdivisions off TX-288?",
+          "a": "It does. These houses sit close enough to the coast that salt is already part of the maintenance picture, and the newest equipment picks it up in its first season rather than its fifth. The fins of a condenser collect a fine crust within months, the cabinet base starts showing early corrosion, and coastal oak on the same lot drops a layer of litter that holds the damp against it. That means the maintenance plan has to start in year one on a new house here, not later. It also means a new unit should be specified for a salt environment rather than assuming it is the same purchase as one further inland."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: salt reaching the new TX-288 streets in year one, coastal oak litter on a new pad, R-22 change on older Brazoria lots, very high humidity load."
     },
     "ac-replacement": {
       "intro": "Replacing here often means replacing something that still technically works. Salt exposure and a run of unrepaired faults is what tips the balance, and the refrigerant type usually makes the decision easier.",
@@ -154,9 +184,300 @@
         {
           "q": "Is it worth replacing an older unit that still cools?",
           "a": "If it is original equipment with a history of salt corrosion and repeated calls, it is worth thinking about. If it has been maintained and the cabinet is sound, replacing it early is a plan rather than a repair."
+        },
+        {
+          "q": "How is a full system replacement priced in Manvel?",
+          "a": "The number follows what has to be reused and what has to be rebuilt. Keeping the indoor equipment and the existing ductwork keeps the job small, and swapping the outdoor unit alone is smaller still. Taking a system off the older refrigerant onto a current one means new line set and new fittings either way, because the two cannot be mixed. Recovery of the old refrigerant, the electrical work for a new disconnect, and any duct changes on a house that has been added to over the years all land in the total. Ask for a quote that separates the equipment from the work, and then you can compare two of them."
+        },
+        {
+          "q": "Will the salt just eat the new system as well?",
+          "a": "Over enough years, some of it will, and nobody can promise a service life for any unit in air like this. What changes with new equipment is the starting point. A cabinet finish and coil coating built for a salt environment, a washdown before the unit goes into service, and a rinse routine twice a year all buy years that a neglected unit would not have had. A replacement also clears out the corroded connections and the brittle insulation on the old line set, which are the things that actually bring calls back. Treat it as buying a better starting position, not as buying immunity."
+        },
+        {
+          "q": "Our house sits on an old Brazoria lot near the Brazos River. Does anything change for the replacement?",
+          "a": "A few things, and a technician should check them before quoting. The humidity here is very high, so the indoor coil and the ductwork matter as much as the outdoor unit, and the load calculation has to be against the house as it stands now, including any addition built over the years. The line set on a lot that old usually needs replacing along with the refrigerant change, because the insulation has gone brittle and the fittings have been in salt air since the eighties. An attic handler on a house that has been raised or re-roofed over also needs its platform and its drainage checked. All of it comes out of the estimate once it is written down."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local: salt exposure on original Brazoria lots near the Brazos River, R-22 to current refrigerant change, added-on house load, oak and salt on the old line set."
+    },
+    "ac-maintenance": {
+      "intro": "A check-up before the hottest stretch of the year is the cheapest way to avoid a July callout. The company that covers Manvel looks at the coil, the filter, the drain and the electrical on the outdoor unit, and catches the small fault that would otherwise turn into an emergency in August.",
+      "localNote": "Manvel runs a maintenance calendar the manual never describes. Salt off the Gulf settles on the fins of the outdoor unit, coastal oak drops its litter into the same coil, and the air handler sits in an attic that reaches 130 to 140 degrees. On the newer streets off TX-288 the equipment is young but it sits in the same salt air the older Brazoria lots have had for decades.",
+      "faqs": [
+        {
+          "q": "When should I get my AC serviced in manvel",
+          "a": "Before the first stretch of 90 degree days, not in the middle of them. Salt crust and oak litter both build on the coil through the spring, and a fouled coil starts costing you as soon as the heat arrives. Booking early also means the technician can run the system properly while the weather is still forgiving."
+        },
+        {
+          "q": "My unit is only a few years old, does it still need maintenance",
+          "a": "It needs it more often than an inland unit does, not less. Salt is already part of the maintenance picture on the new streets off TX-288, so the first few summers are when the coil, the cabinet base and the electrical connections are worth checking. Most manufacturers schedule the first service around the end of the first full cooling season."
+        },
+        {
+          "q": "What does a maintenance visit actually check",
+          "a": "Coil condition and the airflow through it, filter and filter fit, drain line and pan, capacitor and contactor, refrigerant charge, and the connections on the outdoor unit. On a system in an attic that hot, the technician also checks that nothing stored up there is blocking the handler. It is an inspection and a set of readings, not a parts list."
+        },
+        {
+          "q": "Our power has been flickering a lot this summer, could that be part of it",
+          "a": "It can be. Low voltage from grid events strains capacitors and motors, and those are the parts a maintenance visit looks at. The grid in this part of Texas is not steady through the summer peak, so a system that starts having trouble in August may have been weakened for weeks beforehand. Say something if the power has been unstable at the house."
+        },
+        {
+          "q": "Is the attic heat something a tune up can help with",
+          "a": "Only partly, and it is worth knowing the limit. A handler running in a space that hits 130 to 140 degrees has less margin for cooling itself, and its motor wears faster. Keeping the attic ventilated and the unit clear for its own airflow is the part that is in your control. The rest is the summer you live in."
+        },
+        {
+          "q": "Does an AC tune up cost much",
+          "a": "What moves the cost is the condition of the unit and how much needs cleaning. A system that has never been serviced, sitting on an outdoor unit exposed to salt, has more to do than one looked after every year. Ask what the visit includes, what was found, and get the findings and the refrigerant type in writing before agreeing to anything further."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference salt, oak or the unstable summer grid."
+    },
+    "condenser-repair": {
+      "intro": "This is the outdoor half of the system: the fan motor, the capacitor, the contactor, the coil and the cabinet. When the unit hums but will not start, or runs and makes a noise it should not make, the fault is usually in one of those five places rather than anywhere inside the house.",
+      "localNote": "The outdoor unit is where Manvel's conditions do the most damage. Salt reaches the cabinet base and the electrical connections, coastal oak packs the coil, and the extreme humid heat leaves a unit with no room to reject heat. The older units on the original Brazoria lots have stood in that air since the eighties, which is why the cabinet is often the first thing to fail.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but the compressor never starts",
+          "a": "The contactor or the capacitor is the usual answer, and on a salt-exposed unit those are the first electrical parts to go. A hum means the control is asking the unit to run and something downstream is not letting it. The technician checks the capacitor, the contactor and the windings before anything gets replaced, because two of those are inexpensive and the third is not."
+        },
+        {
+          "q": "What kind of noise from the outdoor unit means trouble",
+          "a": "A rattle that comes and goes with the fan is usually bent fins, and a grinding or squeal is the fan motor bearings. A buzz that stops the moment the compressor kicks in is usually a capacitor or contactor buzzing. A hum with nothing else is the compressor or the contactor. What the noise does tells the technician where to start."
+        },
+        {
+          "q": "The base of my outdoor unit is rusting, is that serious",
+          "a": "On a unit in salt air, yes, and it is worth dealing with before it becomes a hole. Corrosion at the base is how moisture gets into the cabinet and onto the electrical. It also tells you something about the rest of the unit, because salt does not stop at the bottom panel. Treat it as a reason to look at the whole outdoor unit rather than as a cosmetic problem."
+        },
+        {
+          "q": "Can I rinse the salt off the condenser myself",
+          "a": "A gentle hose and a soft brush will clear a crust that has only just formed, and in this salt air it is worth doing twice a year. Do not use a pressure washer. A high pressure wand bends the fins, and bent fins block airflow and make the coil worse. Once the crust has hardened onto the fins, that is a technician job with a chemical cleaner."
+        },
+        {
+          "q": "Does a condenser repair need a new refrigerant line set",
+          "a": "Sometimes, and it comes down to what the line set is made of and what refrigerant the system uses. A line set that has sat in salt air for decades can be pitted internally, and a pitted line set is a real risk on a system running at higher pressure. Ask whether the estimate includes new lines and whether the refrigerant type printed on the nameplate changes what is safe to reuse."
+        },
+        {
+          "q": "How much does condenser repair cost compared with replacing the unit",
+          "a": "What moves it is whether the fault is one part or several, and whether the cabinet and coil are still sound. A capacitor on a healthy unit is a small job. Corroded cabinet, worn contactor and a scaled coil on the same unit is much closer to a replacement conversation. Ask the technician to describe the condition of the rest of the outdoor unit, because that is the part that decides."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference salt corrosion on the outdoor unit."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump in the middle of the system, and when it fails it takes the cooling side with it. A seized pump, one that trips the breaker on start, or one that cuts in and out every few minutes are all compressor work, and each of them ends in the same question: repair the pump or replace the system.",
+      "localNote": "What kills compressors here is usually the outdoor unit around them. Salt corrodes the coil and the cabinet on the older Brazoria lots, coastal oak clogs the fins on the newer streets, and a summer of unstable power adds voltage swings the windings do not like. On eighty and thirty year old equipment the honest question is rarely whether the pump can be rebuilt, but whether the rest of the system is worth keeping.",
+      "faqs": [
+        {
+          "q": "Can a failed compressor be repaired or does the whole system have to go",
+          "a": "A winding or a seized compressor is usually a replacement job, and once the pump is out the rest of the system gets evaluated. The 1980s equipment on the original Brazoria lots has usually had salt on the coil and the cabinet for its whole life, so the indoor side, the line set and the refrigerant type all matter to that decision. Ask for the assessment of the whole system before agreeing to a compressor on its own."
+        },
+        {
+          "q": "How do I know it is the compressor and not the refrigerant",
+          "a": "The readings tell you, and nothing else does. A system with a leak and a good compressor has low suction pressure and a normal amp draw, while a system with a weak compressor can hold pressure and still move very little heat. Measuring is the only way to separate them, and it belongs to the diagnosis rather than being an extra on top. A shop that swaps a compressor without measuring has guessed."
+        },
+        {
+          "q": "My compressor has been running nonstop for a few days",
+          "a": "That is a strain on the pump and on the electricity bill, and it is worth stopping before something gives out in the middle of a hot afternoon. A compressor that never stops is often short cycling against a high head pressure, which is exactly what a blocked or salt-scaled condenser causes. Leave it running only if you have to, and get it looked at."
+        },
+        {
+          "q": "Does salt air shorten the life of a compressor",
+          "a": "Not directly, but it takes the margin away. Salt corrodes the coil and the electrical connections around the compressor, and both make it run harder than it should. The compressor is the hottest part of the system, and anything that stops it shedding heat shortens its life. That is why a condenser service is part of a good compressor job rather than a separate thing to think about later."
+        },
+        {
+          "q": "Is it worth putting a new compressor in an old unit",
+          "a": "It depends on the age of everything else and on the refrigerant. A 1990s system on R-22 has a discontinued refrigerant, and if the coil, cabinet and line set are original, changing the system is usually the better answer. On a unit that has been maintained and whose indoor side is sound, a compressor can be the sensible repair. Ask which of those two situations you are actually in."
+        },
+        {
+          "q": "My unit trips the breaker every time it starts",
+          "a": "That is a hard start, and it is one of the more serious compressor symptoms because it means the pump is pulling heavy current on startup. The causes include a failing capacitor, a weak compressor winding and low supply voltage. Power in this part of Texas is not dependable in the summer peak, so having the supply checked is part of a thorough answer rather than a separate errand."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference salt corrosion and unstable summer power."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A system that is losing refrigerant has a leak somewhere, and the job is finding it rather than topping it up. The work comes apart into three pieces: locating the break, repairing it, and putting the charge back where it belongs, and asking for all three is what makes the repair hold.",
+      "localNote": "Where the break forms depends on the metal it sits in. On the outdoor unit in this salt air the brass fittings and the joints at the coil are the first to go, and on the 1980s systems the suction line running back to the attic has been through more heat cycles than anything inside the house. The refrigerant type printed on the nameplate changes what has to be recovered and how the search is done.",
+      "faqs": [
+        {
+          "q": "How does a technician find a refrigerant leak",
+          "a": "With the pressure in the system, not by guessing. The common methods are putting tracer dye into the oil and looking for it at the joints, listening for a hiss at a suspected point with a service valve, and in some cases running an electronic detector along the line set. An oily mark on the pipe or a stain on the cabinet base often points at it first. The method depends on where the gas is and what it is."
+        },
+        {
+          "q": "There is an oily stain on my line set, is that the leak",
+          "a": "Very likely. Compressor oil travels with the refrigerant, so wherever the gas escaped you will find oil. A dark stain or a wet oily patch near a fitting, on the base of the outdoor unit, or on the insulation of the line set is a leak that has already happened. Salt in the air opens up the brass fittings on the outdoor unit first, and the stain is often easier to find on the cabinet than the sound of the gas is to hear."
+        },
+        {
+          "q": "Should I just recharge it instead of fixing the leak",
+          "a": "That buys time and nothing else. The gas you add goes back out through the same hole, and the next call arrives sooner because the recharge has been paid for twice. What makes the repair hold is that the break was located and sealed and the charge was then set by measurement. If the leak was never found, the same visit comes back within a season or two."
+        },
+        {
+          "q": "What refrigerant does my unit use and does it matter",
+          "a": "The type is on the nameplate on the outdoor unit, next to the factory charge. An older system lists R-22 and a newer one lists R-410A, and the difference is more than a name. The two run at different pressures, the newer one holds more oil in the compressor, and the older refrigerant is discontinued and harder to source. That changes what the leak repair involves and what it costs."
+        },
+        {
+          "q": "My house was built in the eighties, is that why it leaks",
+          "a": "It is one reason. The equipment on the original Brazoria lots has been through three decades of salt air and, on most of it, no service history, and the joints that were brazed or flared in that period are the ones giving up now. Add an attic running 130 to 140 degrees and the line set has been working hard. A leak is a reasonable expectation on that equipment rather than a surprise."
+        },
+        {
+          "q": "Is the leak coming from the attic or the outdoor unit",
+          "a": "The attic lines are worth checking because of the heat up there, and the outdoor unit is worth checking because of the salt. In practice more leaks turn up at the outdoor unit, because its joints are exposed and the oil stain is easy to see on the cabinet base. A technician works the cheap places first, and on this kind of house that is usually the right order."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference salt on the fittings and 130 to 140 degree attics."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement, not a top off. The technician weighs what goes in against the factory charge on the nameplate, then reads superheat and subcooling to confirm the system is right rather than simply quiet.",
+      "localNote": "Two kinds of house produce most of the recharge calls here. The new streets off TX-288 and around Riversides of Pearland have equipment young enough that it should never have needed a charge, so a system that is not cooling as expected points at the install or the duct sizing. The older Brazoria lots have systems that have been losing refrigerant slowly for years and are short again.",
+      "faqs": [
+        {
+          "q": "How much refrigerant does my system need",
+          "a": "The factory charge is printed on the outdoor unit nameplate, and it is the number the technician works from. What goes in is weighed rather than guessed, and then the readings are checked. A system can be at the right weight and still be wrong if the superheat and subcooling are off, which is why the measurement matters more than the amount."
+        },
+        {
+          "q": "My new unit was installed a few months ago and it does not cool like it should",
+          "a": "That should not need refrigerant at all if it was installed and charged properly, so the readings are worth having before anyone adds anything. A charge that was never set by weight, a line set longer than the one the factory tested, and duct sizing that does not match the house all show up as weak cooling in a first season. On the newer streets off TX-288 that is a different problem from a leak, and it is worth asking which one it is."
+        },
+        {
+          "q": "What are superheat and subcooling",
+          "a": "Two readings taken at the outdoor unit with the system running. Superheat describes how much hotter the refrigerant is than the air it should be absorbing, and subcooling describes how much colder the liquid is than it should be at the liquid line. Together they tell the technician whether the charge and the airflow are right, which is why a technician who cannot read them is guessing at the charge."
+        },
+        {
+          "q": "Can I add refrigerant myself",
+          "a": "No, and it is worth knowing why. The refrigerant has to be recovered, weighed and put in by weight, and the system has to be running with the right airflow before a reading means anything. What is sold over the counter is also not the refrigerant a modern system uses. A canister from a hardware store is not a service."
+        },
+        {
+          "q": "How much does a refrigerant recharge cost",
+          "a": "What moves it is how much refrigerant the system takes, which refrigerant it is, and whether the leak was found first. A charge that takes a few pounds on a system with a small leak is cheap and temporary. On the 1980s equipment along the older Brazoria roads, where salt has been at the fittings for decades, an unrepaired leak means the same cost every year because the fault is still there. Ask whether the reading is included and whether the leak was checked."
+        },
+        {
+          "q": "Does it matter which refrigerant my system uses",
+          "a": "It matters for what the technician is doing. The nameplate sets the charge by weight, the operating pressures and the target readings for superheat and subcooling. On the older Brazoria lots the nameplate will often list R-22, which is discontinued and limits what can be put into the system. A newer unit off TX-288 lists a different refrigerant entirely, and the two are not interchangeable."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference new TX-288 subdivisions and the older R-22 lots."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The indoor coil is the part that makes the cold air and pulls the moisture out of it. When it ices over and stays iced, when there is water standing in the pan, or when the air comes out musty, the work is on the coil and on whatever upstream condition is causing it.",
+      "localNote": "Manvel's humidity does more to the indoor coil than the salt does. Very high humidity means a heavy load of moisture on the fins, and an attic that reaches 130 to 140 degrees has no cool air around the handler to thaw a freeze. On the older ranch homes near the Brazos River the handler has often been squeezed into a space that was never sized for it, and on the newer subdivisions the ductwork was sized for the house before anyone added on.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing over",
+          "a": "Almost always airflow or charge, not the coil metal. A clogged filter, a dirty coil or a weak blower motor starves the coil of air, the coil drops below freezing, and the ice cuts the airflow further. Cleaning the coil and calling it fixed is the usual way this gets handled badly. Ask what is causing the freeze to come back."
+        },
+        {
+          "q": "Water is dripping from the ceiling near the vent",
+          "a": "An overflowing condensate pan, most likely. The coil makes a lot of water in this humidity and the drain line has to carry all of it away. A line packed with dust and insulation residue, or a pan sitting out of level, will overflow, and a float switch that has switched the system off is doing its job. The drain, the pan and the float are all worth looking at while the handler is open."
+        },
+        {
+          "q": "There is green or grey slime on the coil",
+          "a": "That is microbial growth on a wet coil, and it grows fast where the humidity is this high. It is the source of the musty smell and it travels through the duct system. Cleaning it without clearing the drain and correcting the airflow means it returns within a season. The coil metal is usually still sound at that stage, so cleaning is the right answer."
+        },
+        {
+          "q": "Why does the air smell musty when the system starts",
+          "a": "Usually the coil, and it is a symptom rather than a separate fault. When the coil stays wet between cycles, organisms grow on the fins and the smell comes off the coil and into the ducts. A musty smell that appears only in the heating season often points somewhere else, such as a dirty filter or the duct system itself. A check of the coil and the drain settles which one it is."
+        },
+        {
+          "q": "Does the attic heat cause coil problems",
+          "a": "It makes them more likely. A handler in a space that sits at 130 to 140 degrees has less capacity to pull heat out of the air and less ability to thaw itself when it ices. Keeping the space ventilated and the unit clear for its own airflow is the part in your control. It also means the motor and the capacitor in that handler are working harder than they would in a closet."
+        },
+        {
+          "q": "Can the coil be cleaned instead of replaced",
+          "a": "Cleaning is usually the right answer when the coil metal is still sound, which is the common case. Replacement comes up when the coil is bent, leaking or badly scaled, and it is also what happens when the real fault is a duct problem that keeps wetting the coil. Ask what the coil was cleaned of, what caused the freeze or the overflow, and what would be done differently to keep it from happening."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference very high humidity and 130 to 140 degree attics."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower is what moves the air, and when it fails you still have cooling equipment in the house and no air coming out of any vent. The motor, the capacitor and the relay are the parts involved, and the cheap ones usually go at the same time as the motor.",
+      "localNote": "This job comes down to where the unit lives and how the power behaves. A handler in an attic that hits 130 to 140 degrees works its motor harder than the same handler in a closet, and power on the ERCOT grid is not steady through the summer, so brownouts over a season can age a motor and its capacitor before anything visibly fails. The newest equipment off TX-288 uses electronic motors that fault quickly when the supply sags.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on but nothing blows",
+          "a": "That points at the motor, the capacitor or the control board. A motor that is hot to the touch after a short run is pulling too much current, and if it keeps running it takes the capacitor with it. Switch the system off at the thermostat and let it sit rather than cycling it, and have it looked at."
+        },
+        {
+          "q": "There is a grinding noise from the attic when the fan starts",
+          "a": "That is a bearing going in the motor, and it does not get better. It can run a while, but it will eventually seize, and a seized motor drags the capacitor and the relay with it. Replacing it before the whole assembly goes costs less than replacing it after."
+        },
+        {
+          "q": "My blower only works on one speed",
+          "a": "That points at the relay or the control board rather than the motor itself, and those parts are inexpensive next to the motor. It is a common failure on older systems and the fix is quick when the relay is what has gone. Ask for the quote to list the relay and the capacitor alongside the motor, so it is not a second visit later."
+        },
+        {
+          "q": "Why do the motor and the capacitor fail together",
+          "a": "A capacitor that has lost its charge does not let the motor start properly, so the motor sits in the start winding instead of running, draws too much current and overheats. A motor that has been dragging and a capacitor that has been failing will take each other out. Putting a new capacitor on with the motor is normal practice, and it is why the quote should include it."
+        },
+        {
+          "q": "Could brownouts or flickering power have damaged the blower motor",
+          "a": "They can. Voltage sags and spikes across a summer of unstable grid conditions stress motor windings and capacitors, and a motor already near the end of its life may not survive one bad event. If the grid in your area has been unsteady and the blower failed with no obvious cause, say so when the technician arrives, because it changes what gets checked."
+        },
+        {
+          "q": "How much does blower motor replacement cost",
+          "a": "What moves it is where the handler sits and how much of the assembly has to come apart, and whether the capacitor and the relay go on at the same time. A motor swap on a reachable unit is a modest job. A handler crammed into a tight attic space with awkward access costs more in labour than the part does. Ask what the access looks like before assuming the cheap version applies."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference 130 to 140 degree attics and unstable ERCOT power."
+    },
+    "thermostat-installation": {
+      "intro": "Swapping a thermostat is quick once the wire set is understood, and adding a smart one is the same job with more to think about. The failures come from wiring that does not match what the new thermostat expects, so the work starts with reading the existing wires rather than with the new device.",
+      "localNote": "Manvel's housing runs from the eighties to the newest subdivisions, so the wire sets behind the walls come from every decade in between. A house on an original Brazoria lot may have a line voltage system, a later addition may have run a common wire the air handler never had, and the newest houses off TX-288 are the ones most likely to have the wiring a smart thermostat wants already in place.",
+      "faqs": [
+        {
+          "q": "Can I install a smart thermostat myself",
+          "a": "Often yes, if the new one matches the system and you are comfortable with a screwdriver and a phone photo. Photograph every wire before removing the old thermostat and note which terminal each one went to. Do not force a wire into a labelled terminal, and label anything you move. If the wiring does not look like the manual describes, that is the point to stop and have it looked at."
+        },
+        {
+          "q": "Why does my thermostat ignore the schedule",
+          "a": "Usually a setting rather than a fault. A thermostat can carry a delay or an anti-swing feature left over from setup, sit in the wrong mode, or be showing a schedule that was never saved after a power cut. It can also be a wiring problem where the schedule never reaches the board. If the thermostat is new, check the settings before anything else."
+        },
+        {
+          "q": "Does the thermostat have to match my system",
+          "a": "It has to be compatible with the equipment, and the kind of system decides what that means. A heat pump needs a thermostat that controls both heating and cooling modes, an older line voltage system is a different wiring situation from a modern low voltage one, and a manufacturer can also limit which functions the thermostat is allowed to run. The model list matters, and it is cheaper to check before ordering than after."
+        },
+        {
+          "q": "Our house is from the eighties, will a new thermostat even work",
+          "a": "It very likely will, because most systems from that era are still low voltage and a modern thermostat runs them without trouble. The older the house, though, the less predictable the wire set is, especially in homes that have been added to over the years. On the original Brazoria lots around Manvel, expect the wiring to be the deciding factor rather than the thermostat itself."
+        },
+        {
+          "q": "Is a smart thermostat worth it in this humidity",
+          "a": "More here than in a dry climate, because a thermostat that reads humidity can hold the house closer to the dew point than one running on temperature alone. That means less wasted running time and a more even house through a very humid summer. It needs the right wiring and a working connection to the system, so have those checked first."
+        },
+        {
+          "q": "How much does it cost to have a thermostat installed",
+          "a": "What moves it is whether the wiring is straightforward and whether a common wire is already there. A straight swap on a system set up for it is quick. A house where the wire set does not match, where a new wire has to be run, or where the system turns out to be line voltage takes longer. Ask whether the equipment compatibility and the wiring are being checked, or only the device being changed."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference 1980s Brazoria lots and TX-288 subdivisions."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump does both jobs with one set of equipment, so a fault can take out heating and cooling at once. The part that decides which way the refrigerant flows is the reversing valve, and a system that will not change modes, or one that runs backup heat constantly, is usually telling you where the fault is.",
+      "localNote": "Heat pumps turn up in the newer subdivisions off TX-288 and around Riversides of Pearland rather than in the older ranch homes, and they work hard in this climate. Salt on the outdoor coil and coastal oak in the same fins eat into the efficiency that makes a heat pump worth having, and very high humidity adds to the load on the cooling side. Where the handler sits and how steady the summer power is shape what the fault ends up being.",
+      "faqs": [
+        {
+          "q": "Why is there ice on my heat pump in july",
+          "a": "That points at a low refrigerant charge, a fault in the reversing valve, or a defrost cycle that is not ending properly. Ice on the outdoor unit in the warm months is not normal. Shut it down and let it thaw before running it again, because running into the ice makes the damage worse. Salt and oak debris on those fins do the same to a heat pump as to any other outdoor unit."
+        },
+        {
+          "q": "The heating works but the cooling does not",
+          "a": "That narrows it a lot. If only the cooling side fails, the reversing valve and the refrigerant side are the likely culprits, because the valve is what routes the refrigerant for each mode. If both fail together, it is usually a control or an electrical fault rather than the refrigerant circuit. That distinction saves most of the diagnostic time."
+        },
+        {
+          "q": "My backup heat runs all the time",
+          "a": "That usually means the heat pump is not producing enough heat for the house to reach the set point, so the backup electric heat takes over and stays on. The cause can be a sizing problem on a house that was added to after the unit went in, a fault in the heat pump itself, or a stretch of weather where the equipment simply cannot keep up. Ask which of those it is, because the answers lead in different directions."
+        },
+        {
+          "q": "Can a heat pump handle the humidity here",
+          "a": "Yes, and it is a common choice in the newer houses because a heat pump handles the cooling load without a separate furnace. Very high humidity makes the cooling side work harder, so the coil needs to stay clean and the airflow needs to keep up. The pairing worth checking is whether the ducts can move enough air to serve the whole house, which is where additions and closed-off rooms cause trouble."
+        },
+        {
+          "q": "Does salt air damage a heat pump",
+          "a": "It does, in the same way it works on any outdoor unit, and the heat pump coil is more sensitive because the whole system depends on it staying clean to move heat efficiently. Salt crust and oak litter on those fins mean the unit runs harder and longer, and a reversing valve already working hard wears faster. Coil care in this environment is not optional on a heat pump."
+        },
+        {
+          "q": "Can a heat pump be repaired or does it need replacing",
+          "a": "It depends on what has failed. A reversing valve, a contactor, a capacitor or a control board is repair work. A refrigerant circuit that has lost its charge through a corroded coil, or a compressor failure in equipment that has been in salt air since the house was built, is a different conversation. The age of the equipment and the state of the outdoor coil decide it, so ask for that assessment in writing before committing to either path."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference salt on the heat pump coil and TX-288 subdivisions."
     }
   }
 }

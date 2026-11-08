@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Uptown / Galleria, Houston",
   "title": "AC Repair Uptown / Galleria, Houston | AC Repair Houston",
   "description": "High-rise and mixed-use towers where the cooling is rooftop chillers and shared systems, and condo interiors where the indoor unit sits in a closet.",
@@ -36,6 +37,15 @@
     {
       "q": "Who should I call about a chiller problem in a building?",
       "a": "For equipment serving more than one unit, the building or property manager normally handles it, since the chiller, the cooling tower and the rooftop units are building systems. If you are the manager or owner, request commercial service and give the technician the equipment tag, the fault history and the recent service logs. If you are a tenant, the property manager is the right first call, because they control access to the mechanical spaces."
+    },
+    {
+      "q": "Is a service call in a tower more expensive than the same call in a house?",
+      "a": "It can be, and the reason is usually not the fault. A single fault in one fan coil is a small job, but a fault in a shared piece of plant affects the whole stack, and that work pulls in the access equipment, the hours the building can be down, and a technician who knows the system rather than the unit. The towers around Greenway Plaza and Uptown Grove have different mechanical layouts for the same reason, so a one-off call into a building whose records the technician cannot see is a slower visit. Ask who is paying for the visit and what the visit covers before it is booked, because a tenant calling about a building fault and a manager calling about the same fault are two different conversations."
+    },
+    {
+      "q": "Why did the whole building get warm during the heat wave when my unit was running?",
+      "a": "That points at the plant rather than at your fan coil. The chillers and the cooling tower serving a stack like Chase Tower are sized for the floors and the retail space attached to them, and on the hottest afternoon of the year the plant can hit its limit while every unit in it is still running normally. The cooling tower is part of that story: it rejects heat into the same wet air the building is sitting in, so the water running through it comes back warmer than it should. A fault that shows up across many floors at once and clears on a cooler evening is a plant fault, and the company that covers this area can read the loop temperatures and the tower condition to tell you which side of that line it is on."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Two added: one on what makes a service call in a tower cost what it costs, one on a building-wide warm spell pointing at the shared plant rather than one fan coil. Four reference a real Uptown / Galleria condition."
 }

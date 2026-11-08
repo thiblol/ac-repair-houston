@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in the Energy Corridor, Houston",
   "title": "AC Repair Energy Corridor, Houston | AC Repair Houston",
   "description": "Former oilfield ground turned research campus, where the cooling work sits on flat roofs, in chillers and in building plant rather than in a side yard.",
@@ -36,6 +37,15 @@
     {
       "q": "The ground here floods. Does that affect the cooling equipment?",
       "a": "It can, and it has. The soil on old oilfield property is loose and holds water, and mechanical equipment set at grade level can sit in standing water after a heavy storm. Water around an outdoor unit corrodes the base pan, the fan motor and the electrical connections, and it pushes the unit off level if the pad floats. Raising equipment onto a curb or a pedestal is the fix, and it has to be planned before the unit goes back on the pad."
+    },
+    {
+      "q": "Why is servicing a chilled water loop priced differently from servicing a rooftop unit?",
+      "a": "The work is not the same kind of work. A packaged rooftop unit is a self contained box with one fan, one coil and one circuit, and most faults on it are found and fixed in a single visit. A loop runs water, and the fault can be in a pump, a valve, a strainer, the control sequence or the cooling tower itself, so diagnosis takes instrument readings and sometimes a water sample. Price moves with the number of systems tied to the loop, whether the tenant has to be given cooling during the work, and how many trades the fault turns out to need. A company that handles plant work can tell which of those a fault is before committing anyone to a schedule."
+    },
+    {
+      "q": "A one storey building with a flat roof loses cooling in half the offices when one unit goes down. Why?",
+      "a": "Because a wide, low building like the ones along this corridor is usually cooled by a row of packaged units rather than one central plant, and each unit covers a zone of the floor plate. When one of those units fails, the space it served has no cooling at all, and it may be a quarter of the building. Broad membrane roofs have no attic above them either, so there is no conditioned space to hide equipment in and every unit sits in the weather on the same deck. That arrangement is efficient to run and lumpy to live with, since one failed box is a visible loss rather than a slow drift in comfort."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Oilfield ground, the campus plant loops, the wide flat roofs and the podium apartments carry the local weight."
 }

@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "A dead system in a hot house is not a comfort problem, it is a safety problem. Heat builds fast behind closed doors, and the people most at risk from that heat are the ones least able to get out of it. An emergency request goes to the HVAC company that covers your area, and the technician who takes the job is briefed on the symptoms before leaving the shop.",
   "whatHappens": [
     "Asks what changed in the last day before touching anything",
@@ -10,27 +11,27 @@
   "howPriced": "The price moves with four things: how hard the unit is to reach, what hour of the day the work happens, which parts the repair needs, and whether the fix is a repair or a replacement. Out-of-hours and weekend calls carry a different rate than a midweek appointment. Access matters too, because an outdoor unit boxed in behind a fence or crammed into a side yard takes longer to service than one sitting on an open pad.",
   "faqs": [
     {
-      "q": "how much does emergency ac repair cost",
+      "q": "How much does emergency AC repair cost",
       "a": "It depends on which part failed and what has to be replaced, so there is no single figure that covers every emergency. The quote comes from the fault once it is diagnosed, plus the labor, plus any parts that are needed. After-hours and weekend work is billed at a different rate than a normal weekday appointment."
     },
     {
-      "q": "can someone come out tonight if my ac just died",
+      "q": "Can someone come out tonight if my AC just died",
       "a": "That depends on which HVAC companies are covering your area and what their call volume looks like right now. The request goes to the company that covers your area, and they tell you whether they can take the job tonight or when the next opening is. If it cannot be covered tonight, they will say so rather than leave you waiting."
     },
     {
-      "q": "why did my ac stop working all of a sudden",
+      "q": "Why did my AC stop working all of a sudden",
       "a": "Sudden failures usually trace back to a component that has been failing slowly for a while and finally gave out, or to something external like a power interruption, a tripped breaker or a flooded outdoor unit. The technician looks at the fault codes and the electrical side of the unit to narrow that down. It is also possible the system was running well past the end of its useful life."
     },
     {
-      "q": "is it safe to leave the ac running if it smells like burning",
+      "q": "Is it safe to leave the AC running if it smells like burning",
       "a": "No. Turn the system off at the thermostat and cut the power at the breaker. A burning smell from an outdoor unit usually means an electrical component is overheating, and leaving it running risks a failure that gets more expensive very quickly. Do not open the unit yourself or try to reset anything."
     },
     {
-      "q": "what should I check before I call for ac repair",
+      "q": "What should I check before I call for AC repair",
       "a": "Look at the breaker panel first and see whether the AC breaker has tripped, and look at the outdoor unit to see if the fan is turning. Note whether the fan runs when you switch the indoor unit to fan only. That combination of facts narrows the fault down before anyone opens a panel, and it saves diagnostic time on site."
     },
     {
-      "q": "my breaker keeps tripping when the ac kicks on, is that an emergency",
+      "q": "My breaker keeps tripping when the AC kicks on, is that an emergency",
       "a": "It is worth treating as one. A breaker that trips every time the compressor starts means there is a short somewhere in the outdoor unit, and repeatedly resetting it is not a fix. Leave it off, keep using the fan if it runs, and have the system looked at before the next hot afternoon."
     }
   ],

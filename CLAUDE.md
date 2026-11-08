@@ -127,6 +127,7 @@ Do not weaken a gate to make a build pass. Fix the copy.
 - A new page type: a template in `src/templates.mjs`, a builder in
   `src/build.mjs`, and the SEO gate in `src/build.mjs` will check it.
 
-Non-Houston areas carry six services. Houston is the pillar market and carries
-all of them. Widening that produces near-duplicate pages, which is the failure
-mode the whole copy-audit system exists to prevent.
+Non-Houston areas carry the fourteen services that a live search shows have
+dedicated pages of their own. Houston is the pillar market and carries all
+twenty. Widening that set further produces near-duplicate pages, which is the
+failure mode the whole copy-audit system exists to prevent.

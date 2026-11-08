@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Midtown, Houston",
   "title": "AC Repair Midtown, Houston | AC Repair Houston",
   "description": "Condo towers beside 1920s houses near Main and Lamar, where getting duct from the air handler to the room is the hard part.",
@@ -36,6 +37,15 @@
     {
       "q": "The room over my garage is the hottest in the house. What is going on?",
       "a": "A room built over a garage usually sits outside the conditioned envelope, with the sun on the roof and no duct run reaching it. In a converted or reworked house it may be getting cool air from a distant register and recirculating it. Two options work here: ductless heads on that zone, or running the existing duct circuit out to it with the returns repositioned so the system actually pulls air from that room. Either way the diagnosis starts with checking what the return side is doing."
+    },
+    {
+      "q": "Is it worth replacing the ductwork while I am changing the system anyway?",
+      "a": "On these older shells it usually is, because the ductwork is the part that cannot be reached later. A house from the 1900s through the 1920s with heavy masonry walls and almost no attic space cannot take a new run without opening structure, and the first time that happens it is worth running the circuit properly rather than hanging another length of flex duct off the existing one. What moves the price is the route. Whether the path goes through a basement ceiling or a closet chase, whether the wall has to be opened and patched, and how many branches the new layout serves all change the job. A technician should walk the house and mark the route before any of that is priced."
+    },
+    {
+      "q": "Water is dripping from my ceiling. Is it coming from the unit above me?",
+      "a": "In a tower it often is. Fan coil units sit in a ceiling cavity, and the condensate pan under the coil has a float that shuts the unit down when the drain cannot keep up. When the drain line partly blocks, the pan fills and the overflow finds the gap around the pipe chase, which puts the water in the ceiling of the unit below. That is why the leak shows up in an apartment that has no equipment of its own in that space. The work has to start on the floor above, which is why this is worth raising with building management rather than treating as a ceiling repair in your own unit."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. The 1920s masonry shells, the ceiling cavities in the towers, the room over the garage and the tight lots carry the local weight."
 }

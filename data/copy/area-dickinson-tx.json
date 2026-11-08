@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Dickinson is growing fast on the bay side of Galveston County, and the housing map shows it. New subdivisions from the 2000s and 2010s sit within a few blocks of 1980s houses, and every outdoor unit on every one of those lots breathes the same Gulf air.",
   "localAngle": "Salt is the defining condition on this side of the county, and it does not care whether the house is new. It settles on condenser fins and turns them dull, it works into the fasteners and the base pan, and it holds moisture against metal that is already hot. Where Dickinson has a wrinkle is the mix. A 1980s house next to a 2015 build means the technician may be handling a fifteen-year-old unit and a brand new one carrying the same corrosion on the outdoor coil. Flooding is the other one. The bay side of Galveston County floods, and a submerged outdoor unit is finished whatever its age.",
   "commonCalls": [
@@ -55,24 +56,25 @@
         {
           "q": "Why does my Dickinson AC keep tripping its breaker after a storm?",
           "a": "Water in the outdoor unit's electrical compartment will do it, and salt residue left behind after the water dries makes it worse. A breaker that trips once after a storm is a warning. Leave it off and have the unit inspected before it is switched back on."
-        }
-      ],
-      "_faqsNote": "2 FAQs. One on a flooded unit not being safe to run, one on breaker trips after a storm with salt residue left behind."
-    },
-    "same-day-ac-repair": {
-      "intro": "Not every Dickinson call is an outage. A lot of them are units that are running but coasting, where the salt has built up enough on the condenser that the system never quite catches up on a hot afternoon.",
-      "localNote": "A salt film on the fins acts like insulation, so the unit holds heat against the refrigerant and runs longer for the same result. The house takes longer to come down to setpoint and the fan inside never stops. That is a coil service and a rinse, and it is bookable rather than an emergency. Newer units in the subdivisions show the same symptom for a different reason, a shrub that grew around the unit after it was commissioned.",
-      "faqs": [
-        {
-          "q": "Is my condenser just dirty or is it salt damaged?",
-          "a": "A rinse of fresh water and a coil cleaning will show you. If the fins are dull and coated but wipe clean, it is dirt and salt film, and cleaning restores the airflow. If the metal underneath is pitted or the cabinet is flaking, the damage is corrosion and cleaning will only buy time."
         },
         {
-          "q": "My AC takes an hour to cool the house now instead of twenty minutes. Why?",
-          "a": "That gap usually means the system has lost capacity. A fouled condenser or a scaled indoor coil will do it, and so will a filter that has loaded up. On a coastal unit the salt film on the fins is usually the first thing that moves the timing."
+          "q": "How much does an emergency AC repair cost in Dickinson?",
+          "a": "It follows the fault, the parts and the access. A capacitor or a contactor is a short visit with a cheap part. A compressor or a whole air handler is a different order of work. On the bay side the access is not always simple either, because the unit may sit low on a lot that ponds, and a technician working in standing water is working more slowly."
+        },
+        {
+          "q": "My unit is only a few years old and it flooded. Is it really finished?",
+          "a": "Usually, and the salt water is the reason rather than the water alone. A compressor that has had salt water through it is not a part that can be dried out and trusted, and the windings and the tubing inside are where the damage sits. If the unit was only briefly submerged and the salt water never got into it, that is a different conversation, so it is worth saying clearly how deep the water got and for how long."
+        },
+        {
+          "q": "Why does the bay side of Dickinson flood outdoor units so often?",
+          "a": "The land is low and close to the water, and the drainage around a lot does not always have somewhere to send a storm. The bay side of Galveston County floods, and a unit sitting in a low corner of the yard is the first thing under water. A pad that raises the unit above the standing water is what stops it happening again, and that is worth doing on the way out rather than after the next one."
+        },
+        {
+          "q": "What should I have ready when I report an emergency in Dickinson?",
+          "a": "Whether the unit went under water and how deep it got, the model and age of the condenser, and whether the breaker held. On the bay side the first question changes the whole conversation, because a submerged unit is a replacement rather than a repair. A photograph of the nameplate and a description of the water level saves the technician from arriving with the wrong parts."
         }
       ],
-      "_faqsNote": "2 FAQs. One on telling a dirty coil apart from salt corrosion, one on a cooling time that has doubled as capacity is lost."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
     },
     "ac-not-cooling": {
       "intro": "Running but not cooling is the standard request on the bay side, and the reason is usually the outdoor unit rather than anything inside the house. The coil is dull, the air is restricted, or the refrigerant is low.",
@@ -85,9 +87,25 @@
         {
           "q": "Why does my Dickinson AC blow warm air only in the afternoon?",
           "a": "In the morning the outdoor coil has had the night to cool down and the system can keep up. By afternoon the coil is loaded and the unit is losing ground, so the supply air warms up. That pattern points at capacity and airflow rather than a control fault, and a coil cleaning often changes it."
+        },
+        {
+          "q": "How much does it cost to fix an AC that runs but does not cool in Dickinson?",
+          "a": "It depends on which of the faults you have, and the symptom at the thermostat does not tell you. A dulled condenser or a restricted filter is a service call. A scaled indoor coil or a low charge is a repair with parts. On the bay side the outdoor coil is where the answer usually is, and readings of airflow and charge separate the two before anyone quotes."
+        },
+        {
+          "q": "Will a coil cleaning fix it?",
+          "a": "It may, and it is the first thing to try because it is cheap and quick. Salt dulls the fins and coastal oak litter packs them, and a condenser that cannot reject heat leaves the system running without ever moving enough of it into the house. If the coil is clean and the air is still warm, the fault is on the refrigerant side or the indoor side, and continuing to rinse the coil is not going to find it."
+        },
+        {
+          "q": "Why do the 1980s houses in Dickinson have a different cooling problem from the new subdivisions?",
+          "a": "The age shows up on the inside in the older houses. An indoor coil that has been scaled for thirty summers holds less heat, so the system runs and runs and never quite catches up. The newer subdivisions have a different version: systems that were sized and commissioned before the landscaping closed in around the outdoor unit, so the air they were tested against is not the air they are living in now."
+        },
+        {
+          "q": "Does the landscaping in a new Dickinson subdivision affect the outdoor unit?",
+          "a": "It does. Systems commissioned on an open lot get tested against open air, and the same unit in a yard that has grown in around it is working with restricted airflow and a coil collecting whatever the trees drop. That is not a fault in the equipment, it is a change of site condition, and it is why the clearance around the unit is worth keeping open."
         }
       ],
-      "_faqsNote": "2 FAQs. One on why running indoor and outdoor units can still blow warm air, one on the afternoon-only pattern as a capacity symptom."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
     },
     "ac-repair": {
       "intro": "Repair work in Dickinson runs into the reality that a coastal unit's parts are often fine while the metal around them is not. A compressor that is available, a capacitor that is available, and a base pan that is rusted through are three different problems with three different answers.",
@@ -100,9 +118,25 @@
         {
           "q": "Why is the outdoor unit on the newer Dickinson homes corroding so quickly?",
           "a": "Corrosion does not have a grace period. A unit commissioned two summers ago on a bay side lot can show pitting at the base and the fasteners, because salt settles on every warm evening and dries in place. Ask about coastal-rated finishes and stainless hardware if the unit is being replaced."
+        },
+        {
+          "q": "How much does AC repair cost in Dickinson?",
+          "a": "The bill follows the fault and the condition of the metal around it. A capacitor or a contactor is a short visit with a cheap part. A compressor, a coil or a whole air handler is a different order of work. On the bay side the deciding question is whether the base pan, the coil and the line set are worth saving, and that is what the diagnosis is for. Ask for the number after the diagnosis, and for the replacement quote alongside it."
+        },
+        {
+          "q": "Should I repair the unit or replace it given the corrosion?",
+          "a": "Ask the technician to tell you which of the two they are looking at once the cabinet is open. A corroded base pan alone can be cleaned and coated and the unit keeps running. If the cabinet, the coil and the wiring are all affected, a new part going into a corroded cabinet is a new part in a failing environment, and the honest answer is to replace the outdoor unit rather than rebuild it."
+        },
+        {
+          "q": "How do I tell the technician how old my outdoor unit is on a street with mixed ages?",
+          "a": "By the model and the year on the nameplate, which is what the parts list is built from. On a street where a 2012 unit sits beside a 1986 one, the two parts lists share nothing, and the salt does not treat them the same way either. A photograph of the plate lets the company covering your area bring the right compressor or capacitor the first time instead of the second."
+        },
+        {
+          "q": "What does the salt do to the line set on a Dickinson house?",
+          "a": "It works on it from the outside, where the copper runs through the air and where it enters the cabinet. Salt leaves a white crust on the lines and eventually pits the metal, and a line set that has been out here for thirty years can leak with no visible sign on the coil itself. That is why the line set gets checked at the same time as the coil rather than after the next call."
         }
       ],
-      "_faqsNote": "2 FAQs. One on judging a rusted base pan against the rest of the unit, one on why corrosion shows up quickly on newer bay side installations."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
     },
     "ac-installation": {
       "intro": "Installing cooling on the bay side is mostly about how the equipment sits and how it is protected. The system itself is a solved problem, and the site conditions are where the money and the failures are.",
@@ -115,9 +149,25 @@
         {
           "q": "Do new subdivisions in Dickinson need different AC equipment?",
           "a": "Coastal-rated finishes and stainless hardware are the sensible choice when the lots sit this close to the water. Ask for the electrical compartment and the base to be rated for the environment, and check that the unit is not boxed in by landscaping that will mature over the next few years."
+        },
+        {
+          "q": "What does an AC installation cost in Dickinson?",
+          "a": "The number moves with the work that is not the equipment: how much line set has to be run, whether the electrical service needs work, whether the existing ductwork is being reused, and how the outdoor unit gets onto its pad. On the bay side the pad and the siting are part of the number rather than an afterthought, because they decide how long the unit lasts in this air."
+        },
+        {
+          "q": "Is the coastal-rated equipment worth the extra money?",
+          "a": "Ask what is actually different about it. Corrosion-resistant finishes on the cabinet, stainless hardware and a fresh isolator pad are the three things that matter, and they are worth asking about by name. What is not worth paying for is a warranty against corrosion on a unit that was set in a puddle, because the warranty does not deal with the water the equipment is standing in."
+        },
+        {
+          "q": "How should the outdoor unit be sited on a Dickinson lot?",
+          "a": "On a pad that drains away from the foundation and high enough to stay above the standing water a bay side storm leaves behind. That is the single decision that decides whether the unit ever ends up submerged. Leave room for the landscaping to grow around it too, and remember the lot next door may be clear land today and a house with trees in a few years."
+        },
+        {
+          "q": "What should the load calculation account for on the bay side?",
+          "a": "The envelope and the salt, not just the floor area. Gulf humidity puts a heavy latent load on every system, and the salt air is already shortening the life of the outdoor unit whatever you install. The calculation has to reflect the actual heat gain through the windows and the roof, because an undersized system in this climate shows it within a couple of seasons."
         }
       ],
-      "_faqsNote": "2 FAQs. One on pad height for bay side storm water, one on coastal-rated equipment for new subdivision lots."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
     },
     "ac-replacement": {
       "intro": "When an outdoor unit on this side of the county has been through many coastal summers, replacement starts to make sense well before the compressor itself fails. The coil is dull, the base is corroded, and the lines have been sitting in salt air for a long time.",
@@ -130,9 +180,304 @@
         {
           "q": "What refrigerant is in an older Dickinson system?",
           "a": "A 1980s or 1990s unit in this part of the county was very likely charged with R-22, which is no longer produced for new equipment. The technician can read the type off the nameplate on the outdoor unit, and knowing it in advance keeps the scope of the quote from changing once the old unit is pulled."
+        },
+        {
+          "q": "What does it cost to replace an AC system in Dickinson?",
+          "a": "The cost is decided by the capacity the house needs, whether the refrigerant on the old nameplate is a legacy type, and how much of the installation can be reused. On the bay side the line set usually has to be counted, because the copper has been in salt air for decades. A matched set with new lines on an existing pad is the cleanest version of the job."
+        },
+        {
+          "q": "Can the line set be reused when the condenser is replaced?",
+          "a": "It depends on what the copper looks like, and the answer is not always the generous one. Salt works on the outside of the line set where it runs through the air and at the point where it enters the cabinet, so a set that has been out here for thirty years can be pitted through even when the insulation looks fine. The technician checking that while the unit is out is what tells you whether a matched set with new lines is the cleaner path."
+        },
+        {
+          "q": "Does the salt on a Dickinson lot shorten the life of a new condenser?",
+          "a": "It does, and it is why the hardware is worth specifying on the quote. Salt settles on the cabinet and the coil from the first season, and a unit that never gets rinsed loses capacity long before the compressor wears out. Corrosion-resistant finishes, stainless hardware and a pad that keeps it out of the standing water are what buy back the years the salt would otherwise take."
+        },
+        {
+          "q": "What changes about replacing a unit in an 1980s Dickinson house?",
+          "a": "The refrigerant and the metal. A 1980s system is likely on R-22, which is discontinued for new equipment and priced accordingly, and the coil, the cabinet and the lines have all been sitting in salt air for the same forty years. Replacing the condenser alone leaves a mismatched coil and lines that have been going the same way, so the matched set is usually the cleaner decision."
         }
       ],
-      "_faqsNote": "2 FAQs. One on replacing before the compressor fails on a salt-heavy site, one on identifying R-22 on the nameplate before quoting."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
+    },
+    "ac-maintenance": {
+      "intro": "A maintenance visit is the one call worth making before something breaks, and on this coast it earns its place. The technician looks at the condenser coil, the filter, the drain line, the run capacitor and the charge, and the small fault found on a calm Tuesday is the difference between a short repair and an emergency call in the third week of July.",
+      "localNote": "Two eras of housing sit on top of each other in Dickinson. New subdivisions on the bay side of Galveston County went up within a few blocks of 1980s houses, so one street can carry an outdoor unit that has weathered decades of salt air beside one that went in last year, and both breathe the same air off the county. Coastal oak litter works into the coil face when the trees come in, the handlers on the older homes sit in attics that run 130 to 140F, and the summer grid is unstable enough that every restart puts strain on the contactor.",
+      "faqs": [
+        {
+          "q": "How often should I have my AC serviced in Dickinson?",
+          "a": "Twice a year on most of these houses, once in the spring and once before the worst of the summer. The spring visit takes the coastal oak litter off the condenser and rinses the salt film off the fins, and the second visit checks the electrical side before the unit is running hard for weeks on end. A house from the 1980s and a house built last year in one of the bay side subdivisions can use the same calendar and still need different work done."
+        },
+        {
+          "q": "My AC ran fine all last summer. Does it still need a tune up?",
+          "a": "Yes, because the faults worth catching are the ones that have not broken anything yet. Salt working into the terminals in the electrical compartment, a capacitor weakening in attic heat, a drain that has started to drip, and a coil quietly packing with leaves all build up without announcing themselves. A visit turns one of those into a small repair instead of a callout."
+        },
+        {
+          "q": "What does a maintenance visit actually check?",
+          "a": "More than swapping a filter. The technician verifies the charge, tests the run capacitor and the contactor, opens the electrical compartment to check the terminals, reads the compressor amperage against its rating, confirms the condensate drains where it should and runs the blower to hear it and watch what it draws. Nothing on that list takes long, and each item on it catches something a broken-down system does not."
+        },
+        {
+          "q": "Is a tune up in the spring worth the money compared to waiting until it breaks?",
+          "a": "That depends on what the visit finds, and you should hear that before anything is quoted. Finding a corroded terminal or a swelling capacitor in April is a much smaller job than finding the same thing on the hottest afternoon of the year. What moves the cost is the scope of the work rather than the visit itself, so ask which items were handled and which were deliberately left alone."
+        },
+        {
+          "q": "Can I rinse the condenser myself between visits?",
+          "a": "You can handle that part of it. A hose on a gentle setting and a soft brush clears coastal oak litter and the salt film off the fins without doing harm. Skip the pressure washer, because the force of the water creases the fins and a creased fin is a dead spot for the whole coil. Keep the water out of the electrical compartment and away from the disconnect, and do not run the unit while it is still wet."
+        },
+        {
+          "q": "What does the mix of old and new houses in Dickinson mean for maintenance?",
+          "a": "It means two different service histories standing next to each other. The 1980s houses on the older blocks carry equipment that has been through decades of coastal summers, so corrosion on the cabinet and inside the electrical compartment is the first thing checked, and the refrigerant on the nameplate may be a type no longer produced for new systems. The subdivisions on the bay side carry units still inside their warranty that are already collecting salt, and that changes who should be handling a fault."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: mixed 1980s and 2010s housing, coastal oak litter, salt off the bay, 130 degree attic, unstable summer grid."
+    },
+    "condenser-repair": {
+      "intro": "The outdoor unit on its own, with nothing inside the house involved. The parts in play are the cabinet shell, the coil, the contactor, the run capacitor and the fan motor, and a unit that hums without starting, a unit that blows air but never cools and a unit that goes noisy the second it kicks on all belong to this page.",
+      "localNote": "The outdoor unit is the only part of the system that lives in the weather, and on the bay side of Galveston County it is the part the salt works on hardest. The film dulls the fins until the coil cannot shed heat, it rusts the base pan through along the bottom edge, and it leaves a crust inside the electrical compartment that eats the terminals. Coastal oak sap and leaf litter hold damp against the cabinet, and on the newer lots the unit often sits in a yard where the landscaping closed in around it years after it went in.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums and then nothing happens. What is going on?",
+          "a": "Power is reaching the unit and the compressor is not turning over, which means the stop is somewhere beyond the contactor. A run capacitor that has lost its charge, a contactor whose contacts have burned open, and compressor windings that are gone are the three usual suspects. A connection eaten away by salt inside the compartment produces exactly the same symptom from the yard, and the wiring gets looked at before a part is ordered."
+        },
+        {
+          "q": "What does salt corrosion on a condenser look like in Dickinson?",
+          "a": "Watch for three separate signs rather than one. A chalky film across the coil face where the aluminium has gone dull, rust weeping out of the screw holes along the bottom rail, and on the inside of the panel a crust on the terminals that looks like dried salt water. Ordinary rust on an inland unit starts low and creeps upward. On the bay side of this county it works down into the electrical compartment and takes the connection with it."
+        },
+        {
+          "q": "The outdoor unit makes a noise when it kicks on and then stops. What does that mean?",
+          "a": "Something is trying to start and giving up, and because the thermostat keeps calling for cooling it tries again on the next cycle, which is why the noise repeats. The sound usually comes from the contactor hammering against a compressor that never turns, or from a capacitor too weak to give the motor its kick. A failing fan bearing sits higher in the cabinet and sounds like a grind instead of a buzz, so where the noise comes from narrows it down before a panel is opened."
+        },
+        {
+          "q": "Is it worth repairing a condenser on a Dickinson lot?",
+          "a": "On a lot in this county it depends on what the salt reached, not on which part gave out. In the older part of town, around Dickinson Bayou and the blocks off the Gulf Freeway, the cabinet has had decades to corrode, and if the base and the coil mount are eaten through, a repair buys a short life whatever is new inside it. In the newer subdivisions the unit may still be inside its warranty, which changes who is responsible for the corrosion, and coastal-rated finishes and stainless hardware are worth asking about on the replacement."
+        },
+        {
+          "q": "Should the outdoor unit be rinsed even when nothing is wrong?",
+          "a": "Once a year, and the reason is the salt rather than the dirt. A film on the fins drops the heat transfer enough that the compressor has to run longer to hold the same temperature inside the house, which is hard on it over a decade. A gentle hose and a soft brush handles it. A pressure washer does not, because the jet creases the fins and a creased fin is a dead spot for the whole coil."
+        },
+        {
+          "q": "What decides the price of a condenser repair?",
+          "a": "Which component gave out, whether the cabinet and the coil are still worth saving, whether the refrigerant has to be recovered and the lines opened, and how hard the unit is to reach behind the shrubs it was installed next to. A capacitor on a sound cabinet is a short visit. A corroded cabinet with a dead fan motor is a different job, and you should be able to hear that difference in the estimate before the work starts."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: salt crust on the fins, rust through the base pan, corrosion in the electrical compartment, coastal oak sap on the cabinet, 1980s lots beside 2010s subdivisions."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump that moves the refrigerant, and when it fails the whole loop downstream of it stops working at the same time. A seized compressor, one that short-cycles, one that will not start and one that runs flat out for days are all on this page, and the job ends with a decision: a new compressor in this system, or a new system.",
+      "localNote": "The pump on this coast works harder than it was designed to. A condenser with salt-dulled fins cannot reject heat, so the compressor runs hot and the oil inside it thins out, and the summer grid sags and spikes while the unit is carrying the most load. On the bay side there is the other cause, which is water. A unit that stood in a flood has salt in the windings and the compressor, and no amount of parts brings that back.",
+      "faqs": [
+        {
+          "q": "Can a seized compressor be repaired or does the whole unit have to go?",
+          "a": "A seized compressor is a replacement, because it is a sealed assembly and there is nothing practical to rebuild. What decides the outcome is the reason it seized. A condenser whose fins have gone dull with salt, a run capacitor that has weakened, a leak that let the oil out, a supply that sagged all summer, and a unit that stood in flood water will each do it, and leaving any of them in place takes the new compressor down with it."
+        },
+        {
+          "q": "My compressor runs for a few minutes and then shuts off. What does that mean?",
+          "a": "A protective limit has shut the pump down, and the reading on the gauge says which one. Behind it you will usually find a coil that cannot dump heat because the fins are crusted with salt, a fan that has stopped moving enough air, a charge that has leaked down, or a pump whose internals have worn. Those four get separated by a set of readings before a part is ordered."
+        },
+        {
+          "q": "What does a compressor that will not start sound like?",
+          "a": "It will hum and never take off. A healthy pump changes pitch as it spins up, and the absence of that change is the giveaway. The culprit is usually upstream of the pump: a contactor that is not closing cleanly, a run capacitor that cannot hold enough charge, or windings that have opened. A seized pump sounds the same from outside, which is why the compressor is not condemned until the current draw is measured."
+        },
+        {
+          "q": "Should I replace the compressor or replace the whole system?",
+          "a": "On a Dickinson street that has 1980s houses beside 2010s subdivisions the answer is genuinely different house to house, and it turns on what else is on the equipment. A compressor sitting in a cabinet with a rusted-through base, a coil with eaten fins and a line set going soft is a repair that does nothing about the rest of it. Add a refrigerant type on the nameplate that is no longer produced and replacing the equipment while the system is already open usually costs less than doing it all again in a few years."
+        },
+        {
+          "q": "Why do compressors fail sooner in Dickinson than inland?",
+          "a": "Four conditions stack up. A condenser that cannot shed heat because salt has dulled and crusted the fins, an attic sitting at 130 to 140F adding to the load, equipment that has been running since the 1980s, and a summer supply that sags and spikes while the pump is under the heaviest load. Take the fouled coil away and the same pump gets a longer life. On the bay side, add flooding to that list, because water in the windings ends it faster than anything else."
+        },
+        {
+          "q": "What moves the cost of a compressor replacement?",
+          "a": "Whether the pump alone is being replaced or the outdoor unit with it, the refrigerant type on the nameplate, and whether the line set and the electrical service can stay as they are. Recovering the refrigerant and putting the system back to spec are part of the job, not extras on it. Ask for the cause of the failure before you ask about the price, because a quote that does not name the cause may be missing half the work."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: salt-dulled condenser running the compressor hot, 130 to 140F attic, bay side flood water in the windings, discontinued refrigerant on 1980s nameplates."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "Finding the leak is the work. A system that has lost its refrigerant has an opening somewhere, and putting the gas back without finding it means the same call comes back a few months later. The technician recovers the refrigerant, locates the escape, repairs it, and only then sets the charge back where it belongs.",
+      "localNote": "Salt is what opens the leaks in this county. It settles on the line insulation and holds moisture against the copper until the fittings corrode through from the outside, and the run through an attic sitting at 130 to 140F works the joints through a big pressure change every season. The housing mix matters too, because the 1980s houses carry a refrigerant type that is no longer produced for new equipment while the subdivisions carry a current one, and the two cannot be charged the same way.",
+      "faqs": [
+        {
+          "q": "How do I know my AC is leaking refrigerant?",
+          "a": "Four signs, and any one of them alone might be something else. A dark oily streak on a pipe or at a fitting, a hissing you cannot place, a system that wants refrigerant within a few months of a visit, and an outdoor unit running flat out without the house cooling. On a Dickinson lot the third one is common enough to be expected, because a unit that stands in salt air and gets a rinse once a year still finds a fitting that has opened up. The gas is not used up, so a system that keeps asking for it is telling you where to look."
+        },
+        {
+          "q": "Why is there an oil stain on the line near my outdoor unit?",
+          "a": "The compressor oil rides along with the refrigerant, so the mark is the trail the gas left rather than the opening itself. Here that usually means a brass fitting that has been sitting in wet salt air for years, or a length of line where the foam insulation has split and the copper has pitted underneath. Take a picture of it before it gets wiped up, because a mark that returns in the same place has already pointed at the fault."
+        },
+        {
+          "q": "Can you just recharge it instead of finding the leak?",
+          "a": "A technician should be able to do both, and they are separate pieces of work with separate time on them. Recovering the refrigerant, locating the escape, repairing it and recharging are four steps. If the visit ends with gas going in and no mention of where the leak was, the opening is still there and the house will be back in the same spot within a few months of hot weather."
+        },
+        {
+          "q": "Where do leaks usually show up on a Dickinson property?",
+          "a": "Two places, and they are the two a technician checks first. At the outdoor unit end of the run, where salt has been working on the brass fittings since the unit went in, and along the line set where it passes through an attic, where summer heat opens a joint that was tight in January. On the bay side, a unit that stood in water after a storm can also weep at a joint that was fine beforehand."
+        },
+        {
+          "q": "Does the refrigerant type on the nameplate matter for a leak repair?",
+          "a": "It changes what goes back in and what has to be recovered. The 1980s houses on the older blocks carry a refrigerant that is no longer produced for new equipment, which has to be recovered rather than released, and it runs at different working pressures from the current type the subdivisions use. A unit on the current refrigerant has different oil as well. Photograph the nameplate on the outdoor unit before the visit so the scope does not change once the panel is off."
+        },
+        {
+          "q": "What moves the cost of a leak repair?",
+          "a": "How long the escape takes to find and whether it is one fitting or a length of line set. A corroded length usually goes in along with the fitting, and on an older system that can happen in the same visit as a refrigerant change, which changes the scope again. Access counts too, since the run may pass through an attic. Ask for the location of the leak to be put in writing before the work is agreed."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: salt corrosion on the fittings, oil stain marking the escape, 130 to 140F attic run, two refrigerant types on one street, bay side flooding."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement rather than a guess with a hose. The technician weighs in the amount the nameplate calls for, reads superheat and subcooling at the lines, and confirms the system is actually holding that charge. Those two readings also say whether the system is right or whether it is hiding a leak, a fouled coil or a weak compressor.",
+      "localNote": "The refrigerant type on the outdoor unit nameplate decides the shape of this job on a Dickinson street. The older houses carry a type that is no longer produced for new equipment and has to be recovered rather than vented, while the units in the bay side subdivisions run a current refrigerant with a different procedure at the gauge. The humidity is the other factor. A system with the correct charge and a salt-dulled condenser can still leave the house muggy, so the coil gets looked at before the gas gets blamed.",
+      "faqs": [
+        {
+          "q": "How much refrigerant does my AC unit need?",
+          "a": "The factory charge is printed on the outdoor unit nameplate and that is the target, not a number of pounds a technician eyeballs. The gas goes in on a scale, then superheat and subcooling are read to confirm the system is holding it. Those readings matter as much as the weight, because they are what tell you the charge is the problem rather than the symptom of a leak or a fouled coil."
+        },
+        {
+          "q": "My new unit was installed a few months ago and it is not cooling like the old one did. Is it low on refrigerant?",
+          "a": "Maybe, and the readings settle it quickly because a unit that left the factory should already be at its specified charge. If superheat and subcooling are off, the charge can be adjusted and the fault becomes clear. If they are correct, the trouble is somewhere else: a blower that has lost airflow, a condenser that has already picked up salt and coastal oak litter in its first summer, or a system sized for the house before anyone added a room."
+        },
+        {
+          "q": "What are superheat and subcooling?",
+          "a": "Two temperature readings taken at the lines, one at the outdoor unit and one at the indoor coil. Superheat describes how much warmer the gas is than the air it is supposed to be pulling heat from, and subcooling describes how much colder the liquid is than it should be at the liquid line. Between them they say whether the charge and the airflow are working together, which is why a service that stops at the gauge without them is only a top-off."
+        },
+        {
+          "q": "Can a recharge fix an AC that is not cooling?",
+          "a": "Only when a low charge is the whole fault. If the condenser is dulled with salt and cannot shed heat, or if the gas is escaping through an opening in the line, adding more makes the leak worse and the bill larger. The measurements exist to answer exactly that question, and a technician should be able to say which it is before the work is booked."
+        },
+        {
+          "q": "Why does the refrigerant type listed on the nameplate change the job?",
+          "a": "Because it decides what has to be recovered, what may legally go back in, and what the target readings are. Along TX-146 and the 45 and 146 interchange it is normal to find a 1980s house with a type of refrigerant that is no longer produced for new equipment within a few blocks of a 2010s house on the current refrigerant, and the two work at different pressures under different recovery rules. The nameplate settles it in one look, so photograph it before the technician arrives."
+        },
+        {
+          "q": "How much does a refrigerant recharge cost?",
+          "a": "What moves it is the refrigerant type, whether the gas already in the system has to be recovered, and whether the leak that emptied it has been found and fixed. A system on the older type takes longer to service than one on the current refrigerant, and an unrepaired leak means a second visit charged the same way. Ask for the readings taken at the end, not just for the amount that went in."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: two refrigerant types along TX-146 and the 45 and 146 interchange, salt-dulled condenser masking a charge fault, coastal oak on a first-summer coil."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The coil inside the air handler is the part that makes the cold and pulls the water out of the air. A freeze that keeps returning, a filter packed down behind the return, a coating of slime across the fins, standing water in the pan and a musty smell in every room all point back to it, and the real question is what sits behind the symptom.",
+      "localNote": "The humidity off the bay is what this coil carries. Coastal oak and salt dust pack the filter faster here than a ninety day schedule assumes, and on the older Dickinson houses the air handler sits in an attic at 130 to 140F where nothing is cool enough to thaw a coil that has iced. The newer subdivisions were built with tighter envelopes and larger filters, so the same coil sees the same wet air through a different return.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing over?",
+          "a": "Airflow, and the charge behind the airflow. Humid air against a coil that has dropped below the dew point condenses and then freezes when the air moving across it is too low to carry the water away, and the ice then blocks the airflow further and the freeze gets worse. A filter packed with coastal oak and salt dust behind the return is the first thing to look at, and cleaning a frozen coil without fixing that buys a few weeks at best."
+        },
+        {
+          "q": "What is the green or grey slime on the fins of my indoor coil?",
+          "a": "Microbial growth on a permanently wet coil. The lint and dust from the house give it something to feed on, and the coastal humidity lets it appear fast. It holds a blanket against the fins, so the system has to run longer to deliver the same temperature at the thermostat, and it is what the smell in the vents comes from. Cleaning the coil handles the smell, but the airflow and the drain have to be corrected or it grows back within a season."
+        },
+        {
+          "q": "Why is there water standing in the pan under my air handler?",
+          "a": "The pan catches everything the coil pulls out of the air, and on a humid day that is a lot of water. If it sits, the drain line is blocked, the pan is out of level, or the float switch has already shut the system down to protect the house. On a unit in an attic that water finds the joists instead of the floor, so it gets looked at rather than left until it shows up as a stain on a ceiling. The 1980s houses around Dickinson Bayou are the ones where this shows first, because the drain line there has been in and out of a hot space for decades."
+        },
+        {
+          "q": "What is the musty smell coming out of the vents?",
+          "a": "Growth on a wet coil, and the drain usually adds to it. The coil runs wet for hours on every cycle in this humidity, and the coating on the fins holds both moisture and odour. It is worst when the system starts after the house has been shut up, and it gets worse the longer the unit runs on a dirty coil. Cleaning without correcting the airflow or clearing the drain brings it back within weeks."
+        },
+        {
+          "q": "Should the coil be cleaned or replaced?",
+          "a": "Cleaning is worth trying first, because the metal itself rarely wears out. A coil that has pinholes, a section that has been repaired before, or a stretch of fins eaten away by corrosion is a replacement, and the same is true when the real fault is a duct problem that keeps wetting the coil. Ask for the condition of the coil to be described in writing so you know which job you ended up with."
+        },
+        {
+          "q": "What moves the cost of an evaporator coil repair?",
+          "a": "Three things decide it. Whether the coil can be cleaned rather than replaced, how much work the unit is to get to, and whether there is an airflow or refrigerant fault behind the symptom that also needs attention. The pan and the float switch get looked at while the cabinet is open anyway. On a unit in a Dickinson attic in July, the climb and the heat are part of the job."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: coastal oak and salt dust packing the filter, 130 to 140F attic with no cool air to thaw, very high humidity off the bay, 1980s handlers against 2010s subdivision returns."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower motor is the part that moves the air, and when it fails the house has cooling equipment it cannot use. A motor that grinds, a system that delivers no air at all, and a blower that runs on one speed and not the other are the calls on this page, and the motor, the run capacitor and the relay are the parts involved.",
+      "localNote": "Where the air handler sits decides how these motors age. In the 1980s houses across Dickinson it is usually in an attic that reaches 130 to 140F, and the motor, the capacitor and the control board all work harder there than the same parts would in a closet. The bay side subdivisions tend to have the unit in a garage or a closet, but they still get coastal oak dropped through the return and salt working on the cabinet outside.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on but nothing comes out of the vents. What is it?",
+          "a": "Usually the blower motor, its capacitor or the relay, and the order of checking them saves time. Warm to the touch after a short run means the motor is drawing more than it should, and continuing to run it will pull the capacitor and the relay down with it. Switch the system off at the thermostat rather than leaving it to run, and get it looked at."
+        },
+        {
+          "q": "My blower has started making a grinding or rasping noise. What does that mean?",
+          "a": "A bearing is going. It worsens over weeks rather than days, so it is worth acting on instead of getting used to it, and a motor that is grinding is drawing more current than the capacitor was built to supply, which means the capacitor tends to go shortly after. In an attic running 130 to 140F the motor has no cool air around it, so it will not recover on its own."
+        },
+        {
+          "q": "The blower only runs on one speed. What causes that?",
+          "a": "The relay or the speed resistors, more often than the motor, because the motor is usually fine at the higher output. Those parts are inexpensive and worth replacing while the motor is out. On an attic unit the relay carries the most current in the most heat, so it is the piece most likely to have gone, and on the 1980s houses in the older blocks here it is also the part that has been through the most summer outages on an unstable grid. A thermostat that only ever commands one speed is a separate wiring question, and describing both symptoms in the same request saves a visit."
+        },
+        {
+          "q": "Why do the motor and the capacitor fail together?",
+          "a": "The capacitor gives the motor its push to start turning. A motor dragging behind a blocked filter pulls more current than the capacitor can supply, so the capacitor goes first and the motor follows. A weak capacitor works the other way, making the motor struggle until it burns out. Heat in an attic speeds both along, and fitting a new capacitor without testing the motor is how a second visit gets booked."
+        },
+        {
+          "q": "Does the attic heat shorten the life of the blower motor?",
+          "a": "It does. The return air the handler pulls is already warm before it reaches the coil, and the motor, the capacitor and the board all sit in that heat with nothing to cool them. Anything stored against the housing restricts the airflow the unit needs, and moving it out costs nothing. On the older Dickinson streets the handler and the motor went in with the house and are now the oldest parts of the system."
+        },
+        {
+          "q": "What moves the cost of a blower motor repair?",
+          "a": "Two things drive it. Access is the first, meaning how much of the ceiling has to come down and what is in the way. The state of the cabinet the motor sits in is the second, because on the 1980s houses in this county the handler may be a different age from the outdoor unit, and a fresh motor fitted to a housing that has already corroded is a longer visit than the same motor fitted to sound equipment. Have the motor, the capacitor and the relay quoted together rather than separately."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 130 to 140F attic motor and capacitor, coastal oak in the return, salt on the outdoor cabinet, 1980s handlers beside newer subdivision units."
+    },
+    "thermostat-installation": {
+      "intro": "Swapping or adding a thermostat, including the smart ones, is a short job when the wiring behind the plate is what the new unit expects and a longer one when it is not. The wire set, the schedule the thermostat will not keep, and whether the equipment behind it can be paired with the thermostat at all are the three things this page covers.",
+      "localNote": "Dickinson has the mix that makes this job interesting. The 1980s houses carry dial thermostats on wiring that was never run for anything smarter, and the 2010s subdivisions on the bay side carry programmable units on wire sets installed when electronics were already common, and the two can sit within a few blocks of each other along TX-146. A smart thermostat fitted into an older house may need a common wire run back to an air handler in an attic at 130 to 140F, and on a grid that interrupts through the summer a thermostat that forgets its schedule when the power blinks leaves the equipment running to whatever setting it was last left on.",
+      "faqs": [
+        {
+          "q": "Can I replace my own thermostat?",
+          "a": "Often yes, provided the replacement suits the system and you are comfortable working at the plate. What trips people up is a wire set that does not correspond to what the manual lists. Photograph the terminals and note what goes where before the old unit comes off, and never force a wire into a labelled terminal. If the plate has more wires than the new instructions account for, have that checked before you connect anything."
+        },
+        {
+          "q": "Why does my smart thermostat ask for a C wire when the old one did not?",
+          "a": "A mechanical dial borrowed power from the system to work its contacts. A smart thermostat needs its own supply, and the common wire carries it. The 1980s houses in Dickinson are a mix of both arrangements, so whether that wire exists depends on the house and on when the system was last worked on. Where it does not exist, someone has to run it back to the air handler, which in an attic at 130 to 140F is a much bigger job than the swap itself."
+        },
+        {
+          "q": "My thermostat ignores the schedule I set. Why?",
+          "a": "Two causes cover most of it. The unit was left sitting in a mode that does not match what you programmed, or a delay and an anti-cycle feature were switched on during installation and never turned off. A third possibility is a wiring fault, where the signal never gets as far as the equipment because whoever installed it used a set the instructions do not cover. The model number and the manual settle most of it."
+        },
+        {
+          "q": "Will a smart thermostat work with my system?",
+          "a": "Only if it matches, and matching is more than reading the box. The unit has to suit the voltage the equipment runs on, how many stages it has, and whether the system is a heat pump or plain cooling, since those need different logic. It also has to be able to reach the equipment, which on an older house may mean adding the common wire first."
+        },
+        {
+          "q": "Does the summer grid instability here affect a smart thermostat?",
+          "a": "It does. A thermostat that loses power can come back without the schedule it was running, and the house then sits at whatever setting it was last left on while the outdoor unit is already working hard in the humidity. The summer interruptions across this part of Galveston County are the reason a battery alone does not solve it, because the battery keeps the display alive but does not restore the schedule."
+        },
+        {
+          "q": "What moves the cost of installing a thermostat?",
+          "a": "Whether the existing wiring has to be corrected first, how far the run is to the air handler if a wire has to be added, and whether the new unit needs a hub or a wifi fix instead of a straight swap. Changing a dial for a like-for-like dial on wiring that already matches is a short visit. Running a new wire to a unit in the attic is a different job entirely."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: 1980s dial thermostats beside 2010s programmable units along TX-146, common wire run to a 130 to 140F attic, ERCOT summer interruptions across Galveston County."
+    },
+    "heat-pump-repair": {
+      "intro": "One system doing both heating and cooling means a fault can take out both at once, or leave one side working while the other gives up. The reversing valve is the part that changes which way the refrigerant flows, so the mode change is where the diagnosis usually starts, and most calls here arrive as a cooling complaint with a heating question attached.",
+      "localNote": "A heat pump on this coast carries the same salt load as any other outdoor unit and it shows it differently, because a fouled coil on a heat pump turns into ice rather than simply weak cooling. The Dickinson bay side adds the flooding question on top, since a unit that stood in water is finished regardless of how the system is configured, and the newer subdivisions around Bayou Vista are the houses most likely to have had a heat pump fitted to begin with.",
+      "faqs": [
+        {
+          "q": "Why is there ice on my heat pump outdoor unit in the warm months?",
+          "a": "It should not happen. In cold weather and before sunrise an outdoor coil collects a light frost that melts and drains away once the sun reaches it, and by July there should be none on the unit at all. Ice in the warm months points at a charge that is low, a charge that is not moving, or a valve stuck part way, and a coil dulled with salt and packed with coastal oak makes each of those worse. Shut the system down and let it thaw before running it again."
+        },
+        {
+          "q": "Why does the backup heat run all the time?",
+          "a": "Because the main unit is not keeping up and the emergency strips take up the slack. Whether the heat side is drawing anything from the reversing valve at all should be checked before blaming capacity, because a valve that has not shifted will send the backup strips into service for no reason. On the bay side a unit that stood in flood water is a separate problem from a fault in the valve, and the two get confused. The coastal humidity also works the cooling side hard all summer, so a system that struggled through it starts the winter behind."
+        },
+        {
+          "q": "My heat pump will not switch from heating to cooling. What is wrong?",
+          "a": "Usually the reversing valve, with the changeover control second. That valve is what redirects the refrigerant, and one that is stuck part way leaves the system sitting in a single mode or pushing heat the wrong way. A thermostat left in one mode can hold it there too. Watching pressures and temperatures across the changeover settles which, instead of guessing from the symptom."
+        },
+        {
+          "q": "The heat side works but the cooling side does not. Does that narrow it down?",
+          "a": "A great deal. A cooling side that is dead while heat still works puts the problem on the gas side of the loop or in the component that changes the flow direction. Both sides failing together points at the control board or the supply instead, and the corrosion inside the outdoor electrical compartment on this coast is worth checking for that reason. Being able to say which modes still work before the visit starts saves diagnostic time."
+        },
+        {
+          "q": "Is a heat pump a good fit for a Dickinson house?",
+          "a": "It can be, and the newer subdivision homes are more likely to have one than the 1980s stock, which mostly runs a separate cooling system and a furnace. The questions worth asking are whether the ductwork is in good shape and whether the backup heat is sized for the house. The coastal humidity changes the answer on the cooling side more than on the heating side, and a system sized without it in the calculation will show that in its second summer."
+        },
+        {
+          "q": "What moves the cost of a heat pump repair?",
+          "a": "It depends on which half of the system the fault sits in. A problem in the refrigerant circuit pulls in a reversing valve and a charge, while one on the electrical side comes down to a board or a contactor. The refrigerant listed on the nameplate changes the visit, since a discontinued gas has to be recovered and handled under different rules. Getting the diagnosis before the quote matters here, because the same symptom can sit on either side."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: salt fouling a heat pump coil, coastal oak packing it, bay side flooding on Bayou Vista lots, coastal humidity loading the cooling side, 1980s stock against newer subdivisions."
     }
   }
 }

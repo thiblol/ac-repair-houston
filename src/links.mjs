@@ -56,18 +56,28 @@ export function nearestAreas(area, areas, n = 6) {
 }
 
 /* ---------- which services get an area page ----------
-   Deliberately NOT every service in every area. 21 services x 41 areas is 861
-   near-identical pages, which is the doorway-page failure mode rather than a
-   growth plan. Houston is the pillar market and carries the full set. Every
-   other area carries the services with real search demand AND a genuine local
-   angle. The rest still get a full national page and a link from every area. */
-export function areaServicesFor(services, area, limit = 6) {
+   Not every service in every area. 20 services x 25 areas is 500 pages, and
+   most of them would be near-identical, which is the doorway-page failure mode
+   rather than a growth plan.
+
+   Houston is the pillar market and carries all twenty. Every other area
+   carries the fourteen that a live search shows have dedicated pages of their
+   own, which is the same test that decides whether a service earns a URL at
+   all. The remaining six keep their national page and a link from every area
+   until the fourteen are indexed and can be judged on evidence rather than on
+   a guess.
+
+   The real defence against a doorway network is not the number six. It is the
+   15 percent shingle gate in audit-copy.mjs, the local-fact gate in build.mjs,
+   and the requirement that every new page clear both with copy written for
+   that specific area. The count is a proxy for that; the gates are the thing. */
+export function areaServicesFor(services, area) {
   if (area.fullServiceCoverage) {
     return [...services].sort((a, b) => a.priority - b.priority);
   }
-  return [...services]
-    .sort((a, b) => a.priority - b.priority)
-    .slice(0, limit);
+  return services
+    .filter((s) => s.cityCoverage)
+    .sort((a, b) => a.priority - b.priority);
 }
 
 /* ---------- the link sets each template renders ---------- */

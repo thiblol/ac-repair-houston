@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Memorial, Houston",
   "title": "AC Repair Memorial, Houston | AC Repair Houston",
   "description": "Ranch houses from the 1950s and 60s, shaded outdoor units and attic ducts laid out for smaller systems. Cooling calls here come down to access and capacity.",
@@ -8,7 +9,7 @@
     "An outdoor unit under oak shade with wet fins and moss on the coil",
     "A system that runs all afternoon and still leaves the back bedrooms warm",
     "Attic ducts that came loose or got crushed during a re-roof",
-    "Condensate lines that freeze or back up in a shaded side yard",
+    "Condensate lines that back up in a shaded side yard where nothing drains away from the unit",
     "A replacement quoted without anyone checking what is actually up in the attic"
   ],
   "landmarks": [
@@ -36,6 +37,15 @@
     {
       "q": "Is it worth replacing the system in a 1950s ranch?",
       "a": "Many of these houses have been maintained or partly replaced over the years, and some still carry original equipment. The deciding factors are the age of the outdoor unit, the refrigerant type and whether the attic ductwork can support a larger machine. A house where the duct layout is sound and the equipment is at the end of its life is usually a straightforward change."
+    },
+    {
+      "q": "Why is one quote for a new system higher than another on the same street?",
+      "a": "On houses from this era the difference usually comes from what the quote assumes about the attic and the electrical service, not from the machine. A 1950s ranch often has a panel with little spare capacity, so a new outdoor unit with its own circuit and disconnect can add electrical work that a quote built on a newer house would not carry. Duct work in the attic moves it too, because the existing runs were laid out for smaller equipment and a change may mean new branches or a different air handler. Finally, a condenser that has to sit farther from the house on a long line set is a longer job to install. Ask for the scope in writing, item by item, and the difference becomes explainable."
+    },
+    {
+      "q": "The roof was replaced last year and now the bedrooms are warmer than they used to be. What happened?",
+      "a": "It is worth checking the attic before blaming the roof. When a roof is stripped on a ranch like these, the crew works on the deck above the duct runs, and a run that was already sagging can be stepped on, bent or pulled off its hanger. A new underlayment and a tightly sealed deck also cut down on the venting that used to pull heat out of the attic space, so the same ducts now sit in a hotter space than the ones they replaced. A technician can look at the runs, reseat what came loose and tell you whether the bedroom problem is the duct or the roof deck."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Live oak shade, the long setback to the condenser, the 1950s attic duct layout and the old panel carry the local weight."
 }

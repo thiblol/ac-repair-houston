@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Cinco Ranch was master-planned from the 2000s and the homes are large, two storeys, often with a second-floor living area over a garage. That layout puts the cooling load where the duct runs have the least space and the most distance to travel.",
   "localAngle": "The house itself is the local condition here. A two-storey home in these neighborhoods puts the bedrooms and the media room above a garage, and the air handler is often in the garage attic with ducts that have to climb through the floor structure to get there. Bonus rooms with vaulted ceilings add volume that needs conditioning. The equipment is young, but it was sized for the first version of the house, and a lot of these floors were finished later or fitted out with more glass than the plan called for. Oak and pine on the lots add the usual debris to the condenser.",
   "commonCalls": [
@@ -36,9 +37,17 @@
     {
       "q": "Do the oaks around Cinco Ranch cause problems?",
       "a": "They drop enough to pack a condenser if nobody clears it, and the lots are large enough that the trees are a real presence. The unit sits in shade on many streets, which is good for the house and bad for airflow at the coil."
+    },
+    {
+      "q": "What does an AC installation cost in Cinco Ranch?",
+      "a": "The number moves with the work that is not the equipment: how much line set has to be run, whether the electrical service needs work, whether the ductwork is being designed from scratch or reused, and how the outdoor unit reaches its pad. A written scope that separates the equipment from the installation is what makes two quotes comparable. On a zoned house with a second floor the duct design is usually the larger share of it."
+    },
+    {
+      "q": "Does the master-planned layout make ductwork easier or harder here?",
+      "a": "Easier to route and harder to cool. The plans are consistent, so the ducts can follow the shape of the house without fighting the structure, and that keeps the install cost down. What the consistency does not solve is the load, because a second floor and a bonus room over the garage still have to be cooled, and a zoned plan that serves them properly is worth more than a single system sized for the average room."
     }
   ],
-  "_faqsNote": "4 to 5 FAQs specific to this area. At least two must reference a real local condition.",
+  "_faqsNote": "6 FAQs about this area specifically.",
   "services": {
     "emergency-ac-repair": {
       "intro": "Losing cooling in a large two-storey house is felt quickly, because the second floor has no other way to cool down. The HVAC company we connect you with covers Cinco Ranch, so a request goes to the technician who takes the job.",
@@ -55,28 +64,21 @@
         {
           "q": "Can a technician work on a zoned system?",
           "a": "Yes, and it is worth saying which zones are affected when you make the request. Zone dampers and zone thermostats fail separately from the main equipment, and that changes what gets diagnosed."
-        }
-      ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
-    },
-    "same-day-ac-repair": {
-      "intro": "Same-day work around Cinco Ranch is usually about one part of a large system not performing. Big zoned homes give a technician more to look at, which is why the notes you provide matter.",
-      "localNote": "The quickest useful work in this area is usually on the second floor: a return air path restricted by a storage build in the garage attic, a filter that was never changed, or a zone damper that has stuck. The equipment here is young enough that the faults tend to be distribution and control rather than worn-out compressors.",
-      "faqs": [
-        {
-          "q": "How do I get a same-day visit here?",
-          "a": "Request early and describe which rooms are affected. Saying that the bedrooms are warm while the downstairs is fine lets the technician bring the right parts and go straight to the zone. Same-day slots fill during the morning."
         },
         {
-          "q": "Is my upstairs always the problem?",
-          "a": "Not always, but it is where the ducts are smallest and the run is longest. If the return grilles in the upstairs rooms were reduced when the rooms were fitted out, that alone can starve the zone."
+          "q": "What does an emergency call cost compared with a scheduled one?",
+          "a": "The same work gets done either way, so what moves it is the timing and the access. A visit after hours or in the thick of a July afternoon carries a priority charge, because the drive out and back is longer and the technician is working in the worst heat of the day. Whether the necessary component is riding on the service vehicle decides if the repair finishes on the first trip or turns into a second visit. On these zoned houses a capacitor, a contactor or a zone damper can usually be swapped on the spot, while a control board or a coil cannot."
         },
         {
-          "q": "What should I check before the visit?",
-          "a": "The filter in the handler, which on many of these homes is in the garage attic and easy to forget. A restricted return path and a dirty filter can produce almost the same symptoms as a failed compressor."
+          "q": "Will a repair actually fix it, or will I be back next month with the same fault?",
+          "a": "Nobody can promise that, and the honest answer depends on which part of the system is at fault. A failed capacitor, a pitted contactor or a failed zone damper is a parts problem, and replacing it usually holds. A zone that keeps running because the return path is choked in a hot garage attic is a building problem, and the part will keep failing until the space around the unit is cleared. Ask which of the two the diagnosis actually found, because the repair and the building are different bills."
+        },
+        {
+          "q": "The power went out and now the system will not restart. Is that an emergency call?",
+          "a": "In this part of Fort Bend and Harris Counties the summer supply is unreliable, and a restart after an interruption is a common trigger. The fault is usually electrical rather than refrigerant: a contactor with pitted contacts, a capacitor that has swollen, or a breaker that needs resetting. It is worth a call rather than a guess, because a system that keeps trying to start after an interruption can take the compressor down with it."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local coverage: the upstairs zone on its long duct run, the garage attic handler, ERCOT summer interruptions on the local supply."
     },
     "ac-not-cooling": {
       "intro": "In a large zoned home, air that blows warm is usually a zone issue rather than a whole system issue. The company that covers this area looks at the zone and the duct path before assuming anything about the refrigerant.",
@@ -93,9 +95,21 @@
         {
           "q": "Why does it cool down at night and warm up in the afternoon?",
           "a": "That is a load problem. The system can hold the house at set point early on, then loses ground as the solar gain builds. The capacity or the distribution is short of what the house needs in the peak hours."
+        },
+        {
+          "q": "What decides the price of a repair when the air is warm but the fan keeps running?",
+          "a": "The diagnosis does, and the diagnosis changes depending on where the fault sits. A restricted return in the garage attic is a small job. A fouled condenser, a weak capacitor or a failed zone damper are different jobs again, and each one is priced by the parts and the time it takes. Access matters on these houses too, because the air handler is often in a tight attic space with duct runs to reach. The right way to compare two quotes is to ask what each one assumes about the cause, because a quote built on a guess about the cause is not comparable to one built on a measurement."
+        },
+        {
+          "q": "If the upstairs zone is the problem, am I looking at a whole new system?",
+          "a": "No. A zone that will not cool is often one damper, one zone control or one blocked run of duct, and the main equipment can be perfectly sound. What decides it is whether the diagnosis found a part or found the house. If it found a part, the part gets replaced. If it found that the zone was sized wrong when the bonus room was converted, then a replacement of the same system in the same place will not help, and nobody should promise that it will."
+        },
+        {
+          "q": "How does the heat in the garage attic affect a system that is not cooling?",
+          "a": "More than most people expect. The handler in that space runs at 130 to 140F through the summer, and the return air it pulls is already hot before it reaches the coil. A coil that has to work against warm air cannot pull the moisture out of the air the way it should, so the house cools and still feels muggy. When the complaint is not cooling and the complaint is both cooling and damp, the attic and the airflow through it are part of the answer."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local coverage: two-storey zoning, bonus room load, 130 to 140F garage attic handler."
     },
     "ac-repair": {
       "intro": "The equipment in these homes is young, so repairs are more often about control and distribution than worn parts. The diagnosis matters because the symptom of a zone fault and the symptom of a system fault look identical from the thermostat.",
@@ -112,9 +126,21 @@
         {
           "q": "My system is new and the warranty is on it. What do I do?",
           "a": "Have the model and serial numbers ready, and check whether the fault is covered before authorizing a repair. Warranties usually cover the parts and often the labour for a set period after installation."
+        },
+        {
+          "q": "Can I get my AC repaired today in Cinco Ranch?",
+          "a": "It depends on the fault and on where the technician is when the request comes in. A failed capacitor, a pitted contactor or a zone damper is usually finished on the first visit because the part is quick to change. A compressor or a refrigerant problem means the outdoor unit gets opened and the gas recovered, and that is not a same-day job on a zoned house. The geography is part of it too. The routes run out along FM 1093 and across the Grand Parkway corridor between Fort Bend and Harris Counties, and a request that lands late in the afternoon is at the back of the day regardless of the fault."
+        },
+        {
+          "q": "What decides what a repair costs on a zoned system here?",
+          "a": "The part, the access and the length of the diagnosis. A capacitor or a damper is a short visit with the part already on the truck. A refrigerant problem means recovering the gas first, and a compressor means the outdoor unit is open for a good part of the day. Access counts for more here than it does on a single-storey house, because the handler is usually in a garage attic and the fault on a zoned system means tracing a run back through the floor structure to find which zone it belongs to. The comparison that means something between two quotes is what each one assumes about the cause, not the total on the page."
+        },
+        {
+          "q": "The equipment here is still young. Is a repair a waste of money?",
+          "a": "Not necessarily, and the age of the equipment is only half of it. New gear can still have been installed against the wrong load, and a fault that comes from the house rather than the part will come back after the repair. Two things are worth asking before any work is agreed: what actually failed, and what made it fail. If the answer is a failed capacitor on a system that is otherwise sound, a repair is the sensible route. If the answer is that the upstairs zone was never sized for the finished second floor, then putting the same equipment back in the same place leaves the house just as warm. Nobody can promise which of those you have before somebody has looked at it."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local coverage: same-day routing across FM 1093 and the Grand Parkway corridor, garage attic access, Fort Bend and Harris County distances."
     },
     "ac-installation": {
       "intro": "Install work here is often for homes that are still being built out, and for additions that the original plan did not account for. Getting the zoning right at the start is worth more than any later adjustment.",
@@ -131,9 +157,21 @@
         {
           "q": "Where should the air handler go?",
           "a": "Somewhere with enough room for the supply and return ducts, accessible for filter changes, and inside the conditioned envelope. A cramped garage attic location that gets very hot in the summer makes every service visit harder and can shorten the life of the electronics."
+        },
+        {
+          "q": "How much does a new AC system cost in Cinco Ranch?",
+          "a": "There is no useful number without knowing the house, so ask what moves it instead. The size of the system, how many zones it carries and how much new ductwork the second floor needs are the three that matter most. Duct work to a bonus room over a garage is the expensive part of this job, and it is the part that a quoted price usually leaves vague. Also worth having on the page: whether the existing pad and line set are reused, how many zones the controls include, and whether the electrical service needs anything done to it. A quote that names those is a quote that can be compared against another one."
+        },
+        {
+          "q": "Would a couple of mini splits be cheaper than a central system here?",
+          "a": "For a finished house with ductwork already in place, the honest answer is that the comparison is not close on price. Splitting a two-storey home into separate units means one system for the lower level, one for the upper level and one for the bonus room, with three sets of controls and three pieces of outdoor equipment taking up yard space on a lot that already has trees on it. The savings on equipment are spent on the second floor and the outdoor space. What they are genuinely good for is a house where the ductwork is going to be abandoned anyway, or an addition where running new duct back to the existing handler is not worth it. Ask for both routes priced before deciding."
+        },
+        {
+          "q": "Where does the outdoor unit belong on a lot with oaks and pines?",
+          "a": "Clear of the drip line and the root zone of the mature trees, on ground that drains, with air on all sides of it. The trees are worth thinking about twice here. The shade they give the house is why the lot is comfortable, but the same shade keeps a coil damp instead of letting it dry between cycles, and the litter they drop mats the fins within weeks. A unit in the open on a south or west side of the house runs hotter but breathes better. Wherever it goes, the pad needs to shed water rather than hold it, and the location needs to be somewhere a technician can reach without climbing over a fence."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local coverage: second floor and bonus room load, oak and pine litter, garage attic placement, FM 1093 and Grand Parkway lots."
     },
     "ac-replacement": {
       "intro": "Replacement in this area is usually about capacity and control rather than worn-out metal. The equipment is young, so the question is what the house needs now compared with what it needed when it was built.",
@@ -150,9 +188,300 @@
         {
           "q": "Is it worth replacing a young system?",
           "a": "If it is well built and correctly sized, then no. If it was sized wrong for the finished house, replacing it with the same size again does nothing. Look at what the house needs now, not what it needed on the day it was built."
+        },
+        {
+          "q": "What decides what a replacement costs in this neighborhood?",
+          "a": "Three things carry most of it, and they are worth having named on the quote. The size of the system the load calculation comes out at. Whether the zone dampers, the zone controls and the thermostats go in with it, because a new outdoor unit with original controls still runs the house the way it always has. And the ductwork, since the second floor and the bonus room are usually where the work is and where the money goes. Ask whether the existing line set and pad are being reused, and whether anything on the electrical service needs touching. Two quotes built on the same scope can be compared, and two built on different scopes cannot, so get the scope in writing before comparing anything."
+        },
+        {
+          "q": "Will a new system actually fix the upstairs?",
+          "a": "If the upstairs was left out of the original zoning, then no, and this is the question worth pressing on. A new outdoor unit at the same capacity and the same duct layout cools the first floor exactly as before and leaves the bedrooms above the garage still warm. The fix is a load calculation that treats the second floor as its own space, with the zone boundaries drawn around how the house is actually used. Nobody should promise that a replacement will solve an upstairs comfort problem, because in a good number of these houses the equipment was never the reason it was warm."
+        },
+        {
+          "q": "The attic above my garage is the hottest room in the house. Does that affect a new system?",
+          "a": "It does, and it is the reason the handler location comes up so often in these neighborhoods. A space at 130 to 140F through the summer means the motor runs hotter, the capacitor sits at its limit and the electronics age faster than the same parts would in a closet. Moving the handler out of that space is worth looking at when a system is being replaced, because the equipment is being chosen fresh anyway. If it stays, the clearance around the unit and the storage in that attic are the things to fix first."
         }
       ],
-      "_faqsNote": "2 to 3 FAQs, at least one genuinely local."
+      "_faqsNote": "6 FAQs. Local coverage: 130 to 140F garage attic, second floor and bonus room zoning, finished-out load changes."
+    },
+    "ac-maintenance": {
+      "intro": "A maintenance visit happens while the system still works, which is the only time it is worth booking one. The technician checks the coil and the filter, the drain, the terminals and the charge, and catches the small fault before it becomes a callout at three in the afternoon in July.",
+      "localNote": "The useful window here is short and it closes early. These homes were built from 2000 onward with zoned systems, and the load on them changes as the second floor and the bonus room go from unused to lived in. The air handler sits in an attic that reaches 130 to 140 degrees through the summer, and ERCOT power gets unreliable in the peak weeks, so a spring check is worth more here than the same visit in August.",
+      "faqs": [
+        {
+          "q": "When should I get my AC serviced in Cinco Ranch?",
+          "a": "Before the first genuinely hot stretch, which here means late spring. The equipment is young, but the outdoor units have already lived through several seasons of oak and pine litter on the larger lots. Get the coil cleaned before the first week the temperature passes 90. By July, a visit is mostly an assessment of a system that has already been working hard."
+        },
+        {
+          "q": "How often does the condenser coil need cleaning here?",
+          "a": "It depends on the lot and what is planted on it. Where oaks and pines overhang the unit, the fins mat over with leaf litter and needles within weeks of a normal season. A unit sitting in the open keeps itself cleaner. Look at the coil a few times a year and clean it when you can see debris packed between the fins."
+        },
+        {
+          "q": "Does the attic unit need more attention than the outdoor unit?",
+          "a": "It does. The unit in a garage attic has no cooling air around it in July, so the motor runs hotter and the capacitor sits at its limit every hour the system is on. Anything stored against the housing blocks the airflow the motor needs to shed heat, so clearing that space is part of looking after the system."
+        },
+        {
+          "q": "Why does the upstairs zone run constantly while the first floor is fine?",
+          "a": "Zoned systems in these two-storey houses give each floor its own thermostat and damper, and the upstairs run is the longest and the tightest. A zone that will not shut down is usually a zone fault rather than a whole system fault, and a maintenance visit checks each zone on its own."
+        },
+        {
+          "q": "Will the summer power outages cause damage?",
+          "a": "Not usually, but unstable ERCOT supply means the system cycles on and off more than it should, and that wears the contactors and the capacitor. A system that is already low on charge or fighting a dirty coil comes out of a long outage in worse shape than one that was checked beforehand."
+        },
+        {
+          "q": "Is a tune up worth the money if my system is still working?",
+          "a": "That is the only time it is worth doing. A visit on a system that is running fine is a small job that finds the filter, the drain and the coil condition while they are still cheap to deal with. The same visit on a system that has already failed turns into a repair call, and a repair call costs more than the check would have."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "condenser-repair": {
+      "intro": "The outdoor unit is the part doing the hardest work in the heat and the part sitting in the weather. A condenser job in these neighborhoods usually comes down to a fan motor, a run capacitor, a contactor, or a coil that has been packed with litter for a season.",
+      "localNote": "Oak and pine are the two trees that matter here. On the older streets off FM 1093 they drop enough to mat the fins of the unit within weeks, and the shade they give the house also keeps the coil damp. Newer subdivisions near the Grand Parkway have the opposite problem, where the equipment is only a few years old and still runs harder than the original plan assumed.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but the compressor never starts. What is wrong?",
+          "a": "That points at the contactor, the run capacitor or the compressor windings rather than at the coil. The fan will often still spin because it has its own circuit. The technician who takes the job tests the capacitor and the contactor first, because they are the inexpensive parts to change and they fail in this heat."
+        },
+        {
+          "q": "How do I know the condenser coil is packed with debris?",
+          "a": "Look at it. If the fins are matted with oak leaves and pine needles, air is not moving through the coil and the unit cannot shed heat. That is why the same system cools in the morning and gives up in the afternoon. A gentle hose and a soft brush clears it. A pressure washer bends the fins and makes the coil worse."
+        },
+        {
+          "q": "The unit makes a noise when it starts and then shuts off. Is that the condenser?",
+          "a": "Usually. A rattling or grinding sound at start is the fan motor or a loose panel. A loud clunk with a hum is the contactor or the capacitor. Both are faults at the outdoor unit, so the diagnosis stays outside the house rather than in the ductwork."
+        },
+        {
+          "q": "Does the outdoor unit rust here?",
+          "a": "It can, from moisture rather than from anything carried on the wind. Cinco Ranch sits well inland, so salt spray is not part of the picture. A cabinet that stays wet because the coil above it is packed and the unit is sitting in shade will corrode at the base and around the panels, and that is worth catching early."
+        },
+        {
+          "q": "My unit is only a few years old. Is it still under warranty?",
+          "a": "Maybe. A manufacturer warranty runs from the installation date, and a house built from 2000 onward has had its unit since then. If the equipment came with the house rather than with a later replacement, the warranty is likely spent. Have the model and serial numbers ready before you authorize any work."
+        },
+        {
+          "q": "How much does it cost to repair a condenser?",
+          "a": "It depends on which part failed and whether the coil can be cleaned or has to be replaced. A fan motor or a capacitor sits at the cheap end. A compressor or a coil replacement pushes the outdoor unit into replacement territory, and at that point the age of the unit is the deciding factor."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "compressor-repair": {
+      "intro": "Everything in the system depends on the pump at its center, and when that pump fails the whole house feels it. Some compressors can be rebuilt. Some make the outdoor unit worth replacing. The technician who takes the job will say which one this is before you commit to anything, and will say what killed it.",
+      "localNote": "The load on these systems is heavy and the summer power is not dependable. A master-planned house from 2000 onward carries the second floor and the bonus room on the same equipment, and the outdoor unit sits outside for months in humidity that never really drops. The older streets around Falcon Point have put a lot more run hours on their compressors than the newer lots along the Grand Parkway corridor.",
+      "faqs": [
+        {
+          "q": "Can a failed compressor be repaired or does it have to be replaced?",
+          "a": "A rebuild is occasionally possible when the failure is limited to the windings, but a compressor that has seized or burned through is usually a replacement. The useful question is what caused it. A replacement that goes into a system with a packed coil and a low charge will fail the same way."
+        },
+        {
+          "q": "The outdoor unit runs but no cold air reaches the house. Is that the compressor?",
+          "a": "It is one of the possibilities, not the only one. A low charge, a failed coil, a locked compressor and a seized compressor all produce it. In a zoned house the upstairs zone can stay comfortable while the rest runs warm, which makes it look like a distribution fault instead. Testing for current draw and checking the pressures is what separates them."
+        },
+        {
+          "q": "Why does the compressor run nonstop for days and then quit?",
+          "a": "A compressor that will not stop is often one that is never getting a clean signal to shut down, or one that is losing refrigerant and staying under load. Either way it runs short on the oil that keeps the internals together. Leaving it going until it quits in the hottest afternoon of the year is the expensive version."
+        },
+        {
+          "q": "Is a compressor failure connected to the power here?",
+          "a": "Sometimes. ERCOT supply in the summer is unstable, and brownouts and repeated short cycling work a compressor harder than steady power does. A system on a marginal electrical service can also trip the compressor's own protection and lock it up. That fault shows up later as a failed compressor."
+        },
+        {
+          "q": "My unit trips its breaker right after starting. What does that mean?",
+          "a": "Often it is a compressor that has locked up and is pulling locked rotor current, which the breaker reads as a short. A bad run capacitor can also make the compressor try to start and fail in a way that spikes the draw. Either way, switch it off and get it diagnosed rather than resetting the breaker and hoping."
+        },
+        {
+          "q": "Should I replace the compressor or replace the whole system?",
+          "a": "The whole system makes more sense when the outdoor unit is old enough that the coil, the fan motor and the contactor are all near the end of their lives, or when the compressor has been rebuilt before. It does not make sense just because the compressor gave out. Ask for the age of the parts and a comparison of the two routes before you decide."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "Refrigerant is not consumed, so a system that needs more of it is losing it somewhere. The work splits into three parts: locating the leak, repairing it, and returning the charge to where it belongs. The middle part is what decides whether the same call comes back.",
+      "localNote": "The line sets in these houses run through attic space that sits at 130 to 140 degrees from one end of the summer to the other, and a two-storey layout means those runs climb through the floor structure to reach the bedrooms and the bonus room. The metal expands and contracts with that cycle. A zoned house has more line, more joints and more places for a joint to fail.",
+      "faqs": [
+        {
+          "q": "How do I know it is a leak and not just a low charge?",
+          "a": "An oily mark or a dark stain near a line, a hissing sound near the outdoor unit, or a system that needs refrigerant within months of a service visit. The gas escapes, it does not get used up. If it has been added twice, something let it out."
+        },
+        {
+          "q": "Where do leaks usually happen in this kind of house?",
+          "a": "At the joints along the line set, at the service valve, and where a line runs close to hot metal in the attic. A garage attic that holds 130 degrees works a fitting loose over a season. In a two-storey home the runs up to the bedrooms and the bonus room give more failure points than a single-storey house has."
+        },
+        {
+          "q": "Why does the leak only show up in the hottest weeks?",
+          "a": "The system runs harder and holds more pressure, so the weak point carries more load. A pinhole that opened quietly over the winter opens once the unit has been running all day every day. In a zoned house the upstairs zone shows it first, because that run is the longest and it is the last place the air reaches."
+        },
+        {
+          "q": "Can you just recharge it and see if it holds?",
+          "a": "You can, and it will tell you something. If the leak is still there, the charge goes again within weeks and the same visit has been paid for twice. Recovering refrigerant, finding the leak and repairing it are billed as separate work, so it is worth asking which of the three this visit covered."
+        },
+        {
+          "q": "How long should a leak repair take?",
+          "a": "The finding is the slow part. Identifying which joint is leaking can take longer than the repair itself, because the refrigerant has to be recovered before the line is opened and put back after. A technician who finds it on the first visit has been lucky about where it was."
+        },
+        {
+          "q": "Does the refrigerant type on the nameplate change the job?",
+          "a": "It changes the method and the rules. Older systems use a refrigerant that has to be recovered rather than vented, which is slower and changes the cost of the visit. Newer systems use a different type with a different oil and different pressures. The nameplate decides which procedure applies and which readings are correct."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measurement, not a canister. The technician reads superheat and subcooling, weighs in what the nameplate calls for, and confirms the numbers land where they should. Those readings are what tell you whether the system is right or whether something larger is hiding behind it.",
+      "localNote": "The nameplate on the outdoor unit sets the target, and on these houses it also sets the procedure. Older equipment on the residential streets off FM 1093 uses a refrigerant that has to be recovered and reclaimed, while the newer systems along the Grand Parkway corridor use a different type with its own oil and its own pressure readings. Neither can be handled with the other set of numbers.",
+      "faqs": [
+        {
+          "q": "How much refrigerant does my system need?",
+          "a": "The outdoor unit nameplate lists the factory charge by weight. The technician weighs out what goes in and measures superheat and subcooling to confirm the system is holding it. The weight on its own does not prove the system is right."
+        },
+        {
+          "q": "My new unit is not cooling as expected. Does it need a charge?",
+          "a": "Maybe, and maybe it was never charged correctly to begin with. A unit installed in one of the newer subdivisions along the Grand Parkway that came out of the installer short is a commissioning problem rather than a repair, and the same readings settle which one it is."
+        },
+        {
+          "q": "The house cools at night but not in the afternoon. Is that a charge problem?",
+          "a": "Not on its own. In a zoned house the upstairs level and the bonus room carry the load, and a unit that is under-charged struggles exactly when the load peaks. Readings taken in the late morning and again in the afternoon separate a charge problem from a load problem, and that is worth asking for."
+        },
+        {
+          "q": "What are superheat and subcooling?",
+          "a": "Two temperature differences measured against the refrigerant's saturation pressure. Superheat is how far the gas sits above the temperature at which it would begin to condense. Subcooling is how far the liquid sits below the point at which it would begin to boil. Together they describe how the refrigerant is actually moving through the system."
+        },
+        {
+          "q": "Does the type of refrigerant on the nameplate change the work?",
+          "a": "Yes, in several ways. It decides the recovery method and the handling rules, the oil the compressor needs, the pressures the readings are taken at, and what a correct charge weighs. A technician working with the wrong type cannot read the system properly, and a system charged with the wrong type will not run right."
+        },
+        {
+          "q": "How much does a refrigerant recharge cost?",
+          "a": "It depends on how much gas is missing and how the work gets done. A top off on a sealed system is quick. A full recovery and recharge on a system that is low because of a fault takes longer. Ask what the visit included and whether the leak question was settled before you accept the work."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The indoor coil is where the cold air is made and where the humidity leaves the air. Cleaning and repairing it are as much about airflow as about the metal, because a coil that is iced or blocked cannot do its job no matter how much refrigerant the system holds.",
+      "localNote": "In these two-storey houses the air handler usually sits in the garage attic with the supply and return running up through the floor structure to the second floor and the bonus room. That attic holds 130 to 140 degrees through the summer, and a zoned house has more than one handler to think about. A wet, dirty coil in that space grows slime faster than a coil in a conditioned closet.",
+      "faqs": [
+        {
+          "q": "Why does water drip from the ceiling near a vent?",
+          "a": "The condensate pan has overflowed. The coil is putting out more water than the drain line can carry, or the drain is blocked. The pan, the float switch and the line all get checked while the technician is up in the attic."
+        },
+        {
+          "q": "My unit blows cold for a while and then stops. Is the coil bad?",
+          "a": "Not always. A coil that ices and then thaws will cycle like that on its own. The freeze usually comes from low airflow or a low charge rather than from the coil metal. Cleaning it and declaring it fixed leaves the cause in place, so the real question is what keeps bringing the ice back."
+        },
+        {
+          "q": "There is green or grey slime on the coil. What is that?",
+          "a": "Microbial growth on a wet coil. The humidity here puts water on the fins faster than it dries, so it develops quickly and the smell travels with the air out of every vent. It needs a clean coil and a clear drain, or it will be back within a season."
+        },
+        {
+          "q": "Where is the coil in this kind of house?",
+          "a": "In the air handler, which in most of these homes is in the garage attic. From there the ducts have to reach the bedrooms and the bonus room through the floor structure. When the handler sits in an attic at 130 to 140 degrees in July, the coil is working in conditions that no part of the house matches."
+        },
+        {
+          "q": "The musty smell only shows up in the upstairs bedrooms. What does that mean?",
+          "a": "The upstairs rooms are served by the longest run out of the handler, so whatever is coming off the coil or out of the drain reaches them first and hardest. It also suggests that run is short of return air, which slows the coil down and keeps it wet."
+        },
+        {
+          "q": "Is it worth cleaning the coil or should the coil be replaced?",
+          "a": "Cleaning is worth it while the metal underneath is sound. If the coil is corroded through, or the fins are bent from a pressure wash in the past, or the drain line cannot be cleared, the answer moves toward replacing the coil or the whole handler. Ask what condition the coil is actually in before deciding."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower is what moves the air, and when it fails the house has cooling equipment sitting in it with nothing coming out of the vents. Motor, capacitor and relay are the three parts in the job, and the two cheaper ones usually go at the same time as the motor.",
+      "localNote": "The blower on these systems lives in an attic space that reaches 130 to 140 degrees, and on a zoned house there may be a handler on each floor or a single long run serving the upper level. Electronics and capacitors in that heat fail early. Where the handler sits in a garage attic, the space around it is often used for storage, and stored boxes against the unit take away the airflow the motor needs to cool itself.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on but nothing blows. Is that the motor?",
+          "a": "Possibly, but the capacitor and the control board produce the same symptom. If the housing is hot within a few minutes of a short run, the motor is drawing too much and it will pull the capacitor down with it. Turn it off rather than letting it run."
+        },
+        {
+          "q": "The blower only works on one speed. What causes that?",
+          "a": "That usually points at the relay or the control board rather than the motor itself. On a zoned system the fan speed is also tied to which zone is calling for air, so the control signal gets checked before any parts get swapped."
+        },
+        {
+          "q": "My blower is suddenly very loud. Can I keep using it?",
+          "a": "A grinding sound from the handler means a bearing is going. It might run a while, but the bearing will eventually seize, and a seized motor takes the capacitor and the relay with it. Better to change the assembly before that happens."
+        },
+        {
+          "q": "Why do the motor and the capacitor fail at the same time?",
+          "a": "A motor that is dragging draws more current than the run capacitor was built to carry, and the capacitor is usually the part that gives out first. The motor was already near the end, and the extra load finished it. That is why the replacement should include the capacitor and the relay even when the motor was the complaint."
+        },
+        {
+          "q": "Does the attic make the blower fail sooner?",
+          "a": "It does. An attic at 130 to 140 degrees means the motor runs hot and the capacitor sits at its limit every hour the system is on. Clear the space around the unit as well, since anything stored against the housing blocks the cooling air the motor depends on."
+        },
+        {
+          "q": "How much does a blower motor repair cost?",
+          "a": "It depends on the motor and on how hard the unit is to reach. Replacing a motor, a capacitor and a relay in one visit costs less than doing the motor now and the capacitor a month later. Ask for the parts to be handled together and for the access to the unit to be part of the job."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "thermostat-installation": {
+      "intro": "A sound system on a bad thermostat never performs the way it should, and most thermostat trouble is wiring left behind by whoever did the last install on the house. Photograph the wires before anything comes off, note which terminal each one goes to, and the swap goes quickly.",
+      "localNote": "A zoned house changes this job. Each zone has its own thermostat and its own control, and putting a smart thermostat on the main panel does nothing for the bedrooms if the dampers and the zone thermostats underneath are not set up right. These homes were built from 2000 onward, so the wire sets are from that era and they do not always match what a new thermostat expects.",
+      "faqs": [
+        {
+          "q": "Can I replace the thermostat myself?",
+          "a": "Sometimes, if the replacement matches the equipment and you can work a screwdriver and label the wires as you go. What causes the mess is a terminal set that does not line up with the manual, so take pictures first and never push a wire into a labelled hole because it looks close enough."
+        },
+        {
+          "q": "Is a smart thermostat worth it here?",
+          "a": "In this humidity it can be, because a thermostat that reads moisture as well as temperature holds the house closer to how it actually feels than a schedule alone. It needs a common wire and a working handshake with the equipment. On a zoned house the main thermostat is the least important one to upgrade."
+        },
+        {
+          "q": "The system ignores the schedule I set. Why?",
+          "a": "Two things are common. The unit may still have an installer delay or an anti-swing setting left switched on, or it is in the wrong mode and waiting for a call that never comes. Wiring is the third possibility, where the schedule never reaches the board at all."
+        },
+        {
+          "q": "Why does the thermostat need replacing after a remodel?",
+          "a": "Because the wall changes what is behind it. A remodel that adds a wall, moves a thermostat location or runs new cable leaves the old terminals behind, and the replacement has to match what is actually there. On a two-storey house the second-floor thermostat is often on a run that was added when the floor was built out, and the zone it belongs to is not always the zone the wall suggests."
+        },
+        {
+          "q": "Will a smart thermostat work with my zoned system?",
+          "a": "Only once the zoning is working. The smart thermostat needs a common wire and a control signal the equipment understands. If the zone dampers and zone thermostats are original and unreliable, adding a smart unit on top of them will not fix the zone that never cools."
+        },
+        {
+          "q": "How much does it cost to install a thermostat?",
+          "a": "It depends on what is behind the wall and whether the equipment can take a smart unit. Swapping a like-for-like thermostat onto an existing wire set is the simple case. A wall that has been opened up, or a system that needs its control board updated first, moves the job into a different range."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
+    },
+    "heat-pump-repair": {
+      "intro": "One piece of equipment handles both the heating and the cooling here, so a fault in it can take out the whole house at once. Most calls in this area are cooling calls with a heating problem attached, because the cooling side carries the house for eight months and the heat side for a few weeks.",
+      "localNote": "These are 2000s-onward homes, so the heat pumps are in the newer systems rather than in the older housing stock, and the Grand Parkway corridor and the sections built since are where one is most likely to be the equipment in the yard. The load on it is heavy, because the second floor and the bonus room both depend on the same outdoor unit.",
+      "faqs": [
+        {
+          "q": "My heat pump has ice on the outdoor unit in July. Is that normal?",
+          "a": "No, and it should not be running into ice at all. In summer a build-up on the coil means the refrigerant side is starved or the airflow is blocked. Shut the system down and let it thaw before using it again, because running it through the ice causes real damage."
+        },
+        {
+          "q": "The heat side works and the cooling side does not. Does that narrow it down?",
+          "a": "It narrows it a lot. A heat side that still works while the cooling side has stopped points toward the reversing valve and the refrigerant circuit. When both directions fail together, the control board or the electrical side is where to look. That distinction saves a lot of diagnostic time."
+        },
+        {
+          "q": "The backup heat runs all the time. What is going on?",
+          "a": "The heat pump is not reaching its target and the backup electric heat is making up the difference. In a house where the second floor and the bonus room carry the load, the backup can run because the system is short of capacity rather than because the heat pump has broken. The two causes need different answers."
+        },
+        {
+          "q": "The system will not switch from heating to cooling. Why?",
+          "a": "The changeover is handled by the reversing valve and by a control timer that holds the system in one mode for a while. If the valve sticks, or the control is never asking it to change, the system stays where it is. That pause is supposed to happen, and it is often mistaken for a fault."
+        },
+        {
+          "q": "Is a heat pump a good choice for this kind of house?",
+          "a": "Often, since the cooling side is what carries the house for most of the year. The deciding factors are the ductwork and the load. A two-storey house with a bonus room over the garage has a lot of volume to condition, and the ducts have to reach all of it to do the job properly."
+        },
+        {
+          "q": "How much does a heat pump repair cost?",
+          "a": "It depends on which part is at fault. A reversing valve or a control board is one kind of job. Replacing the refrigerant circuit or the entire unit is another, and on a house this size the decision between repairing and replacing the equipment is worth weighing before the repair is committed to."
+        }
+      ],
+      "_faqsNote": "6 FAQs. At least two reference a real local condition."
     }
   }
 }

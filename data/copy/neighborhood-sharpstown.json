@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Sharpstown, Houston",
   "title": "AC Repair Sharpstown, Houston | AC Repair Houston",
   "description": "Tract homes from the 60s and 70s running original systems on refrigerant that is no longer made, in closets with little room to work.",
@@ -36,6 +37,15 @@
     {
       "q": "Is it worth replacing the system at my age of the house?",
       "a": "Usually, if the system is original and on R-22. Replacing the condenser alone on a system with a fifty-year-old air handler and original ductwork leaves the weakest parts in place. A full change to a current refrigerant system usually performs better and avoids chasing two different sets of parts for the rest of the life of the house."
+    },
+    {
+      "q": "What decides what a new system costs in a Sharpstown house?",
+      "a": "The closet decides part of it and the outdoor unit decides another. A modern air handler is a different box from the one that came with the house, so a shallow closet may need a modification or a different room, and that labor sits on top of the equipment. Moving the unit off an unshaded wall to buy back capacity is a separate job with its own labor, and if the original lines cannot be reused then the change brings new line set and new fittings with it. A quote from the company that covers this area should separate the equipment from the work around it, and should say where the equipment is going before it is ordered."
+    },
+    {
+      "q": "Can the old line set be reused if I change the refrigerant?",
+      "a": "Sometimes, and it depends on what is buried in the wall. The lines the 1960s and 1970s tract houses off Bellaire Boulevard and Westheimer Road ran on were sized for the refrigerant they carried, and a change to the current standard puts more pressure on the copper, so the run has to be checked for length and pipe size before the old set is reused. If the lines are buried where nobody can reach them, new line set is the cleaner choice. The technician can measure the run and the pipe size before anyone commits to a plan."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Two added: one on what moves the cost of a new system here, one on reusing the original line set. Four reference a real Sharpstown condition."
 }

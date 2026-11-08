@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Meyerland, Houston",
   "title": "AC Repair Meyerland, Houston | AC Repair Houston",
   "description": "Houses from the 1920s to the 1950s in a designated historic district, where exterior equipment changes need review and the ground floods.",
@@ -36,6 +37,15 @@
     {
       "q": "My house is old but the air conditioning is newer. Why does it still struggle?",
       "a": "A newer condenser on an old house does not fix the house. If the duct system was built for a different layout, if the returns are undersized, or if the system was sized for a smaller version of the house, it will run long and still leave rooms warm. This is common where a 1950s house was extended and the system was replaced but the distribution was not. Checking the duct layout against the actual square footage tells you whether the problem is the machine or the path the air takes."
+    },
+    {
+      "q": "Is it worth moving my air handler out of the crawlspace?",
+      "a": "It can be, and the deciding point is how often the space floods rather than how old the equipment is. A unit that gets wet every few years is a unit that gets replaced anyway, so the money spent moving it into the house is money spent once rather than money spent on a machine the bayou will take back. What drives the price of that work is how the new duct runs are routed, whether the floor has to be opened to connect them and how much of the original system can stay in place. A company that covers this area can look at the crawlspace and the house above it and tell you what could be reused."
+    },
+    {
+      "q": "Leaves and debris blow into the space under my house. Does that affect the cooling?",
+      "a": "It does, and it is a condition of this canopy rather than of your house. The oak and elm cover along these streets is the densest in the city, and what falls off it drops through the crawlspace vents and collects on the floor of the space where the air handler and the duct trunk sit. That mat of leaf litter holds moisture against the cabinet and the trunk, and a duct lying on damp debris loses insulation and picks up a smell that moves into the supply air. Clearing the floor, keeping the vents screened and having the trunk checked for crushed or sagging sections are the three things that matter."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. The historic district review, the crawlspace under the piers, bayou flooding and the heavy leaf litter carry the local weight."
 }

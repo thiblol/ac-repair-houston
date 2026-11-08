@@ -32,6 +32,21 @@ const TARGETS = {
 
 fs.mkdirSync(OUT, { recursive: true });
 
+/* Social cards. Facebook, X and LinkedIn render JPEG and PNG in an og:image
+   and quietly ignore SVG and WebP, which is why the card is a plain JPEG
+   rather than another WebP. 1200 by 630 is the shape those platforms crop
+   to. The illustration is scaled to fit inside the card rather than cropped
+   to fill it, because cropping to 1.91 to 1 cuts the top and bottom off a
+   diagram that has labels in them.
+
+   The padding around the illustration is filled with the illustration's own
+   top-left pixel. Each drawing has a different background, light paper for
+   the diagrams and a sky gradient for the two landscapes, so a fixed fill
+   colour would show as a seam. Sampling the corner makes the padding
+   invisible on all of them. */
+const OG_WIDTH = 1200;
+const OG_HEIGHT = 630;
+
 let written = 0;
 for (const [name, widths] of Object.entries(TARGETS)) {
   const file = path.join(SRC, `${name}.svg`);
@@ -46,7 +61,20 @@ for (const [name, widths] of Object.entries(TARGETS)) {
       .toFile(dest);
     written += 1;
   }
-  console.log(`  ${name}: ${widths.join(', ')}`);
+
+  const corner = await sharp(svg, { density: 96 })
+    .extract({ left: 0, top: 0, width: 1, height: 1 })
+    .raw()
+    .toBuffer();
+  const bg = { r: corner[0], g: corner[1], b: corner[2] };
+
+  await sharp(svg, { density: 192 })
+    .resize(OG_WIDTH, OG_HEIGHT, { fit: 'contain', background: bg })
+    .flatten({ background: bg })
+    .jpeg({ quality: 88, effort: 6 })
+    .toFile(path.join(OUT, `${name}-og.jpg`));
+  written += 1;
+  console.log(`  ${name}: ${widths.join(', ')} + og card`);
 }
 
 /* The hero and the favicon also ship as SVG so they stay crisp and the

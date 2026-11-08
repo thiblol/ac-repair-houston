@@ -32,10 +32,12 @@ const cities = areaData.cities;
 const areas = [pillar, ...cities];
 
 /* Which area gets which service pages. Houston is the pillar market and
-   carries the full set. Every other area carries the six with real demand
-   and a genuine local angle, because 21 x 41 near-identical pages is the
-   doorway-page failure mode rather than a growth plan. */
-const areaSvcs = new Map(areas.map((a) => [a.slug, areaServicesFor(services, a, 6)]));
+   carries the full set. Every other area carries the fourteen services that a
+   live search shows have dedicated pages of their own. The remaining six stay
+   on their national pages until the fourteen are indexed and can be judged on
+   evidence. The similarity and local-fact gates are what stop this becoming a
+   doorway network, not the count. */
+const areaSvcs = new Map(areas.map((a) => [a.slug, areaServicesFor(services, a)]));
 
 cfg._nav = {
   services,
@@ -51,11 +53,14 @@ function copy(file, required) {
   let j;
   try { j = JSON.parse(fs.readFileSync(p, 'utf8')); }
   catch (e) { problems.push(`BAD JSON: ${file}: ${e.message}`); return null; }
-  for (const k of required) {
+  for (const k of [...required, 'lastmod']) {
     const v = j[k];
     if (v == null || (typeof v === 'string' && !v.trim()) || (Array.isArray(v) && !v.length)) {
       problems.push(`EMPTY FIELD: ${file} -> ${k}`);
     }
+  }
+  if (j.lastmod && !/^\d{4}-\d{2}-\d{2}$/.test(j.lastmod)) {
+    problems.push(`BAD lastmod: ${file} -> ${j.lastmod} (expected YYYY-MM-DD)`);
   }
   return j;
 }
@@ -113,14 +118,15 @@ function checkTraits(area, copyObj) {
   const flag = (m) => problems.push(`FACT CONTRADICTION ${area.slug}: ${m}`);
 
   /* An area with no salt exposure may still say so out loud. "no coastal salt
-     here", "rather than salt spray", "keeps salt spray out of the picture"
-     are all the copy being careful, not being wrong. So a salt mention only
-     counts as a claim when nothing nearby denies salt exposure.
+     here", "rather than salt spray", "keeps salt spray out of the picture",
+     "none of that corrosion is coastal salt" are all the copy being careful,
+     not being wrong. So a salt mention only counts as a claim when nothing
+     nearby denies salt exposure.
 
      The window is bounded by the enclosing sentence so a negation from an
      adjacent sentence cannot disarm a real claim. */
   const SALT_DENIAL =
-    /\b(no|not|never|nothing|nobody|without|absence|lack of|far from|free of|protected from|rather than|instead of|insensitive to|immune to)\b|keeps?\b[^.]{0,30}\bout\b|keeps?\b[^.]{0,30}\baway\b/;
+    /\b(no|not|never|none|nothing|nobody|neither|without|absence|lack of|far from|free of|protected from|rather than|instead of|insensitive to|immune to)\b|keeps?\b[^.]{0,30}\bout\b|keeps?\b[^.]{0,30}\baway\b/;
   const negated = (re) => {
     const g = new RegExp(re.source, 'gi');
     for (const m of txt.matchAll(g)) {
@@ -132,7 +138,7 @@ function checkTraits(area, copyObj) {
     return false;
   };
 
-  if (t.salt === 'none' && negated(/salt (air|spray|corrosion)|saltwater|salt damages|coastal salt|salt film|salt attack/)) {
+  if (t.salt === 'none' && negated(/salt (air|spray|corrosion)|saltwater|salt damages|coastal salt|salt film|salt attack|coastal (humidity|air)/)) {
     flag('area has no salt exposure but copy describes salt damage');
   }
   if (['high', 'moderate'].includes(t.salt) && negated(/no salt|free of salt|without salt/)) {
@@ -200,7 +206,7 @@ const CRUMB_HOME = { name: 'Home', href: '/' };
   <span class="kicker">Urgent</span>
   <h2>When the house is heating up</h2>
   ${serviceRows(cfg._nav.urgency.map((s) => ({
-    href: url.service(s), title: s.name, urgent: true, tag: 'Same day', body: s.problem,
+    href: url.service(s), title: s.name, urgent: true, tag: 'Urgent', body: s.problem,
   })))}
 </div></section>
 
@@ -231,6 +237,7 @@ const CRUMB_HOME = { name: 'Home', href: '/' };
 <section class="sec"><div class="wrap">
   <span class="kicker">Where we send requests</span>
   <h2>AC repair across ${areas.length} service areas</h2>
+  <p class="small muted"><a href="${url.areas()}">Full service area directory</a>, including every Houston neighborhood and every Greater Houston city.</p>
   ${cardGrid([pillar, ...cities].slice(0, 8).map((ct) => ({
     href: url.area(ct), title: `${ct.name}, ${ct.stateAbbr}`,
     body: ct.traits.note.split('.')[0] + '.',
@@ -253,6 +260,7 @@ const CRUMB_HOME = { name: 'Home', href: '/' };
 ${requestForm(cfg)}
 `;
   add('/', layout({
+    og: 'hero-condenser',
     cfg, path: '/', crumbs,
     title: 'AC Repair Houston | Same-Day AC Repair and Installation',
     description: fitDescription(
@@ -267,7 +275,7 @@ ${requestForm(cfg)}
       publisher: { '@id': cfg.origin + '/#organization' },
     }, faqSchema(cfg, c.faqs, '/')].filter(Boolean),
     body,
-  }));
+  }), { lastmod: c.lastmod, priority: '1.0', changefreq: 'weekly' });
 }
 
 /* ============================ SERVICE PAGES ============================ */
@@ -357,9 +365,18 @@ ${offeredAreas.length ? `<section class="sec"><div class="wrap">
 ${requestForm(cfg, { heading: `Request ${s.name.toLowerCase()}`, service: s.name })}
 `;
   add(url.service(s), layout({
+    og: 'unit-anatomy',
     cfg, path: url.service(s), crumbs,
-    title: `${s.name} Houston | AC Repair Houston`,
-    description: `${s.h1}. Request ${s.name.toLowerCase()} in Houston. Free to request, matched to an HVAC company that covers your area.`,
+    title: fitTitle(
+      s.title || `${s.name} Houston | AC Repair Houston`,
+      `${s.name} in Houston | AC Repair Houston`,
+      `${s.name} Houston`,
+    ),
+    description: fitDescription(
+      `${s.h1}. Request ${s.name.toLowerCase()} in Houston. Free to request, matched to an HVAC company that covers your area.`,
+      `Request ${s.name.toLowerCase()} in Houston. Free to request, matched to an HVAC company that covers your area.`,
+      `${s.name} in Houston. Free to request, matched to a local HVAC company.`,
+    ),
     jsonld: [
       orgSchema(cfg),
       serviceSchema(cfg, { name: s.name, description: c.intro || s.problem, areaServed: { '@type': 'State', name: 'Texas' }, path: url.service(s) }),
@@ -367,7 +384,7 @@ ${requestForm(cfg, { heading: `Request ${s.name.toLowerCase()}`, service: s.name
       breadcrumbSchema(cfg, crumbs),
     ].filter(Boolean),
     body,
-  }));
+  }), { lastmod: c.lastmod, priority: '0.9', changefreq: 'monthly' });
 }
 
 /* ============================ SERVICES INDEX ============================ */
@@ -386,12 +403,13 @@ ${requestForm(cfg, { heading: `Request ${s.name.toLowerCase()}`, service: s.name
 </div></section>
 ${requestForm(cfg)}`;
   add(url.services(), layout({
+    og: 'unit-anatomy',
     cfg, path: url.services(), crumbs,
     title: `AC Services Houston | AC Repair Houston`,
     description: `Emergency and same-day AC repair, installation, replacement, refrigerant work, mini-splits and commercial HVAC across Houston. Free to request.`,
     jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)],
     body,
-  }));
+  }), { priority: '0.7', changefreq: 'monthly' });
 }
 
 /* ============================ AREAS INDEX ============================ */
@@ -420,12 +438,13 @@ ${requestForm(cfg)}`;
 </div></section>
 ${requestForm(cfg)}`;
   add(url.areas(), layout({
+    og: 'houston-skyline',
     cfg, path: url.areas(), crumbs,
     title: `AC Repair Service Areas | Houston and Greater Houston`,
     description: `AC repair across Houston and ${cities.length} Greater Houston cities, including Katy, Sugar Land, Pearland, The Woodlands, Spring and League City.`,
     jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)],
     body,
-  }));
+  }), { priority: '0.7', changefreq: 'monthly' });
 }
 
 /* ============================ AREA + AREA x SERVICE ============================ */
@@ -441,7 +460,7 @@ for (const ct of areas) {
 <section class="hero"><div class="wrap hero__grid">
   <div class="hero__main">
     <span class="kicker">${esc(ct.county)}</span>
-    <h1>AC Repair in ${esc(ct.name)}, ${esc(ct.stateAbbr)}</h1>
+    <h1>AC Repair Services in ${esc(ct.name)}, ${esc(ct.stateAbbr)}</h1>
     <p class="hero__intro">${esc(c.intro || '')}</p>
     <div class="btn-row">
       <a class="btn btn--call" href="#request">Request AC service in ${esc(ct.name)}</a>
@@ -486,7 +505,7 @@ ${ct.neighborhoods?.length ? `<section class="sec"><div class="wrap">
     { sizes: '(min-width: 78rem) 74rem, 100vw' })}</span>
   <h2>What we get called for in ${esc(ct.name)}</h2>
   <ul class="symptoms">${(c.commonCalls || []).map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
-  <h3>Local landmarks and neighborhoods</h3>
+  <h3 id="local">Local landmarks and neighborhoods</h3>
   ${cloud((c.landmarks || []).map((x) => ({ href: url.area(ct) + '#local', label: x })))}
   <h3>Nearby service areas</h3>
   ${cloud(near.map((n) => ({ href: url.area(n.area), label: `${n.area.name}, ${n.area.stateAbbr}` })))}
@@ -500,11 +519,12 @@ ${ct.neighborhoods?.length ? `<section class="sec"><div class="wrap">
 ${requestForm(cfg, { heading: `Request AC service in ${ct.name}`, area: ct.name })}
 `;
   add(url.area(ct), layout({
+    og: 'houston-skyline',
     cfg, path: url.area(ct), crumbs,
     title: fitTitle(
-      `AC Repair in ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
-      `AC Repair ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
-      `AC Repair in ${ct.name} | AC Repair Houston`,
+      `AC Repair Services in ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
+      `AC Repair Services in ${ct.name} | AC Repair Houston`,
+      `AC Repair Services ${ct.name} | AC Repair Houston`,
     ),
     description: fitDescription(
       `Request AC repair in ${ct.name}, ${ct.stateAbbr}. Same-day and emergency service, installation and replacement. Free to request, matched to an HVAC company that covers ${ct.name}.`,
@@ -523,7 +543,7 @@ ${requestForm(cfg, { heading: `Request AC service in ${ct.name}`, area: ct.name 
       breadcrumbSchema(cfg, crumbs),
     ].filter(Boolean),
     body,
-  }));
+  }), { lastmod: c.lastmod, priority: '0.8', changefreq: 'monthly' });
 
   /* ---- area x service ---- */
   for (const s of svcs) {
@@ -571,23 +591,43 @@ ${requestForm(cfg, { heading: `Request AC service in ${ct.name}`, area: ct.name 
   <span class="kicker">Also in ${esc(ct.name)}</span>
   <h2>Other AC jobs covered here</h2>
   ${cardGrid(sibs.map((x) => ({ href: url.areaService(ct, x), title: `${x.name} in ${ct.name}`, urgent: x.tier === 'urgency' })), 'grid grid--4')}
-  <h3>${esc(s.name)} in nearby areas</h3>
-  ${cloud(near
-    .filter((n) => areaSvcs.get(n.area.slug).some((x) => x.slug === s.slug))
-    .slice(0, 5)
-    .map((n) => ({ href: url.areaService(n.area, s), label: `${s.name} in ${n.area.name}` })))}
+  ${(() => {
+    /* Not every service is carried in every area. Where it is, the page
+       links the same service in the areas that offer it. Where it is not,
+       an empty list would be worse than saying so plainly. */
+    const elsewhere = near
+      .filter((n) => areaSvcs.get(n.area.slug).some((x) => x.slug === s.slug))
+      .slice(0, 5)
+      .map((n) => ({ href: url.areaService(n.area, s), label: `${s.name} in ${n.area.name}` }));
+    if (!elsewhere.length) {
+      return `<p class="small muted">${esc(s.name)} is handled in ${esc(ct.name)}. <a href="${url.service(s)}">What the job covers</a>,
+  and <a href="${url.area(ct)}">everything else covered in ${esc(ct.name)}</a>.</p>`;
+    }
+    return `<h3>${esc(s.name)} in nearby areas</h3>
+  ${cloud(elsewhere)}
   <p class="small muted">See all <a href="${url.service(s)}">${esc(s.name.toLowerCase())} coverage</a>,
-  or everything covered in <a href="${url.area(ct)}">${esc(ct.name)}</a>.</p>
+  or everything covered in <a href="${url.area(ct)}">${esc(ct.name)}</a>.</p>`;
+  })()}
 </div></section>
 
 ${requestForm(cfg, { heading: `Request ${s.name.toLowerCase()} in ${ct.name}`, area: ct.name, service: s.name })}
 `;
     add(url.areaService(ct, s), layout({
+    og: 'airflow',
       cfg, path: url.areaService(ct, s), crumbs: cs,
       title: fitTitle(
         `${s.name} in ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
         `${s.name} in ${ct.name} | AC Repair Houston`,
-        `${s.name} ${ct.name} | AC Repair Houston`,
+        // The state abbreviation is what keeps this from colliding with the
+        // national service page, whose title is the same service and the same
+        // city without it.
+        `${s.name} ${ct.name}, ${ct.stateAbbr} | AC Repair Houston`,
+        // The long place names do not leave room for the brand and the
+        // service in the same 62 characters. The brand is on the page, in the
+        // H1 and in og:site_name, so a title that carries the service and the
+        // city intact beats one that gets cut off mid-word.
+        `${s.name} in ${ct.name}, ${ct.stateAbbr}`,
+        `${s.name} ${ct.name}`,
       ),
       description: fitDescription(
         `${s.name} in ${ct.name}, ${ct.stateAbbr}. Request it free and it goes to an HVAC company covering ${ct.name}. Same-day and emergency service available.`,
@@ -606,7 +646,7 @@ ${requestForm(cfg, { heading: `Request ${s.name.toLowerCase()} in ${ct.name}`, a
         breadcrumbSchema(cfg, cs),
       ].filter(Boolean),
       body: b,
-    }));
+    }), { lastmod: c.lastmod, priority: '0.7', changefreq: 'monthly' });
   }
 }
 
@@ -647,13 +687,13 @@ for (const n of pillar.areas) {
   <h2>AC services in ${esc(n.name)}</h2>
   ${serviceRows(areaSvcs.get(pillar.slug).map((sv) => ({
     href: url.areaService(pillar, sv), title: `${sv.name} in ${n.name}`,
-    urgent: sv.tier === 'urgency', tag: sv.tier === 'urgency' ? 'Same day' : null,
+    urgent: sv.tier === 'urgency', tag: sv.tier === 'urgency' ? 'Urgent' : null,
     body: sv.problem,
   })))}
 </div></section>
 
 <section class="sec"><div class="wrap">
-  <h2>Around ${esc(n.name)}</h2>
+  <h2 id="local">Around ${esc(n.name)}</h2>
   ${cloud((ac.landmarks || []).map((x) => ({ href: url.neighborhood(pillar, n) + '#local', label: x })))}
   <h3>Other Houston neighborhoods</h3>
   ${cloud(sibs.map((x) => ({ href: url.neighborhood(pillar, x), label: x.name })))}
@@ -668,6 +708,7 @@ for (const n of pillar.areas) {
 ${requestForm(cfg, { heading: `Request AC service in ${n.name}`, area: pillar.name })}
 `;
   add(url.neighborhood(pillar, n), layout({
+    og: 'thermostat',
     cfg, path: url.neighborhood(pillar, n), crumbs: cs,
     title: ac.title, description: ac.description,
     jsonld: [
@@ -681,7 +722,7 @@ ${requestForm(cfg, { heading: `Request AC service in ${n.name}`, area: pillar.na
       breadcrumbSchema(cfg, cs),
     ].filter(Boolean),
     body,
-  }));
+  }), { lastmod: ac.lastmod, priority: '0.6', changefreq: 'monthly' });
 }
 
 /* ============================ STATIC PAGES ============================ */
@@ -702,7 +743,8 @@ for (const [p, title, desc, file] of [
 </div></section>
 ${requestForm(cfg)}`;
   add(p, layout({ cfg, path: p, crumbs, title: `${title} | AC Repair Houston`, description: desc, navCurrent: p,
-    jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)], body }));
+    og: 'coil-compare',
+    jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)], body }), { lastmod: c.lastmod, priority: '0.3', changefreq: 'yearly' });
 }
 
 /* ============================ HTML SITEMAP ============================
@@ -746,6 +788,7 @@ ${requestForm(cfg)}`;
   <div class="cols">
     <div class="linkcol"><span class="linkcol__lbl" id="sm-houston">Houston</span>
       <ul aria-labelledby="sm-houston"><li><a href="${url.area(pillar)}">Houston, TX</a></li>
+      ${areaSvcs.get(pillar.slug).map((sv) => `<li><a href="${url.areaService(pillar, sv)}">${esc(sv.name)}</a></li>`).join('')}
       ${pillar.areas.map((n) => `<li><a href="${url.neighborhood(pillar, n)}">${esc(n.name)}</a></li>`).join('')}</ul></div>
     ${cities.map((ct) => `<div class="linkcol">
       <span class="linkcol__lbl" id="sm-${ct.slug}"><a href="${url.area(ct)}">${esc(ct.name)}</a></span>
@@ -762,13 +805,14 @@ ${requestForm(cfg)}`;
 
 ${requestForm(cfg)}`;
   add(url.sitemap(), layout({
+    og: 'gauges',
     cfg, path: url.sitemap(), crumbs,
     title: 'Sitemap | AC Repair Houston',
     description: `Every page on AC Repair Houston: all AC services, Houston and ${cities.length} Greater Houston cities, and Houston neighborhoods. One hop to anything on the site.`,
     navCurrent: url.sitemap(),
     jsonld: [orgSchema(cfg), breadcrumbSchema(cfg, crumbs)],
     body,
-  }));
+  }), { priority: '0.2', changefreq: 'monthly' });
 }
 
 /* ---------- SEO gate ----------
@@ -868,12 +912,13 @@ for (const pg of pages) {
 
 ${requestForm(cfg)}`;
   add('/404.html', layout({
+    og: 'coil-compare',
     cfg, path: '/404.html', crumbs,
     title: 'Page Not Found | AC Repair Houston',
     description: 'That page is not here. Find AC repair in Houston and the surrounding area, or send a request directly.',
     jsonld: [orgSchema(cfg)],
     body,
-  }));
+  }), { priority: '0.1', changefreq: 'yearly' });
 }
 
 /* ============================ WRITE ============================ */
@@ -914,11 +959,21 @@ for (const p of pages) {
   fs.writeFileSync(path.join(dir, 'index.html'), p.html);
 }
 
-/* sitemap + robots */
-const now = new Date().toISOString().slice(0, 10);
+/* sitemap + robots
+   The lastmod on a URL is the date its copy file was last edited, not the
+   date the build ran. A build date on every URL tells a crawler that
+   everything changed every time, which is a signal worth ignoring, so it is
+   better to publish a date we can defend or to publish none at all. */
+const sitemapUrl = (p) => {
+  const parts = [`  <url><loc>${cfg.origin}${p.path}</loc>`];
+  if (p.lastmod) parts.push(`<lastmod>${p.lastmod}</lastmod>`);
+  if (p.changefreq) parts.push(`<changefreq>${p.changefreq}</changefreq>`);
+  if (p.priority) parts.push(`<priority>${p.priority}</priority>`);
+  return `${parts.join('')}</url>`;
+};
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'),
   `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n` +
-  pages.filter((p) => p.path !== '/404.html').map((p) => `  <url><loc>${cfg.origin}${p.path}</loc><lastmod>${now}</lastmod></url>`).join('\n') +
+  pages.filter((p) => p.path !== '/404.html').map(sitemapUrl).join('\n') +
   `\n</urlset>\n`);
 fs.writeFileSync(path.join(OUT, 'robots.txt'),
   `User-agent: *\nAllow: /\n\nSitemap: ${cfg.origin}/sitemap.xml\n`);

@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Pearland has gone from ranch homes on old lots to dense subdivisions fast, and the cooling equipment is a mix of both eras. It sits close enough to the Gulf that salt starts dulling condenser fins, but not close enough for salt to be the whole story. Coastal oak litter is the constant background noise in this part of Brazoria County.",
   "localAngle": "Two generations of housing sit side by side in Pearland. The older blocks are 1990s ranches with single-storey layouts and original equipment. The new subdivisions are larger, taller and packed with coastal oak shade that drops acorns and catkins straight onto the units. Because the area sits close to the bay, the first thing salt does is dull the aluminum fins on the condenser, which lowers how much heat the coil can dump. Humidity does the rest, because every pound of water pulled out of the air has to be condensed somewhere. Salt is present here, but it is a slow damage, not a sudden failure.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "Is it safe to switch the AC back on after a storm?",
           "a": "Only once the area around the unit is dry. If water has been sitting in the base pan or against the electrical compartment, that is a live hazard and the system should stay off. Salt water in the connections also ruins them quietly, which is why the cabinet gets inspected rather than just reset."
-        }
-      ],
-      "_faqsNote": "3 FAQs. Local: coastal humidity load, storm water and salt in the base pan, storm-related outages."
-    },
-    "same-day-ac-repair": {
-      "intro": "A Pearland system that works but never quite gets the house cool is the classic same-day call. Coastal oak debris mats on the condenser and the coil loses airflow. The technician who takes the job should clear the coil, verify the charge and check the amp draw before deciding anything else.",
-      "localNote": "Acorns, catkins and small leaves are the local litter here, and they are worse than broad leaves because they pack into the fins instead of sitting on top. Clean the coil, check the fins for salt dulling, and the same unit that was running long all week starts hitting setpoint. Given how fast Pearland subdivisions fill with mature oaks, this is a call that repeats every season on the same block.",
-      "faqs": [
-        {
-          "q": "How often should the condenser be cleaned in Pearland?",
-          "a": "Every couple of months in the growing season, and after any storm that brings branches down. The coastal oaks drop year-round, so the coil never gets a long clean stretch. Add the salt film and the fins hold a crust that a dry brush alone will not shift."
         },
         {
-          "q": "The system works in the morning and quits by noon. Is that a thermostat?",
-          "a": "Usually not. By noon the coil is fouled, the outdoor unit is hot and the system has already run for hours against a bad heat rejection problem. Many systems also have a cutout timer that stops the compressor in the hottest part of the afternoon. The technician checks the coil and the run time rather than the thermostat first."
+          "q": "How much does an emergency AC repair cost in Pearland?",
+          "a": "It follows the fault, the parts and the access. A capacitor or a contactor is a short visit with a cheap part. A compressor on a unit that has been sitting in coastal air for a quarter century is a different order of work. Pearland houses sit on generous lots, so the unit is usually easy to reach, and the number is decided by the fault rather than by the drive."
         },
         {
-          "q": "Can I rinse the salt off the coils myself?",
-          "a": "Yes, with care. A gentle hose setting and a soft brush will remove a salt crust and the leaf litter on top of it. Do not use a pressure wand, it bends the fins, and a bent fin reduces the coil's ability to shed heat. Keep the water out of the electrical compartment."
+          "q": "Should I treat this as an emergency or schedule a repair?",
+          "a": "It depends on whether the house can be made comfortable another way. A unit that has stopped in the first week of a July heat wave with a house that climbs every hour is worth treating as urgent, and a system that is running warm but still moving air is a scheduled job. What matters is what the temperature does over the next few hours, because that is what decides how long the equipment can keep running before it does damage."
+        },
+        {
+          "q": "Does the salt near the bay make outages more likely in Pearland?",
+          "a": "It makes the equipment less tolerant of the ones that do happen, which is a different thing. Salt works on the cabinet and the fasteners and dulls the fins over years, so a unit that has been through the coastal air since the 1990s has less margin when a fault appears. A corroded connection opens under load rather than at rest, and that is why an interruption that a clean unit would ride through becomes a shutdown on an older one."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: coastal oak catkins, salt crust on the fins, and afternoon run-time cutouts."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-not-cooling": {
       "intro": "Air blowing and no cooling is the complaint that sends people looking for refrigerant. In Pearland the answer is usually airflow or a coil that has lost its edge to debris and salt. A technician needs to measure static pressure and read the charge before anything gets added, since charging a system that is actually dirty just adds gas to a problem that will come back.",
@@ -97,9 +91,21 @@
         {
           "q": "Does salt in the air affect how well the unit cools?",
           "a": "It does, slowly. The salt film dulls the aluminum fins on the outdoor coil, and a dulled fin passes heat less efficiently. The condenser then runs hotter, the compressor works against higher pressure and the cooling output drops. Rinsing the coil restores it, which is why a coast-side unit that gets a rinse does better than one that does not."
+        },
+        {
+          "q": "How much does it cost to fix an AC that runs but does not cool in Pearland?",
+          "a": "It depends on which of the faults you have, and the symptom at the thermostat does not tell you. A dirty filter or a blocked coil is a service call. A coil that has iced over because the airflow over it is restricted is a different job again. Readings of airflow and charge separate the three before anyone quotes, and near the bay the humidity is often what put the system into that state in the first place."
+        },
+        {
+          "q": "Does the newer housing in Pearland have a different cooling problem?",
+          "a": "It has a different one. The original blocks are 1990s ranches with single-storey layouts and equipment that was sized for the plan, and the complaint there is usually heat gain the system cannot keep up with. The new subdivisions are larger, taller and packed with coastal oak that drops acorns and catkins onto the units, so the complaint there is capacity that used to be there and is not any more."
+        },
+        {
+          "q": "Why does the humidity near the bay turn a cooling complaint into a freeze?",
+          "a": "Because the system has to pull a large amount of moisture out of the air, and the coil can only do that if enough air moves across it. When the airflow is restricted the coil gets colder than it should, and cold enough to freeze, and a frozen coil blows warm air. That is why the airflow and the coil condition get checked together here, because on their own they look like a refrigerant problem and they are not one."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: humidity-driven coil freeze, salt-dulled fins, and dirty coil versus low charge."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-repair": {
       "intro": "Pearland repair work splits cleanly between two generations of equipment. The 1990s homes have original systems with R-22 and brittle lines, while the new construction has modern units, often still under a workmanship warranty, where the complaint is usually a sizing or duct problem rather than a broken part. We connect you with a company that covers Brazoria County.",
@@ -116,9 +122,21 @@
         {
           "q": "Should a company honor the workmanship warranty on a new build?",
           "a": "Often that warranty sits with the builder rather than the installer, so it is worth asking who installed the equipment before anyone charges you for a repair. A system that underperforms within the first few summers of ownership is exactly the kind of thing those agreements cover. Ask for the paperwork and check it before the work starts."
+        },
+        {
+          "q": "How much does AC repair cost in Pearland?",
+          "a": "The bill follows the fault and the age of the metal around it. On the older side of town the failures are aged capacitors, contactors pitted by humidity and condensers that have run hard for twenty-five summers. On the newer side the complaint is performance rather than breakdown, which is a different and usually cheaper job. Ask for the number after the diagnosis, and for the replacement quote alongside the repair quote."
+        },
+        {
+          "q": "Can I tell from the outside how old my Pearland system is?",
+          "a": "You can tell a good deal. The cabinet on an original 1990s unit has the dulled fins and the base corrosion that a newer one does not, and the unit itself is often a different size from what came with the house. The nameplate on the side of the cabinet settles it properly, and a photograph of it is worth more than a description when the request goes in."
+        },
+        {
+          "q": "Why do the newer subdivisions in Pearland need repairs before the older houses do?",
+          "a": "Because of what is around them rather than what is in them. A 2010s unit on an open lot in a fast-settling subdivision is a unit that was commissioned against open air and now sits in a yard that has closed in around it, with coastal oak dropping acorns and catkins onto the coil through the warm months. The older ranch houses have their own wear, but the newer units are losing capacity to their surroundings sooner."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: 1990s versus 2010s equipment split, builder workmanship warranty, humidity corrosion."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-installation": {
       "intro": "New construction in Pearland still has systems that were sized from a plan rather than a load calculation, and those systems get undersized the first hot summer. Installations for existing homes tend to be replacements and garage conversions, where the question is what the old system was and what the house actually needs now.",
@@ -135,9 +153,21 @@
         {
           "q": "How does coastal air affect a new condenser?",
           "a": "It shortens the life of the cabinet and dulls the fins faster than an inland unit. It does not change how the system works on day one. The protection is regular rinsing, a unit with a coated coil, and a location that drains well and is not sitting in a low wet spot behind the house."
+        },
+        {
+          "q": "What does an AC installation cost in Pearland?",
+          "a": "The number moves with the work that is not the equipment: how much line set has to be run, whether the electrical service needs work, whether the ductwork is being designed from scratch, and how the outdoor unit reaches its pad. A written scope that separates the equipment from the installation is what makes two quotes comparable. On a subdivision lot with coastal oak shade the siting conversation is usually part of that scope."
+        },
+        {
+          "q": "How does the coastal air affect a new condenser here?",
+          "a": "It works on the equipment from the first season rather than the fifth. Salt off the bay dulls the fins and starts on the cabinet and the fasteners, and Brazoria County also has some of the fastest-settling new housing in the state, so the system goes in while the lot is still bare and the trees are not yet dropping onto it. Choosing a finish and a pad that can be rinsed is worth more here than the same choice fifty miles inland."
+        },
+        {
+          "q": "Should a new build have a second zone?",
+          "a": "It depends on what the house is doing rather than on how large it is. A two storey with a bonus room over the garage and a family room on the other side of the house is a house where one zone will struggle and two will not. What is worth avoiding is a second zone added because the quote included it. On a house where the second floor is already comfortable on its own, the money is better spent on the load calculation and the return path."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: new-build sizing from plans, coastal condenser placement, zoning in Brazoria County."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
     },
     "ac-replacement": {
       "intro": "Replacement in Pearland has two versions. For a 1990s house it means moving off a refrigerant and a coil set that have been running since the Gulf humidity got to them. For a newer house it usually means replacing a unit that was mis-sized or badly ducted, and the second one is worth thinking through before money is spent.",
@@ -154,9 +184,300 @@
         {
           "q": "How much does coastal salt shorten the life of a condenser?",
           "a": "It is a matter of seasons rather than years for an unrinsed unit near the bay. The fins dull, the cabinet corrodes at the base and around the connections, and the electrical parts fail sooner than they would inland. A unit that gets rinsed twice a year and cleaned holds up far better than one that does not."
+        },
+        {
+          "q": "What does it cost to replace an AC system in Pearland?",
+          "a": "The cost is decided by the capacity the house needs, whether the refrigerant on the old nameplate is a legacy type, and how much of the installation can be reused. The 1990s systems here are the obvious candidates because their line sets are brittle and their coils are thin, so any leak repair on them costs more than the repair should. A matched set with new lines is usually the cleaner path."
+        },
+        {
+          "q": "Does replacing the whole system in Pearland mean new ductwork?",
+          "a": "Not automatically, and it is worth checking before the equipment is ordered rather than after. The 1990s installs here are the ones that usually need it, because the ductwork they fed was sized for a smaller house and the line set in a coastal yard is usually worth replacing at the same time. On the newer subdivisions the duct run is often still sound and the outdoor section alone is a reasonable option."
+        },
+        {
+          "q": "Is a new system worth it on a house that was extended?",
+          "a": "The extension is usually the reason it is. A system sized for the house as it was framed is running at its limit now, and a new one sized for the house as it stands is the difference between a system that works and one that does not. The ductwork usually needs looking at at the same time, because the extra room is often the one the air never reaches properly."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: R-22 from the 1990s, coastal cabinet corrosion, matching coil and air handler."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and local ones naming this city own conditions."
+    },
+    "ac-maintenance": {
+      "intro": "A maintenance visit is the one HVAC job that is supposed to end with nothing wrong. The technician checks the filter, both coils, the electrical connections, the condensate drain and the refrigerant charge, and fixes what the visit turns up before it becomes an emergency call in the middle of July. In Pearland that visit earns its keep because the outdoor unit spends the summer under coastal oak and the indoor coil spends it pulling water out of Gulf humidity.",
+      "localNote": "Pearland leaves a narrow window and it is not the one most people expect. The system sits through a mild winter collecting oak catkins and leaf litter in the outdoor fins, and the air handler in the attic runs in a space that reaches 130 to 140 degrees before the first hot week arrives. A check in late spring catches the coil condition and the electrical parts while the summer load is still ahead of the system rather than already on it.",
+      "faqs": [
+        {
+          "q": "When is the best time to have my AC serviced in Pearland?",
+          "a": "Before the first stretch of hot weather, which here means late spring rather than July. Through the winter and early spring the outdoor unit has been collecting coastal oak litter, and the humidity has been working on the indoor coil. A check in May means the technician finds the fouled coil and the tired capacitor while they are still easy problems. A check in August finds the same faults after they have already cost a month of comfort."
+        },
+        {
+          "q": "What does a maintenance visit actually include?",
+          "a": "Filter and coil condition, electrical connections and terminals, the capacitor, the condensate drain, blower operation and a refrigerant charge check. That list is longer than it sounds because most of those parts are hidden inside the unit or up on the roof. A visit that only washes the outdoor coil is a coil cleaning, not a tune-up."
+        },
+        {
+          "q": "Is a new build system in Pearland still under warranty if it needs service?",
+          "a": "Often the workmanship warranty on a new-build system belongs to the builder rather than the installer, and that paperwork is worth finding before anyone quotes a repair. The systems going into the 2010s subdivisions around Shadow Creek Ranch and Southland Shopping Center were sized from a floor plan rather than a load calculation in a lot of cases. If a system underperforms in its first few summers, that is a conversation with the builder, and a maintenance visit documents the condition."
+        },
+        {
+          "q": "Does the attic heat affect my air handler?",
+          "a": "It does. An air handler sitting in a Pearland attic in the 130 to 140 degree range has less cooling air around it than the same unit in a closet, so the motor and the electronics age faster there. It is also why a frozen coil in an attic stays frozen until the system is switched off by hand. Keeping stored boxes clear of the unit and the return path makes a measurable difference."
+        },
+        {
+          "q": "How much does an AC tune up cost?",
+          "a": "The price moves with the condition of the equipment rather than with a fixed list. A system that has been serviced before, with a clean coil and a working capacitor, costs less to visit than one where the technician finds a failed capacitor, a clogged drain and a coil that needs chemical cleaning. Ask what the visit includes and what happens if something else turns up."
+        },
+        {
+          "q": "My AC barely ran all winter. Does it still need maintenance?",
+          "a": "That is one of the stronger reasons to book it. A system that sat through a mild winter without cycling can have a capacitor that has never been loaded, a drain line that has dried out, and an outdoor coil sitting under oak litter the whole time. None of that shows up from the thermostat, and all of it shows up in the first hot week."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: oak litter through the winter, attic at 130 to 140F, builder warranty on the 2010s builds, mild salt, humidity load."
+    },
+    "condenser-repair": {
+      "intro": "The condenser is the outdoor unit, the box on the pad behind or beside the house, and it does the hard work of shedding heat. What goes wrong on it is usually the fan motor, the run capacitor, the contactor, a coil packed with debris, or a cabinet that has corroded through at the base. A unit that hums but will not start, or one that starts and shuts off again, is a condenser problem before it is anything else.",
+      "localNote": "Two things make the outdoor unit harder on Pearland than inland. Coastal oak drops catkins and small leaves year-round, and the small stuff packs into the fin openings instead of sitting on top of the coil, so the unit loses airflow under the tree it was installed beneath. A low but real salt load from the bay dulls the fins and starts rust at the cabinet base and around the electrical compartment. Neither of those is sudden. They show up as a unit that cannot hold its pressures on the hottest afternoon.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but the compressor never starts. What is happening?",
+          "a": "That hum is the contactor pulling in and the compressor failing to follow, or a capacitor that cannot hold a charge. Both live in the outdoor unit and both are common on a unit that has been running for years in this heat. The capacitor gets checked first because it is the cheaper of the two, then the contactor and the windings if the hum continues."
+        },
+        {
+          "q": "What noise does a bad outdoor unit make?",
+          "a": "A fan motor with a dry bearing grinds or rasps, and it gets louder as the fan speed comes up. A rattling panel usually means something inside the cabinet has loosened, often a fan blade or a mounting screw. A buzz with no fan motion points at the capacitor instead. In Pearland the oak litter under the cabinet can also rattle against the coil guard, which sounds like a fault and is not one."
+        },
+        {
+          "q": "Should I rinse the outdoor unit myself in Pearland?",
+          "a": "A gentle hose and a soft brush clears a lot of catkins and dust, and doing it before you call is reasonable. Do not use a pressure washer, because a high pressure stream bends the fins and a bent fin blocks more airflow than the dirt did. For the salt film on the fins, a coil conditioner leaves a coating that slows the next buildup. If the unit is wired to a disconnect you are not sure how to open, leave that part to the technician."
+        },
+        {
+          "q": "Does ERCOT power trouble cause outdoor unit problems?",
+          "a": "It can. Voltage sags and momentary outages in this part of Brazoria County during the summer can leave a contactor chattering or a compressor trying to start against a weak supply, and repeated starts wear the contacts. If your unit has been resetting itself during the hottest afternoon hours, that is worth mentioning when you make the request, because it changes where the technician looks first."
+        },
+        {
+          "q": "The cabinet on my outdoor unit is rusting at the base. Is that normal here?",
+          "a": "Some surface rust on a unit a few years old is normal almost anywhere. What is worth acting on is rust at the base pan and around the electrical compartment, because that is where moisture sits and where salt from the bay collects. The salt load here is mild rather than severe, so the corrosion is a slow issue rather than the reason units fail. A unit that stays dry and gets rinsed holds together much longer."
+        },
+        {
+          "q": "How much does it cost to repair a condenser?",
+          "a": "It depends on what is actually wrong. A capacitor or a contactor is a small part and a short job. A fan motor is more involved because the shroud has to come apart. If the coil is packed and the cabinet is corroded at the base, the honest answer may be that the money belongs in a replacement unit rather than in the outdoor box. Ask what was checked before the recommendation was made."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: oak catkin packing the fins, mild salt at the cabinet base, ERCOT summer voltage sags, coastal humidity."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump that moves the refrigerant, and when it fails the whole system stops with it. The symptoms are hard to argue with: the unit hums and the fan runs but the compressor never kicks in, the system short cycles, or it trips the breaker every time it starts. Whether the answer is a new compressor or a new system depends on what killed the old one and what else in the setup has aged along with it.",
+      "localNote": "A compressor gives up in Pearland for reasons that trace back to the outdoor unit and the climate around it. A condenser choked with coastal oak litter runs hotter, the compressor works harder against that head pressure, and the humidity is the load that keeps it running long into the afternoon. The voltage swings that come with an unstable summer grid are the other half of the story. On a 1990s system the compressor usually dies together with an R-22 lineset that is brittle and old, and that changes the answer.",
+      "faqs": [
+        {
+          "q": "How do I know the compressor has failed and not something else?",
+          "a": "Listen to the outdoor unit. If the fan is running and there is only a hum with no deeper rhythmic sound from the compressor, the pump is not starting. If the unit trips the breaker the moment it starts, the compressor is likely drawing too much or is locked up. If the system runs and stops every few minutes, that is a different fault, usually a pressure switch or a charge problem, and the compressor may be fine."
+        },
+        {
+          "q": "Can the compressor be repaired or does it have to be replaced?",
+          "a": "Sometimes a winding can be addressed, but a seized or burned compressor is a replacement job. The part that matters is the question of why it failed, because a new compressor in the same dirty, hot, unstable environment does the same job and dies the same way. Ask what was checked on the condenser coil, the airflow and the power supply before the replacement was recommended."
+        },
+        {
+          "q": "Why is my AC short cycling?",
+          "a": "Short cycling means the system starts, runs a few minutes and shuts down, over and over. It can come from a pressure switch cycling, a low charge, a compressor that struggles to start, or a control board that is cutting out. In Pearland an outdoor unit with a blocked coil and a system that has lost its charge are the two common findings, and it is worth knowing which one it is before the compressor gets condemned."
+        },
+        {
+          "q": "On a 1990s Pearland home, is replacing the compressor worth it, or should I replace the system?",
+          "a": "That is a real decision on the older blocks, and the age of the parts around the compressor matters as much as the compressor itself. A 1990s unit running R-22 has a lineset and an air handler of the same age, and that refrigerant is no longer produced for new equipment. Replacing only the compressor can leave a new pump inside an old system. Read the nameplate first, then compare the cost of the compressor against a matched replacement."
+        },
+        {
+          "q": "Does the salt air near the Gulf kill compressors?",
+          "a": "Not mainly. The salt exposure in Pearland is mild, and it will dull the condenser fins and rust the cabinet over time, but the bigger drivers of compressor failure here are humidity, a fouled coil, and the heat the unit has to work against. The salt matters because it degrades the electrical connections and the cabinet, not because it eats the refrigerant side. A coil that gets rinsed and a system that gets serviced is a longer-lived compressor."
+        },
+        {
+          "q": "How much does it cost to replace a compressor?",
+          "a": "Two things move the number: the refrigerant type on the nameplate and whether anything else in the system is being replaced at the same time. A compressor swap on a system that is otherwise sound and still holds a modern refrigerant is a smaller job than matching a compressor to an old R-22 lineset that also needs refrigerant and service work. The technician reads the nameplate before quoting, and that reading is what settles it."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: mild salt against humidity as the real driver, R-22 lineset age on the 1990s blocks, ERCOT voltage swings, oak-choked condenser."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A refrigerant leak is two jobs: find where the refrigerant is leaving, and fix that spot. The second job is the one that decides whether the work holds, because a system that gets topped off without the leak being found will be low again in a few months. The oil stain that refrigerant leaves behind is usually the fastest way to point at the problem.",
+      "localNote": "In Pearland the leaks tend to sit in two places. The line set running through the attic on a 1990s ranch spends months at 130 to 140 degrees, and that heat is hard on a joint and on the insulation around it. The other is the service valve on the outdoor unit, where the cabinet base holds moisture and the salt from the bay collects. Both leave an oily mark on the metal, and the stain is easier to find than the sound of the leak.",
+      "faqs": [
+        {
+          "q": "What causes an AC refrigerant leak in the first place?",
+          "a": "Most leaks start at a joint: a fitting that was not torqued properly at installation, a flare that cracked when the line was bent, or a service valve that has been worked on too many times. Corrosion on the outdoor unit's copper lines and a failed valve core are the other common ones. Age and heat make all of them more likely."
+        },
+        {
+          "q": "How do I find where the refrigerant is leaking?",
+          "a": "Look for the oil. Refrigerant carries a small amount of compressor oil with it, so the spot where it escapes leaves a greasy or dark mark on the pipe or the coil, and that mark is usually easier to see than the leak itself. A technician can also put a detector on the line set and listen for the hiss, which narrows it down to a section. The oil gives the general area, the detector gives the exact point."
+        },
+        {
+          "q": "Why does my system lose refrigerant every few months?",
+          "a": "Something is leaking, and the gas is going out slowly enough that the system keeps working for a while before it is obvious. If the loss started right after a service visit, a fitting may have been disturbed during that work. If the unit sits where water stands around the base pan, the corrosion there can open a slow leak in the lines."
+        },
+        {
+          "q": "Where do leaks usually happen in a Pearland home?",
+          "a": "In the attic on the older ranches, and at the outdoor unit on every age of house. The attic line set runs hot for months, and the insulation on old installations is often cracked or missing at a section. Outside, the service valves and the base of the lines are where salt and standing water work on the copper. Coastal oak also hides the outdoor unit from view, so a stain on the cabinet can go unnoticed for a season."
+        },
+        {
+          "q": "Does the refrigerant type on the nameplate matter for a leak repair?",
+          "a": "It matters for what goes back in and for what it costs. R-22 systems from the 1990s need refrigerant that is no longer produced for new equipment and carries a higher price, and the tighter working pressures change how the leak is tested. A system on the newer refrigerant has different oil and different gauges. The nameplate settles it, and the technician will read it before starting."
+        },
+        {
+          "q": "Is it cheaper to just recharge it than to find and fix the leak?",
+          "a": "A recharge without a leak repair buys a few weeks and then the same call comes back, so it rarely works out cheaper once the second visit and the second charge are counted. Finding the leak is extra work and it is the work that holds. If a system is losing refrigerant faster than once a year, the honest answer is that the leak repair is the part that has to happen."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic line set at 130 to 140F on the 1990s ranches, salt at the outdoor unit base, R-22 linesets, oak hiding the unit."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is not a canister and a guess. The technician recovers whatever is in the system, weighs in the refrigerant the factory charge calls for, and confirms the result by reading superheat and subcooling on the gauges. Those two readings are what turn a top-off into a measurement, and they are also what tell you whether the system is running correctly or hiding a fault.",
+      "localNote": "Two kinds of recharge show up in Pearland. One is on the 1990s blocks around Reedbrook and Silverlake, where a system that has lost its charge over a decade is running on an older refrigerant and a lineset that has been open to the coastal air for a quarter century. The other is on a system installed recently in one of the 2010s subdivisions that is not holding its charge or not performing as it should in the humidity. The second one is often still inside a builder workmanship warranty, which changes who should be doing the work.",
+      "faqs": [
+        {
+          "q": "What actually happens during a refrigerant recharge?",
+          "a": "The technician recovers the refrigerant that is in the system, checks for leaks, weighs in the amount the nameplate specifies, then measures superheat and subcooling to confirm the system is holding that charge. A job that ends at the gauge without those readings is a top-off. It is quick work, and the readings are what tell you the system is right."
+        },
+        {
+          "q": "How much refrigerant does my system need?",
+          "a": "The amount is printed on the outdoor unit nameplate, as a weight, along with the refrigerant type. It is a factory figure for that model and it is the number the technician works to. That is why the nameplate matters more than anything said over the phone, and why a quote should not change after the unit is opened."
+        },
+        {
+          "q": "My new system is not cooling as well as it should. Does it need a charge?",
+          "a": "Maybe, but it is worth checking the charge before assuming the system is mis-set. A unit that shipped from the factory with an improper charge does come up on new installations. On a new build in one of the 2010s subdivisions the more common explanations are airflow and sizing, because a system chosen from a floor plan in this humidity can struggle from the first summer. A technician reads the charge and the airflow together, and those are not the same fault."
+        },
+        {
+          "q": "Does the refrigerant type on the nameplate change anything?",
+          "a": "It changes the work, the gauges and what it costs. R-22, which is what most 1990s systems in this area run, is no longer produced for new equipment and its price is higher, and it works at different pressures than the newer refrigerant. The technician reads the nameplate first and pulls the correct refrigerant for the system. On a system that still holds R-22, that fact can also decide the replacement conversation."
+        },
+        {
+          "q": "My system runs constantly and the air is warm. Is that low refrigerant?",
+          "a": "It can be, but it can also be airflow or a dirty coil, and those look the same from the thermostat. In this humidity the system has to pull a lot of water out of the air, and that moisture has to condense on the indoor coil and drain away. Low airflow makes that coil freeze, and a frozen coil blows warm air while the outdoor unit runs hard. The gauges tell you which of those two it is."
+        },
+        {
+          "q": "How much does a refrigerant recharge cost?",
+          "a": "The price depends on the refrigerant type and how much gas the system holds, and on whether the leak that emptied it has been found and repaired. Recovering refrigerant and charging it back is the base cost. A system that is low because of a leak needs that repair first, or the next visit costs the same again. Ask whether the recharge includes a leak check."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: R-22 on the 1990s blocks, new-build workmanship warranty, humidity load, nameplate charge weight."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The evaporator coil is the indoor coil in the air handler, and it is where the cold air and the moisture removal happen. When it is dirty, iced or scaled, the house gets a lot of air and very little comfort, and the repair is usually about what is restricting the airflow over the fins. A freeze that keeps coming back points at airflow or charge rather than at the coil itself.",
+      "localNote": "Very high humidity is what makes the indoor coil work hardest in Pearland, because every pound of water pulled out of the air has to condense on those fins and drain away. If the airflow over the coil drops, that water freezes instead of draining, and the system then blows warm air. Where the air handler sits matters too. On the 1990s ranches it is often in an attic that runs 130 to 140 degrees, and a coil that ices there has no cool air around it to thaw out.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing?",
+          "a": "The coil gets colder than the air around it, and the moisture in that air condenses and freezes when the airflow over it is not enough to carry it away. A clogged filter is the usual starting point. A return path that is too small or a dirty coil face can do the same thing. In a humid climate like this one the freeze shows up every time the system runs hard, which is why it needs a cause rather than a defrost cycle."
+        },
+        {
+          "q": "What is the grey or green slime on the indoor coil?",
+          "a": "That is microbial growth on a wet coil. Dust, lint and moisture sitting on the fins give it something to feed on, and in a humid climate it grows faster than people expect. It smells musty and it holds debris against the fins, which makes the airflow worse. Cleaning the coil and clearing the drain are what stop it coming back within a season."
+        },
+        {
+          "q": "Why is there water sitting in the drain pan under my air handler?",
+          "a": "The pan catches the condensation the coil produces, and it should empty through a line that runs to a floor drain or outside. In this humidity the volume is large, and a line that is partly blocked, kinked or buried in insulation debris backs up until the pan holds standing water. That water is the source of the musty smell, and a float switch may shut the system down once it gets deep enough."
+        },
+        {
+          "q": "Does the attic heat make coil problems worse in Pearland?",
+          "a": "It does, in a couple of ways. An air handler in an attic at 130 to 140 degrees has no cool surrounding air, so a coil that freezes stays frozen until the system is switched off by hand. The motor and the electronics age faster there too. On the newer houses the air handler often sits in a closet, and the problem there is usually a filter that loads up fast in the humidity."
+        },
+        {
+          "q": "Do I need to replace the indoor coil or can it be cleaned?",
+          "a": "A coil that is dirty, iced or slimed can usually be cleaned, and that is the first thing worth trying. Replacement comes up when the coil is physically damaged, when the drain pan has failed and is warping, or when a leak in the coil has been letting refrigerant out for a long time. A technician looking at the coil can tell the difference between scale and slime and a damaged fin, and that answer decides it."
+        },
+        {
+          "q": "My AC blows cold for a while and then goes warm. What is happening?",
+          "a": "That pattern usually means the coil is icing up and then thawing out. When the airflow is marginal, the coil reaches freezing, blocks itself, and the system shuts down or blows warm until it thaws. It reads like a refrigerant problem and gets charged like one, which is why the airflow behind the filter is checked first. Cleaning the coil without fixing the airflow is the version that comes back the same week."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: humidity load on the coil, attic at 130 to 140F with no cool air to thaw a freeze, closet units on the newer builds."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower motor is what moves the air through the house, so when it fails the cooling equipment is still there and nothing comes out of the vents. Motor, run capacitor and relay are the three parts involved, and they tend to go together: a motor that has been struggling pulls extra current through the capacitor until the capacitor fails as well. The sound gives it away before the airflow does.",
+      "localNote": "In Pearland the air handler is often in an attic running at 130 to 140 degrees, and that heat shortens the life of a blower motor. The 1990s ranches also tend to have a smaller motor pushing air through longer runs of duct, while the 2010s homes have a larger system and a tighter return path, and both change how long the motor runs in a given cycle. The coastal oak and the dust it carries add to what the blower pulls through the filter.",
+      "faqs": [
+        {
+          "q": "Why does my blower motor make a grinding noise?",
+          "a": "That is the sound of a bearing going dry on the motor shaft. It usually starts as a rasp that gets louder with the fan speed and can end with the motor seizing, which stops the air entirely. Switch the system off rather than running it, because a seized motor drags the capacitor and the relay down with it. If the noise is a rattle that changes with the thermostat setting, it can be a loose wheel or a bent slat instead."
+        },
+        {
+          "q": "The thermostat says the AC is on but no air is coming out. What should I check?",
+          "a": "That points at the blower assembly, and the three parts to look at are the motor, the run capacitor and the relay. A failed capacitor often gives a hum without spin, and a failed relay can leave the system on the fan setting and nothing else. Before anyone opens the unit, confirm the system is calling for cooling rather than fan only, because a thermostat on the wrong mode produces the same symptom."
+        },
+        {
+          "q": "Why does my blower only run on high speed?",
+          "a": "That is usually the relay or the control board rather than the motor. The low speed comes from a separate relay that switches a set of windings, and when that relay or the board controlling it fails, the system keeps running the motor at full speed. It is a common failure on the 1990s ranches around Reedbrook and Silverlake, and the parts are not expensive. Ask whether the replacement covers the relay and the capacitor as well as the motor."
+        },
+        {
+          "q": "Why do the motor and the capacitor fail at the same time?",
+          "a": "Because the capacitor is what starts the motor and what keeps it running once it is going. A motor whose bearings are going takes more current to start, and that extra load stresses the capacitor until it fails too. The order can also be reversed, with a failed capacitor making the motor work harder. Either way, replacing one without the other tends to leave the second one short. Ask whether the quote includes the capacitor and the relay with the motor."
+        },
+        {
+          "q": "Does the attic heat shorten the life of a blower motor in Pearland?",
+          "a": "It does, and it is one of the reasons a motor on the 1990s ranches gives out before the same motor would inland. An air handler in an attic at 130 to 140 degrees has the motor running at its highest temperature for most of the cooling season, and it has less cooling air around it than a unit in a closet. Keeping clear space around the housing and the attic ventilated buys some of that back."
+        },
+        {
+          "q": "How much does blower motor replacement cost?",
+          "a": "The motor itself is not the whole number. What moves it is whether the capacitor and the relay are included, whether the unit is in the attic or a closet, and whether anything else in the housing needs attention once it is open. A motor swap on a system that has been serviced regularly is a straightforward job. Ask what is included before the work is booked."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic at 130 to 140F, 1990s ranch duct runs against the tighter 2010s returns, coastal oak dust on the filter."
+    },
+    "thermostat-installation": {
+      "intro": "A thermostat installation is mostly a wiring job, and the part that decides how long it takes is whether the wires already in the wall match what the new thermostat expects. Swapping in a smart thermostat gets more complicated when the existing system was set up for a basic schedule, because the smart unit has to be told about the equipment before it will control it properly. The thermostat also has to be able to talk to the system, and not every one can.",
+      "localNote": "Pearland has wire sets from three decades of housing in it. The 1990s ranches around Reedbrook and Silverlake may have an older thermostat wired differently from the newer units, and the 2010s homes were often handed a basic thermostat that the builder set to a fixed schedule and nobody has touched since. Humidity is the other local factor: a thermostat that reads humidity rather than temperature alone holds the house closer to the dew point, which is what makes it feel right when the outside air is this wet.",
+      "faqs": [
+        {
+          "q": "Can I install a smart thermostat myself?",
+          "a": "Often, if the wiring is straightforward and you are comfortable with a low voltage terminal and a screwdriver. Photograph the existing wires before you remove anything and note what each one is labelled, because the colours are often wrong and the labels are what matter. Where it stops being a weekend job is when the house needs a common wire run, when the existing thermostat is line voltage, or when the new unit has to be paired with equipment it cannot talk to."
+        },
+        {
+          "q": "Why won't my new thermostat work with my system?",
+          "a": "Usually it is a wiring mismatch or a compatibility problem rather than a broken thermostat. A basic thermostat wires straight to the system, while a smart one usually needs a common wire so it can be powered. If the system has a heat pump, the changeover between heating and cooling needs the right wires present too. A thermostat that shows an error, or a system that does nothing when the thermostat calls for it, is usually pointing at one of those two things."
+        },
+        {
+          "q": "My thermostat ignores the schedule. What is wrong?",
+          "a": "Check the mode and the settings first. Many units ship with a hold or an anti-swing setting left in place from the install, and that overrides the schedule without saying so. The other common cause is that the schedule is set but the system is running in emergency or override mode, or the unit lost its time after a power interruption. On a smart thermostat, a dropped connection to the app looks the same as an ignored schedule from inside the house."
+        },
+        {
+          "q": "Does the thermostat have to match the system?",
+          "a": "It has to be able to talk to the system, and that means matching the type of equipment and the stages it runs. A system with a heat pump needs a thermostat that understands the changeover, and a system with two stages of cooling needs a thermostat that will call for the second stage. Wiring is the other half of the question, since a thermostat that fits the equipment and does not fit the wires in the wall still will not install cleanly."
+        },
+        {
+          "q": "Is a smart thermostat worth it in Pearland's humidity?",
+          "a": "In a climate this wet, a thermostat that measures humidity rather than temperature alone is worth more than it is in a dry one, because the house gets uncomfortable long before the number on the dial says it should. It can hold the system closer to the dew point and stop the unit from short cycling. It does need a common wire, and on some of the older ranches that means running a cable back to the furnace, which changes the installation."
+        },
+        {
+          "q": "How much does it cost to install a thermostat?",
+          "a": "The price moves with what the wiring needs, not with the thermostat itself. A straight swap on a system that already has a common wire is quick. Running a new wire through the wall, working around a line voltage thermostat, or adding a thermostat that can control a second stage all take more time and more material. Ask whether the quote includes running the wire and whether the equipment is being checked for compatibility before the unit is mounted."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: wire sets across three decades of housing, builder-supplied thermostats on 2010s builds, humidity sensing and dew point."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump runs one set of equipment for both heating and cooling, so a fault in it takes out two seasons at once. The part that fails most often is the reversing valve, which switches the direction the refrigerant flows, and the symptom that identifies it is a system that works in one mode and not the other. The other complaints, ice on the outdoor unit in the warm months and backup heat running all the time, usually point at the refrigerant charge or the airflow rather than at the controls.",
+      "localNote": "Heat pumps are not the norm in Pearland, most of them sitting in the 2010s subdivisions where the house was built around one rather than having a furnace installed later. The local conditions hit them the same as they hit any outdoor unit: coastal oak litter packing the condenser fins, a mild salt load that dulls the metal over time, and very high humidity that keeps the compressor working. Ice on the outdoor unit in a July afternoon is not the system protecting itself here, it is a symptom.",
+      "faqs": [
+        {
+          "q": "Why does my heat pump have ice on the outdoor unit in the summer?",
+          "a": "In the warm months that ice points at the refrigerant charge and the airflow, not at cold weather. A low charge, a partly blocked condenser coil or a refrigerant restriction can all leave the outdoor coil below freezing while the system is running. Shut it down and let it thaw rather than running it into the ice. Coastal oak litter on the condenser fins makes the airflow side of this more likely here."
+        },
+        {
+          "q": "Why is the backup heat running all the time?",
+          "a": "On a Gulf coast climate the backup heat strips should almost never be needed, so constant backup heat means the heat pump is not keeping up on its own. That usually comes from a refrigerant problem, a reversing valve that is not shifting fully, or airflow that cannot move enough air over the indoor coil. It is also expensive to run, since resistance heat costs far more to run than the heat pump does."
+        },
+        {
+          "q": "Why won't my heat pump switch from heating to cooling?",
+          "a": "That is usually the reversing valve. It sits inside the system and shifts the direction the refrigerant flows, and when it sticks partway the system can run in one mode and struggle in the other. A control board or a failed switch can produce the same complaint, so the technician checks the mode change at the thermostat and the valve position before anything is ordered. The symptom that helps is whether one mode works and the other does not."
+        },
+        {
+          "q": "Is a heat pump a good fit for a Pearland home?",
+          "a": "It depends on the house, and the local climate cuts both ways. The heating season here is short, so the heat pump carries most of its load in the summer, where it does well. What it needs is a duct system that can move enough air and a house that holds a setpoint without constant conditioning, and in very humid air the comfort comes as much from moisture removal as from temperature. A house with a load calculation behind it and a newer duct layout suits one well."
+        },
+        {
+          "q": "What does the reversing valve do on a heat pump?",
+          "a": "It changes the direction the refrigerant moves through the system. In the heating mode it sends the hot gas to the indoor coil, and in the cooling mode it sends it to the outdoor coil, and the valve physically slides over to do it. Because it is a mechanical part that has to move every time the system changes mode, it is a common failure on a system of any age, and it is what gets replaced when a heat pump heats fine but will not cool."
+        },
+        {
+          "q": "How much does heat pump repair cost?",
+          "a": "It depends on the part and on the refrigerant type, which matters more here than on a straight cooling system. A reversing valve is a contained job with the refrigerant recovered and recharged. A compressor or a refrigerant circuit fault on a system running the older refrigerant becomes a much larger number, and the age of the outdoor unit and the cabinet decides whether the repair is worth making. Ask whether the refrigerant was recovered properly and what the nameplate says, since a unit installed in one of the 2010s subdivisions may still be covered."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heat pumps concentrated in the 2010s subdivisions, oak packing the condenser fins, mild salt, short heating season."
     }
   }
 }

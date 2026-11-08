@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Briar Forest, Houston",
   "title": "AC Repair Briar Forest, Houston | AC Repair Houston",
   "description": "Slab houses from the 60s and 70s on wide lots, where the ducts are buried in concrete and the condenser sits at the end of the driveway.",
@@ -36,6 +37,15 @@
     {
       "q": "My new neighbour built close to the lot line. Does that affect my unit?",
       "a": "It can. A unit that used to sit in open air on a wide lot now has a wall on one side and less sky above it, and the air it needs to pull in is blocked. Units need clearance on the coil side and around the fan discharge, and when a structure crowds that space the system runs hotter and harder for the same result. If the unit is still short of clearance, options include trimming vegetation, shifting the unit on the pad, or adding a coil fence so it can still pull in air without short circuiting."
+    },
+    {
+      "q": "Why does a repair cost more when the ducts are buried under my slab?",
+      "a": "Because finding the problem takes longer and the repair touches more of the house. The run is under concrete, so it cannot be traced from a register the way an attic run can, and the floor has to be opened before anyone knows how much duct has to be replaced. Add the cost of putting the floor back, cleaning up whatever the water reached and, if the run sits under a garage, working around the car. That work is the same whether the fault is a small joint or a whole section, so the price has less to do with the part than with the access."
+    },
+    {
+      "q": "My unit is way out at the end of the driveway under some pine trees. Is that a problem?",
+      "a": "Two problems, and they pull in opposite directions. The pine needles and oak litter in the older sections collect on the coil and pack against the fan discharge, which chokes the airflow the unit needs to reject heat. At the same time, a unit set that far from the house on one of these long lots has a lot of line set between it and the air handler, and every joint in that run is another place a charge can go missing. That combination, a dirty coil and a long refrigerant run, is why these systems can lose cooling slowly instead of stopping all at once."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Slab construction, the buried duct runs, the garage air handler and the long driveway carry the local weight."
 }

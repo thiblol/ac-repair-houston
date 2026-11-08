@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Spring Branch, Houston",
   "title": "AC Repair Spring Branch, Houston | AC Repair Houston",
   "description": "Ranch homes from the 50s through the 70s on wooded bayou lots, where the ducts and the condensate drain both live down in a crawlspace.",
@@ -34,8 +35,17 @@
       "a": "Regular cleaning works, but the tree cover is the cause and not much can be done about it. A condenser in a spot with clear sky around it sheds debris less often. Where the unit cannot be moved, a monthly rinse and brush through the season keeps the fins open. Cutting back the lowest branches overhead helps too, since most of the drop comes from the canopy right above the unit."
     },
     {
-      "q": "My upstairs is hot but the rest of the house is fine. What is going on?",
-      "a": "In a single-storey ranch that usually means the return side, not the supply. One return duct serving a closed area can pull the whole system down, and the room without a return runs hot while everything else holds. In homes here that added a second level or a sunroom later, the added space may also be running on a separate unit that was never sized with the original house. Either way it starts with finding where the air is coming from and going back to."
+      "q": "One room in my Spring Branch house is always warmer than the rest. What is going on?",
+      "a": "In a single-storey ranch that usually means the return side, not the supply. One return duct serving a closed area can pull the whole system down, and the room without a return runs hot while everything else holds. In homes here the spaces that were added on later, a sunroom behind the garage wall or a converted carport, are usually the ones the return never reached, and a room the air cannot get out of stays warm whatever the thermostat is set to. Either way it starts with finding where the air is coming from and going back to."
+    },
+    {
+      "q": "What moves the price of AC work under a Spring Branch house?",
+      "a": "Where the work happens. Repairs in a crawlspace take longer to reach and harder to work in than the same repair in a closet, and in a damp space the technician is working in wet ground with no room to lay anything out. A condensate line that has to be re-run from under the house to a new outlet is a different job from clearing the existing one. The company that covers this area should say whether the price covers the labor, the parts, or both."
+    },
+    {
+      "q": "Does the damp under my house shorten the life of the cooling equipment?",
+      "a": "It does, more than most people expect. The crawlspace under the ranch houses along Spring Branch Road and Antoine Drive is cooler than the yard and close to saturated, so an uninsulated duct or line sweats on the outside and the moisture sits on the metal. Galvanised duct joints and the trap in a condensate line corrode faster in that air than they would on a dry lot, and a line that has sweated often enough will drip inside the space rather than outside it. It means the drain and the duct runs under here want attention on a schedule, and the space needs to stay vented."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Two added: one on what moves the cost of work done in a crawlspace, one on the damp under a pier-and-beam house. Five reference a real Spring Branch condition."
 }

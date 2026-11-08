@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "The Woodlands is the most heavily treed place this service covers, and that has two sides to it. Shade cuts the heat on the house, but the same trees drop enough pine needles and leaf litter to seal the outdoor coil in a matter of weeks. Damp shade also keeps the unit wet instead of letting it dry between rains.",
   "localAngle": "Everything in this area grows, and that includes the debris on the condenser. Pines and oaks over the streets through Grogan's Mill, Village Creek and Crown Castle drop year-round. Needles and fine litter mat together and block the coil face, which is how the unit ends up running continuously with no cooling. The canopy also keeps the unit in permanent shade, and shade plus Gulf humidity means the metal stays damp. Salt is not an issue this far inland. What matters here is airflow, drainage and how quickly the coil can dry after a storm.",
   "commonCalls": [
@@ -59,28 +60,21 @@
         {
           "q": "Do I need to keep the system running overnight?",
           "a": "Only if it is cooling. Running the fan without cooling moves warm air around and does nothing for the house. If the outdoor unit is silent, switch the system off at the thermostat so the compressor is not cycling against a fault."
-        }
-      ],
-      "_faqsNote": "3 FAQs. Local: needle-packed condenser as a shutdown cause, night failures in a humid wooded area."
-    },
-    "same-day-ac-repair": {
-      "intro": "Same-day requests in The Woodlands are usually about a system that runs and runs. A condenser with a blanket of pine needles on it looks fine from the yard and works badly from the coil face. The technician who takes the job should pull the debris, wash the fins, and then check the charge and the compressor draw.",
-      "localNote": "Pine needles are the reason same-day work here is so common. They are small enough to fall through the fan guard and pack into the fins, and they hold moisture, so the coil stays wet and the fins corrode faster. A gentle rinse and a coil clean on the first visit often restores the performance the homeowner thought they had lost. Ask for the fins to be washed, not just cleared.",
-      "faqs": [
-        {
-          "q": "Can I clear pine needles off my condenser myself?",
-          "a": "Yes, and it helps more than most people expect. A garden hose on a gentle setting plus a soft brush will clear a matted coil, as long as the water stays out of the electrical compartment. Do not use a pressure wand, it bends the fins and makes the heat transfer worse. Keep the unit switched off while you are working on it."
         },
         {
-          "q": "Is it worth cleaning the coil or replacing the unit?",
-          "a": "Clean it first. If the system was doing fine before the needles built up, the coil was almost certainly the whole problem, and a clean will tell you in one visit. If the same unit has been running constantly for years and still will not hold setpoint after a clean, then the sizing and the age of the coil become the conversation."
+          "q": "What makes an emergency AC visit cost more or less in The Woodlands?",
+          "a": "Three things move it. The hour of the day, since a call late in the evening carries a different weight than one made mid-morning. Whether the failed part is already on the truck, because a contactor or a run capacitor can be fitted on the first pass while a split coil cannot. And how hard the outdoor unit is to reach, since a unit sitting in a wet corner with needles banked against its fins takes longer to open than one on a bare slab. Ask for the visit fee and the parts to be listed apart so it is clear which part you are paying for."
         },
         {
-          "q": "My unit is right under a pine. Should I have the tree trimmed?",
-          "a": "The tree is what makes the yard pleasant, so trimming it is a last resort. Keep the coil clear and rinse it regularly instead. If a specific branch hangs over the unit and drops straight onto it, that limb is worth removing, but the canopy as a whole is not the problem."
+          "q": "Will a technician really get my AC cooling again on that first emergency visit?",
+          "a": "Sometimes, and it depends on which fault you have. A swollen capacitor, a contactor that has pitted, a drain that has sealed shut and a coil packed with needles are all settled on the spot, and the needle case is common here because the canopy feeds the fins all year. A seized compressor, a coil that has leaked and a fault buried inside the ductwork are not, and on those the honest answer is that the diagnosis is what the visit delivers. Nobody can promise a repair finished in one trip when the part has to be ordered."
+        },
+        {
+          "q": "Why do so many Woodlands emergency calls happen after a heavy storm?",
+          "a": "The canopy is the reason. Pine needles and oak litter already banked against the coil face get soaked in a downpour, the base pan fills, and water with nowhere to dry off stays against the sheet metal and the electrical compartment. A unit that was already working hard through the heat then gets a soaked coil face, and the head pressure climbs until something gives out. If that turns out to be the fault, clearing the coil and draining the pan is the whole repair."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: pine needles packing the fins, doing the clean before ordering parts, tree trimming."
+      "_faqsNote": "6 FAQs. Local: needle-packed condenser as a shutdown cause, night failures in a humid wooded area, storm-soaked coils under the canopy, and the cost of reaching a unit sitting in a wet corner behind needles."
     },
     "ac-not-cooling": {
       "intro": "Running and blowing warm air is the call that gets booked fastest, and in this part of Montgomery County the coil condition explains a lot of them. The fix is rarely a bigger unit. It is airflow, a clean outdoor coil and a proper charge.",
@@ -93,9 +87,25 @@
         {
           "q": "Is the indoor coil freezing because of the outdoor one?",
           "a": "It can be. When the condenser cannot reject heat, the refrigerant pressure climbs and the indoor coil runs colder than it should. The freeze and the warm air are two symptoms of one fouled coil. Cleaning the outdoor coil and confirming the charge handles both, and the freeze stops coming back once the cause is gone."
+        },
+        {
+          "q": "How much does it cost to fix an AC that is running but blowing warm air?",
+          "a": "What moves it is whether the fault sits in the refrigerant or in the air, and what the equipment is. A system from the 1980s runs a refrigerant that has to be recovered rather than vented, so any gas work on it takes longer than the same work on a recent unit. A coil that needs cleaning and a charge checked is a short visit, while a leak in aged copper is a longer job with more of the system opened up. Ask for the diagnostic work and the parts to be shown separately, so the invoice tells you which half you are paying for."
+        },
+        {
+          "q": "The technician said I am low on refrigerant. Will adding gas fix the warm air?",
+          "a": "Not on its own, and that is worth pushing back on. With an outdoor coil packed with needles, the coil cannot move heat off the refrigerant, so the readings come up short and the house gets warm air. Gas added to that system leaves the cause in place, and the same complaint comes back within weeks. Ask for the airflow to be measured and the coil to be cleaned before a charge is sold."
+        },
+        {
+          "q": "Why is my AC warm on a muggy day but it copes when the air is dry?",
+          "a": "Because the coil has two jobs here and the damp one is the harder of them. Very high humidity means the system has to pull water out of the air as well as heat, and that takes a share of the indoor coil's capacity. A coil that is scaled or an air path that is short cannot manage it, so the shortfall shows up in the first stretch of muggy weather. In this part of Montgomery County the outdoor coil is often fouled at the same time, which makes the indoor side work even harder."
+        },
+        {
+          "q": "Is my unit simply too small for the house?",
+          "a": "Sometimes, but it is the last thing to check rather than the first. A condenser packed with needles behaves like an undersized unit, because it cannot reject the heat the system is trying to move, and the house gets warm air exactly as it would if the equipment were too small. The order that makes sense is coil, airflow, charge, and only then capacity. Capacity gets settled by a load calculation that accounts for the shade, not by a rule of thumb."
         }
       ],
-      "_faqsNote": "2 FAQs. Local: needle-matted condenser as the cause of warm air and indoor coil freeze."
+      "_faqsNote": "6 FAQs. Local: humidity load on the indoor coil, a needle-packed condenser under the canopy, and shade-adjusted capacity for the 1980s and 1990s housing."
     },
     "ac-repair": {
       "intro": "Systems here date from the 1980s and 1990s when the housing was built, so the repair list is predictable: capacitors, contactors, blower motors, and refrigerant leaks in aged copper. We connect you with a company that covers Montgomery County so the fault gets confirmed on your equipment. The condition of the outdoor unit gets checked carefully because it has been sitting in damp shade.",
@@ -112,9 +122,21 @@
         {
           "q": "Why do my vents whistle?",
           "a": "That is usually a duct sizing or static pressure problem, and it is more visible here because the houses were built in the 1980s and 1990s with duct runs that were marginal from the start. The fan pushes harder, the ducts flex, and the whistle gets louder. It is worth having looked at, because the same pressure problem shortens the life of the compressor."
+        },
+        {
+          "q": "Can I get my AC fixed today in The Woodlands?",
+          "a": "Sometimes, and two things decide it. The first is whether the part is already on the truck, and the second is whether the outdoor unit can be reached without clearing a route first. A starting capacitor or a contactor is a short job on a unit standing on a pad in the open. A compressor or a sealed system is a different answer entirely. On the yards around Crown Castle and Panther Creek, where the canopy closes over the lot and the unit sits back behind the shrubs, the access on its own can add time. Say what is in the way when the request goes in, and the company covering Montgomery County will be straight about whether today is realistic."
+        },
+        {
+          "q": "What decides what an AC repair costs?",
+          "a": "The part, the refrigerant and the access, in that order. A starting capacitor is a small part and a short visit. A refrigerant leak on equipment from the 1980s means recovering gas that is no longer made for new systems, which is slower work than the same job on a modern unit. And an outdoor unit sitting in a damp corner behind shrubs takes longer to open than one on an open slab. Ask for the diagnosis and the part to be billed separately, so the invoice tells you what the fault turned out to be."
+        },
+        {
+          "q": "Will the repair hold, or will the same fault come back in a few weeks?",
+          "a": "It depends on whether the failed part was the cause or the symptom, and that is what the diagnosis should answer. A contactor that has pitted because the cabinet has stayed damp for twenty years will fail again if the cabinet is left wet, and a coil packed with needles will keep the system running hot until the fins are cleared. Some faults do come back, and nobody can promise a repair that has not been tested through a hot week. What you can ask for is the finding written down, so a second visit starts with information rather than a guess."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: damp shade corrosion on 1980s equipment, old refrigerant, whistling ducts."
+      "_faqsNote": "6 FAQs. Local: same-day access in dense yards under the canopy, damp-shade cabinets on 1980s equipment, and the canopy as a cause of repeat faults."
     },
     "ac-installation": {
       "intro": "Installation work in The Woodlands is mostly replacement in 1980s and 1990s homes, plus additions and finished attics where there is no good place for a unit. The homes are shaded and large, so a load calculation matters more than a tonnage rule of thumb. We connect you with an installer who covers the area.",
@@ -131,9 +153,21 @@
         {
           "q": "Do new systems in older houses need new ducts?",
           "a": "Not always, but the ductwork in an 1980s house was sized for the equipment of the day and the airflow it was designed around. A modern system moves more air than the old one did, so the ducts and the returns get checked. If the static pressure is already high, the ducts usually need attention at the same time as the equipment change."
+        },
+        {
+          "q": "What does a new AC installation cost in The Woodlands?",
+          "a": "Four things move it. The ductwork, because a house from the 1980s often needs its supply and return runs resized before new equipment makes sense. The electrical service, since some of these homes have never had anything beyond the original panel. The load calculation, which in a shaded neighborhood has to account for shade and for the moisture the air carries. And the access to the outdoor unit, since a pad reached through dense landscaping is a different job from one beside the driveway. Ask for each of those to be priced on its own."
+        },
+        {
+          "q": "Is a bigger unit the answer if my house will not cool properly?",
+          "a": "Usually it is the wrong answer, and it is worth understanding why before a tonnage gets picked. A system that is too large cycles on and off, which wrecks the humidity removal, so the house ends up cool and clammy at the same time. In this part of Montgomery County, where shade lowers the heat the unit works against, the airflow through the ducts is usually the weaker link, and more capacity does not fix a duct that cannot deliver it. The calculation decides, and it should be done in the house rather than from a rule of thumb."
+        },
+        {
+          "q": "Does the humidity here change the size of the system I need?",
+          "a": "It does, and it is the part most load calculations leave out. Very high humidity means the system has to remove water from the air as well as heat, and that second job uses a good share of the coil's capacity. On top of that, a house shaded by a dense canopy sits in less sun than the same floor plan would on an open lot, so the sensible and the temperate numbers pull in opposite directions. A calculation that ignores the moisture leaves a house that cools but never feels dry."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: canopy shade in the load calculation, condenser siting in wooded lots, 1980s duct sizing."
+      "_faqsNote": "6 FAQs. Local: shade and moisture in the load calculation, ductwork and electrical service on 1980s housing, and outdoor unit access on wooded lots."
     },
     "ac-replacement": {
       "intro": "When a Woodlands system reaches the end, the deciding factor is usually the refrigerant and the condition of the coil, along with how corroded the cabinet has become from years of damp shade. The houses were built in the 1980s and 1990s, so a lot of these systems are on their second or third repair. We connect you with a company that covers the area.",
@@ -150,9 +184,300 @@
         {
           "q": "Does a shaded location really shorten condenser life?",
           "a": "It shortens it in a different way than heat would. Shade lowers the running temperature, which is good, but it also holds the moisture in, and moisture plus salt-free damp is what rusts the base pan and eats the connections. The unit needs to be able to dry out. Rinsing the coil and clearing the debris under it helps more than moving it into the sun would."
+        },
+        {
+          "q": "Is it worth replacing the whole system when only the outdoor unit has failed?",
+          "a": "That is a numbers question, but it is worth working through before any price is quoted. The comparison is the cost of the outdoor unit against everything that comes with it: the refrigerant change, the lineset, the new coil and any electrical work, set against the repairs the same system has needed recently. On equipment from the 1980s the refrigerant alone changes the arithmetic, because it has to be recovered and the equipment has to move to a different one. Ask for the whole scope in writing so the comparison is honest."
+        },
+        {
+          "q": "My system still cools. Is there a point where replacing it stops making sense?",
+          "a": "No point can be drawn in advance, and nobody can promise a replacement will outlast what you already have. An old system that still cools and does not leak may be worth keeping for a while, especially when the repair is a small part. The decision usually changes when a major component fails and the refrigerant cannot be recovered for service work, or when two summers of repairs have added up to more than the new scope. A written condition report is what makes it a decision instead of a reaction."
+        },
+        {
+          "q": "My outdoor unit sits under a heavy oak and the base has rusted through. Can the new one go in the same spot?",
+          "a": "It can, but the ground around it has to be dealt with first. A base pan rusted through means the cabinet has been standing in water, and a new unit set on the same wet pad starts the same way. The pad needs to be level, lifted clear of standing water and cleared of the litter that keeps it wet. Where the only spot with airflow is under the canopy, expect the new coil to foul faster than one in open sun, so cleaning the fins becomes a habit rather than a chore."
         }
       ],
-      "_faqsNote": "3 FAQs. Local: R-22 recovery in 1980s housing, damp-shade corrosion, replacing as a set."
+      "_faqsNote": "6 FAQs. Local: rusted base pans under the canopy, refrigerant recovery on 1980s systems, and a fouled coil on a damp shaded pad."
+    },
+    "ac-maintenance": {
+      "intro": "A tune-up is a check on a system that is working right now, looking for the fault that would otherwise turn into a callout in the middle of a hot week. We pass the request to the company that covers Montgomery County and the technician works on the equipment that is actually installed on your house. Coil and filter condition, electrical connections, drain flow and the refrigerant charge all get looked at while the unit is still running fine.",
+      "localNote": "The canopy decides the maintenance calendar here. Pine and oak litter mat on the condenser face quickly enough that a coil rinsed in February is fouled again by May, so the useful visit happens before the first real heat rather than after it. The attic side needs the same attention, because the air handler works in air running 130 to 140 degrees.",
+      "faqs": [
+        {
+          "q": "How often should I service the AC in The Woodlands?",
+          "a": "Twice a year is the usual answer, but the timing matters more here than the count. The spring visit is the one that counts, and it should land before the first stretch of real heat. Around Grogan's Mill and Village Creek the pine and oak drop all year, so a coil that was clean in February can be matted by May. A second visit in late summer catches what the first one could not predict."
+        },
+        {
+          "q": "Does the attic unit need service as much as the outdoor unit?",
+          "a": "More, in this climate. The air handler in these houses often sits in an attic that reaches 130 to 140 degrees, and the motor and capacitor up there run hotter than anything in the cabinet. A visit should check that the unit has clearance around it and that stored boxes are not blocking the airflow."
+        },
+        {
+          "q": "What does an AC maintenance visit actually include?",
+          "a": "Coil condition on the outdoor unit, filter and airflow at the indoor unit, condensate drain flow, the electrical connections and the capacitor, the charge measured rather than assumed, and a look at the duct connections. The technician should also note anything on the unit that will need attention before the next season."
+        },
+        {
+          "q": "Is maintenance worth it if my system is only a few years old?",
+          "a": "It costs less than the repair it prevents, and that is the whole argument. The faults a check-up finds are usually a swollen capacitor, a slow drain and a fouled coil, which are small jobs on a Saturday and emergencies on a Saturday in August. On a newer system in a wooded yard it is still worth it, because the coil fouls faster here than it would in an open lot."
+        },
+        {
+          "q": "My AC ran fine all winter, do I still need a spring service?",
+          "a": "Yes, because winter hides the faults that matter. The system has been idle since February and the capacitor will not announce that it is going. The coil has been collecting needles all spring. And a drain line in a humid attic can seal itself over with algae across the winter and overflow the first time the system runs hard."
+        },
+        {
+          "q": "Should I pay for a maintenance plan or just call when something breaks?",
+          "a": "What moves that decision is how often the system runs and how exposed the outdoor unit is. In a yard under this canopy it runs long and it runs hot, so a plan has more to catch than on a system that barely cycles. The fair question to ask the company covering Montgomery County is what each visit includes, and what a callout costs when the plan is skipped."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: year-round canopy litter on the coil, attic air at 130 to 140F, humidity and the drain line."
+    },
+    "condenser-repair": {
+      "intro": "The condenser is the outdoor unit, the part that works hardest in the heat and takes the most weather. Fan motor, capacitor, contactor, coil condition and the cabinet shell are the jobs that live out here. We route the request to a company covering this area so the outdoor unit gets opened up on site rather than guessed at from the patio. A unit that hums but never starts is nearly always one of those parts.",
+      "localNote": "Outdoor units in this area spend their lives under trees. Pine needles and oak leaves pack the coil face, the canopy keeps the cabinet damp, and neither one dries out between storms, so corrosion starts in the base pan and around the electrical compartment. This is a long way inland, so none of it comes from salt. It is moisture and litter doing the work that bay spray does on the coast.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but will not start, what is wrong?",
+          "a": "Usually the contactor or the run capacitor. The contactor is the switch that hands power to the compressor, and the capacitor is what gives the compressor its push to start. A humming unit with a still fan is a capacitor most of the time. It is a quick check with a meter and an inexpensive part, which is why it is worth ruling out before anything bigger gets discussed."
+        },
+        {
+          "q": "What noise from the outdoor unit should I not ignore?",
+          "a": "A grinding or scraping sound from the fan is a bearing going. A rattle that comes and goes with the wind is usually a loose panel or a twig caught against the fan blade. A buzz that stops the moment the compressor kicks in is often the contactor itself. If the sound has changed, it is worth a call before the unit stops running altogether."
+        },
+        {
+          "q": "Can I hose the outdoor coil myself?",
+          "a": "A gentle hose and a soft brush will clear a surprising amount, and in this neighborhood it is worth doing before you call, because needles mat into the fins. Do not use a pressure washer. A hard jet bends the fins flat, and a flattened coil face rejects less heat, so the unit runs longer and hotter afterwards than it did before."
+        },
+        {
+          "q": "Is rust on the outdoor unit cabinet a serious problem?",
+          "a": "It depends where it is. Surface rust on the base pan in a damp shaded yard is common and stays mostly cosmetic until it goes through. Rust around the electrical compartment, or where the service lines enter the cabinet, is worth acting on, because those are the points where corrosion turns into a connection fault and the unit stops starting."
+        },
+        {
+          "q": "How much does a condenser repair cost?",
+          "a": "The cost follows the part and the access, not the name of the service. A capacitor is a small part and a short visit. A fan motor or a compressor is a different job with more time in it, and a unit boxed in behind shrubs or under a low limb takes longer to reach. Ask for the diagnosis and the parts cost separately so it is clear which one you are paying for."
+        },
+        {
+          "q": "Why do condensers seem to fail faster in The Woodlands?",
+          "a": "Three local reasons stack up. The canopy litters the coil, which makes the unit run long and hot, and the yards behind Crown Castle and Panther Creek are dense enough for that to happen within weeks. The shade holds moisture on the cabinet, which corrodes the base pan and the connections. And the housing here dates from the 1980s through the early 2000s, so the outdoor unit on the oldest of these lots is already more than twenty years old. That is a fact about the neighborhood, not about your maintenance habits."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: needle-packed coil, damp shade corrosion on the base pan, 1980s to 2000s housing age."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump at the middle of the system, and when it locks up the whole house loses cooling. We put you in touch with the company that covers this area and let them run the tests on the unit itself. Hard starting, short-cycling and a hum that never becomes a running compressor are the calls this job comes for. The last question on any of them is whether the pump is worth fixing or the system has to go.",
+      "localNote": "The compressor works harder in this area than the name suggests. A coil packed with pine needles pushes the head pressure up, and the compressor is the part that has to hold against it. Attic temperatures of 130 to 140 degrees and an unstable summer grid add to the strain, and a unit that has been through several power interruptions deserves a diagnosis before a replacement gets priced.",
+      "faqs": [
+        {
+          "q": "How do I know the compressor failed and it is not the capacitor?",
+          "a": "A failed capacitor stops the compressor from ever getting the push to start, and the symptom is a hum with no running sound behind it. A compressor that has locked up will trip its breaker within seconds of trying, or start and stop on its own overload. The capacitor is checked first because it is the cheap part that rules out the most."
+        },
+        {
+          "q": "Can a power outage damage my compressor?",
+          "a": "It can, and the summer grid here is unstable enough for it to happen. If the supply drops while the compressor is mid-cycle, the restart surge can take out the contactor, the capacitor or the windings. A unit that behaved oddly after an interruption should be looked at rather than reset and forgotten, because the failure often shows up days later."
+        },
+        {
+          "q": "Is a seized compressor worth repairing or should I replace the system?",
+          "a": "A seized compressor is generally a replacement part, and the money question is what else would need replacing at the same time. If the system runs on R-22, if the line set is old copper, and if the coil has been sitting in a humid attic since the house went up, then a new compressor is a part in a system that is near the end of its life. The nameplate and the age of the indoor equipment settle it."
+        },
+        {
+          "q": "Why does my compressor keep short-cycling?",
+          "a": "Short-cycling means it starts, runs briefly and stops before the house reaches temperature. The usual causes are a system that is oversized for the space, a charge that is low, or a condenser that cannot reject heat. That last one is the local one. A coil matted with needles raises the head pressure until the compressor protects itself and shuts down."
+        },
+        {
+          "q": "What kills a compressor before it should?",
+          "a": "Usually three things, and they stack. A blocked coil makes it run hot. A charge that is low leaves it running without enough oil circulating. And voltage that sags or spikes works on the windings. The fouled condenser is the easiest of the three to prevent in a yard where the tree cover is this heavy."
+        },
+        {
+          "q": "How much does compressor replacement cost?",
+          "a": "The compressor is the expensive part of the repair, so the total moves with the refrigerant type, the access to the unit and whether anything else is replaced alongside it. A system on R-22 takes longer to work on because the refrigerant has to be recovered rather than vented. Ask whether the quote includes the filter drier, the relay and the contactor, since those normally go with it."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: needle-fouled condenser raising head pressure, attic heat, unstable summer grid, R-22 systems from the 1980s and 1990s."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A leak is a hole in the system, and refrigerant goes out through it. We connect you with a company covering Montgomery County so the leak gets located, not just topped up. Finding the hole, repairing it and putting the charge back are three separate jobs. Doing only the last one means the same visit comes back a few months later, and the second visit costs more than the first one did.",
+      "localNote": "Where the leaks are in this area is fairly predictable. Copper line set installed in the 1980s through the early 2000s ages and sweats at the joints, and the run that passes through an attic at 130 to 140 degrees works its fittings hard all summer. The other common source is the outdoor unit itself, where a cabinet that never dries out takes the seal around the lines with it.",
+      "faqs": [
+        {
+          "q": "How do I know my AC is leaking refrigerant?",
+          "a": "Three signs travel together. The unit runs constantly and the house never gets cool, the same system needs refrigerant every few months, and there is an oily mark or a dark stain near a line or a fitting. Any one of those alone proves nothing, but refrigerant and compressor oil leave a visible trace together, and that trace points at where to look first."
+        },
+        {
+          "q": "Why is there an oily stain on the pipe outside the unit?",
+          "a": "That is refrigerant and compressor oil escaping together, and it collects wherever the refrigerant pools. On a horizontal run it sits at the low point, and on a riser it shows at the fitting itself. The stain is the most useful thing you can photograph before the technician arrives, because it can narrow the search before anything gets opened up."
+        },
+        {
+          "q": "Is it okay to just add refrigerant instead of fixing the leak?",
+          "a": "No. The gas has to go somewhere, so a system that is losing it is losing it through a hole. A top-up buys a few weeks of cooling and then the same call comes back with more of the system opened up. Ask for the leak to be located and repaired, and ask for the recovery and the recharge to be recorded separately so you can see what was actually done."
+        },
+        {
+          "q": "What refrigerant does my system use and does it matter?",
+          "a": "The nameplate on the outdoor unit lists it. The houses built in the 1980s and 1990s in this area mostly run R-22, which is no longer produced for new equipment and has to be recovered rather than vented. Systems from the 2000s onward run a different type. The refrigerant changes the handling and the cost of the job, so reading the nameplate before the visit keeps the scope from moving."
+        },
+        {
+          "q": "Where do leaks show up in an attic line set?",
+          "a": "At the fittings and at any section of line that is running without insulation, and the heat is the reason. An attic here sits at 130 to 140 degrees for months, and a bare spot of copper touching a truss develops a pinhole over enough cycles. A technician working up there is also working around metal hot enough to burn bare skin."
+        },
+        {
+          "q": "How much does a refrigerant leak repair cost?",
+          "a": "The cost follows the refrigerant type, the access and the time it takes to find the leak. A small leak that leaves an oil mark can be found and fixed quickly, while a pinhole in an uninsulated attic section is harder to reach and harder to confirm. Older R-22 systems take longer because of the recovery step. Ask whether the quote covers finding it, fixing it and recharging, because those get priced as separate work."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: aged copper line set from the 1980s to 2000s, attic line runs at 130 to 140F, R-22 on the oldest homes, damp outdoor cabinets."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge is a measured job, not a canister and a guess. The technician weighs in what the system is specified to hold, then reads the two temperatures that confirm the result landed where it should. We pass the request on to the company covering this area so the readings come off your system. That measurement is also what tells you whether the system is running as intended or hiding a larger fault.",
+      "localNote": "Measuring the charge in this climate takes more care than in a dry one, because the humidity changes what the readings mean. A system short on refrigerant shows up here as a house that will not dry out the way it used to, and that gets blamed on the season rather than on the charge. Air at 130 to 140 degrees in the attic changes the readings again, so airflow gets checked before the numbers are trusted.",
+      "faqs": [
+        {
+          "q": "What is a proper AC recharge?",
+          "a": "It means measuring what the system actually holds. The technician recovers what is in there, weighs what goes in, and reads the superheat and subcooling to confirm the result sits in range. A gauge reading on its own tells you very little, because pressure only describes one side of the picture."
+        },
+        {
+          "q": "My brand new unit is not cooling as well as expected, what now?",
+          "a": "That is worth measuring before anything gets adjusted. A unit charged by guess on install day is common enough, and a unit that is oversized for the space or starved for airflow will also read as a charge problem. A proper reading separates those causes in one visit, and it tells you whether the installer or the equipment is at fault. It matters more in the newer housing around Sawmill Creek, where the equipment is recent but the canopy shading can still leave the outdoor coil in damp shade all afternoon."
+        },
+        {
+          "q": "How much refrigerant does my system need?",
+          "a": "The factory charge is listed on the outdoor unit nameplate, along with the refrigerant type. The technician weighs the amount that goes in and accounts for what is already in the lines. That is why the nameplate matters, and why a recharge is priced on the quantity and the type of refrigerant rather than as a flat visit."
+        },
+        {
+          "q": "Does the humidity in The Woodlands change how a recharge is measured?",
+          "a": "It does. In very humid air the indoor coil is doing more work than it would in dry air and the readings shift with it, which is why the airflow and the filter get checked before a charge is called low. It is also why a system with a correct charge can still leave a house feeling muggy when the coil is dirty and cannot move enough air to pull the moisture out."
+        },
+        {
+          "q": "Is topping off my AC enough?",
+          "a": "Only when the system is losing nothing, and that is worth confirming. If the unit needs gas again within a year, there is a leak somewhere and the top-off is treating the symptom. Ask whether the charge is being measured or simply topped off, and have the reading written down so you can compare it the next time."
+        },
+        {
+          "q": "What moves the cost of a recharge?",
+          "a": "The refrigerant type, the quantity and how much work it takes to get to the unit. A modern system with a factory charge of a few pounds is a short visit. An older unit on R-22 has to be recovered and handled, and reaching a unit boxed in under shrubs takes longer. Access and refrigerant type are the two variables worth asking about before the work starts."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: humidity shifting the superheat and subcooling readings, attic air at 130 to 140F, R-22 recovery on the oldest homes."
+    },
+    "evaporator-coil-repair": {
+      "intro": "The evaporator coil is the finned coil inside the air handler, and it is the part that actually makes the cold air. Cleaning it, dealing with the slime that grows on the fins, and replacing a coil that leaks are the work. We route the request to the company that covers Montgomery County so the coil and the air moving across it are looked at together. A coil that keeps freezing is a symptom of something else, and cleaning it on its own is not the fix.",
+      "localNote": "The indoor coil works hard here. An attic handler in these houses sits in air at 130 to 140 degrees, so the coil is already running colder than it wants to and ices at a lower load. Add very high humidity and a coil that stays wet for months of the year, and that is what grows the coating on the fins and fills the drain pan with water.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing over?",
+          "a": "Almost always airflow. A clogged filter, a collapsed return duct or a kinked run cuts the air moving over the coil, and the coil drops below the dew point and ices. Once it freezes, airflow drops further and it stays frozen. Where the handler is in an attic at 130 to 140 degrees there is little warm air around it to melt the ice, so the system can stay locked up."
+        },
+        {
+          "q": "What is the grey or green slime on the indoor coil?",
+          "a": "Dust and lint held together by condensation, and the humidity here is what makes it happen quickly. The coil runs wet for most of the summer, so the coating builds across the fins. It insulates the coil, which means the system has to run longer to deliver the same temperature at the thermostat and the power bill goes with it."
+        },
+        {
+          "q": "Why is there water sitting in the pan under the coil?",
+          "a": "The pan collects what the coil pulls out of the air and it leaves through a drain line. Water standing there means the drain is slow, blocked or disconnected, and on some units a float switch shuts the system down when that happens. On an attic install the water does not stay where you can see it, so it can show up as a stain on the ceiling below instead."
+        },
+        {
+          "q": "Is the musty smell coming from the coil?",
+          "a": "Often, but check the filter and the drain as well. A coated wet coil holds odor and so does a pan that has had standing water in it. Cleaning without fixing the airflow and the drain leaves the smell back within a few weeks, usually worse in the humidity of a July week."
+        },
+        {
+          "q": "Should the coil be cleaned or replaced?",
+          "a": "Clean it first if the metal is still sound. A dirty coil just needs the coating removed and the airflow restored. A coil with pinholes, a leak that has been repaired before, or corrosion across a section of the fins is a replacement. Ask for the condition of the coil to be described on the invoice so you know which one you actually got."
+        },
+        {
+          "q": "How much does it cost to clean an evaporator coil versus replacing it?",
+          "a": "Cleaning is a much smaller job than replacing a coil, and the coil is rarely where the money goes. A replacement usually means new refrigerant, a new coil and the labor to reach a unit in an attic. That is why the airflow question comes first, because cleaning the coil and fixing the cause can save the whole job."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic handler at 130 to 140F, very high humidity growing the coating, ceiling stains from an attic pan overflow."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower motor is what moves the air, and in most of these houses it sits in the same cabinet as the evaporator coil. Grinding noise, no air at all, or one speed that works and one that does not are the calls this job covers. We put the request in front of a company covering this area, and the technician who takes the job checks the motor, the capacitor and the relay before ordering anything. Those three are the parts that usually go together.",
+      "localNote": "Where the air handler lives decides how long the motor lasts. In this area it is commonly in an attic running at 130 to 140 degrees, sometimes with stored boxes stacked near the housing, and a motor already working hot has less room for a bearing to fail. When a motor goes in that heat, the capacitor beside it has usually been running hot for years as well.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on but nothing blows, what is wrong?",
+          "a": "Four things get checked in order: the filter, the breaker, the capacitor, and the motor itself. A seized blower is the last of them and the only one that needs a part, so the earlier checks are worth making before a replacement gets booked."
+        },
+        {
+          "q": "What does a grinding or rasping noise from the air handler mean?",
+          "a": "The motor bearings. It usually changes with speed and can be heard from a closet or through a return upstairs. It worsens over weeks rather than days, which is why it is worth dealing with early rather than getting used to. A motor that is grinding is also drawing more current and pulling the capacitor down with it."
+        },
+        {
+          "q": "Why do the motor and the capacitor fail at the same time?",
+          "a": "The capacitor is what lets the motor start, and a motor working hard, in a hot attic or behind a clogged filter, draws more current and wears the capacitor too. They are replaced together for that reason. If a quote lists a motor without a capacitor, ask about it before agreeing to the work."
+        },
+        {
+          "q": "My fan works on low speed but not on high, what does that mean?",
+          "a": "That points at the relay or the speed resistors rather than the motor, though a motor can also fail on one winding. It is a quick check once the panel is open, and it is worth doing before the summer load doubles the run time on that unit. The motor itself usually keeps working on one speed long after the fault appears."
+        },
+        {
+          "q": "Can I replace the blower motor myself?",
+          "a": "The motor is usually not the expensive part, access is. An attic install means climbing into air at 130 to 140 degrees and working around live circuits, and the housing in this neighborhood goes back to the 1980s through the early 2000s, so the wiring behind the unit is not always in good shape. Having the fault confirmed first is the better use of the money, because a motor is not the only thing that stops the air."
+        },
+        {
+          "q": "How long does a blower motor last in this climate?",
+          "a": "Shorter than in a mild one, and the attic is the reason. Working in air at 130 to 140 degrees with the return already warm, the motor runs near the top of its range for much of the day. Freeing the space around the unit and getting some cooler air around the housing is the cheapest thing that can be done to extend it."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: attic air at 130 to 140F, stored items blocking the unit, 1980s to 2000s housing and its wiring."
+    },
+    "thermostat-installation": {
+      "intro": "A thermostat change takes ten minutes on a system the new control was built for, and takes an afternoon on one where somebody else got there first. We pass the request to the company that covers Montgomery County so the swap happens on your equipment. This work covers putting a modern control in place of an old dial, adding a programmable or connected thermostat to a house that never had one, and sorting out which system the new unit can actually talk to.",
+      "localNote": "Most of the controls in this neighborhood arrived with the house and were never chosen by anyone. Homes from the 1980s and 1990s got a mechanical dial, the 2000s houses got a first-generation programmable unit, and a good share of both have since been altered by an owner who did not label anything. The wire count behind the plate is the thing to check, and it usually does not match the diagram in the box.",
+      "faqs": [
+        {
+          "q": "How do I know if my wiring will work with a new thermostat?",
+          "a": "Take a picture of the wires while they are still attached to the old control, and label which one lands on which terminal. Almost every mismatch here comes from an earlier install rather than from the equipment itself, and the company covering Montgomery County can only tell what they are dealing with once they can see it. That picture is the difference between a quick visit and a longer one."
+        },
+        {
+          "q": "Can a smart thermostat work with my existing air conditioner?",
+          "a": "In most cases it can, but the equipment and the wires both have to line up. A connected control needs a matching board at the air handler and enough conductors at the plate, and some of them will not run a staged system properly. The payoff in this climate is real, because a control that reads humidity can hold the house tighter than one that only watches the number on the dial, and the houses along Market Street and Research Forest are big enough that a single reading on the main floor tells you very little about the bedrooms."
+        },
+        {
+          "q": "My thermostat ignores the schedule I set, what should I check?",
+          "a": "Look at the mode first, because a control sitting on heat through a July afternoon will ignore everything else you tell it. After that, confirm the schedule is actually saved and switched on, and fit fresh batteries, since a good many of these units wipe their schedule the moment they lose power. If it still will not follow the schedule, the board behind the plate is the likely culprit."
+        },
+        {
+          "q": "Where should the thermostat go in a two storey house?",
+          "a": "Put it where the family actually sits, which in this housing is usually the main floor living area near the front of the house. The bedrooms upstairs then run on whatever the system delivers, and in a home under this canopy the gap between floors can be wide, because the shaded lower level stays comfortable while the afternoon sun reaches the upper one. A second control up there, or a system that can balance the two floors, is what actually closes that gap."
+        },
+        {
+          "q": "Is installing a thermostat expensive?",
+          "a": "The unit itself is the cheap part of the job, and the labour is what the wiring behind the plate decides. A swap onto a system that was built for it takes minutes. A retrofit onto wires left by a different installer takes longer, and where no common wire exists one has to be fished back to the air handler, which is where the extra time goes."
+        },
+        {
+          "q": "Why does my new thermostat ask for a C wire when the old one did not?",
+          "a": "A mechanical dial borrowed whatever power it needed from the system, running its contacts off the furnace circuit. Anything digital draws from a constant supply instead, and that is what the C wire carries. Where there is no common wire on the board, one gets run, and pulling it back to the air handler through finished space is what turns a small job into a longer one."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: builder-fitted thermostats in 1980s to 2000s housing, owner-altered wire sets, two storey sensor placement."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump does both jobs with one outdoor unit, and the part that switches between them is the reversing valve. We connect you with a company covering this area and the technician runs the mode test on the unit before quoting the job. That is why a fault can leave a house with heat in July or cooling in January. Both the mode switch and the refrigerant side need checking before a part gets ordered.",
+      "localNote": "Heat pumps mostly went into the later housing here, the 2000s homes rather than the 1980s ones, so the equipment is often younger than the house around it. It still works harder in this climate than in a dry one, because the cooling side has to pull moisture out of very humid air. Ice on the outdoor unit in a warm month usually means the coil face is starved of airflow, and needles from the canopy do that quickly.",
+      "faqs": [
+        {
+          "q": "Why is there ice on my heat pump in the summer?",
+          "a": "In the warm months ice on the outdoor unit is not normal, and it points at airflow or charge. A heat pump melts frost off its coil in cold weather and early mornings, and in summer a coil with no airflow, or a charge that is off, is what builds ice instead. Shutting the system down and letting it thaw stops the symptom but not the cause."
+        },
+        {
+          "q": "My heat pump's backup heat runs all the time, why?",
+          "a": "The backup heat strips come on when the heat pump cannot produce enough heat on its own. The usual reasons are a system that is small for the space, a charge that is low, a condenser that cannot reject heat, or long defrost cycles from a drain that will not clear. In this area the needle-packed coil is a common reason it never catches up."
+        },
+        {
+          "q": "My heat pump will not switch from heating to cooling",
+          "a": "The thermostat calls for a mode and the reversing valve has to move the refrigerant flow to match it. A failed valve leaves the system in one mode no matter what the thermostat asks for. If heating and cooling both fail at the same time, that points to the control or the electrical side instead, and saying which modes still work saves time on the visit."
+        },
+        {
+          "q": "Heating works but cooling does not, does that narrow it down?",
+          "a": "It narrows it a lot. If only the cooling side fails, the reversing valve and the refrigerant side are where the fault sits. If both fail together, it is usually a control or electrical fault. Note whether the outdoor unit runs in each mode and whether the fan moves, so the diagnosis starts from facts instead of guesswork."
+        },
+        {
+          "q": "Is a heat pump a good fit for a house here?",
+          "a": "The cooling side does most of the work and the heating side covers a few weeks of winter, so the equipment and the ducts matter more than the heating capability. In the later 2000s homes here the ductwork was laid out for a heat pump in the first place, which makes it a fairer fit than it would be in a 1980s house with marginal ducts and a heavier cooling load."
+        },
+        {
+          "q": "What drives the cost of a heat pump repair?",
+          "a": "The fault, and what has to be opened to reach it. A reversing valve or a control board is a defined job on an accessible unit. The same fault on a unit boxed in by shrubs, or behind a finished wall in an attic, takes longer. Ask whether the diagnosis is quoted separately from the repair, and whether the charge is being verified in both heating and cooling mode."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Local: heat pumps in the later 2000s housing, needles starving the coil face, humid cooling load, backyard access."
     }
   }
 }

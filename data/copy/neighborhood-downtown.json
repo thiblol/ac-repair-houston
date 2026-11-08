@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "h1": "AC Repair in Downtown, Houston",
   "title": "AC Repair Downtown, Houston | AC Repair Houston",
   "description": "Towers, terraces and converted warehouses where the cooling plant sits on a roof, and getting a technician to it is part of the job.",
@@ -6,7 +7,7 @@
   "localAngle": "Downtown is built on high ground above the bayou, but it is built up, not out. Towers of twenty and thirty floors share plant that sits on the roof and on mechanical decks between them, and the pipes that carry chilled water run vertically through the core. Lower down, the flat-roofed warehouses along the old rail and industrial strips have single story floor plates with very high ceilings, where ductwork had to be threaded through structure that predates air conditioning. Plant rooms are tight, access routes are shared, and terrace condensers on podium decks get no shade at all.",
   "commonCalls": [
     "Rooftop units on buildings where the fault is found three floors above the suite reporting it",
-    "Chilled water valves and pumps on building plant that a residential contractor will not touch",
+    "Chilled water valves and pumps on building plant that needs commercial service rather than a residential callout",
     "Duct runs retrofitted through the exposed structure of a converted warehouse or office floor",
     "Condensers on a podium deck running hard with sun reflecting off the surrounding concrete",
     "Systems from the 1960s in older buildings where the parts are no longer made and the refrigerant is discontinued"
@@ -37,6 +38,15 @@
     {
       "q": "Can an old downtown building be made comfortable without replacing the plant?",
       "a": "Often the cheaper path is not a new chiller. It might be balancing, correcting air flow, cleaning coils, adding controls or repairing the distribution rather than the generating capacity. Buildings from the 1960s often have oversized equipment with poor air distribution and dampers that have been welded or jammed shut over the years, so the plant runs fine and the space still is not right. A commissioning check by a company that does commercial work tells you which of those it is before anyone talks about a replacement."
+    },
+    {
+      "q": "Is it cheaper to fix the units on my floor than to replace the cooling for the whole building?",
+      "a": "Usually, and the comparison depends on how many floors are affected rather than on the size of the building. A single fan coil or one floor's worth of equipment is a repair job with parts, labor and a night of making noise in a corridor. Replacing the plant means engineering, a shutdown window, crane work in some cases and months of disruption to every tenant in the stack. What decides it is the condition of the distribution. If the ducts and the piping are sound and the problem is confined to the equipment, the smaller job wins. If the piping is original and the plant is at the end of its life, the two paths get closer in value and the decision belongs to the building owner and the engineers, not to the repair call."
+    },
+    {
+      "q": "Condensers on a parking podium get no shade. What does the concrete under them do to the units?",
+      "a": "It makes the job harder than the same equipment would be on the ground. A podium deck gets full sun from the middle of the afternoon until it sets, and the deck surface underneath the unit holds and re-radiates that heat back up into the coil. The ambient air the fan pulls in is already hot, so the unit rejects heat into an environment that is barely cooler than the refrigerant, and it runs long and hard to make the same cooling. Adding clearance around the unit, keeping a reflective barrier between the deck and the cabinet, and watching the coil for debris all help, because a rooftop unit cannot be moved to a better spot the way a yard unit can."
     }
-  ]
+  ],
+  "_faqsNote": "6 FAQs. Roof access, podium deck heat, the split of plant and tenant equipment and the 1960s buildings carry the local weight."
 }

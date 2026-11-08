@@ -1,5 +1,6 @@
 {
-  "intro": "Air conditioners fail in a small number of repeating ways, and guessing at the cause is how a homeowner ends up paying twice for the same fault. A compressor that has stopped, a capacitor that has failed, a blower that draws too much current, a line that leaks, a drain that backs up: each one produces its own set of symptoms, and the symptoms are what a good diagnosis starts from. A request through this site reaches the HVAC company that covers your area, and that company sends a technician to find the fault before deciding what to replace.",
+  "lastmod": "2026-11-07",
+  "intro": "Air conditioners fail in a small number of repeating ways, and guessing at the cause is how a homeowner ends up paying twice for the same fault. A compressor that has stopped, a capacitor that has failed, a blower that draws too much current, a line that leaks, a drain that backs up: each one produces its own set of symptoms, and the symptoms are what a good diagnosis starts from. A request through this site reaches the HVAC company that covers your area, and that company sends a technician to find the fault before deciding what to replace. Most of the work is booked same day, because a system that runs but never catches up is a working problem that turns into an emergency if it is left.",
   "whatHappens": [
     "Asks what the system does and does not do before starting",
     "Checks the electrical side, the breaker and the disconnect first",
@@ -7,32 +8,40 @@
     "Isolates the fault rather than replacing parts by symptom",
     "Explains the cause before quoting the fix"
   ],
-  "howPriced": "A repair is priced on the fault, the parts, and the labor to reach it. Access is a real variable, since a unit wedged into a side yard or a blower in a packed closet takes longer to get at than one in open space. The hour of the day and whether the technician is on an emergency or scheduled call both move the rate. The last variable is the one that decides the big picture: if the same component keeps failing or the equipment is past the point where parts are available, the honest price is a replacement rather than another repair.",
+  "howPriced": "A repair is priced on the fault, the parts, and the labor to reach it. Access is a real variable, since a unit wedged into a side yard or a blower in a packed closet takes longer to get at than one in open space. The hour of the day and whether the technician is on an emergency or scheduled call both move the rate. A shorter notice period carries a premium of its own, so the same repair booked on a Tuesday and the same repair booked on a weekend morning are not the same price. The last variable is the one that decides the big picture: if the same component keeps failing or the equipment is past the point where parts are available, the honest price is a replacement rather than another repair.",
   "faqs": [
     {
-      "q": "how much does ac repair cost",
+      "q": "How much does AC repair cost",
       "a": "The bill depends on which part failed and how much of the diagnosis it takes to prove it. A capacitor or a contactor is a short job with a cheap part. A compressor, a coil, or a whole air handler is a different order of work entirely. Access, time of day, and whether the repair or a replacement makes more sense all end up in the final number, so the price you are given after the diagnosis is the real one."
     },
     {
-      "q": "how do I know if my ac is really broken or just needs a filter",
+      "q": "Can someone come today to fix my AC",
+      "a": "Often, but nobody can promise it. Same-day slots across the Houston area fill during the morning, so a request sent early has the best chance of landing that day and one sent after lunch usually becomes tomorrow. What the HVAC company covering your area can do is look at the job list and tell you honestly whether there is room today or when the next opening is. Emergency calls, where the house is too hot to sleep in, are handled on a different track."
+    },
+    {
+      "q": "How do I know if my AC is really broken or just needs a filter",
       "a": "A clogged filter is the most common thing behind a call like this, so start there. If the unit runs normally, blows cold air at the vents, and never shuts off, the filter and airflow are the first things to look at. If the outdoor unit stops and restarts, or the house stays warm while the fan runs, that is a real fault and the filter is not the answer."
     },
     {
-      "q": "should I repair my ac or replace it",
+      "q": "Should I repair my AC or replace it",
       "a": "Repair it if the equipment is young, the fault is a single component, and parts for that model are still easy to get. Replace it if the system is old enough that parts are scarce, if the same repair has been needed more than once, or if the quote on the repair lands near the cost of new equipment. The technician should give you both numbers so the comparison is real rather than rhetorical."
     },
     {
-      "q": "why do my ac problems keep coming back",
+      "q": "Why do my AC problems keep coming back",
       "a": "Usually because the underlying cause was never found. A refrigerant leak that was topped off instead of repaired, a coil that keeps freezing because the airflow problem upstream was never corrected, a motor that was replaced without the capacitor that goes with it. A fault that repeats is a signal that the diagnosis was shallow the first time."
     },
     {
-      "q": "what information should I have ready when the technician arrives",
+      "q": "What information should I have ready when the technician arrives",
       "a": "Write down what the system does, not what you think is wrong. Whether the fan runs, whether the outdoor unit starts, and whether the breaker holds are the three facts that narrow the fault down before anyone opens a panel. The model and serial number from the label on the outdoor unit help too, because they tell the technician what parts are even worth considering."
     },
     {
-      "q": "is a new ac unit always better than fixing the old one",
+      "q": "Is a new AC unit always better than fixing the old one",
       "a": "No. If the equipment is a few years old and one component has failed, the repair is usually the sensible money. A new unit becomes the better answer when the system is old enough to be inefficient, when parts are hard to source, or when the repair quote climbs close to the replacement price. Ask for the replacement quote alongside the repair quote and compare them."
+    },
+    {
+      "q": "Is same day AC repair more expensive than waiting for a regular appointment",
+      "a": "It is, mainly because of the shorter notice and the possibility of a second trip if a part is not on the truck. If the equipment can be diagnosed and fixed in one visit, the difference between same day and next week is mostly the scheduling premium. If the fault is not one-visit work, waiting for a normal appointment usually costs less and gets the same result."
     }
   ],
-  "_faqsNote": "5 to 6 FAQs. Cost first. The pillar repair page: covers the general repair job, so it stays broad and never competes with the single-fault pages."
+  "_faqsNote": "8 FAQs. Cost first, then same-day timing, which is the intent this page now owns. The pillar repair page: covers the general repair job, so it stays broad and never competes with the single-fault pages."
 }

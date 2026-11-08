@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Baytown has some of the oldest housing in the Houston metro, with homes from the 1940s and 1950s mixed in with 1960s and 70s builds, and heavy industry sitting along the edges of it. A lot of that equipment was installed once, decades ago, and left alone.",
   "localAngle": "Two things shape the work here. The first is age. On a lot with a house from 1948 next door to one from 1975, one yard has a split system that came with the house and the other has a unit from the 1990s. The second is the air. Baytown sits in the salt belt and near the refining and shipping side of the county, so outdoor units take salt and industrial particulate together, and the metal around the coil ages faster than the calendar suggests. Where the housing is old, some of it never had central air at all, and those houses are getting cooling for the first time.",
   "commonCalls": [
@@ -55,24 +56,25 @@
         {
           "q": "Why does my old outdoor unit fail in the first hot week of summer?",
           "a": "A compressor that has been idle through a mild winter comes out of storage and the first real load is the one it fails on. Capacitors and contactors that sat unused are the usual casualties. A spring service visit on a unit this age is the cheapest way to avoid finding out in July."
-        }
-      ],
-      "_faqsNote": "2 FAQs. One on the three facts that narrow an emergency call down, one on why decades-old units fail on the first hot week of the season."
-    },
-    "same-day-ac-repair": {
-      "intro": "A large share of the same-day work here is a system that has been left alone for years and has started running long. It still cools, just badly, and by the time the owner notices the electric use, the coil and the filters are the obvious starting points.",
-      "localNote": "Deferred maintenance is the common thread. A unit that has not been looked at since the 1980s has a coil packed with coastal oak litter and industrial dust, filters that have been changed without any thought and refrigerant that has leaked out slowly over years. The technician who takes the job will usually start by cleaning and measuring, because that tells them whether a part has actually failed or the system was never able to perform in the first place.",
-      "faqs": [
-        {
-          "q": "How much does a service visit cost compared with just replacing the unit?",
-          "a": "It depends entirely on what the visit finds. A coil clean, a filter and a check of the electrical connections is a small job. A compressor on a 1960s unit is a different conversation, and on a system that has never been serviced the technician may recommend the changeover once they have seen the cabinet and the line set."
         },
         {
-          "q": "Can a unit that has never been serviced still be worth keeping?",
-          "a": "Often yes, if the coil and the cabinet are sound. Plenty of old equipment in this area is dirty rather than destroyed. The test is whether it holds a charge, holds pressure and holds a setpoint once the airflow is right. That takes a technician with a gauge, not a guess from the driveway."
+          "q": "How much does an emergency AC repair cost in Baytown?",
+          "a": "It follows the fault, the parts and the access, and on equipment this age the third one moves the number more than people expect. A capacitor or a contactor is a short visit with a cheap part. A compressor on a unit that has been on the same slab for forty years is a different order of work. A large lot makes siting easy, but a unit that came with the house may still be boxed in by something the house grew around."
+        },
+        {
+          "q": "Is it worth repairing an outdoor unit that has been outside for forty years?",
+          "a": "Ask for the repair and the replacement on the same visit, because the technician is already standing at the unit. A corroded cabinet, a tired capacitor and an aged contactor are all candidates for one visit, and if the coil and the line set are still sound the repair is good money. If the metal has gone through, the honest answer is that the unit is finished, and knowing that on the first visit is cheaper than finding it out in August."
+        },
+        {
+          "q": "Does the refinery and shipping side of Baytown make failures more likely?",
+          "a": "It changes what ages first. The air around the East Baytown refinery area and the Houston Ship Channel carries salt and industrial particulate together, and both settle on the outdoor unit and hold moisture against it. A unit on the industrial side of town does not fail because the compressor is weak, it fails because the coil is dull and the cabinet corrodes around it."
+        },
+        {
+          "q": "How do I know whether the electrical service is the problem?",
+          "a": "If the outdoor unit trips its breaker rather than its own disconnect, the panel is part of the diagnosis. A house built in the 1940s or 50s may still have a service sized for a different era, and a modern condensing unit draws more at start than the circuit was ever meant to carry. Saying whether the breaker has ever tripped before, and when, saves the technician from chasing the wrong thing."
         }
       ],
-      "_faqsNote": "2 FAQs. One on weighing a service visit against a replacement, one on whether an untouched old unit is worth keeping."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
     },
     "ac-not-cooling": {
       "intro": "Running but not cooling comes up constantly in Baytown, and the cause is usually the outdoor side or the age of the ductwork. The house is the oldest part of the system in a lot of these calls.",
@@ -85,9 +87,25 @@
         {
           "q": "Why does my old Baytown house have rooms that never cool?",
           "a": "Older layouts put the return in a hallway or a central spot, so the thermostat reads the average of a mixed air temperature. The room at the far end never gets the supply air it needs. Adding a room later makes it worse. Measuring the air at each vent tells you whether it is distribution or total capacity."
+        },
+        {
+          "q": "How much does it cost to fix an AC that runs but does not cool in Baytown?",
+          "a": "It depends on which of the faults you have, and the symptom at the thermostat does not tell you. A blocked filter or a dulled condenser is a service call. A duct run that has leaked, an air handler that has iced, or a system that was undersized the day it went in is a bigger job. Measurements of airflow and charge separate the two before anyone quotes, and that is what keeps the price from being a guess."
+        },
+        {
+          "q": "Would a bigger unit fix it?",
+          "a": "Not on its own, and on the older housing here it often makes the problem worse. A unit that is too large for the duct system cycles short and never dehumidifies, so the house stays muggy and the power bill goes up. Airflow and coil condition get measured first, because on a 1940s house the ductwork is the more likely culprit and it is the cheaper thing to fix."
+        },
+        {
+          "q": "What does the lack of attic insulation do to a 1950s Baytown house?",
+          "a": "It puts the cooling load through the ceiling. A house with single-pane windows, thin walls and an uninsulated attic pulls in more heat than the original system was sized for, and the return air comes back from the rooms already sitting in the afternoon sun. That is why the load calculation for one of these houses has to look at the envelope and not only at the square footage."
+        },
+        {
+          "q": "Is the ductwork in the older Baytown homes why some rooms stay warm?",
+          "a": "Frequently, yes. Duct runs sized when the house had fewer rooms, a closed-off bedroom that still gets air, or a run that was crushed during a later remodel all leave parts of the house served badly. The fix is usually to redirect or resize the run rather than to add capacity, and that is why airflow is measured across the house before anyone talks about tonnage."
         }
       ],
-      "_faqsNote": "2 FAQs. One on a system that runs nonstop without catching up in the afternoon, one on unbalanced rooms in a 1940s layout with a central return."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
     },
     "ac-repair": {
       "intro": "Repairing a system in Baytown often means finding out how old the failure is. The part that stopped working may be the only part that ever broke, or it may be the last thing left on a unit that has been running since the house was new.",
@@ -100,9 +118,25 @@
         {
           "q": "Where do I find the model number on an old Baytown AC unit?",
           "a": "On the outdoor unit, on a data plate on the side panel or at the top of the cabinet, though on a unit this old the plate may be faded or rusted through. A photo of the whole unit and the cabinet is a good substitute, and so is the year the house was built if the plate is gone."
+        },
+        {
+          "q": "How much does AC repair cost in Baytown?",
+          "a": "The bill follows the fault and the condition of the metal around it. On a unit that came with the house the deciding question is whether the coil, the cabinet and the line set are worth saving, and that is what the diagnosis is for. Ask for the number after the diagnosis, and ask for the replacement quote alongside the repair quote so the two can be compared on the same page."
+        },
+        {
+          "q": "How do I know the technician found the cause and not just the failed part?",
+          "a": "Ask what was found that points at the cause. A compressor replaced without the charge leak behind it will fail again, and a cabinet rusted through that gets a new capacitor in it will keep rusting around the next one. The explanation of the cause is worth more than the name of the part that went in, and it is the part you can check against the readings on the invoice."
+        },
+        {
+          "q": "Why does the metal around the coil matter more here than the age of the equipment?",
+          "a": "Because the air does more damage than the calendar does. On the older streets the unit has been standing in salt and industrial particulate for decades, and the coil dulls, the base pan corrodes and the fasteners go. That dulled coil is what makes the compressor run hot and long, so the compressor is often the last thing to fail rather than the first, and the thing behind it is the part that needs attention."
+        },
+        {
+          "q": "Does it matter that the system came with the house rather than being installed later?",
+          "a": "It matters in two ways. A unit that came with the house was sized for a house that was smaller and had less glass, so it may never have had the capacity the house needs now. And it has been on the same slab for the whole life of the building, which is why the coil and the line set around it are usually in worse condition than the compressor that failed. Both are things to say when the technician arrives."
         }
       ],
-      "_faqsNote": "2 FAQs. One on finding the root cause before a compressor is replaced, one on locating a model number on a faded or rusted nameplate."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
     },
     "ac-installation": {
       "intro": "Adding cooling to one of the older Baytown homes is a bigger project than a swap, and a good number of these houses have never had central air. The question is whether to run ducts or to put in ductless heads, and the answer depends on the attic and the walls.",
@@ -115,9 +149,25 @@
         {
           "q": "Is a ductless mini split enough for an older Baytown home?",
           "a": "For many of them, yes. A ductless head moves a lot of air for a small amount of power and cools the space it is in quickly, which matters in a house where the envelope leaks. It will not cool the whole building as evenly as a duct system, so the layout of the heads matters."
+        },
+        {
+          "q": "What does an AC installation cost in Baytown?",
+          "a": "The number moves with the work that is not the equipment. On a house that never had central air, the duct run and the return path are usually the larger share, not the box. Whether the electrical panel needs work, how the outdoor unit gets to the slab, and whether the house has an attic to run through all move it. A written scope that separates the equipment from the installation is what makes two quotes comparable."
+        },
+        {
+          "q": "Is it worth running ducts in an old house with no attic space?",
+          "a": "It is worth pricing both ways. A 1950s ranch with an open attic can usually take a conventional system, and running ducts is usually the cheaper answer per room of cooling. A house with a vaulted ceiling, a second floor added in the 1980s or no attic at all is a different calculation, and in some of those the ductless heads are the only option that does not mean opening up finished walls."
+        },
+        {
+          "q": "What does the large lot size in Baytown allow for the outdoor unit?",
+          "a": "It allows siting that the housing stock deserves. The outdoor unit can go where the air moves and the water drains rather than against the house, with clearance for the landscaping to grow around it later. On the older lots around the Evergreen Point and Decker Oak Park side of town there is usually room to set the unit away from the foundation, which is the single thing that does the most for how long it lasts in this air."
+        },
+        {
+          "q": "Does the salt and industrial air change what an install should be?",
+          "a": "It changes the hardware and the siting. Corrosion-resistant finishes, stainless hardware and a fresh isolator pad raised above the grade are worth asking about, and the unit should be placed where the dust off the industrial side is not settling on it. None of that changes the size of the system, but it changes how long the same system lasts, which is usually the more expensive half of the decision."
         }
       ],
-      "_faqsNote": "2 FAQs. One on getting central air into a 1940s frame, one on whether a ductless head covers an older house."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
     },
     "ac-replacement": {
       "intro": "Replacing an old system in Baytown is usually straightforward once you know what is in the house. Some of these homes carry refrigerant that is no longer produced for new equipment, and the metal around the old unit is often further along than the compressor.",
@@ -130,9 +180,304 @@
         {
           "q": "Should I upgrade the electrical service at the same time?",
           "a": "If the house has a 1940s or 50s panel, it is worth having evaluated before the install. A modern condensing unit draws more than the equipment it replaces, and an undersized service can limit what you install. Doing the panel work at the same time as the changeover is usually less disruptive than doing it a year later."
+        },
+        {
+          "q": "What does it cost to replace an AC system in Baytown?",
+          "a": "The cost is decided by the capacity the house needs, whether the refrigerant on the old nameplate is a legacy type, and how much of the installation can be reused. On a house that carries the whole original stack, condenser and coil and air handler and lines from one era, a matched set is the cleaner path and it is the number worth comparing against a partial swap."
+        },
+        {
+          "q": "Is a replacement worth it on a house with a 1940s electrical service?",
+          "a": "The service has to be looked at before the equipment is chosen, not after it is in. A modern condensing unit draws more at start than a circuit from that era was meant to carry, so the panel work may be part of the job rather than an extra. It is cheaper to have it looked at while the crew is there than to come back for a second visit once the new unit trips."
+        },
+        {
+          "q": "Does the air off the Houston Ship Channel affect how long a new outdoor unit lasts?",
+          "a": "It does, and it is why the hardware is worth specifying. Salt and industrial particulate settle on the cabinet and the coil from the first season, and a unit that never gets rinsed loses capacity long before the compressor wears out. A new condenser with corrosion-resistant finishes and stainless hardware, set on a pad that drains away from the house, buys back years of the life the salt would have taken."
+        },
+        {
+          "q": "What refrigerant do the oldest Baytown systems run?",
+          "a": "Most of the 1960s and 70s systems are on R-22, which is no longer produced for new equipment and is priced accordingly. That is worth knowing before anyone shops, because it changes the quote the moment the old unit comes off the slab. The nameplate on the outdoor unit says which refrigerant it is, and a photograph of it settles the question."
         }
       ],
-      "_faqsNote": "2 FAQs. One on installing cooling where none ever existed, one on pairing a service upgrade with a system changeover."
+      "_faqsNote": "6 FAQs. Cost, an honest objection, and three local ones: the salt, the flooding, the age of the equipment, the lot it stands on, and the grid."
+    },
+    "ac-maintenance": {
+      "intro": "Preventive work is the cheapest labour in this trade and the hardest to justify on a system that has run every summer since before the current owner moved in. The spring visit exists to find the one small fault that would otherwise become a callout in the third week of July.",
+      "localNote": "What pushes Baytown toward twice-yearly attention is what the air carries and what the houses are. Coastal oak litter and the dust off the East Baytown refinery area land on the same condenser fins, salt dulls the metal underneath, and on the large lots around here the outdoor unit often sits at the back of the property where nobody looks at it between spring and August. The attic over a 1940s ranch reaches 130 to 140F, and on a good number of these houses that is where the air handler has always lived.",
+      "faqs": [
+        {
+          "q": "My outdoor unit has never been serviced. Is the first visit worth booking?",
+          "a": "On a system that came with the house in the 1950s or 60s, usually yes. The list on a first visit is long, a dirty coil, a capacitor that has been sitting unused, a contactor with pitted contacts, a drain line packed with residue, and refrigerant that may have gone out slowly over the years. What makes it worth booking is that all of it can be seen from a ladder on a spring afternoon, and none of it can be seen on a hot afternoon when the system is already down. Ask for a written list of what was found so you can compare the next visit against this one."
+        },
+        {
+          "q": "What does a maintenance visit in Baytown actually cover?",
+          "a": "Filter and blower wheel, the condition of both coils, the drain line and the pan under the indoor coil, the capacitor and the electrical connections, plus a charge reading taken with gauges fitted while the system runs. On a 1970s unit in this housing stock the line set and the cabinet get looked at as well, since salt has been at that metal for a long time. Some of it is visible from a ladder and some of it needs the system running, which is why the visit takes longer on an old unit than on a new one."
+        },
+        {
+          "q": "Does the salt and refinery dust make maintenance more important in Baytown than inland?",
+          "a": "It does, and for two separate reasons. The salt dulls the fins and attacks the cabinet, the fasteners and the electrical connections, and the particulate packs the fins and holds damp against them. Together they mean the same unit moves less air and works longer for the same result, so the gap between visits matters more here than it would in a drier town. Rinsing the coil gently and letting it dry afterwards is the most useful thing a homeowner can do in between."
+        },
+        {
+          "q": "My air handler is in an attic that hits 140 degrees in the summer. Is a tune-up still worth it?",
+          "a": "It is worth more, not less. That much heat around the cabinet is what dries the motor bearings, cooks the capacitor and bakes the dust onto the blower wheel. A spring visit that finds a weak capacitor before July is a good deal cheaper than a replacement after it has cooked. The time spent in the attic itself is short, it is the outdoor unit and the refrigerant side that take the longer part of the visit."
+        },
+        {
+          "q": "How much does an AC maintenance visit cost?",
+          "a": "What moves the price is what the visit finds and how much of it is a small part or a big one. A corroded terminal and a weak capacitor are quick. A fouled coil on a system that has been losing refrigerant slowly is a longer conversation, and on a unit that has never been touched the first visit may turn into a second one. Ask for the diagnosis and the parts to be shown as separate lines."
+        },
+        {
+          "q": "Does the unreliable summer power supply here change what a maintenance visit covers?",
+          "a": "It changes what the visit should be looking for. The grid in Harris County is unstable through the hottest weeks, and every time the system is interrupted and has to start again the start circuit takes that interruption harder than it was designed for. On a capacitor that has been sitting since last summer that means it is closer to failing than it was in April. Checking the start circuit and the connections is part of the job rather than an extra."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Three reference local conditions: the refinery and salt load on the coil, the 130 to 140F attic, and the unstable summer supply. The rest cover the first visit, what is checked and what moves the price."
+    },
+    "condenser-repair": {
+      "intro": "This is the outdoor unit and nothing else, and on this coast it is the part of the system that has been standing in the weather the longest. The fan motor, the run capacitor, the contactor and the coil are all on the outside of the cabinet, taking salt, refinery particulate and oak litter at the same time.",
+      "localNote": "On a Baytown lot the outdoor unit is often set well away from the house on its own pad, which is good for airflow and bad for attention, because it goes unlooked-at for years at a stretch. Property near the East Baytown refinery area and the Houston Ship Channel takes on more salt in a single season than a unit set back behind FM 140 does. Once the fins are dull and the cabinet is rusting, the compressor inside that same box is running against a head pressure it was never built to see.",
+      "faqs": [
+        {
+          "q": "My outdoor unit hums but the compressor never starts. What is happening?",
+          "a": "That hum is the contactor trying and failing to close on the compressor. The usual reason is a run capacitor that will not hold a charge any more, and the other two are pitted contactor points and windings that have gone open. Salt on the terminals inside the compartment produces the same symptom, which is why the cabinet gets opened before anything gets ordered."
+        },
+        {
+          "q": "What noise coming out of the outdoor unit is worth a call?",
+          "a": "Different sounds point at different parts. A rattle that stops once the fan is up and running is usually a blade or a piece of debris that has shifted. A buzz that builds and then cuts off is the start circuit trying and giving up. A grind that stays with the fan is a bearing in the motor. Around the refinery area and the channel there is enough background noise that it is worth describing the sound rather than saying only that it is loud."
+        },
+        {
+          "q": "The cabinet on my unit is rusted through along the bottom edge. Is that the end of it?",
+          "a": "Not on its own, but it decides what the repair turns into. A motor or a capacitor on a cabinet with a sound base pan is a sensible repair. A cabinet rusted through, fins pitted away and a line set with corroded fittings are three more items that have to be dealt with at the same time. Salt does this faster on the side of the house that faces the wind off the water, so it is worth saying which wall the unit is on."
+        },
+        {
+          "q": "Does living near the refinery and the Ship Channel make condenser breakdowns more likely?",
+          "a": "It does, and the reason is that the same air carries both salt and particulate. Salt dulls the fins and attacks the cabinet, and particulate packs the fins and holds moisture against them. The unit ends up moving less air through the coil and working harder for the same result, so the parts inside it are running under a load they were not designed to carry."
+        },
+        {
+          "q": "How much does a condenser repair cost?",
+          "a": "What sets it is which part failed and how far the corrosion has spread around it. A capacitor is a small part and a short visit, a fan motor takes longer, and a coil or a cabinet that needs replacing turns it into a job with a refrigerant recovery attached to it. Access counts too, a unit behind a fence or at the far end of a large lot takes longer to reach. Ask for the diagnosis to be listed separately from the parts."
+        },
+        {
+          "q": "Can I clear the coastal oak debris off the coil myself?",
+          "a": "A garden hose on a soft setting plus a stiff brush will take most of what collects on the fins off, and near the channel the same rinse washes away salt as well. Keep the water out of the electrical compartment and skip the pressure wand, since bent fins move less air than dirty ones. Look under the unit after a hard rain as well, because a low pad on a big lot can hold standing water."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Three reference local conditions: the refinery and Ship Channel salt load, units set far from the house on large lots, and coastal oak debris on the coil. The rest cover the hum, the noise and what moves the price."
+    },
+    "compressor-repair": {
+      "intro": "The compressor is the pump in the middle of the loop, and when it lets go there is no in between. The work is finding what killed it, then bringing back the answer to the question that actually matters, which is whether the pump can be replaced on its own or the whole system has reached the end of its useful life.",
+      "localNote": "The housing stock here makes that decision sharper than it is elsewhere. Equipment on a 1940s house and equipment on a 1980s house next door were built decades apart and run under different rules, and a system from the 1960s running the older refrigerant has almost nothing left to fit. The summer supply in Harris County is also unreliable in the middle of the afternoon, and a compressor that has to restart after an interruption is usually the one already close to the end.",
+      "faqs": [
+        {
+          "q": "Is a seized compressor ever repairable?",
+          "a": "Rarely, and when it happens the honest answer is usually replacement, because the parts that seized are the parts that make it a pump. The useful part of the conversation is what stopped it. A new compressor put back on the same fouled coil with the same weak capacitor will stop the same way, and on units this old a slow leak that has taken the oil out of the case is a common cause."
+        },
+        {
+          "q": "My compressor runs for a few minutes and then shuts off. What is that?",
+          "a": "A limit control shutting the pump down to protect itself, and the reason behind it is usually sitting on the outdoor unit. A coil packed with oak litter and refinery dust, dulled further by salt, cannot shed heat, so the pressure climbs until something intervenes. A fan that has slowed or stopped does the same thing. A supply that flickers during an unstable afternoon can also upset the start sequence."
+        },
+        {
+          "q": "What does a compressor that is having trouble starting sound like?",
+          "a": "A buzz with no change in it. The contactor closes, the compressor tries to pull in, and it either will not start at all or lugs for a few seconds before it catches or gives up. Every one of those failed starts is hard on the windings, so a unit that has been grinding away unsuccessfully for a week has done more to itself than most owners realise."
+        },
+        {
+          "q": "Should the compressor be replaced on its own, or does the whole system need replacing?",
+          "a": "The age of the indoor half and the refrigerant on the nameplate decide it more than the failed pump does. A 1960s system on the older refrigerant, with the indoor cabinet up in an attic that runs 130 to 140F and a base pan already rusted through, is usually better replaced as a matched set. A newer indoor unit on a current refrigerant with a sound cabinet can be worth keeping."
+        },
+        {
+          "q": "How much does a compressor replacement cost?",
+          "a": "How much of the system has to be recovered and how the unit is reached moves the price. Recovered refrigerant has to be handled properly and the older type is costlier to recover, so what is on the nameplate changes the number. A new line set, a cabinet that needs patching and a unit sitting at the far end of a large lot all add time. Ask for the recovery and the refrigerant to be shown as separate lines."
+        },
+        {
+          "q": "Does the unreliable summer power supply in this area cause compressor failures?",
+          "a": "It contributes. When the grid in Harris County drops out at the hottest point of the afternoon, the compressor has to start again against a full load and a condenser already working hard. On an old capacitor and a pitted contactor, the interruption is where the failure usually lands. It is also the reason a spring check of the start circuit is worth having before the weeks when the interruptions begin."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Three reference local conditions: the mix of 1940s to 1980s equipment, the 130 to 140F attic, and the unstable summer supply. The rest cover seized, short cycling, replace or not and what moves the price."
+    },
+    "refrigerant-leak-repair": {
+      "intro": "A system that needs refrigerant twice in one season is losing it, and finding where is the job. Adding gas to a system that is leaking is the request that comes in most often and the one that brings the same call back in a few months.",
+      "localNote": "The weak point on an outdoor unit in this part of Harris County is the metal. Salt works into the flare joints where the copper enters the cabinet, and a line set that has run through an attic at 130 to 140F for forty years expands and contracts enough to work a fitting loose on its own. The type of refrigerant listed on the nameplate also decides how the system has to be opened, and on a unit that went in during the 1970s that type is no longer made for new equipment.",
+      "faqs": [
+        {
+          "q": "How do I know my system is losing refrigerant rather than simply running low?",
+          "a": "Signs of a low charge and signs of a leak look identical from the thermostat, so the useful clues are physical. A hissing that comes and goes with the compressor, a line colder and wetter than the other one, or a wet patch on the slab under the unit all point at gas leaving the system. Confirmation comes from a gauge reading with the system running, and that reading also tells you whether a leak has to be found."
+        },
+        {
+          "q": "There is an oily streak on the pipe beside the outdoor unit. What does it mean?",
+          "a": "It means refrigerant escaped there, and the streak is the trail it left rather than the hole itself. The oil travels with the gas, so it marks the direction the gas went. Wipe it and mark the place, and if it comes back in the same spot the leak has been located without waiting for the system to run flat again. On a unit that went in during the 1960s or 70s the stain usually starts at a flare joint where salt has been eating the copper for forty years."
+        },
+        {
+          "q": "Can I have the system topped up instead of having the leak found?",
+          "a": "Not if you want the problem fixed rather than postponed. Recovering the refrigerant, finding the leak and repairing it are three separate pieces of work, and topping up on its own is what brings another visit within a few months along with a second recovery later. On a unit that has been standing in salt air since the 1970s the leak is also the likely reason the charge went missing in the first place."
+        },
+        {
+          "q": "Where on a Baytown system do leaks usually turn up?",
+          "a": "In three places more than anywhere else. Salt-eaten flare joints and the copper where the lines enter the outdoor unit, fittings on a line set running through an attic that reaches 130 to 140F, and service valves that have been sitting outdoors on a lot for forty years. On property near the refinery area and the Ship Channel the salt load is heavier, so the fittings there tend to go first."
+        },
+        {
+          "q": "Does the refrigerant type on the nameplate change what the leak repair involves?",
+          "a": "It changes the method and the handling. Units from the 1960s and 70s commonly run the older refrigerant, which is no longer made for new equipment and has to be recovered rather than released, while newer systems run a different type that can simply be topped up. Either way the type decides what has to be recovered, how the system gets opened and what the parts cost, so it is worth reading the nameplate before agreeing to the work."
+        },
+        {
+          "q": "How much does a refrigerant leak repair cost?",
+          "a": "What sets it is how hard the leak is to find and what has to be replaced to stop it. A fitting at the outdoor unit is a short job, and a pinhole in a line set running through an attic is a very different afternoon. The type on the nameplate changes the recovery work, and a system that has been left open to the air may need more than the leak itself addressed. Ask for the leak location in writing before the work starts."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Three reference local conditions: salt at the flare joints, the 130 to 140F attic line set, and the heavier salt load near the refinery and the channel. The rest cover finding the leak, the oil trail and what moves the price."
+    },
+    "refrigerant-recharge": {
+      "intro": "A recharge that has been measured is a different piece of work from a can of gas added on a hunch. The weight that goes in, the superheat reading and the subcooling reading together say whether the system is holding what the nameplate says it should.",
+      "localNote": "Two Baytown conditions make that worth insisting on. A system that has been losing refrigerant slowly through salt-eaten fittings reads low every time it is checked, so a recharge on its own changes nothing and the same call comes back. And a unit installed in the last few years in a house that never had central air has never been through a full summer with the ducts and the coil it was signed off with, which is exactly where a charge measurement earns its keep.",
+      "faqs": [
+        {
+          "q": "How does anyone work out how much refrigerant a system needs?",
+          "a": "The figure printed on the outdoor unit nameplate is the reference point, and what goes in is weighed against that number instead of being poured in by eye. The gauges then confirm the result. Two readings, superheat and subcooling, are what show whether the system is holding what it should, and they are also what tells a charge problem apart from some other fault that only shows up as a low number. On a unit that has stood at the back of a large Baytown lot in salt air since the 1970s, the flare joints can leak enough that the reading stays low no matter what is added."
+        },
+        {
+          "q": "What are superheat and subcooling and why read them?",
+          "a": "Superheat is how much the refrigerant is warmer than the point where it should be boiling, and subcooling is how much colder it is than the point where it should be condensing. Both are numbers and both fall inside a range the equipment was designed around. Out of range on one side means the charge is wrong, out of range on the other side usually means the airflow or the system itself is wrong, and neither can be judged from the outside."
+        },
+        {
+          "q": "My unit is new and it is not cooling the way I expected. What should be checked?",
+          "a": "Begin with the numbers, because a fresh installation can be out in either direction. Ask what weight of refrigerant went in, what the superheat and subcooling readings came out at, and what the nameplate says the charge should be. Then look at the airflow, the filter, the blower and the run of duct to the rooms that stay warm. A system that was never verified after it went in is a common reason a new one disappoints in its first summer."
+        },
+        {
+          "q": "Why does the refrigerant type printed on the nameplate matter so much?",
+          "a": "It decides how the gas is handled and how much of it the system takes. The older type used on 1970s systems is not being made for new equipment and has to be recovered rather than released, which adds a step and a cost to every visit that opens the system. Newer units run a different type and a top-up is simpler. Reading the nameplate before the visit settles which job is actually being paid for, and on a house that went in during the 1970s or 80s that reading decides it."
+        },
+        {
+          "q": "Will a recharge fix an air conditioner that is running but not cooling?",
+          "a": "Only when the charge is the entire story. A coil packed with oak litter and refinery dust, dulled with salt, or a cabinet eaten through will leave a system short of capacity no matter how much gas goes into it. Putting more gas into a system that is leaking makes it leak faster and the bill larger. The measurements tell you which of those you are looking at before anything is added."
+        },
+        {
+          "q": "What decides what a refrigerant recharge costs?",
+          "a": "Three things: the type of refrigerant and whether it has to be recovered, the weight of charge that goes in, and whether a leak is behind the low reading. If the system has been losing gas, the job is going to include finding and fixing that as well, not the recharge alone. Time on site moves with access to the service valves, and on a lot where the outdoor unit sits a long way from the house that is worth mentioning on the call."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the salt-eaten fittings that make a low reading permanent, and first-time cooling in a house that never had central air. The rest cover measurement, a new unit and what moves the price."
+    },
+    "evaporator-coil-repair": {
+      "intro": "This is the coil that pulls the heat and the moisture out of the house before the air goes back to the rooms. When it is dirty, iced over or dripping, what a family notices is a house that smells wrong and cannot hold its temperature.",
+      "localNote": "Salt is a first class cause of calls in Baytown, and while the indoor coil sits out of the weather, the outdoor half of the same system sits in it. Here the humidity is high enough that the coil stays soaked through every cycle instead of drying between them, so any loss of airflow across it turns that water into ice rather than letting it drain away. The housing adds a second problem. Air conditioning went into many of these homes in the 1970s and 80s, hung on ductwork that had been framed for something else, and that ductwork is often where the restriction actually is.",
+      "faqs": [
+        {
+          "q": "Why does my indoor coil keep freezing over?",
+          "a": "It is an airflow problem almost every time, and the coil itself is rarely the culprit. Whatever sits upstream of it, usually a filter gone solid, a return that was closed off to stop a draught, or a duct run that has come apart, has to be found before the coil can do its job. Restoring the air path matters more than scrubbing the fins, and treating the ice directly is the reason the same freeze comes back every summer."
+        },
+        {
+          "q": "Where does the musty smell from the vents come from?",
+          "a": "From the unit, and mostly from the water sitting under it. Dust and skin particles blow into the return, land in the drain pan where the coil has been dripping, and turn into a film that pushes that smell back into the rooms every time the fan starts. On a house that never had central air until the 1970s and went in with no filter at all, the pan collects a great deal in a single season."
+        },
+        {
+          "q": "What is the grey or green coating on the coil fins?",
+          "a": "It is biological growth fed on the dust and the damp. The coil sheds moisture continuously in this climate, so the fins stay wet and anything that collects on them has a surface to grow on. It has to be cleaned off, and the panel around the coil cleaned as well, otherwise the fan keeps redistributing the same smell through the house. On a Baytown installation the dust arriving at the return carries refinery particulate and coastal oak litter as well as household dust, and all three feed it."
+        },
+        {
+          "q": "Why is there always water sitting in the pan under my indoor unit?",
+          "a": "Some water is always there, the pan is meant to hold it while it drains away. The trouble is a level that keeps rising, which means the line is blocked, the pan is out of level, or the float switch has shut the system down. Where the unit sits in an attic the drain loses moisture between cycles and can close up with leftover residue, so it drains for weeks and then stops for no clear reason. It is worth having the line flushed before the ceiling below it is damaged."
+        },
+        {
+          "q": "How do I know the filter is not the reason my coil is freezing?",
+          "a": "The filter is easy to check and it is where a restriction usually starts. Pull it out and look at it edge on, then hold it up to the light, because a filter that looks passable can still be nearly blocked. A filter cut down to fit an old grille leaves a gap around the edge that lets air slip past it, and a filter that was never changed at all turns the coil into a solid block of ice."
+        },
+        {
+          "q": "What changes the price of an evaporator coil job?",
+          "a": "Whether the coil is cleaned or replaced, and how the unit is reached. Cleaning is time and a cleaner. A replacement is a new coil, possibly a new pan, and the work to open the cabinet and get the system running again afterwards. An attic unit squeezed between joists takes longer than one sitting in a closet, and on a Baytown lot that was added to over the years the ductwork attached to the unit may need work before the coil can be reached at all."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Three reference local conditions: the high humidity that keeps the coil wet, the ductwork added to 1970s and 80s homes, and the coastal salt load on the outdoor half of the same system. The rest cover the freeze, the smell and what moves the price."
+    },
+    "blower-motor-repair": {
+      "intro": "The blower motor moves the air through the house, so when it goes the equipment is still switched on while the rooms get nothing. It is one of the quicker diagnoses to make and one of the more common reasons a perfectly good outdoor unit gets blamed for a fault that is actually indoors.",
+      "localNote": "Two things about this town bear on the motor. The attic space over these houses reaches 130 to 140F, and the motor usually lives up there, which is what dries the bearings and takes the capacitor with it. The housing is also old enough that indoor equipment has been changed more than once while the outdoor half was left alone, so an air handler in Baytown can hold a newer motor on a 1950s cabinet with wiring behind it that nobody has looked at in decades.",
+      "faqs": [
+        {
+          "q": "The thermostat says the system is on but nothing is blowing. Where do I start?",
+          "a": "Filter and vents before anything else, since a filter packed solid or a register with the damper closed produces exactly the same silence as a motor that has given up. If the system is asking for air and the wheel never turns, the list is the motor, the capacitor, the relay and the control board. Do not open the cabinet to look, a failed capacitor can hold a charge after the power is switched off and that is a genuine shock risk."
+        },
+        {
+          "q": "There is a grinding noise coming from the air handler. What is it?",
+          "a": "Most often a bearing going out on the motor shaft, which sounds like a rasp or a growl from inside the cabinet. Debris caught in the wheel sounds similar, and on an attic installation that is dust, loose insulation and coastal oak litter pulled in through the return along with the refinery particulate that comes in with the air. Note whether the noise changes when the system changes speed, that separates a motor bearing from something caught in the wheel."
+        },
+        {
+          "q": "The blower only runs on one speed. What causes that?",
+          "a": "That points at the relay or the control board rather than at the motor, and both are among the cheaper parts in the system. A relay that has spent years in a hot attic is a normal wear item. Ask whether the replacement covers the relay and the capacitor, because they frequently go at the same time as the motor, and doing them separately means paying to open the cabinet twice. On a 1940s Baytown house the air handler may have been changed once already while the outdoor unit stayed where it was, so the part that fails is often the newest thing in the cabinet rather than the oldest."
+        },
+        {
+          "q": "Why does the motor and the capacitor usually fail at the same time?",
+          "a": "When a motor runs hot or starts dragging it draws more current than the capacitor is rated to carry, so the capacitor is often the first casualty, and leaving the old one in place when the motor is changed can put you back within a season. The pairing only makes sense once the reason the motor was running hot has been dealt with, and restricted airflow around the unit is the usual culprit. Heat is the other half of it, and an attic space sitting at 130 to 140F supplies plenty."
+        },
+        {
+          "q": "How much does a blower motor repair cost?",
+          "a": "The motor is the part and the work is what sets the total. Whether the motor and the wheel are one assembly or separate pieces changes the labour, and whether the relay and capacitor come with it changes the parts. Access matters as well, an attic unit fitted between joists takes longer to open than one in a closet, and on the older houses here the cabinet may need work before the motor can be reached at all. Ask for those details in the quote rather than a single number."
+        },
+        {
+          "q": "My air handler is in an attic that gets to 140 degrees. Is that what kills the motor?",
+          "a": "A large part of it. There is no cool air around the housing, so the motor runs hot, the bearings dry out and the capacitor cooks. The same heat bakes the dust onto the blower wheel until it packs tighter and makes the motor work even harder, and a motor running that hot will eventually seize and take the capacitor and the relay with it. A spring visit that checks the motor current and the capacitor while the attic is still tolerable is worth having before the weeks when the house has no cool air to give back."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Three reference local conditions: the 130 to 140F attic, mixed-age equipment in old houses, and refinery particulate in the attic air. The rest cover no air, the grinding noise and what moves the price."
+    },
+    "thermostat-installation": {
+      "intro": "Swapping a thermostat is quick when the wiring behind the wall matches the diagram and turns into a different job when it does not. Adding a smart one raises the stakes, because the device has to be able to talk to the equipment as well as be wired to it.",
+      "localNote": "The wiring in these houses is the wildcard. Central air went into Baytown homes across the 1940s through the 1980s, often decades after the house was framed, and every thermostat change since was done by whoever happened to be standing there at the time. That leaves a terminal block upstairs that matches no manual. A 1950s ranch and a 1980s house on the same street can need different things from the same model of thermostat.",
+      "faqs": [
+        {
+          "q": "Can I swap the thermostat myself?",
+          "a": "Usually, if the equipment supports it and you are comfortable with a screwdriver and a phone camera. Write down which wire goes into which terminal before anything comes off the wall, and photograph the block, because that record is what makes the job quick for the next person. If the old thermostat was running on line voltage rather than low voltage, stop and have that identified first, since the replacement is a different type of unit and needs different wiring."
+        },
+        {
+          "q": "Why does my smart thermostat ask for a C wire when the old dial never needed one?",
+          "a": "The old dial was a simple switch with no electronics behind it, so it needed nothing but a signal telling the system when to run. A smart thermostat has a screen, a clock and a radio in it and needs a continuous low voltage feed to stay powered and keep its schedule, and that extra wire carries it. On a 1960s or 70s house in this housing stock the wire is often not there at all and has to be run back to the furnace or the air handler."
+        },
+        {
+          "q": "Why does the system ignore the schedule I set on the thermostat?",
+          "a": "A delay or swing setting left over from the installation is the usual answer, along with the thermostat sitting on the wrong mode. It can also be that the schedule never reaches the control board because of how the thermostat was wired, which happens where an earlier installer did something the manual does not describe. Power is a third possibility, since an outage clears the settings on some units and they come back holding a default until they are put in again."
+        },
+        {
+          "q": "How do I know which thermostat is right for my system?",
+          "a": "Look at the equipment rather than at the thermostat. Some systems need a setting so the outdoor unit reverses direction, some run only a single stage of heating, and some need a control board that a basic thermostat cannot drive at all. The existing thermostat and the age of the equipment put you in one group or another, and that answer belongs before anything is bought rather than after it is opened in the box."
+        },
+        {
+          "q": "How much does a thermostat installation cost?",
+          "a": "What decides it is how much of the wiring has to be touched. Where the terminals match and the adapter fits it is a short visit, and it becomes a longer one if a wire has to be run back to the equipment, if the old thermostat was line voltage and needs a different unit, or if a smart thermostat is being joined to a home network that will not cooperate. Doing it at the same time as other work on the system is usually the least expensive moment to get it done."
+        },
+        {
+          "q": "I live near the 45 and 610 interchange and the power goes out here in the summer. Does that affect a smart thermostat?",
+          "a": "It can, and it is worth checking before the unit is fitted. When the supply goes out, some thermostats lose the schedule along with the settings, and on an unstable grid in Harris County that can happen several times in one summer. Others come back holding what they had. Ask whether the unit keeps its settings through a power cut, and where it sits on the wall matters too, since a thermostat in a house that heats up fast during an outage will be asking the system to run the moment the power returns."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Two reference local conditions: the patchwork wiring left by decades of changes on 1940s to 1980s houses, and the unstable summer supply near the 45 and 610 interchange. The rest cover the swap, compatibility and what moves the price."
+    },
+    "heat-pump-repair": {
+      "intro": "A heat pump runs a house on one set of equipment for both heating and cooling, so a fault in the parts they share takes both sides down at once. The component that decides which mode the system is in is the reversing valve, and that is where the diagnosis starts.",
+      "localNote": "Most heat pumps in Baytown arrived later than the houses they serve. Some went into a 1940s shell as a retrofit and others replaced a system that had been running the older refrigerant for twenty years, so the salt history on the block started with the first outdoor unit and the newer coil has been breathing the same air ever since. Around the refinery area and the Ship Channel the outdoor coil picks up salt and particulate the same as any other condenser, and a heat pump still has to shed its heat through it.",
+      "faqs": [
+        {
+          "q": "Why is there ice on the heat pump outdoor unit in the warm months?",
+          "a": "A heat pump covered in ice in July is not working, it has stopped moving heat out of the outdoor coil. The three things looked at first are the defrost cycle, the charge, and the airflow through the outdoor unit. Because the same salt film and oak debris that settle on any condenser out here also settle on this one, the coil is checked before anyone blames the defrost valve. Leave it switched off until it has thawed, since running into ice tends to make it worse."
+        },
+        {
+          "q": "Heating works but the cooling side does not. Does that narrow it down?",
+          "a": "That points at the reversing valve, since the valve is what turns the refrigerant flow around for cooling while everything else in the circuit stays shared between the two modes. When heating and cooling go down at the same time, the fault is more often in the controls or on the electrical side. Knowing which of the two you have cuts the search down quickly, so say it when the request goes in."
+        },
+        {
+          "q": "Why does the backup heat run all the time?",
+          "a": "Electric resistance strips do the backup work, and they cost a good deal more to run than the heat pump does, so a system leaning on them is an expensive way to heat a house. Usually the pump is too small for the load, or it has lost capacity to a refrigerant or airflow fault, or the thermostat is asking for more heat than the machine can deliver. The humidity on this coast is what sets that load in the first place, and a 1950s house with the windows and the walls it has will need a great deal of it. Winters around here are mild enough that the strips should sit idle through most of the season."
+        },
+        {
+          "q": "My system will not switch from heating to cooling. What has gone wrong?",
+          "a": "The part that decides which way the refrigerant travels is the reversing valve, and it is the first suspect when a system will not change over. The control board that commands it is the second. A unit that changes direction when you select the mode by hand but ignores a programmed schedule points at the board or the wiring rather than at the valve. The replacement also has to be a part the system was built to work with rather than a generic substitute."
+        },
+        {
+          "q": "Would a heat pump suit one of the older houses in Baytown?",
+          "a": "The cooling side is often where it earns its keep, since the moisture in this air has to come out of the house and a heat pump moves less heat than resistance heat does to do it. The ductwork decides more than the equipment does. A 1940s or 50s house with a single central return serving the whole floor was never sized for the load, and a house opened up for a den in the 1980s has rooms the original runs never served, so the equipment carries more than it was meant to and the new rooms stay warm. Changing the thermostat does nothing about that."
+        },
+        {
+          "q": "What moves the price of a heat pump repair?",
+          "a": "It comes down to which part gave out, since a reversing valve and a compressor are very different pieces of work. Also whether the refrigerant has to be recovered, what it is, whether a control board is involved, and how far the technician has to walk to reach the outdoor unit on a lot the size of the ones here. A system on the older refrigerant carries an extra step on every visit."
+        }
+      ],
+      "_faqsNote": "6 FAQs. Three reference local conditions: salt and particulate on the outdoor coil, the mild winter that should leave the backup strips idle, and the older housing with a single central return. The rest cover ice in warm months, the mode fault and what moves the price."
     }
   }
 }

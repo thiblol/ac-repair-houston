@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "Most cooling systems do not fail suddenly. They coast. The filter gets dirty, the coil packs with dust, the drain line slows down, the capacitor starts to swell, and one summer the compressor is working harder than it ever has to make up for all of it. Maintenance is the cheapest thing a homeowner can do with a cooling system, and the easiest one to postpone, because a unit that is still running feels like a unit that is fine.",
   "whatHappens": [
     "Changes the filter and checks that it is the right size",
@@ -10,27 +11,27 @@
   "howPriced": "A tune-up is priced as a visit plus whatever small parts the technician puts in, and the number is lower than most people expect. Access matters in the same way it does on a repair, since reaching the outdoor unit and the air handler takes time either way, and time of day decides the rate. The parts involved are usually filters, a capacitor, a contactor, or a drain flush. Where a maintenance visit really pays is in what it changes later: a system that has been looked after has a known condition, so when a part does fail you are choosing between a repair and a replacement with facts instead of guessing.",
   "faqs": [
     {
-      "q": "how much does an ac maintenance visit cost",
+      "q": "How much does an AC maintenance visit cost",
       "a": "It is one of the cheapest calls on a cooling system, because it is a visit plus the small parts it needs, with no major component being replaced. The rate still depends on how hard the equipment is to reach and on when you book it. Over a few seasons, routine service is a fraction of what one emergency repair costs."
     },
     {
-      "q": "how often should I get my ac serviced",
+      "q": "How often should I get my AC serviced",
       "a": "Once a year for most systems, before the cooling season starts, and twice a year if the unit runs hard through long stretches or is older. Filter changes are on a much shorter cycle than that, usually monthly, and that one is the homeowner's own job and makes the biggest difference of anything in this list."
     },
     {
-      "q": "what does an ac tune up actually include",
+      "q": "What does an AC tune up actually include",
       "a": "A filter change, a cleaning of both coils, a drain line flush, a check of the electrical components for wear, and a reading of the running current compared against what the unit is rated to draw. That last step is the one that catches a problem early, because current climbs well before a part visibly fails. Good companies also leave you a written record of the readings so the next visit has something to compare against."
     },
     {
-      "q": "is maintenance worth it if my ac is still running fine",
+      "q": "Is maintenance worth it if my AC is still running fine",
       "a": "That is exactly when it is worth it, because a running system is hiding the small problems rather than proving there are none. A dirty coil, a slow drain and a filter past its life all show up as a system that works a little harder for the same result, and you feel that in the bill before you feel it in the house. Maintenance is cheapest when the equipment still works and you still have choices."
     },
     {
-      "q": "can I do the maintenance myself",
+      "q": "Can I do the maintenance myself",
       "a": "Parts of it, yes. Changing the filter, clearing debris off the outdoor coil with a soft brush, and keeping the unit clear of shrubs and fencing are all reasonable homeowner tasks. Anything involving refrigerant, electrical components, or pulling a panel off the unit is not, and the coil cleaning is worth doing gently since high pressure bends the fins and makes the coil worse."
     },
     {
-      "q": "why does my ac use more electricity after a year or two",
+      "q": "Why does my AC use more electricity after a year or two",
       "a": "Usually because something is fouled up and the system is working harder for less output. A blocked filter or a caked condenser coil means the compressor runs longer to move the same heat, and longer run time means more power. Restoring airflow and clean surfaces often brings the running current back down toward the rating printed on the nameplate."
     }
   ],

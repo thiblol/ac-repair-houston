@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "The blower motor is what moves the air. It sits in the air handler and pushes the cold or hot air through the ducts, and without it the rest of the system can be working perfectly and the house still gets nothing. A failed motor usually takes the capacitor and the relay with it, so replacing the motor on its own often leaves the system still dead a month later.",
   "whatHappens": [
     "Listens to the motor and the wheel for grinding, rasping or squealing",
@@ -10,27 +11,27 @@
   "howPriced": "The motor and its capacitor are parts, and the labor is where access to the unit matters most. An air handler in an attic or a tight closet costs more in time than one in a utility space. The variables are the time of day, the access, the parts, and whether the job is a motor swap or a motor plus the capacitor, relay and a control board that all went out together.",
   "faqs": [
     {
-      "q": "how much does it cost to replace a blower motor",
+      "q": "How much does it cost to replace a blower motor",
       "a": "It depends on the motor itself, the access to the air handler, and whether other parts go in with it. A motor plus capacitor is a smaller job than a motor plus capacitor plus relay and control board. Ask for the total with all the parts that are actually needed rather than the motor alone."
     },
     {
-      "q": "my AC runs but no air is coming out of the vents",
+      "q": "My AC runs but no air is coming out of the vents",
       "a": "The system may be running perfectly and the air just is not moving. A dead blower motor is the most common reason. A burned out motor also takes the capacitor with it, so the two are replaced together, and a seized wheel from a dirty filter or a lack of lubricant can drag the motor down."
     },
     {
-      "q": "what does a grinding noise from the air handler mean",
+      "q": "What does a grinding noise from the air handler mean",
       "a": "It means the motor bearings or the blower wheel are worn. It starts as a squeak and gets louder until the wheel hits the housing, which will burn out the motor. Turning the system off at the thermostat and leaving it off until someone looks at it protects the motor and the rest of the system."
     },
     {
-      "q": "why does my blower only run on high speed",
+      "q": "Why does my blower only run on high speed",
       "a": "Older motors have multiple speed taps and a relay or a resistor controls which ones engage. When the relay fails, only the high speed comes on. A newer variable speed motor that stutters or stalls is a different problem, usually the control board or the motor itself."
     },
     {
-      "q": "can a bad capacitor kill the blower motor",
+      "q": "Can a bad capacitor kill the blower motor",
       "a": "Yes, and it is one of the most common sequences in this part of the system. A capacitor that has gone bad can make the motor hum and stall, and it keeps pulling the motor until the windings burn. That is why the capacitor gets replaced at the same time as the motor."
     },
     {
-      "q": "is it safe to run the fan if the blower motor is making noise",
+      "q": "Is it safe to run the fan if the blower motor is making noise",
       "a": "A brief test is usually fine, but do not leave it running. A rasping or grinding sound means metal is touching metal and the motor is working against itself. Run it for a minute to see how it behaves, then switch it off at the thermostat and get it looked at."
     }
   ],

@@ -1,4 +1,5 @@
 {
+  "lastmod": "2026-11-07",
   "intro": "A system reaches the end of its life gradually and then all at once. The condenser on the side of the house is twenty years old, the refrigerant it runs on is no longer being produced, the same compressor has now failed twice, and the parts for it cost more than the parts for something new. At that point a repair buys time rather than a fix, and the honest comparison is between putting money into the old equipment and starting over. Replacing a cooling system is when the old one is no longer worth the money it takes to keep it going.",
   "whatHappens": [
     "Reads the refrigerant type and the age off the nameplate",
@@ -10,27 +11,27 @@
   "howPriced": "Replacement pricing is equipment plus labor, and two things swing it hard: whether the air handler, coil and ductwork can be reused, and what refrigerant the new system uses. Access still counts, because removing an old unit and setting a new one takes room and reach that a leak repair does not. Time of day matters less than the other variables for a planned swap, since the job is scheduled rather than rushed. Parts matter most here in the form of matched components, because a condenser paired with a mismatched coil or handler will not perform, whatever the invoice says.",
   "faqs": [
     {
-      "q": "how much does it cost to replace an ac unit",
+      "q": "How much does it cost to replace an AC unit",
       "a": "Equipment and labor are the bulk of it, and the range is wide because it depends on what gets reused. If the existing ductwork and air handler can stay, the job is smaller than if they cannot. The refrigerant type matters too, because some systems need lines and equipment matched to it, and that changes the parts list before anyone opens the old unit."
     },
     {
-      "q": "how do I know if its time to replace my ac instead of repairing it",
+      "q": "How do I know if its time to replace my AC instead of repairing it",
       "a": "Look at the pattern rather than the last bill. A system that has needed the same repair twice, or one whose refrigerant type is no longer produced and whose parts get hard to find, is telling you it is close to done. Add the age of the outdoor unit and the cost of the repair versus the cost of new equipment, and the comparison usually makes itself."
     },
     {
-      "q": "what refrigerant do new ac units use",
+      "q": "What refrigerant do new AC units use",
       "a": "New residential systems use R-410A, which replaced the older R-22 that most existing equipment still runs on. The change came with a phaseout of R-22, and it matters for your budget because R-22 is priced differently and is harder to find for the old systems that still need it. It also means a new condenser cannot simply be dropped into an old R-22 system."
     },
     {
-      "q": "can I replace just the outdoor unit and keep the rest",
+      "q": "Can I replace just the outdoor unit and keep the rest",
       "a": "Sometimes it is physically possible and often it is not a good idea. The outdoor unit has to match the indoor coil, and the refrigerant and the refrigerant lines have to match too, so a mismatched pair will not run correctly. When the outdoor unit is old and the indoor coil and handler are the same age, replacing the whole system usually ends up being the cheaper and better answer."
     },
     {
-      "q": "is a newer ac unit going to use less electricity",
+      "q": "Is a newer AC unit going to use less electricity",
       "a": "A more efficient unit will, and how much depends on the old one and on how much the house uses. The savings come from the equipment running less for the same cooling, which is where the efficiency rating on the label actually matters. The payback is slower than most people expect, so the efficiency gain is one factor among several rather than the deciding one."
     },
     {
-      "q": "how long does an ac replacement take",
+      "q": "How long does an AC replacement take",
       "a": "A like-for-like swap on existing ductwork is usually done in a day. It stretches longer if the air handler or ductwork is being replaced at the same time, if the line set has to be rerun, or if the electrical service needs an upgrade for the new equipment. The company doing the work will know which of those applies once they have seen what is there."
     }
   ],

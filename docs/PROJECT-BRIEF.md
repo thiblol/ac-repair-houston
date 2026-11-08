@@ -12,13 +12,12 @@
 
 ## Services and coverage
 
-Twenty-one AC services, one of which is the pillar service. The pillar service
+Twenty AC services, one of which is the pillar service. The pillar service
 is `ac-repair`. Every other service hangs off it as a child:
 
 **Urgent tier**
 
 - Emergency AC Repair
-- Same Day AC Repair
 - AC Not Cooling
 
 **Core tier**
@@ -44,9 +43,10 @@ is `ac-repair`. Every other service hangs off it as a child:
 
 **Area coverage**
 
-Houston is the pillar area and carries all twenty-one services. Within it, sixteen
+Houston is the pillar area and carries all twenty services. Within it, sixteen
 Houston neighborhoods each get a page. Around it, twenty-four Greater Houston
-municipalities each get a page and six services:
+municipalities each get a page and the fourteen services that a live search
+shows have dedicated pages of their own:
 
 Katy, Sugar Land, Pearland, The Woodlands, Spring, Humble, Cypress, League City,
 Pasadena, Missouri City, Friendswood, Alvin, Manvel, Richmond, Cinco Ranch,
