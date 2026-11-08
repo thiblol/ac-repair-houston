@@ -210,6 +210,13 @@ code{font-family:var(--mono);font-size:.86em;background:var(--paper-2);padding:.
   border-bottom:1px solid var(--rule);box-shadow:0 22px 44px -28px rgba(20,18,16,.4);
   opacity:0;visibility:hidden;transform:translateY(-6px);
   transition:opacity .13s ease,transform .13s ease,visibility .13s;z-index:210}
+/* The panel hangs from the header, which leaves a strip of the header between
+   the nav link and the top of the panel. The pointer crosses that strip on the
+   way down, the link loses :hover, and the panel closes before you reach
+   anything. The bridge is a transparent filler over the strip, so the hover
+   survives the crossing. It rides with the panel, so it is inert when closed. */
+.sub::before{content:"";position:absolute;left:0;right:0;bottom:100%;height:1.5rem}
+.hdr__cta,.hdr__call{position:relative;z-index:220}
 .has-sub:hover > .sub,.has-sub:focus-within > .sub{opacity:1;visibility:visible;transform:none}
 .sub__in{max-width:var(--wrap);margin:0 auto;padding:1.5rem var(--pad) 1.75rem;
   display:grid;gap:1.5rem;grid-template-columns:repeat(4,minmax(0,1fr))}
