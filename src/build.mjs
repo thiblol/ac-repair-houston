@@ -168,7 +168,7 @@ const CRUMB_HOME = { name: 'Home', href: '/' };
   ${img('hero-condenser', 'A residential air conditioning condenser unit beside a house, with warm air drawn in through the coil and cool air leaving the vents.', { sizes: '100vw', eager: true, cls: 'herofig__img' })}
   <div class="wrap herofig__in">
     <span class="kicker">Houston AC repair and installation</span>
-    <h1>AC repair in Houston, from technicians who work your street</h1>
+    <h1>AC repair near you, from technicians who work your street</h1>
     <p class="herofig__sub">Free to request. Same-day and emergency requests welcome.</p>
     <p class="herofig__intro">${esc(c.heroIntro || '')}</p>
   </div>
@@ -262,11 +262,11 @@ ${requestForm(cfg)}
   add('/', layout({
     og: 'hero-condenser',
     cfg, path: '/', crumbs,
-    title: 'AC Repair Houston | Same-Day AC Repair and Installation',
+    title: 'AC Repair Near Me | Same-Day AC Service | AC Repair Houston',
     description: fitDescription(
-      'Request AC repair in Houston and the surrounding area. Same-day and emergency requests welcome, plus new installations and replacements. Free to request.',
-      'Request AC repair in Houston and Greater Houston. Same-day and emergency requests welcome, installations and replacements. Free to request.',
-      'AC repair in Houston and Greater Houston. Same-day and emergency requests welcome, installations and replacements. Free to request.',
+      'AC repair near you across Houston and Greater Houston. Same-day and emergency requests welcome, plus installations and replacements. Free to request.',
+      'AC repair near you across Houston and Greater Houston. Same-day and emergency requests welcome, installations and replacements. Free to request.',
+      'AC repair near you in Houston and Greater Houston. Same-day and emergency requests welcome, installations and replacements. Free to request.',
     ),
     navCurrent: '/',
     jsonld: [orgSchema(cfg), {
@@ -312,14 +312,14 @@ for (const s of services) {
 
 ${parent || children.length ? `<section class="sec sec--paper"><div class="wrap">
   <span class="kicker">${parent ? 'Part of' : 'AC repair covers'}</span>
-  <h2>${parent ? `${esc(parent.name)} services in Houston` : `All AC repair services in Houston`}</h2>
+  <h2>${parent ? `${esc(parent.name)} services` : `All AC repair services`}</h2>
   <p class="lede">${parent ? `This is one specific part of ${esc(parent.name)}. The other work in that category is listed alongside it.` : `Each of these is a separate job with its own page, because the diagnosis and the fix are genuinely different.`}</p>
   ${cloud([...(parent ? [{ href: url.service(parent), label: parent.name }] : []),
     ...children.map((x) => ({ href: url.service(x), label: x.name }))])}
 </div></section>` : ''}
 
 <section class="sec"><div class="wrap">
-  <h2>Signs you need ${esc(s.name)} in Houston</h2>
+  <h2>Signs you need ${esc(s.name)}</h2>
   <ul class="symptoms">${s.symptoms.map((x) => `<li>${esc(x)}</li>`).join('')}</ul>
   <div class="note${s.safetyFirst ? ' note--safety' : ''}">
     <h3>What to check before you call a technician</h3>
@@ -344,7 +344,7 @@ ${parent || children.length ? `<section class="sec sec--paper"><div class="wrap"
 
 ${offeredAreas.length ? `<section class="sec"><div class="wrap">
   <span class="kicker">By area</span>
-  <h2>Where to get ${esc(s.name)} in Houston</h2>
+  <h2>Where to get ${esc(s.name)} in your area</h2>
   ${cloud(offeredAreas.map((a) => ({
     href: areaSvcs.get(a.slug).some((x) => x.slug === s.slug) ? url.areaService(a, s) : url.area(a),
     label: `${s.name} in ${a.name}`,
@@ -362,20 +362,20 @@ ${offeredAreas.length ? `<section class="sec"><div class="wrap">
   ${cloud(sibs.map((x) => ({ href: url.service(x), label: x.name })))}
 </div></section>
 
-${requestForm(cfg, { heading: `Request ${s.name} in Houston`, service: s.name })}
+${requestForm(cfg, { heading: `Request ${s.name}`, service: s.name })}
 `;
   add(url.service(s), layout({
     og: 'unit-anatomy',
     cfg, path: url.service(s), crumbs,
     title: fitTitle(
-      s.title || `${s.name} Houston | AC Repair Houston`,
-      `${s.name} in Houston | AC Repair Houston`,
-      `${s.name} Houston`,
+      s.title || `${s.name} Near You | AC Repair Houston`,
+      `${s.name} Near You | AC Repair`,
+      `${s.name} Near You`,
     ),
     description: fitDescription(
-      `${s.h1}. Request ${s.name.toLowerCase()} in Houston. Free to request, matched to an HVAC company that covers your area.`,
-      `Request ${s.name.toLowerCase()} in Houston. Free to request, matched to an HVAC company that covers your area.`,
-      `${s.name} in Houston. Free to request, matched to a local HVAC company.`,
+      `${s.h1}. Free to request, we send it to an HVAC company that covers your area.`,
+      `Request ${s.name}. Free to request, we send it to an HVAC company that covers your area.`,
+      `${s.name}. Free to request, we send it to a local HVAC company.`,
     ),
     jsonld: [
       orgSchema(cfg),

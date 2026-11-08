@@ -54,6 +54,42 @@ Pasadena, Missouri City, Friendswood, Alvin, Manvel, Richmond, Cinco Ranch,
 Clear Lake City, Bellaire, West University Place, Santa Fe, Jersey Village,
 La Porte, Dickinson, Baytown, Tomball.
 
+## Keyword architecture
+
+Every page on this site targets one query, and no two pages target the same one.
+The tiers are:
+
+| Tier | Pages | Targets | Example |
+|---|---|---|---|
+| Head | `/` | the service plus "near me" | `AC Repair Near Me \| Same-Day AC Service \| AC Repair Houston` |
+| Service | `/services/{slug}/` | the service, location neutral | `Condenser Repair Near You \| AC Repair Houston` |
+| City | `/service-areas/{city}/` | service plus city | `AC Repair Services in League City, TX \| AC Repair Houston` |
+| City x service | `/service-areas/{city}/{slug}/` | service plus city | `Condenser Repair in League City, TX \| AC Repair Houston` |
+| Neighbourhood | `/service-areas/houston-tx/neighborhoods/{name}/` | service plus neighbourhood | `AC Repair in The Heights \| AC Repair Houston` |
+
+**The rule: never name a city on a service page.** The city pages own "service
+plus city", and the service pages own the service on its own. This is the
+architecture the working rank-and-rent reference site uses, and it is the
+reason its homepage H1 is a "near you" promise with no city in it.
+
+The reason is that the "near me" search is served by the closest relevant local
+page, so the city layer is what catches a localised "near me" search, and the
+homepage is what holds the head term. Before this was fixed, four pages on this
+site competed for "AC repair Houston": the homepage, the Houston city page, the
+Houston x AC repair page and the AC repair service page. The homepage was the
+weakest of the four, so it was pointing its title and H1 at a term it should
+lose.
+
+**Consequence:** the service pages do not say "in Houston" anywhere in their
+H1, title, headings or meta description. Houston reaches them through the
+brand suffix, the body copy, the schema and the links to the city layer. Do not
+put a city back into a service page title without checking what it collides
+with.
+
+The `local-keyword-cannibalization-finder` skill in the key-files library is
+the tool for this class of problem. Its fix is to re-target the H1 and title of
+the weaker page to a complementary query, which is what happened here.
+
 ## Lead routing
 
 - Phone status: one call tracking line, configured under `phone` in

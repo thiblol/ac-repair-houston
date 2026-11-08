@@ -78,6 +78,12 @@ Never write a title in lower case to force it into a sentence, and never use
 "our" in a title. If a service name is an acronym, leave it alone: "AC Repair",
 not "ac repair".
 
+**Never name a city on a service page.** The city pages own "service plus
+city", and the service pages own the service on its own. If you are writing
+for `data/copy/service-{slug}.json`, "in Houston" does not belong in the copy
+that states the service. See the keyword architecture table in
+`docs/PROJECT-BRIEF.md`.
+
 ## Hard rules the build enforces
 
 Every one of these fails the build. Check each one before you finish.

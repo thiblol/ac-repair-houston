@@ -6,7 +6,7 @@
   "cityCoverage": true,
   "tier": "urgency",
   "parent": "ac-repair",
-  "h1": "Emergency AC Repair, Answered Day and Night",
+  "h1": "Emergency AC Repair Near You, Day and Night",
   "kw": { "head": "emergency ac repair" },
   "alsoTargets": [
    { "k": "emergency ac repair near me" },
@@ -58,8 +58,8 @@
   "tier": "core",
   "parent": null,
   "isPillar": true,
-  "h1": "Same-Day AC Repair in Houston, Diagnosed Before It Is Repaired",
-  "title": "Same-Day AC Repair Houston | AC Repair Houston",
+  "h1": "Same-Day AC Repair Near You, Diagnosed Before It Is Repaired",
+  "title": "Same-Day AC Repair Near You | AC Repair Houston",
   "kw": { "head": "ac repair" },
   "alsoTargets": [
    { "k": "ac repair near me" },
@@ -86,7 +86,7 @@
   "cityCoverage": true,
   "tier": "core",
   "parent": "ac-repair",
-  "h1": "AC Installation, Sized for a Houston Home",
+  "h1": "AC Installation, Sized for the House You Own",
   "kw": { "head": "ac installation" },
   "alsoTargets": [
    { "k": "new ac installation" },
@@ -458,8 +458,8 @@
   "nav": "Cleaning",
   "tier": "core",
   "parent": "ac-repair",
-  "h1": "AC Coil Cleaning and Condenser Service in Houston",
-  "title": "AC Coil Cleaning Houston | AC Repair Houston",
+  "h1": "AC Coil Cleaning and Condenser Service",
+  "title": "AC Coil Cleaning Near You | AC Repair Houston",
   "kw": { "head": "ac coil cleaning" },
   "alsoTargets": [
    { "k": "ac coil cleaning houston" },
